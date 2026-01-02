@@ -1,0 +1,108 @@
+{
+  "id": "venue-009",
+  "name": "Suryagarh Jaisalmer",
+  "slug": "suryagarh-jaisalmer",
+  "city": "Jaisalmer",
+  "state": "Rajasthan",
+  "region": "North",
+  "coordinates": {"lat": 26.8882, "lng": 70.8755},
+  "category": "Heritage",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 500},
+  "priceRange": {"min": 50, "max": 250},
+  "startingPrice": "₹50 Lakhs onwards",
+  "shortDescription": "Experience the magic of desert weddings at Suryagarh Jaisalmer, a magnificent fort-palace rising from the golden Thar Desert, offering unparalleled Rajasthani hospitality and celestial starlit celebrations.",
+  "longDescription": "Suryagarh Jaisalmer stands as a testament to Rajasthan's architectural grandeur, a spectacular sandstone fortress that emerges majestically from the golden dunes of the Thar Desert. This award-winning luxury resort redefines destination weddings in India, offering couples the rare opportunity to celebrate their union beneath a canopy of a million stars, surrounded by the mystical beauty of the world's most romantic desert landscape. For those seeking a wedding venue that transcends the ordinary, Suryagarh delivers an experience that feels lifted from the pages of Arabian Nights.\n\nThe property's architecture pays homage to centuries of Rajasthani craftsmanship, with intricately carved jharokhas (traditional balconies), ornate jaali work, and soaring turrets that catch the golden light of the desert sun. Every corridor reveals new artistic treasures, from hand-painted frescos depicting royal hunting scenes to antique furniture collected from the noble houses of Rajasthan. The attention to detail extends throughout the 83 luxuriously appointed suites and rooms, each offering a unique blend of heritage aesthetics and contemporary comforts.\n\nWedding celebrations at Suryagarh unfold across multiple breathtaking venues, each more spectacular than the last. The Dunes, a 45,000 square foot expanse of manicured lawns set against the backdrop of the Thar Desert, can accommodate grand celebrations for up to 500 guests. The Nosh restaurant terrace offers intimate dining under the stars, while the Akhara courtyard provides a traditional setting for pheras and religious ceremonies. For truly extraordinary experiences, Suryagarh arranges exclusive celebrations in the desert itself, with elaborate tent setups, camel processions, and folk performances that bring the romance of the silk road to life.\n\nThe culinary team at Suryagarh has mastered the art of desert gastronomy, presenting authentic Marwari cuisine alongside contemporary Indian and international dishes. Their signature experiences include dune-top dinners where guests feast on traditional laal maas and ker sangri while watching the sun set over the endless golden sands. The resort's extensive wine cellar and craft cocktail program ensure celebrations sparkle long into the star-filled desert nights.\n\nWhat truly distinguishes Suryagarh is the desert itself. Wedding guests can explore the Thar on camelback, witness spectacular sunsets from private dune points, enjoy folk music performances by local Manganiyar musicians, and experience the profound silence of desert nights punctuated only by crackling bonfires and the distant calls of desert creatures. For couples seeking a wedding that offers adventure alongside elegance, Suryagarh creates memories that last lifetimes.\n\nThe wedding planning team at Suryagarh specializes in crafting bespoke celebrations that honor both tradition and personal style. From elaborate henna ceremonies in lantern-lit courtyards to sangeet nights featuring Rajasthani folk dancers and contemporary DJs, every event is choreographed with precision and passion. The property's remote location ensures complete privacy, while its world-class infrastructure guarantees that every luxury is available even in this magical desert setting.",
+  "weddingSpaces": [
+    {"name": "The Dunes Lawn", "capacity": 500, "type": "Outdoor", "sqft": 45000},
+    {"name": "The Akhara Courtyard", "capacity": 200, "type": "Outdoor", "sqft": 15000},
+    {"name": "Nosh Terrace", "capacity": 150, "type": "Rooftop", "sqft": 8000},
+    {"name": "Desert Camp Setup", "capacity": 300, "type": "Outdoor", "sqft": 50000},
+    {"name": "The Ballroom", "capacity": 250, "type": "Indoor", "sqft": 12000}
+  ],
+  "features": ["Exclusive desert location in Thar", "83 luxury suites and rooms", "45,000 sq ft manicured lawns", "Private desert camp arrangements", "Camel and horse processions", "Traditional Manganiyar musicians", "Award-winning Marwari cuisine", "Rooftop dining under stars", "Temperature-controlled indoor venues", "Vintage car collection for baraat", "In-house decoration team", "Spa and wellness center", "Desert safari experiences", "Helicopter arrival facility"],
+  "cuisineTypes": ["Traditional Marwari", "Rajasthani Royal", "North Indian", "Continental", "Mediterranean", "Mughlai", "Pan-Asian", "BBQ & Grills"],
+  "accommodationRooms": 83,
+  "googleRating": 4.8,
+  "tripAdvisorRating": 5.0,
+  "weddingWireRating": 4.9,
+  "heroImage": "/images/venues/suryagarh-jaisalmer/hero.jpg",
+  "galleryImages": ["/images/venues/suryagarh-jaisalmer/gallery-1.jpg", "/images/venues/suryagarh-jaisalmer/gallery-2.jpg", "/images/venues/suryagarh-jaisalmer/gallery-3.jpg", "/images/venues/suryagarh-jaisalmer/gallery-4.jpg", "/images/venues/suryagarh-jaisalmer/gallery-5.jpg", "/images/venues/suryagarh-jaisalmer/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.suryagarh.com/virtual-tour/",
+  "nearestAirport": "Jaisalmer Airport",
+  "distanceFromAirport": "15 km (25 minutes)",
+  "bestSeasons": ["October to March", "Winter weddings (November-February)", "Desert festival season (January-February)"],
+  "weatherNote": "Jaisalmer enjoys excellent weather from October to March with temperatures ranging from 8°C to 25°C, perfect for outdoor desert celebrations. Summer months (April-June) experience extreme heat exceeding 45°C and should be avoided.",
+  "metaTitle": "Suryagarh Jaisalmer Wedding | Luxury Desert Palace Wedding Venue Rajasthan",
+  "metaDescription": "Plan your dream desert wedding at Suryagarh Jaisalmer. Experience royal Rajasthani celebrations under the stars in the Thar Desert with capacity for up to 500 guests.",
+  "keywords": ["Suryagarh wedding", "Jaisalmer wedding venue", "desert wedding India", "Thar Desert wedding", "luxury wedding Rajasthan", "destination wedding Jaisalmer", "fort wedding venue", "heritage wedding Rajasthan", "royal wedding venue India", "outdoor wedding Jaisalmer"],
+  "phone": "+91-2992-269-269",
+  "email": "reservations@suryagarh.com",
+  "website": "https://www.suryagarh.com/",
+  "awards": ["Condé Nast Traveller Hot List", "TripAdvisor Travellers' Choice 2024", "World Luxury Hotel Award", "Best Heritage Hotel - Travel + Leisure India", "Best Wedding Destination - WeddingSutra"],
+  "whyChoose": ["Unique desert location offering once-in-a-lifetime wedding experience", "Stunning sandstone architecture blending heritage with luxury", "Multiple venue options from intimate courtyards to grand desert camps", "Award-winning hospitality recognized by Condé Nast and Travel + Leisure", "Authentic Rajasthani cultural experiences including folk music and dance", "83 luxurious rooms ensuring comfortable stays for all wedding guests", "Experienced wedding planning team specializing in destination celebrations", "Perfect dark skies for magical starlit receptions and ceremonies"],
+  "idealFor": ["Couples seeking unique desert wedding experiences", "Adventure-loving couples wanting cultural immersion", "Destination weddings with 50-500 guests", "Photography enthusiasts drawn to golden desert landscapes", "Families wanting authentic Rajasthani hospitality and cuisine"],
+  "address": "Kahala Phata, Sam Road, Jaisalmer, Rajasthan 345001, India",
+  "nearestRailway": "Jaisalmer Railway Station",
+  "distanceFromRailway": "14 km (20 minutes)",
+  "helipadAvailable": true,
+  "alcoholPolicy": "Full alcohol service permitted. The resort has an extensive wine cellar and can arrange premium bar setups for wedding celebrations. Local liquor permits arranged by the property.",
+  "decorPolicy": "In-house decoration team available with expertise in traditional Rajasthani and contemporary themes. External decorators welcome with prior coordination. Desert tent setups require specialized arrangements through the resort.",
+  "musicPolicy": "No restrictions on music timing due to remote desert location. DJ and live performances permitted throughout the night. Traditional Manganiyar folk musicians can be arranged for authentic entertainment.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": true,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 20% forfeited. 60-89 days: 40% forfeited. 30-59 days: 60% forfeited. Less than 30 days: 100% forfeited. Peak season bookings non-refundable within 60 days.",
+  "paymentTerms": "25% advance at booking. 35% due 60 days before event. Remaining 40% due 15 days before event. Desert camp setups require additional advance payment.",
+  "securityDeposit": "₹5,00,000 (Refundable within 15 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Jaisalmer Airport, exit and take the Sam Road heading west. Continue for approximately 12 km through the outskirts of Jaisalmer. Suryagarh will be visible on your left, marked by its distinctive sandstone towers rising from the desert. The entrance is through grand gates with the resort name clearly displayed. Total journey approximately 25 minutes.",
+    "fromRailway": "From Jaisalmer Railway Station, head west on Hanuman Chowk Road. At the circle, take Sam Road and continue for 14 km. The resort is located on the left side with clear signage. Total journey approximately 20-25 minutes.",
+    "fromCityCenter": "From Jaisalmer Fort, head west on Sam Road (also known as Desert Road). Continue past the city limits for approximately 12 km. Suryagarh's golden sandstone structure will be visible from the road. Journey time approximately 20 minutes.",
+    "landmarks": ["Sam Sand Dunes (15 km ahead)", "Jaisalmer Fort (12 km)", "Patwon Ki Haveli (13 km)", "Gadisar Lake (14 km)"],
+    "parkingInfo": "Complimentary valet parking for all guests. Large parking area available for wedding convoys and buses. Desert camp transfers arranged by resort vehicles."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book Suryagarh for a wedding?",
+      "answer": "We recommend booking 12-15 months in advance for peak season dates (November-February). The resort is particularly popular during the Jaisalmer Desert Festival period (January-February). Off-peak season weddings can be booked 6-9 months ahead."
+    },
+    {
+      "question": "Can we host events in the actual desert?",
+      "answer": "Yes! Suryagarh specializes in desert camp setups for weddings. Elaborate tent arrangements, traditional seating, lighting, and catering can all be arranged in the Thar Desert for truly magical celebrations. These setups can accommodate 100-300 guests comfortably."
+    },
+    {
+      "question": "What is the weather like for winter weddings?",
+      "answer": "Winter (November-February) is ideal with daytime temperatures of 20-25°C and nights around 8-12°C. The weather is perfect for outdoor ceremonies, though evening events may require heating arrangements. We recommend guests bring warm clothing for night events."
+    },
+    {
+      "question": "Are there activities for wedding guests?",
+      "answer": "Absolutely! Guests can enjoy camel safaris, dune bashing, sunset points, visits to Jaisalmer Fort, shopping in local markets, folk music performances, and stargazing experiences. The resort can organize full activity itineraries for wedding guests."
+    },
+    {
+      "question": "Is outside catering allowed?",
+      "answer": "The resort's culinary team handles all catering with expertise in Marwari, North Indian, and international cuisines. However, special family recipes or specific regional caterers can be accommodated with advance discussion and food safety compliance."
+    },
+    {
+      "question": "What transportation options are available for guests?",
+      "answer": "Suryagarh arranges airport and railway station transfers. For the baraat, vintage cars, decorated camels, horses, and even elephants can be arranged. Desert camp transfers are handled by resort vehicles suited for sand terrain."
+    },
+    {
+      "question": "Is there a backup plan for outdoor events in case of unexpected weather?",
+      "answer": "Yes, the indoor ballroom (capacity 250) and covered terrace areas provide excellent backup options. Desert weather is generally predictable in peak season, but the resort has comprehensive contingency plans including tent structures that can be erected quickly."
+    },
+    {
+      "question": "What makes Suryagarh unique for weddings?",
+      "answer": "The combination of luxury resort facilities with authentic desert experiences is unmatched. No other venue offers starlit ceremonies under unpolluted desert skies, traditional Manganiyar folk performances, and world-class hospitality in such a dramatic setting."
+    },
+    {
+      "question": "How many rooms are available for guest accommodation?",
+      "answer": "Suryagarh has 83 rooms and suites accommodating approximately 150-160 guests. For larger weddings, partner hotels in Jaisalmer can be arranged with shuttle services. The resort can also set up luxury desert camps for additional accommodation."
+    },
+    {
+      "question": "What are the decoration restrictions?",
+      "answer": "The resort's architecture is stunning and requires minimal decoration. External decorators are welcome but must coordinate with the in-house team. Fire safety protocols apply, and desert setups have specific guidelines for environmental protection."
+    }
+  ]
+}

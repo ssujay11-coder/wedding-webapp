@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Luxe Weddings | Journal</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#f0426e",
+                        "primary-dark": "#d6305a",
+                        "background-light": "#f8f6f6",
+                        "background-dark": "#221015",
+                        "surface-light": "#ffffff",
+                        "surface-dark": "#2d1b20",
+                        "text-main": "#181113",
+                        "text-muted": "#89616b",
+                    },
+                    fontFamily: {
+                        "display": ["Manrope", "sans-serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        /* Custom scrollbar for chips */
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-text-main antialiased overflow-x-hidden transition-colors duration-300">
+<!-- Top Navigation -->
+<nav class="sticky top-0 z-50 w-full bg-surface-light/90 dark:bg-surface-dark/90 backdrop-blur-md border-b border-[#f4f0f1] dark:border-gray-800">
+<div class="max-w-[1440px] mx-auto px-4 md:px-10 py-3">
+<div class="flex items-center justify-between gap-4">
+<!-- Logo Area -->
+<div class="flex items-center gap-8">
+<a class="flex items-center gap-3 text-text-main dark:text-white group" href="#">
+<div class="size-8 text-primary">
+<!-- Logo SVG kept as brand mark -->
+<svg class="w-full h-full transition-transform group-hover:scale-110" fill="none" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M39.475 21.6262C40.358 21.4363 40.6863 21.5589 40.7581 21.5934C40.7876 21.655 40.8547 21.857 40.8082 22.3336C40.7408 23.0255 40.4502 24.0046 39.8572 25.2301C38.6799 27.6631 36.5085 30.6631 33.5858 33.5858C30.6631 36.5085 27.6632 38.6799 25.2301 39.8572C24.0046 40.4502 23.0255 40.7407 22.3336 40.8082C21.8571 40.8547 21.6551 40.7875 21.5934 40.7581C21.5589 40.6863 21.4363 40.358 21.6262 39.475C21.8562 38.4054 22.4689 36.9657 23.5038 35.2817C24.7575 33.2417 26.5497 30.9744 28.7621 28.762C30.9744 26.5497 33.2417 24.7574 35.2817 23.5037C36.9657 22.4689 38.4054 21.8562 39.475 21.6262ZM4.41189 29.2403L18.7597 43.5881C19.8813 44.7097 21.4027 44.9179 22.7217 44.7893C24.0585 44.659 25.5148 44.1631 26.9723 43.4579C29.9052 42.0387 33.2618 39.5667 36.4142 36.4142C39.5667 33.2618 42.0387 29.9052 43.4579 26.9723C44.1631 25.5148 44.659 24.0585 44.7893 22.7217C44.9179 21.4027 44.7097 19.8813 43.5881 18.7597L29.2403 4.41187C27.8527 3.02428 25.8765 3.02573 24.2861 3.36776C22.6081 3.72863 20.7334 4.58419 18.8396 5.74801C16.4978 7.18716 13.9881 9.18353 11.5858 11.5858C9.18354 13.988 7.18717 16.4978 5.74802 18.8396C4.58421 20.7334 3.72865 22.6081 3.36778 24.2861C3.02574 25.8765 3.02429 27.8527 4.41189 29.2403Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg>
+</div>
+<h2 class="text-lg font-bold leading-tight tracking-tight">Luxe Weddings</h2>
+</a>
+<div class="hidden lg:flex items-center gap-9">
+<a class="text-sm font-medium hover:text-primary transition-colors dark:text-gray-300" href="#">Venues</a>
+<a class="text-sm font-medium hover:text-primary transition-colors dark:text-gray-300" href="#">Services</a>
+<a class="text-sm font-medium text-primary font-bold dark:text-primary" href="#">Journal</a>
+<a class="text-sm font-medium hover:text-primary transition-colors dark:text-gray-300" href="#">About</a>
+<a class="text-sm font-medium hover:text-primary transition-colors dark:text-gray-300" href="#">Contact</a>
+</div>
+</div>
+<!-- Actions -->
+<div class="flex items-center justify-end gap-4 lg:gap-8 flex-1">
+<label class="hidden md:flex flex-col min-w-40 h-10 max-w-64 relative group">
+<div class="flex w-full flex-1 items-stretch rounded-xl h-full bg-background-light dark:bg-background-dark border border-transparent focus-within:border-primary/50 transition-all">
+<div class="text-text-muted flex items-center justify-center pl-3">
+<span class="material-symbols-outlined text-[20px]">search</span>
+</div>
+<input class="flex w-full min-w-0 flex-1 resize-none overflow-hidden bg-transparent rounded-xl text-text-main dark:text-white focus:outline-0 focus:ring-0 border-none h-full placeholder:text-text-muted px-3 text-sm font-normal leading-normal" placeholder="Search inspiration..."/>
+</div>
+</label>
+<button class="hidden sm:flex min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-xl h-10 px-6 bg-primary hover:bg-primary-dark transition-colors text-white text-sm font-bold leading-normal tracking-wide shadow-lg shadow-primary/20">
+<span class="truncate">Plan Your Wedding</span>
+</button>
+<!-- Mobile Menu Icon -->
+<button class="lg:hidden text-text-main dark:text-white">
+<span class="material-symbols-outlined">menu</span>
+</button>
+</div>
+</div>
+</div>
+</nav>
+<main class="w-full flex flex-col items-center">
+<!-- Hero Section -->
+<section class="w-full max-w-[1440px] px-4 md:px-10 py-6 md:py-10">
+<div class="@container">
+<div class="flex flex-col gap-6 md:gap-10 @[864px]:flex-row items-center">
+<!-- Image -->
+<div class="w-full @[864px]:w-3/5 group cursor-pointer overflow-hidden rounded-2xl shadow-xl">
+<div class="w-full bg-center bg-no-repeat aspect-[16/9] bg-cover transform transition-transform duration-700 group-hover:scale-105" data-alt="Stunning aerial view of a luxury villa wedding venue on the shores of Lake Como, Italy" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBzwQcGSA8Y_MKR3DsG4dT7q2WwowKwIxdblonbB5D_rkTyJSd5JWlX3HAmMgMeh-4E_LmicZH910ltMicBQgi3KYlbjFTPUy-VqZQHv4D0VxoLUYZH9yQrR6xwxroF_AOFM2xEFPBmnnLNvcOEZiCtGqkVBn-NwBIi9FH1yu6H5CaAq4u6guM000UrvQlISmfBa1L0FT7jOKYZ7oO967m8_QOzOAHjt5m9f_jiUvE65dsJgvhLaV_-XD5dA95GlywNzpQmQqB2jLo");'>
+</div>
+</div>
+<!-- Content -->
+<div class="flex flex-col gap-4 md:gap-6 w-full @[864px]:w-2/5 justify-center">
+<div class="flex items-center gap-2">
+<span class="px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider">Featured Story</span>
+<span class="text-text-muted text-xs font-medium">Oct 24, 2024</span>
+</div>
+<div class="flex flex-col gap-3 text-left">
+<h1 class="text-text-main dark:text-white text-3xl md:text-4xl lg:text-5xl font-black leading-[1.1] tracking-tight">
+                                Top 10 Lake Como Villas for 2025
+                            </h1>
+<h2 class="text-text-main/80 dark:text-gray-300 text-base md:text-lg font-normal leading-relaxed line-clamp-3">
+                                Discover the most exclusive and breathtaking venues on the shores of Lake Como, curated specifically for the modern luxury bride seeking timeless elegance.
+                            </h2>
+</div>
+<div class="pt-2">
+<button class="flex items-center justify-center gap-2 overflow-hidden rounded-xl h-12 px-6 bg-primary hover:bg-primary-dark text-white text-base font-bold transition-all shadow-lg shadow-primary/25">
+<span class="truncate">Read Full Story</span>
+<span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Category Filters -->
+<section class="w-full max-w-[960px] px-4 md:px-10 py-4 sticky top-[65px] z-40 bg-background-light/95 dark:bg-background-dark/95 backdrop-blur-sm md:static md:bg-transparent">
+<div class="flex gap-3 overflow-x-auto no-scrollbar pb-2">
+<button class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-primary text-white pl-5 pr-5 shadow-md shadow-primary/20 transition-transform hover:scale-105">
+<p class="text-sm font-bold leading-normal">All</p>
+</button>
+<button class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-white dark:bg-surface-dark border border-gray-100 dark:border-gray-800 pl-5 pr-5 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+<p class="text-text-main dark:text-gray-200 text-sm font-medium leading-normal">Real Weddings</p>
+</button>
+<button class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-white dark:bg-surface-dark border border-gray-100 dark:border-gray-800 pl-5 pr-5 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+<p class="text-text-main dark:text-gray-200 text-sm font-medium leading-normal">Destination Guides</p>
+</button>
+<button class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-white dark:bg-surface-dark border border-gray-100 dark:border-gray-800 pl-5 pr-5 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+<p class="text-text-main dark:text-gray-200 text-sm font-medium leading-normal">Bridal Fashion</p>
+</button>
+<button class="flex h-10 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-white dark:bg-surface-dark border border-gray-100 dark:border-gray-800 pl-5 pr-5 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+<p class="text-text-main dark:text-gray-200 text-sm font-medium leading-normal">Planning Tips</p>
+</button>
+</div>
+</section>
+<!-- Article Grid -->
+<section class="w-full max-w-[1440px] px-4 md:px-10 py-6">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12">
+<!-- Card 1 -->
+<article class="flex flex-col gap-4 group cursor-pointer">
+<div class="w-full overflow-hidden rounded-2xl relative aspect-[4/5] shadow-sm">
+<div class="w-full h-full bg-center bg-no-repeat bg-cover transition-transform duration-500 group-hover:scale-105" data-alt="Bride carrying wedding dress in a garment bag through an airport terminal" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuA2WNHywWpH8W0wwRery71_DIPm4gUptjc0xoOv9ww49chBYOzcv0UUD0wVvKIxZNidch6J52flimZPSujxo7XbHosugA2dvmRce-iQYKSu29e3LkPzNQB2DqVd7242zTnYwTJnqos7xHsPPMkm2dbfIJSJ7gc28My15syESZq6ruw0ikOOo_1iqhMZHd9vphCnBjwAdnOAzs5Hygm4-dlMPZcsT8fL-fHYLIvkg6-bF6G0UOQdRL52Vnil4GYTy-g-9yShqEEocFY");'>
+</div>
+<div class="absolute top-4 left-4 bg-white/90 dark:bg-black/70 backdrop-blur-sm px-3 py-1 rounded-lg">
+<span class="text-xs font-bold uppercase tracking-wider text-text-main dark:text-white">Travel Tips</span>
+</div>
+</div>
+<div class="flex flex-col gap-2">
+<div class="flex items-center gap-2 text-text-muted text-sm">
+<span class="material-symbols-outlined text-[16px]">schedule</span>
+<span>5 min read</span>
+</div>
+<h3 class="text-text-main dark:text-white text-xl font-bold leading-tight group-hover:text-primary transition-colors">How to Transport Your Wedding Dress Overseas</h3>
+<p class="text-text-muted dark:text-gray-400 text-base font-normal leading-relaxed line-clamp-2">Learn the best practices for flying with your couture gown to ensure it arrives wrinkle-free.</p>
+</div>
+</article>
+<!-- Card 2 -->
+<article class="flex flex-col gap-4 group cursor-pointer">
+<div class="w-full overflow-hidden rounded-2xl relative aspect-[4/5] shadow-sm">
+<div class="w-full h-full bg-center bg-no-repeat bg-cover transition-transform duration-500 group-hover:scale-105" data-alt="Couple exchanging vows at sunset on a terrace in Santorini overlooking the caldera" data-location="Santorini, Greece" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAnj9brb4YUlXNvVZ30X-z9ugdbeAh5eZIlI-fo84AfQGkpbz7DpW5OvDfbRVYWanLboiIop9PQUl4Jrcn7Ky8rJ4Po6Ij4HOnDvCOTzLAEY8rT4gqhpD-3d2663ezUhIlUlpPBpitBBTVkNLXYjI4n6ckhzEJjs_CcwQdAcRgXvKi3kiCLekVAKGiPTkwaAfTMBOeHK17bdK92ObB95xpiHEJDc8QiNLkjAwhaOJOjE8g87-ju5joVYzk5XAp37EMCHh4i6MFMOu8");'>
+</div>
+<div class="absolute top-4 left-4 bg-white/90 dark:bg-black/70 backdrop-blur-sm px-3 py-1 rounded-lg">
+<span class="text-xs font-bold uppercase tracking-wider text-text-main dark:text-white">Real Weddings</span>
+</div>
+</div>
+<div class="flex flex-col gap-2">
+<div class="flex items-center gap-2 text-text-muted text-sm">
+<span class="material-symbols-outlined text-[16px]">schedule</span>
+<span>8 min read</span>
+</div>
+<h3 class="text-text-main dark:text-white text-xl font-bold leading-tight group-hover:text-primary transition-colors">Spotlight: A Sunset Ceremony in Santorini</h3>
+<p class="text-text-muted dark:text-gray-400 text-base font-normal leading-relaxed line-clamp-2">Experience the magic of Elena and Marco's intimate vows overlooking the caldera.</p>
+</div>
+</article>
+<!-- Card 3 -->
+<article class="flex flex-col gap-4 group cursor-pointer">
+<div class="w-full overflow-hidden rounded-2xl relative aspect-[4/5] shadow-sm">
+<div class="w-full h-full bg-center bg-no-repeat bg-cover transition-transform duration-500 group-hover:scale-105" data-alt="Elegant table setting with name cards and floral centerpieces" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCVGhYzkUR9vPVxeiT3PAhI1TW6cIS1tK34lYp6osJuiTHqJGEP4X9yKw1LGjhK63qmxr-6wxNGjp2dAV0vAkf6RuOAsa44y6immTDLGM9orti3dgLNgArwjXm7aibl3WQJBclzZ06fsWCEqzaw2fWUc2IpoCX_IRV3BE3ye8yGU5KqvrdjnMlJrDBfFbKx2fTCA5aLc1cjcmx1h4t9nie1rv1lND-qxipJEkxsig1bAV9WksYk8OvZHtfMhA1m0E2Jw2Em-dhJgBU");'>
+</div>
+<div class="absolute top-4 left-4 bg-white/90 dark:bg-black/70 backdrop-blur-sm px-3 py-1 rounded-lg">
+<span class="text-xs font-bold uppercase tracking-wider text-text-main dark:text-white">Planning</span>
+</div>
+</div>
+<div class="flex flex-col gap-2">
+<div class="flex items-center gap-2 text-text-muted text-sm">
+<span class="material-symbols-outlined text-[16px]">schedule</span>
+<span>10 min read</span>
+</div>
+<h3 class="text-text-main dark:text-white text-xl font-bold leading-tight group-hover:text-primary transition-colors">The Ultimate Guide to Guest Logistics</h3>
+<p class="text-text-muted dark:text-gray-400 text-base font-normal leading-relaxed line-clamp-2">Everything you need to know about arranging travel and accommodation for your VIP guests.</p>
+</div>
+</article>
+<!-- Card 4 -->
+<article class="flex flex-col gap-4 group cursor-pointer">
+<div class="w-full overflow-hidden rounded-2xl relative aspect-[4/5] shadow-sm">
+<div class="w-full h-full bg-center bg-no-repeat bg-cover transition-transform duration-500 group-hover:scale-105" data-alt="Close up of a unique bridal bouquet with orchids and sustainable flowers" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBsV0-9Q6h8yfuPNo6OI-mfWRHoiJqhRpFiWtJfBDhfVwiyKGCmmvxHKD7MEmjR0vsvVcAaWoY5FAKSvFdwM5J8frH_Nvq7DFcyqCxb02w_imLa1TpgnW6Cxd3sYnEXPlUwaahyI-utiQl8F8axm6vzCWhWeblR8m15IROWfKutCa3MaQGQLsKVM9KO-ABt80fImfPp42ooQnyicLbjPr7WqFzc7zCF9Fq7fDinQ2XZ01R4sPEOpkId73rUtEHflz8KNXfr_tHVBBM");'>
+</div>
+<div class="absolute top-4 left-4 bg-white/90 dark:bg-black/70 backdrop-blur-sm px-3 py-1 rounded-lg">
+<span class="text-xs font-bold uppercase tracking-wider text-text-main dark:text-white">Style</span>
+</div>
+</div>
+<div class="flex flex-col gap-2">
+<div class="flex items-center gap-2 text-text-muted text-sm">
+<span class="material-symbols-outlined text-[16px]">schedule</span>
+<span>4 min read</span>
+</div>
+<h3 class="text-text-main dark:text-white text-xl font-bold leading-tight group-hover:text-primary transition-colors">5 Floral Trends We Love This Season</h3>
+<p class="text-text-muted dark:text-gray-400 text-base font-normal leading-relaxed line-clamp-2">From cascading orchids to sustainable local blooms, see what's trending in floral design.</p>
+</div>
+</article>
+<!-- Card 5 -->
+<article class="flex flex-col gap-4 group cursor-pointer">
+<div class="w-full overflow-hidden rounded-2xl relative aspect-[4/5] shadow-sm">
+<div class="w-full h-full bg-center bg-no-repeat bg-cover transition-transform duration-500 group-hover:scale-105" data-alt="Elegant french chateau wedding venue exterior during golden hour" data-location="Provence, France" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDbu9PcURaFWo9mUAzUsdx1g0MN6uFIE1dZEFv8MNwL3_wvpBadRJS-yJQdT2IGGhLwi5Swj7LVuWVN941NhJEpV4AiJWYb8i2_zwaydkKBwF-ORHobGz8rz1fO0lcrlcg8lV8jmLXLCoaaRgqziol1wETjtB1UZ3opa0oBRkCP3zjlgmYOdyAV04bgjFY5gb1zQkBA_wvnnj-xlzc5bE930jpWMaIxVU68Qe94G7m22SUOZcD8Hpz1hqLfst3ScZftWKPhLF2OA2s");'>
+</div>
+<div class="absolute top-4 left-4 bg-white/90 dark:bg-black/70 backdrop-blur-sm px-3 py-1 rounded-lg">
+<span class="text-xs font-bold uppercase tracking-wider text-text-main dark:text-white">Venues</span>
+</div>
+</div>
+<div class="flex flex-col gap-2">
+<div class="flex items-center gap-2 text-text-muted text-sm">
+<span class="material-symbols-outlined text-[16px]">schedule</span>
+<span>7 min read</span>
+</div>
+<h3 class="text-text-main dark:text-white text-xl font-bold leading-tight group-hover:text-primary transition-colors">Hidden Gems in Provence</h3>
+<p class="text-text-muted dark:text-gray-400 text-base font-normal leading-relaxed line-clamp-2">Escape the crowds and discover these intimate chateaus perfect for a private celebration.</p>
+</div>
+</article>
+<!-- Card 6 -->
+<article class="flex flex-col gap-4 group cursor-pointer">
+<div class="w-full overflow-hidden rounded-2xl relative aspect-[4/5] shadow-sm">
+<div class="w-full h-full bg-center bg-no-repeat bg-cover transition-transform duration-500 group-hover:scale-105" data-alt="Close up detail of lace on a luxury wedding dress" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDRPSW8YBweLeai6o-Ai-Z8BLya8BEk4C-MlotTiasJ2894EZ3l5DHOi5zd0dIwQ_S-ryuQ2-RYrvz0oCIfzF9jJrx8iRZVozI0UcZzBwzBmidKGJwsQaqmQNvRenq34WpvRZn5kNMXfor_59Yzq1Yp4My0rjT_vdhLhzWxrHChOHGZDqa1gB63ABsjgt5AUHkflJ9E855I_OgLCWqnnRYrunz4bEnXAHgt2mIixxa9_FL3F-5BNLw7ARu4-DUJVyIaCZ6f9Kmbeh8");'>
+</div>
+<div class="absolute top-4 left-4 bg-white/90 dark:bg-black/70 backdrop-blur-sm px-3 py-1 rounded-lg">
+<span class="text-xs font-bold uppercase tracking-wider text-text-main dark:text-white">Bridal Fashion</span>
+</div>
+</div>
+<div class="flex flex-col gap-2">
+<div class="flex items-center gap-2 text-text-muted text-sm">
+<span class="material-symbols-outlined text-[16px]">schedule</span>
+<span>6 min read</span>
+</div>
+<h3 class="text-text-main dark:text-white text-xl font-bold leading-tight group-hover:text-primary transition-colors">Choosing the Right Fabric for Humidity</h3>
+<p class="text-text-muted dark:text-gray-400 text-base font-normal leading-relaxed line-clamp-2">Stay cool and chic. A fabric guide for tropical and summer destination weddings.</p>
+</div>
+</article>
+</div>
+<div class="w-full flex justify-center py-10">
+<button class="flex items-center justify-center gap-2 rounded-xl h-12 px-8 border border-gray-200 dark:border-gray-700 hover:bg-white dark:hover:bg-surface-dark transition-colors text-text-main dark:text-white text-sm font-bold">
+                    Load More Articles
+                </button>
+</div>
+</section>
+<!-- Newsletter CTA -->
+<section class="w-full bg-[#fcecf0] dark:bg-[#2d1b20] py-20 px-4 mt-10">
+<div class="max-w-[720px] mx-auto text-center flex flex-col items-center gap-8">
+<div class="flex flex-col gap-3">
+<h2 class="text-3xl md:text-4xl font-black text-text-main dark:text-white tracking-tight">Weekly Wedding Inspiration</h2>
+<p class="text-text-main/70 dark:text-gray-300 text-lg max-w-[500px] mx-auto">Join 50,000+ brides planning their dream destination weddings. Get expert tips delivered to your inbox.</p>
+</div>
+<div class="w-full max-w-[480px]">
+<form class="flex w-full items-stretch rounded-xl h-14 bg-white dark:bg-background-dark p-1 shadow-lg ring-1 ring-black/5 dark:ring-white/10">
+<input class="flex-1 bg-transparent border-none focus:ring-0 text-text-main dark:text-white px-4 placeholder:text-text-muted" placeholder="Enter your email address" type="email"/>
+<button class="bg-primary hover:bg-primary-dark text-white font-bold rounded-lg px-6 transition-colors">
+                            Subscribe
+                        </button>
+</form>
+<p class="text-xs text-text-muted mt-3">We respect your privacy. Unsubscribe at any time.</p>
+</div>
+</div>
+</section>
+<!-- Footer -->
+<footer class="w-full bg-white dark:bg-background-dark border-t border-[#f4f0f1] dark:border-gray-800 pt-16 pb-8">
+<div class="max-w-[1440px] mx-auto px-4 md:px-10">
+<div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
+<div class="col-span-1 md:col-span-1 flex flex-col gap-4">
+<div class="flex items-center gap-2 text-text-main dark:text-white">
+<div class="size-6 text-primary">
+<svg fill="none" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M39.475 21.6262C40.358 21.4363 40.6863 21.5589 40.7581 21.5934C40.7876 21.655 40.8547 21.857 40.8082 22.3336C40.7408 23.0255 40.4502 24.0046 39.8572 25.2301C38.6799 27.6631 36.5085 30.6631 33.5858 33.5858C30.6631 36.5085 27.6632 38.6799 25.2301 39.8572C24.0046 40.4502 23.0255 40.7407 22.3336 40.8082C21.8571 40.8547 21.6551 40.7875 21.5934 40.7581C21.5589 40.6863 21.4363 40.358 21.6262 39.475C21.8562 38.4054 22.4689 36.9657 23.5038 35.2817C24.7575 33.2417 26.5497 30.9744 28.7621 28.762C30.9744 26.5497 33.2417 24.7574 35.2817 23.5037C36.9657 22.4689 38.4054 21.8562 39.475 21.6262ZM4.41189 29.2403L18.7597 43.5881C19.8813 44.7097 21.4027 44.9179 22.7217 44.7893C24.0585 44.659 25.5148 44.1631 26.9723 43.4579C29.9052 42.0387 33.2618 39.5667 36.4142 36.4142C39.5667 33.2618 42.0387 29.9052 43.4579 26.9723C44.1631 25.5148 44.659 24.0585 44.7893 22.7217C44.9179 21.4027 44.7097 19.8813 43.5881 18.7597L29.2403 4.41187C27.8527 3.02428 25.8765 3.02573 24.2861 3.36776C22.6081 3.72863 20.7334 4.58419 18.8396 5.74801C16.4978 7.18716 13.9881 9.18353 11.5858 11.5858C9.18354 13.988 7.18717 16.4978 5.74802 18.8396C4.58421 20.7334 3.72865 22.6081 3.36778 24.2861C3.02574 25.8765 3.02429 27.8527 4.41189 29.2403Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg>
+</div>
+<span class="font-bold text-lg">Luxe Weddings</span>
+</div>
+<p class="text-text-muted text-sm leading-relaxed">
+                            Crafting unforgettable moments in the world's most breathtaking destinations. Your journey to forever starts here.
+                        </p>
+</div>
+<div>
+<h4 class="font-bold text-text-main dark:text-white mb-4">Explore</h4>
+<ul class="flex flex-col gap-2 text-sm text-text-muted">
+<li><a class="hover:text-primary transition-colors" href="#">Venues</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Services</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Journal</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Real Weddings</a></li>
+</ul>
+</div>
+<div>
+<h4 class="font-bold text-text-main dark:text-white mb-4">Company</h4>
+<ul class="flex flex-col gap-2 text-sm text-text-muted">
+<li><a class="hover:text-primary transition-colors" href="#">About Us</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Careers</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Contact</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Press</a></li>
+</ul>
+</div>
+<div>
+<h4 class="font-bold text-text-main dark:text-white mb-4">Connect</h4>
+<div class="flex gap-4">
+<a class="w-10 h-10 rounded-full bg-background-light dark:bg-surface-dark flex items-center justify-center text-text-main dark:text-white hover:bg-primary hover:text-white transition-colors" href="#">
+<span class="text-sm font-bold">IG</span>
+</a>
+<a class="w-10 h-10 rounded-full bg-background-light dark:bg-surface-dark flex items-center justify-center text-text-main dark:text-white hover:bg-primary hover:text-white transition-colors" href="#">
+<span class="text-sm font-bold">PI</span>
+</a>
+<a class="w-10 h-10 rounded-full bg-background-light dark:bg-surface-dark flex items-center justify-center text-text-main dark:text-white hover:bg-primary hover:text-white transition-colors" href="#">
+<span class="text-sm font-bold">TT</span>
+</a>
+</div>
+</div>
+</div>
+<div class="border-t border-gray-100 dark:border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
+<p class="text-sm text-text-muted">© 2024 Luxe Weddings. All rights reserved.</p>
+<div class="flex gap-6 text-sm text-text-muted">
+<a class="hover:text-text-main dark:hover:text-white" href="#">Privacy Policy</a>
+<a class="hover:text-text-main dark:hover:text-white" href="#">Terms of Service</a>
+</div>
+</div>
+</div>
+</footer>
+</main>
+</body></html>

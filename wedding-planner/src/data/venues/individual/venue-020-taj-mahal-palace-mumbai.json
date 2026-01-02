@@ -1,0 +1,108 @@
+{
+  "id": "venue-020",
+  "name": "The Taj Mahal Palace, Mumbai",
+  "slug": "taj-mahal-palace-mumbai",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "region": "West",
+  "coordinates": {"lat": 18.9217, "lng": 72.8332},
+  "category": "Heritage Palace Hotel",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 500},
+  "priceRange": {"min": 100, "max": 500},
+  "startingPrice": "₹100 Lakhs onwards",
+  "shortDescription": "Celebrate at India's most iconic hotel—The Taj Mahal Palace Mumbai. This legendary 1903 heritage landmark overlooking the Gateway of India offers unmatched prestige, history, and Taj hospitality for extraordinary weddings.",
+  "longDescription": "The Taj Mahal Palace is more than a hotel—it is an institution that has shaped India's hospitality industry for over 120 years. Rising majestically beside the Gateway of India on Mumbai's iconic waterfront, this legendary property represents the pinnacle of Indian hospitality, a place where generations of royalty, world leaders, celebrities, and prominent families have celebrated life's most significant moments. For couples seeking a wedding venue that carries the weight of history and the prestige of an unmatched legacy, The Taj Mahal Palace stands alone.\n\nThe hotel's architecture is immediately recognizable, a stunning fusion of Moorish, Oriental, and Florentine styles that has defined Mumbai's skyline since 1903. The original Palace Wing, with its soaring dome, ornate interiors, and hand-woven carpets, transports guests to an era of unbridled elegance. The Tower Wing adds contemporary luxury while maintaining the property's refined character. Throughout both wings, museum-quality antiques, crystal chandeliers, and original artwork create an atmosphere of living history.\n\nWith 285 rooms and suites across the Palace and Tower wings, The Taj Mahal Palace accommodates wedding parties in surroundings that befit the occasion's significance. The Palace Wing's heritage rooms feature antique furniture, high ceilings, and original architectural details. The Grande Presidential Suite, spanning 4,840 square feet with bay views, offers the ultimate bridal preparation space. Every room tells a story, carrying guests into the grand narrative of India's most celebrated hotel.\n\nWedding venues at The Taj Mahal Palace combine history with capability. The Crystal Room, with its original Belgian crystal chandeliers and ornate ceiling, hosts elegant receptions for up to 300 guests. The Ballroom accommodates larger celebrations while maintaining the property's sophisticated atmosphere. The Sea Lounge terrace offers intimate gatherings with Gateway views. For truly exceptional moments, the hotel can arrange exclusive use of spaces that have hosted coronations and state dinners.\n\nCulinary excellence at The Taj Mahal Palace encompasses legendary restaurants including Wasabi by Morimoto, Masala Kraft, and the historic Harbour Bar. The wedding culinary team draws from this extraordinary expertise, creating menus that honor the property's tradition of gastronomic excellence. From elaborate Indian wedding feasts to sophisticated continental dinners, every meal reflects the attention to detail that has defined Taj hospitality for over a century.\n\nService at The Taj Mahal Palace operates at a level that few properties worldwide can match. The wedding planning team, many of whom have spent entire careers at the property, bring institutional knowledge that anticipates needs before they arise. This is a hotel that has orchestrated celebrations for India's most prominent families—understanding of protocol, discretion, and excellence is embedded in the culture. For families seeking a wedding venue where every detail reflects enduring tradition and exceptional quality, The Taj Mahal Palace represents the ultimate choice.",
+  "weddingSpaces": [
+    {"name": "Crystal Room", "capacity": 300, "type": "Indoor", "sqft": 8000},
+    {"name": "Grand Ballroom", "capacity": 500, "type": "Indoor", "sqft": 12000},
+    {"name": "Renaissance Room", "capacity": 200, "type": "Indoor", "sqft": 5000},
+    {"name": "Sea Lounge Terrace", "capacity": 100, "type": "Outdoor", "sqft": 4000},
+    {"name": "Harbour Bar Private Area", "capacity": 60, "type": "Indoor", "sqft": 2000}
+  ],
+  "features": ["1903 heritage landmark property", "285 rooms in Palace and Tower wings", "Original Belgian crystal chandeliers", "Gateway of India views", "Museum-quality antiques throughout", "Legendary Wasabi and Masala Kraft restaurants", "Historic Harbour Bar", "Jiva Spa wellness center", "Over 120 years of hospitality heritage", "Florentine and Moorish architecture", "Celebrity and royal guest history", "World-renowned service standards", "Waterfront Mumbai location", "Unmatched prestige and tradition"],
+  "cuisineTypes": ["Japanese (Wasabi by Morimoto)", "Contemporary Indian (Masala Kraft)", "European (Souk)", "North Indian", "South Indian", "Continental", "Pan-Asian", "Mediterranean"],
+  "accommodationRooms": 285,
+  "googleRating": 4.7,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.9,
+  "heroImage": "/images/venues/taj-mahal-palace-mumbai/hero.jpg",
+  "galleryImages": ["/images/venues/taj-mahal-palace-mumbai/gallery-1.jpg", "/images/venues/taj-mahal-palace-mumbai/gallery-2.jpg", "/images/venues/taj-mahal-palace-mumbai/gallery-3.jpg", "/images/venues/taj-mahal-palace-mumbai/gallery-4.jpg", "/images/venues/taj-mahal-palace-mumbai/gallery-5.jpg", "/images/venues/taj-mahal-palace-mumbai/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/",
+  "nearestAirport": "Chhatrapati Shivaji International Airport",
+  "distanceFromAirport": "28 km (1 hour)",
+  "bestSeasons": ["October to March", "Winter season (November-February)", "Post-monsoon (October-November)"],
+  "weatherNote": "Mumbai enjoys tropical weather with October to March being ideal with temperatures between 20°C and 33°C. Monsoon (June-September) brings heavy rain. Summer (April-May) is hot and humid.",
+  "metaTitle": "Taj Mahal Palace Mumbai Wedding | India's Most Iconic Hotel Wedding Venue",
+  "metaDescription": "Host your wedding at India's most prestigious address—The Taj Mahal Palace Mumbai. 120 years of heritage, Gateway of India views, and legendary Taj hospitality.",
+  "keywords": ["Taj Mahal Palace wedding", "Mumbai wedding venue", "Gateway of India wedding", "iconic hotel wedding India", "heritage wedding venue Mumbai", "luxury wedding Mumbai", "5 star wedding venue", "celebrity wedding hotel", "historic hotel wedding", "prestigious wedding venue"],
+  "phone": "+91-22-6665-3366",
+  "email": "tmhm.mumbai@tajhotels.com",
+  "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/",
+  "awards": ["Condé Nast Traveller Gold List", "Travel + Leisure World's Best", "Forbes Travel Guide Five Star", "Best Heritage Hotel India", "Wallpaper* Design Award"],
+  "whyChoose": ["India's most iconic and prestigious hotel address", "Over 120 years of uninterrupted hospitality excellence", "Gateway of India waterfront location", "Original heritage architecture and antiques", "Crystal Room with legendary Belgian chandeliers", "Award-winning restaurants including Wasabi by Morimoto", "Guest list including royalty and world leaders", "Service standards refined over a century"],
+  "idealFor": ["Families seeking India's most prestigious venue", "Heritage-conscious celebrations", "High-profile and celebrity weddings", "Intimate luxury weddings up to 500 guests", "Brand and tradition-focused families"],
+  "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001, India",
+  "nearestRailway": "Chhatrapati Shivaji Terminus",
+  "distanceFromRailway": "3 km (10 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services with exceptional wine and spirits collection. Historic Harbour Bar expertise available for wedding celebrations. Premium packages and rare vintages available.",
+  "decorPolicy": "Preferred decorator list with heritage property expertise. External decorators must follow heritage guidelines. The historic interiors require minimal enhancement. Sympathetic decoration approaches required.",
+  "musicPolicy": "Indoor venues until 11:00 PM. Music policies respect heritage ambiance. Classical and acoustic performances encouraged. The Crystal Room and Ballroom offer excellent acoustics.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days before: 30% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited.",
+  "paymentTerms": "40% advance at booking. 30% due 60 days before event. Balance 30% due 14 days before event.",
+  "securityDeposit": "₹15,00,000 (Refundable within 21 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Chhatrapati Shivaji International Airport, take the Western Express Highway south. Continue to Bandra-Worli Sea Link or through Lower Parel. Navigate to Colaba and Apollo Bunder. The Taj Mahal Palace is adjacent to the Gateway of India. Journey time approximately 1 hour depending on traffic.",
+    "fromRailway": "From Chhatrapati Shivaji Terminus (Victoria Terminus), head south through the Fort area. Continue to Colaba on P. D'Mello Road and Apollo Bunder. The iconic Taj Mahal Palace dome is visible from the approach. Journey time approximately 10-15 minutes.",
+    "fromCityCenter": "From South Mumbai's business district, navigate through the Fort area towards Colaba. The Taj Mahal Palace is at Apollo Bunder, next to the Gateway of India. The landmark location is easily navigable.",
+    "landmarks": ["Gateway of India (adjacent)", "Regal Cinema (200 m)", "Colaba Causeway (500 m)", "Prince of Wales Museum (1 km)"],
+    "parkingInfo": "Valet parking for all guests. Underground parking available. Limited self-parking. Wedding convoy coordination through hotel security."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book The Taj Mahal Palace?",
+      "answer": "For this iconic property, booking 18-24 months ahead is recommended for popular dates. The hotel's prestige and limited availability for large events mean advance planning is essential. Peak season and auspicious dates require earliest booking."
+    },
+    {
+      "question": "What makes the Crystal Room special?",
+      "answer": "The Crystal Room features original Belgian crystal chandeliers dating to the hotel's 1903 opening. This historic venue has hosted dignitaries and celebrations for over a century. The ambiance is incomparable—no decoration can replicate this heritage."
+    },
+    {
+      "question": "Can outdoor ceremonies be arranged?",
+      "answer": "The Sea Lounge terrace offers outdoor settings with Gateway of India views for smaller gatherings. The hotel's prime Colaba location has limited outdoor space. Indoor venues provide the most spectacular settings."
+    },
+    {
+      "question": "What is the guest accommodation capacity?",
+      "answer": "The 285 rooms across Palace and Tower wings accommodate approximately 550 guests. The Palace Wing heritage rooms and suites are particularly sought after. Room blocks should be secured well in advance."
+    },
+    {
+      "question": "Can Wasabi or Masala Kraft host wedding events?",
+      "answer": "The legendary restaurants can host intimate dinners and may provide private buyout options with advance planning. Their culinary expertise can also be incorporated into larger wedding menus through the banqueting team."
+    },
+    {
+      "question": "What heritage elements can be incorporated?",
+      "answer": "The hotel's history—from the iconic architecture to the antique furnishings—becomes part of your wedding story. Heritage tours, historical narratives, and access to significant spaces can all be arranged."
+    },
+    {
+      "question": "How does the hotel handle VIP and security needs?",
+      "answer": "With over a century of hosting royalty and world leaders, the hotel has sophisticated security protocols. Discreet protection, privacy measures, and VIP handling are part of the institutional expertise."
+    },
+    {
+      "question": "What wellness services are available?",
+      "answer": "Jiva Spa offers traditional and contemporary treatments. The spa's heritage setting within the Palace Wing creates unique pre-wedding experiences. Bridal and groom packages are available."
+    },
+    {
+      "question": "What makes this venue different from other luxury hotels?",
+      "answer": "History cannot be manufactured. The Taj Mahal Palace has witnessed India's modern history, hosted its most significant celebrations, and defined hospitality standards for over 120 years. This legacy is irreplaceable."
+    },
+    {
+      "question": "Are there parking and arrival considerations?",
+      "answer": "The Colaba location requires coordination for large convoys. The hotel manages arrival logistics expertly. Baraat arrangements through the Gateway of India area create memorable processions with advance planning and permissions."
+    }
+  ]
+}

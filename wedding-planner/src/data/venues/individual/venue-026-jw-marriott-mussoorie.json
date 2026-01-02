@@ -1,0 +1,108 @@
+{
+  "id": "venue-026",
+  "name": "JW Marriott Mussoorie Walnut Grove Resort & Spa",
+  "slug": "jw-marriott-mussoorie",
+  "city": "Mussoorie",
+  "state": "Uttarakhand",
+  "region": "North",
+  "coordinates": {"lat": 30.4539, "lng": 78.0746},
+  "category": "Mountain Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 400},
+  "priceRange": {"min": 50, "max": 200},
+  "startingPrice": "₹50 Lakhs onwards",
+  "shortDescription": "Celebrate your union amid the clouds at JW Marriott Mussoorie, a magnificent hillside resort offering panoramic Himalayan views, terraced gardens, and refined luxury for memorable mountain destination weddings.",
+  "longDescription": "JW Marriott Mussoorie Walnut Grove Resort & Spa occupies a privileged position in the Queen of Hills, cascading down a hillside amid walnut groves with panoramic views of the Doon Valley and snow-capped Himalayan peaks. This expansive resort offers couples seeking mountain weddings a venue that combines natural grandeur with JW Marriott's signature luxury and service. Here, celebrations unfold against a backdrop of misty valleys, terraced gardens, and horizons that seem to touch the sky.\n\nThe resort's design embraces its hillside setting, with buildings stepping down the slope to maximize views and create intimate spaces within the larger property. Colonial architectural influences blend with contemporary luxury, creating spaces that feel both classic and comfortable. Throughout the property, large windows and outdoor terraces ensure the mountain scenery remains the constant companion of every experience.\n\nWith 115 rooms and suites arranged along the hillside, JW Marriott Mussoorie offers accommodations that celebrate the mountain setting. Every room features private balconies with valley or mountain views. The Presidential Suite provides the ultimate celebration space, with panoramic windows and luxurious living areas. The family-friendly layout with multiple room categories accommodates wedding parties of varied sizes and needs.\n\nWedding venues at JW Marriott Mussoorie leverage the spectacular setting through creative use of terraces and lawns. The Grand Lawn, overlooking the valley, hosts ceremonies for up to 400 guests with the Himalayas as backdrop. Multiple terraced levels create intimate spaces for different wedding events. The indoor ballroom provides climate-controlled elegance for celebrations in any weather. The flexibility allows complete multi-day weddings to unfold on-site with variety and flow.\n\nCulinary experiences draw from diverse traditions, with restaurants offering everything from North Indian classics to continental sophistication. The wedding culinary team creates bespoke menus celebrating mountain produce alongside elaborate celebration feasts. Outdoor dining on terraces with valley views creates memorable wedding feast experiences.\n\nThe spa provides comprehensive wellness services preparing couples for their celebration. The wedding planning team understands mountain wedding logistics, from weather contingencies to transportation coordination. For families seeking accessible mountain wedding venues with proven capability, JW Marriott Mussoorie delivers refined experiences within driving distance of Delhi.",
+  "weddingSpaces": [
+    {"name": "Grand Lawn", "capacity": 400, "type": "Outdoor", "sqft": 25000},
+    {"name": "Valley View Terrace", "capacity": 200, "type": "Outdoor", "sqft": 12000},
+    {"name": "Grand Ballroom", "capacity": 300, "type": "Indoor", "sqft": 8000},
+    {"name": "Garden Pavilion", "capacity": 150, "type": "Outdoor", "sqft": 8000},
+    {"name": "Private Dining Room", "capacity": 50, "type": "Indoor", "sqft": 2000}
+  ],
+  "features": ["Hillside resort in Queen of Hills", "115 mountain-view rooms", "Panoramic Himalayan views", "Terraced gardens and lawns", "Doon Valley overlook", "Full-service spa", "Multiple dining venues", "Colonial-inspired architecture", "Walnut grove setting", "Accessible from Delhi (6 hours)", "Climate-controlled ballroom", "JW Marriott service standards", "Adventure activities available", "Wedding planning expertise"],
+  "cuisineTypes": ["North Indian", "Continental", "Pan-Asian", "Himalayan Cuisine", "Mediterranean", "Fusion Cuisine"],
+  "accommodationRooms": 115,
+  "googleRating": 4.5,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.7,
+  "heroImage": "/images/venues/jw-marriott-mussoorie/hero.jpg",
+  "galleryImages": ["/images/venues/jw-marriott-mussoorie/gallery-1.jpg", "/images/venues/jw-marriott-mussoorie/gallery-2.jpg", "/images/venues/jw-marriott-mussoorie/gallery-3.jpg", "/images/venues/jw-marriott-mussoorie/gallery-4.jpg", "/images/venues/jw-marriott-mussoorie/gallery-5.jpg", "/images/venues/jw-marriott-mussoorie/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.marriott.com/hotels/travel/dedms-jw-marriott-mussoorie-walnut-grove-resort-and-spa/",
+  "nearestAirport": "Jolly Grant Airport, Dehradun",
+  "distanceFromAirport": "60 km (2 hours)",
+  "bestSeasons": ["March to June (Spring/Summer)", "September to November (Autumn)", "Year-round except heavy monsoon"],
+  "weatherNote": "Mussoorie enjoys pleasant hill station weather. Summer (March-June) offers 15-25°C temperatures. Monsoon (July-August) brings heavy rain. Autumn is clear and beautiful. Winter (December-February) is cold but scenic.",
+  "metaTitle": "JW Marriott Mussoorie Wedding | Himalayan Mountain Resort Wedding Venue",
+  "metaDescription": "Host your mountain wedding at JW Marriott Mussoorie. Panoramic Himalayan views, terraced gardens, and venues for 50-400 guests in the Queen of Hills.",
+  "keywords": ["JW Marriott Mussoorie wedding", "hill station wedding", "Mussoorie wedding venue", "mountain wedding North India", "destination wedding Uttarakhand", "luxury resort wedding", "Himalayan wedding venue", "Delhi NCR hill wedding", "walnut grove wedding", "valley view wedding"],
+  "phone": "+91-135-263-5500",
+  "email": "mussoorie@marriott.com",
+  "website": "https://www.marriott.com/hotels/travel/dedms-jw-marriott-mussoorie-walnut-grove-resort-and-spa/",
+  "awards": ["TripAdvisor Travellers' Choice", "Condé Nast Traveller Readers' Choice", "Best Mountain Resort - Travel + Leisure", "Marriott Excellence Award"],
+  "whyChoose": ["Accessible mountain destination from Delhi (6 hours)", "Panoramic Himalayan and Doon Valley views", "115 rooms accommodating substantial wedding parties", "Multiple terraced venues for variety", "JW Marriott service standards and reliability", "Year-round destination (except heavy monsoon)", "Grand Ballroom for weather backup", "Proven wedding planning expertise"],
+  "idealFor": ["Delhi-based families seeking accessible mountain venue", "Mountain weddings for 100-400 guests", "Multi-day celebrations with varied venues", "Families wanting reliable Marriott standards", "Summer escape weddings from plains heat"],
+  "address": "Village Siya, Kempty Fall Road, Mussoorie, Uttarakhand 248179, India",
+  "nearestRailway": "Dehradun Railway Station",
+  "distanceFromRailway": "35 km (1.5 hours)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services available with hotel managing permits. Premium spirits, wines, and cocktails offered. Mountain setting suits whisky and wine programs.",
+  "decorPolicy": "Preferred decorator list provided. External decorators welcome with coordination. Mountain setting provides natural beauty. Fire safety compliance mandatory.",
+  "musicPolicy": "Outdoor music until 10:00 PM. Indoor ballroom offers flexibility. Acoustic and folk performances suit the mountain atmosphere.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 25% forfeited. 60-89 days: 50% forfeited. 30-59 days: 75% forfeited. Less than 30 days: 100% forfeited. Marriott terms apply.",
+  "paymentTerms": "30% advance at booking. 35% due 60 days before event. Balance 35% due 14 days before event. Marriott corporate terms for room blocks.",
+  "securityDeposit": "₹5,00,000 (Refundable within 21 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Jolly Grant Airport Dehradun, take NH7 towards Mussoorie. The mountain road climbs through Rajpur and continues to Mussoorie. After entering town, follow signs to Kempty Fall Road. JW Marriott is well signposted. Journey time approximately 2 hours.",
+    "fromRailway": "From Dehradun Station, take the Mussoorie Road via Rajpur. Climb the winding hill road to Mussoorie. Follow Kempty Fall Road to the resort. Journey time approximately 1.5 hours.",
+    "fromDelhi": "From Delhi, take NH44 towards Dehradun. After crossing Meerut and Roorkee, continue to Dehradun. From Dehradun, climb to Mussoorie via the hill road. Total journey approximately 6-7 hours.",
+    "landmarks": ["Mall Road Mussoorie (8 km)", "Kempty Falls (nearby)", "Dehradun (35 km)", "Company Garden (10 km)"],
+    "parkingInfo": "Complimentary parking for guests. Mountain road considerations apply. Wedding convoy coordination through hotel. Multiple parking areas available."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book JW Marriott Mussoorie?",
+      "answer": "For peak seasons (March-June and September-November), booking 10-15 months ahead is recommended. The resort's popularity for Delhi-based destination weddings means preferred dates fill early."
+    },
+    {
+      "question": "What is the driving time from Delhi?",
+      "answer": "The journey from Delhi is approximately 6-7 hours via the Dehradun expressway and mountain road. Most guests travel by road, enjoying the scenic approach. Flight options to Dehradun reduce travel time."
+    },
+    {
+      "question": "What are the outdoor venue options?",
+      "answer": "The Grand Lawn (400 capacity) and Valley View Terrace (200 capacity) offer outdoor celebrations with Himalayan views. Terraced gardens create intimate spaces for various events. The setting is spectacular for photography."
+    },
+    {
+      "question": "Can the resort accommodate all guests?",
+      "answer": "The 115 rooms accommodate approximately 220 guests. For larger weddings, partner hotels in Mussoorie provide overflow. The resort's size suits most destination wedding parties."
+    },
+    {
+      "question": "What backup exists for weather?",
+      "answer": "The Grand Ballroom (300 capacity) provides complete indoor backup. The resort has experience managing mountain weather variations. Monsoon season (July-August) is best avoided for outdoor events."
+    },
+    {
+      "question": "What activities can guests enjoy?",
+      "answer": "Options include nature walks, visits to Kempty Falls, Mall Road shopping, spa treatments, adventure activities, and Mussoorie sightseeing. The mountain setting provides natural relaxation opportunities."
+    },
+    {
+      "question": "Is the resort family-friendly?",
+      "answer": "Very much so. The resort offers family rooms, children's activities, and safe environments. The mountain setting appeals to all generations. Wedding celebrations suit multi-generational families."
+    },
+    {
+      "question": "What wellness services are available?",
+      "answer": "The spa offers comprehensive treatments including couples' sessions and bridal packages. Mountain air and natural setting contribute to wellness. The environment itself promotes relaxation."
+    },
+    {
+      "question": "How does monsoon affect weddings?",
+      "answer": "Heavy monsoon (July-August) is best avoided. The resort remains operational, but outdoor events face rain risks. September onwards is ideal. Indoor ballroom provides year-round backup."
+    },
+    {
+      "question": "What makes this venue accessible?",
+      "answer": "The 6-hour drive from Delhi makes it accessible without flights. JW Marriott standards ensure reliable quality. The Grand Ballroom provides weather security. Proven capabilities reduce planning stress."
+    }
+  ]
+}

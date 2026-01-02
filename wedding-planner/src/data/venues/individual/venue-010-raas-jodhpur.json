@@ -1,0 +1,108 @@
+{
+  "id": "venue-010",
+  "name": "RAAS Jodhpur",
+  "slug": "raas-jodhpur",
+  "city": "Jodhpur",
+  "state": "Rajasthan",
+  "region": "North",
+  "coordinates": {"lat": 26.2980, "lng": 73.0191},
+  "category": "Boutique Heritage",
+  "starRating": 5,
+  "guestCapacity": {"min": 30, "max": 200},
+  "priceRange": {"min": 40, "max": 180},
+  "startingPrice": "₹40 Lakhs onwards",
+  "shortDescription": "Celebrate your union at RAAS Jodhpur, a stunning boutique heritage hotel nestled at the base of the magnificent Mehrangarh Fort, blending 18th-century Rajasthani architecture with contemporary luxury for intimate destination weddings.",
+  "longDescription": "RAAS Jodhpur represents the perfect marriage of heritage and contemporary design, a boutique luxury hotel that has redefined intimate destination weddings in the Blue City. Nestled within the ancient walls of Jodhpur's walled city, directly beneath the imposing Mehrangarh Fort, RAAS offers couples a wedding experience that is simultaneously deeply rooted in Rajasthani tradition and refreshingly modern in its execution. This is not merely a hotel; it is a carefully curated collection of 18th-century havelis transformed into an architectural masterpiece.\n\nThe property's design philosophy celebrates the raw beauty of Jodhpur's traditional architecture while introducing clean contemporary lines and luxurious modern amenities. Red sandstone walls, restored wooden doorways, traditional lime plaster, and indigenous stone work create an atmosphere of timeless elegance. The 78 rooms and suites are spread across restored havelis, each offering unique layouts, private sit-outs, and spectacular views of either the fort or the blue-washed houses of the old city.\n\nWedding celebrations at RAAS unfold across intimate yet impressive venues. The Baradari, a stunning open-air pavilion, can seat 150 guests for ceremonies with the magnificent Mehrangarh Fort as a natural backdrop. The Step Garden, with its cascading levels and water features, provides a romantic setting for sangeet and cocktail evenings. The Darikhana, the restored haveli's original living room, offers an intimate space for mehendi ceremonies and smaller gatherings. For truly spectacular experiences, RAAS can arrange exclusive access to terraces with unobstructed fort views, perfect for golden-hour ceremonies as the sun sets behind the ancient citadel.\n\nThe culinary program at RAAS celebrates the diverse flavors of Marwar, presenting traditional Jodhpuri dishes alongside modern interpretations of Indian cuisine. The kitchen team sources ingredients from local farms and specialty producers, creating menus that tell the story of the region's rich culinary heritage. From mirchi vada and mawa kachori at the mehendi to elaborate multi-course wedding feasts featuring safed maas and govind gatta, every meal becomes a celebration of Rajasthani gastronomy.\n\nWhat distinguishes RAAS for intimate weddings is its boutique scale combined with world-class service. Unlike larger properties where weddings can feel like one of many events, RAAS offers personalized attention that makes every celebration feel exclusive. The dedicated wedding team works closely with couples to craft bespoke experiences, from arranging traditional musicians from the Langa and Manganiyar communities to organizing shopping excursions in Jodhpur's famous markets, from coordinating elaborate mehendi artists to managing complex multi-day celebration logistics.\n\nThe location itself becomes part of the wedding experience. Guests staying at RAAS can explore the labyrinthine streets of the Blue City, visit the magnificent Mehrangarh Fort Museum, shop for handicrafts and textiles in the bustling bazaars, and discover the hidden temples and step-wells that dot the old city. For destination wedding guests, RAAS offers an immersive cultural experience that extends far beyond the wedding celebrations themselves.",
+  "weddingSpaces": [
+    {"name": "The Baradari", "capacity": 150, "type": "Outdoor", "sqft": 10000},
+    {"name": "Step Garden", "capacity": 120, "type": "Outdoor", "sqft": 8000},
+    {"name": "Darikhana", "capacity": 60, "type": "Indoor", "sqft": 3500},
+    {"name": "Fort View Terrace", "capacity": 80, "type": "Rooftop", "sqft": 5000},
+    {"name": "Poolside Deck", "capacity": 100, "type": "Poolside", "sqft": 6000}
+  ],
+  "features": ["Directly beneath Mehrangarh Fort", "78 heritage rooms and suites", "Award-winning boutique design", "Intimate venue spaces with fort views", "Traditional Langa-Manganiyar musicians", "Farm-to-table Marwari cuisine", "Rooftop terrace with 360° views", "Vintage car arrangements", "Blue City walking tours", "Personalized butler service", "Contemporary spa treatments", "Curated cultural experiences", "Expert wedding coordination", "Exclusive property buyouts available"],
+  "cuisineTypes": ["Traditional Marwari", "Jodhpuri Specialties", "Contemporary Indian", "Continental", "Mediterranean", "Thai", "Pan-Asian"],
+  "accommodationRooms": 78,
+  "googleRating": 4.7,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.8,
+  "heroImage": "/images/venues/raas-jodhpur/hero.jpg",
+  "galleryImages": ["/images/venues/raas-jodhpur/gallery-1.jpg", "/images/venues/raas-jodhpur/gallery-2.jpg", "/images/venues/raas-jodhpur/gallery-3.jpg", "/images/venues/raas-jodhpur/gallery-4.jpg", "/images/venues/raas-jodhpur/gallery-5.jpg", "/images/venues/raas-jodhpur/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.raashotels.com/jodhpur/virtual-tour/",
+  "nearestAirport": "Jodhpur Airport",
+  "distanceFromAirport": "8 km (20 minutes)",
+  "bestSeasons": ["October to March", "Winter celebrations (November-February)", "Spring weddings (February-March)"],
+  "weatherNote": "Jodhpur enjoys pleasant weather from October to March with temperatures between 10°C and 28°C. The blue sky and golden sunlight during winter months create perfect conditions for outdoor photography against the fort backdrop.",
+  "metaTitle": "RAAS Jodhpur Wedding | Boutique Heritage Wedding Venue Beneath Mehrangarh Fort",
+  "metaDescription": "Plan your intimate destination wedding at RAAS Jodhpur. A boutique heritage hotel offering stunning Mehrangarh Fort views and authentic Marwari celebrations for 30-200 guests.",
+  "keywords": ["RAAS Jodhpur wedding", "boutique wedding venue Jodhpur", "Mehrangarh Fort wedding", "intimate wedding Rajasthan", "Blue City wedding", "heritage hotel wedding Jodhpur", "luxury destination wedding India", "Jodhpur wedding venue", "fort view wedding India", "small wedding venue Rajasthan"],
+  "phone": "+91-291-263-6455",
+  "email": "reservations@raashotels.com",
+  "website": "https://www.raashotels.com/jodhpur/",
+  "awards": ["Condé Nast Traveller Gold List", "Wallpaper* Design Award", "Tatler Travel Guide", "Best Boutique Hotel - Travel + Leisure India", "Architectural Digest India A-List"],
+  "whyChoose": ["Unmatched location directly beneath iconic Mehrangarh Fort", "Intimate boutique property perfect for personalized celebrations", "Award-winning contemporary design within heritage structures", "Complete property buyout ensures exclusive celebrations", "Walking distance to Jodhpur's best cultural attractions", "Sophisticated farm-to-table cuisine celebrating local flavors", "Small enough for personal attention yet large enough for celebrations", "Ideal for design-conscious couples seeking unique aesthetics"],
+  "idealFor": ["Design-conscious couples seeking architectural beauty", "Intimate weddings with 30-200 guests", "Destination weddings prioritizing cultural experiences", "Photography-focused couples wanting dramatic backdrops", "Couples seeking boutique luxury over large-scale venues"],
+  "address": "Makrana Mohalla, Tunvarji Ka Jhalra, Jodhpur, Rajasthan 342001, India",
+  "nearestRailway": "Jodhpur Junction",
+  "distanceFromRailway": "2 km (10 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services available with all necessary permits arranged by the hotel. Premium spirits, wines, and craft cocktails can be incorporated into wedding menus. Local specialty drinks including Jodhpuri variations available.",
+  "decorPolicy": "The hotel's contemporary-heritage aesthetic requires minimal decoration. External decorators work in coordination with the in-house team. Traditional elements like marigold and local textiles encouraged. Modern installations must respect heritage architecture.",
+  "musicPolicy": "Music permitted until 10:00 PM in outdoor venues per local regulations. The Darikhana indoor venue allows music until 11:00 PM. Traditional folk musicians highly encouraged. Acoustic and unplugged performances can continue later.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": true,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 25% forfeited. 60-89 days: 50% forfeited. 30-59 days: 75% forfeited. Less than 30 days: 100% forfeited. Peak season bookings may have stricter terms.",
+  "paymentTerms": "30% advance at booking confirmation. 40% due 45 days before event. Remaining 30% due 7 days before event. Full buyouts require 40% advance.",
+  "securityDeposit": "₹3,00,000 (Refundable within 10 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Jodhpur Airport, take the airport road towards the city center. Continue on National Highway 62 for approximately 5 km. At the Clock Tower Circle, follow signs towards Mehrangarh Fort. RAAS is located in the Makrana Mohalla area, directly beneath the fort. The hotel provides clear signage from Clock Tower. Journey time approximately 20 minutes.",
+    "fromRailway": "From Jodhpur Junction, head towards Clock Tower (Ghanta Ghar) via Station Road. Continue towards the old city and follow signs to Mehrangarh Fort. RAAS is located in the walled city area, easily accessible by foot or car. Journey time approximately 10 minutes.",
+    "fromCityCenter": "From Clock Tower, enter the old city through Sardar Market. Navigate through the narrow lanes towards Mehrangarh Fort. RAAS is located at the base of the fort in Makrana Mohalla. The hotel's team can provide detailed navigation guidance for the narrow old city streets.",
+    "landmarks": ["Mehrangarh Fort (500 meters)", "Clock Tower/Ghanta Ghar (1.5 km)", "Jaswant Thada (1 km)", "Toorji Ka Jhalra Step-well (adjacent)"],
+    "parkingInfo": "Limited parking available in the old city area. The hotel provides valet parking service from a designated drop-off point. For wedding convoys, parking arrangements made at the fort parking area with shuttle service."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book RAAS for a wedding?",
+      "answer": "For peak season dates (October-March), we recommend booking 12-18 months in advance. RAAS's intimate size and popularity for destination weddings means dates fill quickly. Off-peak bookings can be made 6-8 months ahead."
+    },
+    {
+      "question": "Can the entire property be booked exclusively?",
+      "answer": "Yes, full property buyouts are available and recommended for weddings. This ensures complete privacy and allows all 78 rooms to accommodate your wedding guests. Buyout rates vary by season and duration."
+    },
+    {
+      "question": "What are the venue options for ceremonies?",
+      "answer": "The Baradari is ideal for main ceremonies with Mehrangarh Fort as backdrop. The Step Garden suits sangeet and cocktails. Darikhana works for mehendi. Fort View Terrace offers sunset ceremonies. Each space can be decorated to your theme."
+    },
+    {
+      "question": "How does the location affect wedding logistics?",
+      "answer": "The old city location requires some planning. Larger vehicles must park at designated areas with transfers arranged. The hotel's wedding team expertly manages these logistics. The unique atmosphere and views make the extra coordination worthwhile."
+    },
+    {
+      "question": "What cultural experiences can be arranged for guests?",
+      "answer": "RAAS specializes in curated experiences including Mehrangarh Fort tours, Blue City walking tours, Langa-Manganiyar music performances, textile and handicraft shopping expeditions, cooking classes, and zip-lining from the fort for adventurous guests."
+    },
+    {
+      "question": "Is outside catering available?",
+      "answer": "RAAS's celebrated culinary team handles all catering with expertise in Marwari and contemporary cuisines. The farm-to-table approach and local sourcing create exceptional dining. Special family recipes can be incorporated with advance discussion."
+    },
+    {
+      "question": "What photography opportunities does the location offer?",
+      "answer": "The Mehrangarh Fort backdrop is iconic for wedding photography. Blue-washed houses of the old city, the step-well, traditional havelis, and rooftop views all provide stunning settings. Golden hour photography here is particularly magical."
+    },
+    {
+      "question": "What are the music timing restrictions?",
+      "answer": "Outdoor venues follow local regulations with music until 10:00 PM. Indoor spaces allow music until 11:00 PM. Traditional folk performances are highly encouraged and can continue longer in designated areas with appropriate volume."
+    },
+    {
+      "question": "How many guests can the property accommodate?",
+      "answer": "RAAS has 78 rooms accommodating approximately 150 guests. For larger weddings, partner properties in Jodhpur can be arranged with shuttle services. The intimate scale ensures every guest receives personalized attention."
+    },
+    {
+      "question": "What backup options exist for weather issues?",
+      "answer": "The Darikhana indoor venue seats 60 guests and can be expanded with adjoining spaces. Covered terraces and canopy setups provide shelter while maintaining the atmosphere. The wedding team monitors weather and coordinates alternatives proactively."
+    }
+  ]
+}

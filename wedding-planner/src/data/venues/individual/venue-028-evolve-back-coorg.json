@@ -1,0 +1,108 @@
+{
+  "id": "venue-028",
+  "name": "Evolve Back, Coorg",
+  "slug": "evolve-back-coorg",
+  "city": "Coorg",
+  "state": "Karnataka",
+  "region": "South",
+  "coordinates": {"lat": 12.3337, "lng": 75.8069},
+  "category": "Plantation Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 30, "max": 150},
+  "priceRange": {"min": 60, "max": 250},
+  "startingPrice": "₹60 Lakhs onwards",
+  "shortDescription": "Immerse in nature at Evolve Back Coorg, an exquisite eco-luxury plantation resort amid coffee estates and rainforest, offering intimate destination weddings with authentic Kodava heritage and sustainable luxury.",
+  "longDescription": "Evolve Back Coorg represents the pinnacle of sustainable luxury hospitality in India, a remarkable resort that seamlessly integrates with its coffee plantation setting while delivering experiences of uncommon refinement. Nestled in the misty hills of Kodagu amid 300 acres of organic coffee and spice estates, this property offers couples seeking intimate, nature-immersed weddings a destination where every moment connects with the earth's rhythms. Here, ceremonies unfold in sacred groves, receptions spill onto plantation grounds, and the fragrance of coffee blossoms perfumes celebrations.\n\nThe resort's architecture draws deeply from Kodava (Coorgi) traditions, featuring the distinctive ainmane (traditional homes) reimagined as luxury accommodations. Water bodies, lily ponds, and careful landscaping create transitions between the built environment and surrounding wilderness. Throughout the property, sustainable practices—from organic farming to rainwater harvesting—demonstrate that luxury and environmental responsibility coexist beautifully.\n\nWith 63 private pool villas, each inspired by traditional Kodava architecture, Evolve Back Coorg offers accommodation that celebrates the region's heritage. Every villa features a private pool, outdoor living spaces, and interiors crafted from sustainable materials. The Lily Pool Villas offer romantic settings for couples, while larger families spread across connecting villas. The sense of seclusion within the community creates ideal destination wedding atmospheres.\n\nWedding venues at Evolve Back leverage the extraordinary natural setting. The Ceremonial Ground, a sacred grove amid ancient trees, provides a spiritually resonant space for ceremonies. The Pavilion overlooks lily ponds for reception dinners. The coffee estate itself becomes a venue, with celebrations among the plantation rows. Indoor spaces provide weather backup while maintaining the organic atmosphere. The intimate scale means weddings never exceed 150 guests, ensuring personalization and exclusivity.\n\nCulinary experiences celebrate the abundance of the estate, with restaurants featuring produce from organic gardens, spices from the plantation, and traditional Coorgi cuisine prepared with authentic recipes. The wedding culinary team creates menus that honor local traditions—including the famous Coorgi pork and rice wine—while accommodating diverse preferences. Farm-to-table dining here isn't a concept; it's the natural way of things.\n\nThe spa draws from local wellness traditions, incorporating estate-grown spices and herbs into treatments. Wedding guests can explore the estate through plantation walks, birdwatching, cooking classes, and visits to local villages. For couples seeking weddings that celebrate nature, heritage, and sustainability without compromising luxury, Evolve Back Coorg offers an experience that nourishes body and soul.",
+  "weddingSpaces": [
+    {"name": "Ceremonial Ground (Sacred Grove)", "capacity": 150, "type": "Outdoor", "sqft": 10000},
+    {"name": "The Pavilion", "capacity": 120, "type": "Outdoor", "sqft": 8000},
+    {"name": "Plantation Lawns", "capacity": 100, "type": "Outdoor", "sqft": 12000},
+    {"name": "Lily Pond Terrace", "capacity": 80, "type": "Outdoor", "sqft": 5000},
+    {"name": "Private Villa Courtyards", "capacity": 40, "type": "Outdoor", "sqft": 3000}
+  ],
+  "features": ["63 private pool villas", "300-acre organic coffee estate", "Traditional Kodava architecture", "Sacred grove ceremony venue", "Sustainable luxury practices", "Award-winning spa", "Farm-to-table dining", "Organic spice gardens", "Rainforest setting", "Plantation experiences", "Cultural activities", "Birdwatching sanctuary", "Complete privacy", "Eco-luxury wedding focus"],
+  "cuisineTypes": ["Traditional Coorgi", "South Indian", "North Indian", "Continental", "Mediterranean", "Farm-to-Table", "Organic Cuisine"],
+  "accommodationRooms": 63,
+  "googleRating": 4.7,
+  "tripAdvisorRating": 5.0,
+  "weddingWireRating": 4.9,
+  "heroImage": "/images/venues/evolve-back-coorg/hero.jpg",
+  "galleryImages": ["/images/venues/evolve-back-coorg/gallery-1.jpg", "/images/venues/evolve-back-coorg/gallery-2.jpg", "/images/venues/evolve-back-coorg/gallery-3.jpg", "/images/venues/evolve-back-coorg/gallery-4.jpg", "/images/venues/evolve-back-coorg/gallery-5.jpg", "/images/venues/evolve-back-coorg/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.evolveback.com/coorg/",
+  "nearestAirport": "Mangalore International Airport",
+  "distanceFromAirport": "140 km (3.5 hours)",
+  "bestSeasons": ["October to March (Winter)", "September to November (Post-monsoon)", "Year-round except heavy monsoon"],
+  "weatherNote": "Coorg enjoys pleasant weather year-round due to elevation. October-March offers 15-28°C temperatures. Monsoon (June-September) brings heavy rain. The misty atmosphere adds to romance, but outdoor events need weather monitoring.",
+  "metaTitle": "Evolve Back Coorg Wedding | Eco-Luxury Plantation Wedding Venue",
+  "metaDescription": "Host your intimate eco-luxury wedding at Evolve Back Coorg. Private pool villas, coffee estate setting, and sustainable luxury for weddings up to 150 guests.",
+  "keywords": ["Evolve Back Coorg wedding", "eco luxury wedding India", "plantation wedding", "Coorg destination wedding", "sustainable wedding venue", "private pool villa wedding", "coffee estate wedding", "intimate wedding South India", "nature wedding venue", "Kodava wedding"],
+  "phone": "+91-8272-265-125",
+  "email": "reservations.coorg@evolveback.com",
+  "website": "https://www.evolveback.com/coorg/",
+  "awards": ["Condé Nast Traveller Hot List", "Travel + Leisure World's Best Eco Resort", "National Geographic Unique Lodges", "Best Eco Resort India", "Sustainable Tourism Award"],
+  "whyChoose": ["300-acre organic coffee and spice estate setting", "63 private pool villas for exclusive accommodation", "Sacred grove creates spiritually meaningful ceremonies", "Sustainable luxury without compromise on experience", "Traditional Kodava architecture and cultural immersion", "Farm-to-table dining with estate-grown produce", "Intimate scale (max 150 guests) ensuring personalization", "Award-winning eco-luxury recognized globally"],
+  "idealFor": ["Eco-conscious couples valuing sustainability", "Intimate weddings with 30-150 guests", "Nature lovers and adventure seekers", "Couples seeking authentic cultural experiences", "Photography enthusiasts wanting organic settings"],
+  "address": "Karadigodu Post, Siddapur Taluk, Kodagu, Karnataka 571253, India",
+  "nearestRailway": "Mysore Railway Station",
+  "distanceFromRailway": "120 km (3 hours)",
+  "helipadAvailable": true,
+  "alcoholPolicy": "Full bar services available. Karnataka alcohol policies apply. Local rice wine and traditional beverages can be incorporated. Premium spirits and wines available.",
+  "decorPolicy": "Natural and sustainable décor encouraged. External decorators work with sustainability guidelines. The plantation setting requires minimal enhancement. Floral arrangements from estate gardens preferred.",
+  "musicPolicy": "Rainforest setting has relaxed music policies. Outdoor music until 10:30 PM typical. Acoustic performances suit the atmosphere. Sound levels respect wildlife and tranquility.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": true,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 25% forfeited. 60-89 days: 50% forfeited. 30-59 days: 75% forfeited. Less than 30 days: 100% forfeited.",
+  "paymentTerms": "40% advance at booking. 30% due 60 days before event. Balance 30% due 14 days before event. Full buyouts require 50% advance.",
+  "securityDeposit": "₹5,00,000 (Refundable within 14 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Mangalore Airport, take NH75 towards Hassan. Continue through Sullia and Madikeri. Navigate to Siddapur and follow signs to Evolve Back. The journey through the Western Ghats is scenic but winding. Journey time approximately 3.5-4 hours.",
+    "fromMysore": "From Mysore, take the road to Madikeri via Kushalnagar. Continue towards Siddapur. Follow signs to Evolve Back estate. The route passes through coffee plantations. Journey time approximately 3 hours.",
+    "fromBangalore": "From Bangalore, take NH275 towards Mysore. Continue to Madikeri via Kushalnagar. Navigate to Siddapur and the estate. Total journey approximately 5-6 hours with scenic mountain roads.",
+    "landmarks": ["Madikeri (25 km)", "Abbey Falls (30 km)", "Dubare Elephant Camp (45 km)", "Nisargadhama (35 km)"],
+    "parkingInfo": "Parking at individual villas. Central parking for additional vehicles. The estate layout requires coordination. Helipad available for alternative arrivals."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book Evolve Back Coorg?",
+      "answer": "For peak season (October-March), booking 12-15 months ahead is recommended. The property's intimate scale and eco-luxury reputation make it popular for exclusive destination weddings. Off-season dates can be confirmed 6-9 months ahead."
+    },
+    {
+      "question": "What is the maximum wedding capacity?",
+      "answer": "The resort accommodates intimate weddings up to 150 guests. This scale is intentional—ensuring personalization, exclusivity, and minimal environmental impact. Larger celebrations should consider alternative venues."
+    },
+    {
+      "question": "What makes the Ceremonial Ground special?",
+      "answer": "The sacred grove is a spiritually significant space among ancient trees. Natural energy and peaceful atmosphere create meaningful ceremony settings. The space has witnessed generations of celebrations in the region."
+    },
+    {
+      "question": "Are all villas private pool villas?",
+      "answer": "Yes, all 63 accommodations are private pool villas inspired by traditional Kodava ainmane homes. Every couple and family enjoys exclusive outdoor living with pool access. The privacy is exceptional."
+    },
+    {
+      "question": "What sustainability practices are in place?",
+      "answer": "The estate is certified organic with rainwater harvesting, solar power, waste composting, and biodiversity conservation. Weddings can incorporate zero-waste elements. Environmental responsibility is core to the experience."
+    },
+    {
+      "question": "What is the Coorgi cuisine experience?",
+      "answer": "Kodava cuisine features unique dishes like pandi curry (pork), koli curry (chicken), and kadambuttu (rice dumplings). The culinary team prepares authentic recipes with estate-grown spices. Traditional Coorgi hospitality includes rice wine."
+    },
+    {
+      "question": "What activities can guests enjoy?",
+      "answer": "Options include plantation walks, coffee processing demos, birdwatching, cooking classes, spa treatments, nature trails, and visits to Coorgi villages. The estate itself provides endless exploration opportunities."
+    },
+    {
+      "question": "How does the remote location affect logistics?",
+      "answer": "The 3.5-hour drive from airports requires advance transportation planning. The resort coordinates guest transfers. The journey through Western Ghats is scenic and becomes part of the experience. Helipad provides alternative access."
+    },
+    {
+      "question": "What backup exists for weather?",
+      "answer": "Covered pavilions and villa courtyards provide rain backup. The monsoon season (June-September) is best avoided for outdoor events. Post-monsoon months offer lush green landscapes with lower rain risk."
+    },
+    {
+      "question": "Is full property buyout recommended?",
+      "answer": "Buyouts are available and create ultimate privacy. With only 63 villas, exclusive use ensures all guests share the intimate atmosphere. This enhances the destination wedding experience significantly."
+    }
+  ]
+}

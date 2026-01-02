@@ -1,0 +1,109 @@
+{
+  "id": "venue-022",
+  "name": "Taj Falaknuma Palace, Hyderabad",
+  "slug": "taj-falaknuma-palace-hyderabad",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "region": "South",
+  "coordinates": {"lat": 17.3311, "lng": 78.4673},
+  "category": "Royal Palace Hotel",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 350},
+  "priceRange": {"min": 120, "max": 500},
+  "startingPrice": "₹120 Lakhs onwards",
+  "shortDescription": "Reign over your wedding at Taj Falaknuma Palace, the magnificent former residence of the Nizam of Hyderabad perched 2000 feet above the city, offering authentic Nizami grandeur and unparalleled romantic opulence.",
+  "longDescription": "Taj Falaknuma Palace is quite simply India's most romantic palace hotel—a magnificent 19th-century scorpion-shaped palace that once served as the residence of the Nizam of Hyderabad, the world's wealthiest man of his era. Perched 2,000 feet above the city on a plateau with commanding views of Hyderabad's ancient quarters, this extraordinary property offers couples the rare opportunity to celebrate their union in surroundings of genuine royal splendor. Here, every wedding becomes a page from a fairy tale, set against the backdrop of one of India's most opulent private residences.\n\nThe palace's architecture and interiors represent the zenith of 19th-century aristocratic luxury. Venetian chandeliers, some weighing over a ton, illuminate grand halls. The world's largest dining table seats 101 guests beneath hand-painted ceilings. Rare antiques, including chairs that once belonged to Louis XIV and Ming vases, furnish royal chambers. The jade collection rivals museum holdings. Throughout the palace, the extravagance speaks of an era when wealth knew no bounds and craftsmanship reached artistic heights.\n\nWith only 60 rooms and suites, Taj Falaknuma Palace offers exclusivity that larger properties cannot match. Each accommodation occupies original palace quarters, with suites spanning multiple rooms filled with antique furniture and original artwork. The Nizam Suites offer the ultimate in royal accommodation, with private butler service and access to palace treasures. Staying at Falaknuma means living as the Nizam's guests once did, surrounded by authentic opulence at every turn.\n\nWedding venues at Taj Falaknuma Palace leverage the spectacular architecture and grounds. The palace lawns, with the city spread below, host ceremonies for up to 350 guests beneath historic stone walls and ancient trees. The Durbar Hall, with its original chandeliers and royal portraits, provides an indoor setting of incomparable grandeur. The Jade Room and Mirror Room offer intimate spaces for ceremonies and family gatherings. The terraces provide romantic settings for sunset cocktails and twilight celebrations.\n\nCulinary experiences at Falaknuma draw from the legendary kitchens of the Nizams. The palace's restaurants present both authentic Hyderabadi cuisine—including the original Nizam recipes—and refined continental fare. The famous Falaknuma biryani, prepared with centuries-old techniques, anchors wedding feasts. The 101-seat dining table can be reserved for extraordinary dinner experiences. The culinary team creates menus that honor the palace's heritage while accommodating contemporary preferences.\n\nThe approach to Falaknuma itself becomes part of the wedding experience. Guests arrive in vintage horse-drawn carriages, ascending the winding road to the palace gates. The butler service, modeled on the Nizam's household traditions, attends to every need with practiced discretion. For couples seeking a wedding venue where history, romance, and genuine aristocratic splendor converge, Taj Falaknuma Palace remains unequaled anywhere in the world.",
+  "weddingSpaces": [
+    {"name": "Palace Lawns", "capacity": 350, "type": "Outdoor", "sqft": 25000},
+    {"name": "Durbar Hall", "capacity": 150, "type": "Indoor", "sqft": 6000},
+    {"name": "Jade Room", "capacity": 80, "type": "Indoor", "sqft": 3000},
+    {"name": "Mirror Room", "capacity": 60, "type": "Indoor", "sqft": 2500},
+    {"name": "Palace Terrace", "capacity": 120, "type": "Outdoor", "sqft": 5000},
+    {"name": "101-Seat Dining Hall", "capacity": 101, "type": "Indoor", "sqft": 5500}
+  ],
+  "features": ["Former Nizam's palace residence", "2000 feet above Hyderabad", "Only 60 exclusive rooms and suites", "World's largest dining table (101 seats)", "Venetian chandeliers and antiques", "Original Nizam's jade collection", "Horse-drawn carriage arrivals", "Authentic Nizami cuisine", "Jiva Spa wellness center", "Panoramic city views", "Butler service throughout", "Historic durbar hall", "Louis XIV chairs and Ming vases", "Scorpion-shaped architecture"],
+  "cuisineTypes": ["Royal Hyderabadi", "Nizami Cuisine", "Traditional Biryani", "Mughlai", "North Indian", "Continental", "European Fine Dining"],
+  "accommodationRooms": 60,
+  "googleRating": 4.8,
+  "tripAdvisorRating": 5.0,
+  "weddingWireRating": 4.9,
+  "heroImage": "/images/venues/taj-falaknuma-hyderabad/hero.jpg",
+  "galleryImages": ["/images/venues/taj-falaknuma-hyderabad/gallery-1.jpg", "/images/venues/taj-falaknuma-hyderabad/gallery-2.jpg", "/images/venues/taj-falaknuma-hyderabad/gallery-3.jpg", "/images/venues/taj-falaknuma-hyderabad/gallery-4.jpg", "/images/venues/taj-falaknuma-hyderabad/gallery-5.jpg", "/images/venues/taj-falaknuma-hyderabad/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.tajhotels.com/en-in/taj/taj-falaknuma-palace-hyderabad/",
+  "nearestAirport": "Rajiv Gandhi International Airport",
+  "distanceFromAirport": "35 km (1 hour)",
+  "bestSeasons": ["October to March", "Winter season (November-February)", "Post-monsoon (September-October)"],
+  "weatherNote": "Hyderabad enjoys pleasant weather from October to March with temperatures between 15°C and 30°C. The elevated palace location provides natural cooling. Summer months (April-May) are hot. Monsoon (June-September) brings moderate rainfall.",
+  "metaTitle": "Taj Falaknuma Palace Wedding | Nizam's Royal Palace Wedding Venue Hyderabad",
+  "metaDescription": "Host your royal wedding at Taj Falaknuma Palace Hyderabad. The magnificent former Nizam residence with 60 exclusive rooms, historic halls, and authentic Nizami splendor.",
+  "keywords": ["Taj Falaknuma wedding", "Hyderabad palace wedding", "Nizam palace wedding", "royal wedding venue India", "heritage palace wedding", "luxury wedding Hyderabad", "5 star wedding venue", "romantic palace wedding", "exclusive wedding venue", "historic mansion wedding"],
+  "phone": "+91-40-6629-8585",
+  "email": "falaknuma.hyderabad@tajhotels.com",
+  "website": "https://www.tajhotels.com/en-in/taj/taj-falaknuma-palace-hyderabad/",
+  "awards": ["Condé Nast Traveller Gold List", "Travel + Leisure World's Best", "Forbes Travel Guide Five Star", "Best Heritage Hotel India", "TripAdvisor Travellers' Choice Hall of Fame"],
+  "whyChoose": ["Genuine Nizam's palace—the world's wealthiest man's residence", "Unmatched collection of antiques, chandeliers, and jade", "Only 60 rooms ensuring ultimate exclusivity", "Horse-drawn carriage arrivals set magical tone", "World's largest dining table for unique dinner experiences", "Authentic Nizami cuisine from royal kitchen traditions", "2000-foot elevation provides commanding city views", "Romantically atmospheric setting impossible to replicate"],
+  "idealFor": ["Couples seeking genuine palace wedding experience", "Intimate celebrations up to 350 guests", "History and heritage enthusiasts", "High-profile weddings requiring discretion", "Romantic, fairy-tale wedding dreams"],
+  "address": "Engine Bowli, Falaknuma, Hyderabad, Telangana 500053, India",
+  "nearestRailway": "Hyderabad Deccan (Nampally)",
+  "distanceFromRailway": "8 km (25 minutes)",
+  "helipadAvailable": true,
+  "alcoholPolicy": "Full bar services available. The palace's wine cellar and bar program reflect Nizami hospitality traditions. Premium spirits and wines available. Custom cocktail programs possible.",
+  "decorPolicy": "The palace's incomparable interiors require minimal decoration. Preferred decorators understand heritage sensitivities. External decorators must follow strict heritage guidelines. The architecture itself is the décor.",
+  "musicPolicy": "Elevated location allows music until 10:30 PM. Indoor venues offer flexibility. The palace's romantic atmosphere suits classical and acoustic performances particularly well.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": true,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days before: 30% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited.",
+  "paymentTerms": "40% advance at booking. 30% due 90 days before event. Balance 30% due 30 days before event. Full buyouts require 50% advance.",
+  "securityDeposit": "₹15,00,000 (Refundable within 21 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Rajiv Gandhi International Airport, take the Outer Ring Road towards Hyderabad. Exit towards Falaknuma and follow signs to Taj Falaknuma Palace. The palace is visible on the hilltop as you approach. Horse-drawn carriages await at the palace gate. Journey time approximately 1 hour.",
+    "fromRailway": "From Nampally/Hyderabad Deccan Station, head south through the old city. Follow signs towards Falaknuma. The palace is atop the hill overlooking the old city. Carriages available at the palace entrance. Journey time approximately 25 minutes.",
+    "fromCityCenter": "From Charminar area, head south towards Falaknuma. The palace is visible on the hilltop above the old city. Follow the winding road up to the palace gates where carriages await. Journey time approximately 15-20 minutes.",
+    "landmarks": ["Charminar (5 km)", "Golconda Fort (12 km)", "Salar Jung Museum (6 km)", "Old City Hyderabad (below)"],
+    "parkingInfo": "Guests park at palace gate and transfer to horse-drawn carriages. This traditional arrival is part of the Falaknuma experience. Wedding convoys coordinated with palace protocol."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book Taj Falaknuma Palace?",
+      "answer": "For this extraordinary venue, booking 18-24 months ahead is essential. The palace's limited capacity and unique appeal mean dates fill very early. Peak season and auspicious dates require earliest possible booking."
+    },
+    {
+      "question": "What makes Falaknuma different from other palace hotels?",
+      "answer": "Falaknuma is a genuine royal residence, not a replica or conversion. The Nizam was the world's wealthiest man, and the palace reflects that extraordinary wealth. The antiques, chandeliers, and artwork are original—no other venue in India offers this authenticity."
+    },
+    {
+      "question": "What is the horse-drawn carriage experience?",
+      "answer": "All guests arrive at the palace gates and transfer to vintage horse-drawn carriages for the final ascent to the palace entrance. This tradition sets the magical tone immediately and creates memorable arrival moments for wedding guests."
+    },
+    {
+      "question": "Can the 101-seat dining table be used for weddings?",
+      "answer": "Yes, this unique venue can be reserved for wedding dinners. Imagine your families dining together at the world's longest dining table beneath original chandeliers. This experience is available nowhere else on earth."
+    },
+    {
+      "question": "What is the accommodation capacity?",
+      "answer": "The 60 rooms and suites accommodate approximately 110-120 guests. For larger weddings, the Taj group coordinates overflow at sister properties with transfer arrangements. Full palace buyouts are recommended for weddings."
+    },
+    {
+      "question": "What is the Nizami cuisine experience?",
+      "answer": "The palace kitchens prepare authentic Hyderabadi cuisine using original Nizam recipes. The famous Falaknuma biryani, prepared with centuries-old techniques, anchors wedding feasts. The culinary heritage is irreplaceable."
+    },
+    {
+      "question": "Is full palace buyout available?",
+      "answer": "Yes, complete buyouts are available and highly recommended for weddings. This ensures total privacy and allows the celebration to command the palace's undivided attention. Buyout rates vary by season."
+    },
+    {
+      "question": "What wellness services are available?",
+      "answer": "Jiva Spa offers treatments in palace chambers, including couple's rituals and bridal packages. The spa's Nizami-inspired treatments are unique to Falaknuma. Pre-wedding wellness can be customized comprehensively."
+    },
+    {
+      "question": "What backup exists for outdoor events?",
+      "answer": "The Durbar Hall and other indoor venues provide backup for outdoor celebrations. The palace has multiple covered areas and verandahs. Weather contingencies are carefully planned given the outdoor venue focus."
+    },
+    {
+      "question": "Is helicopter arrival possible?",
+      "answer": "Yes, the palace has a helipad. Helicopter arrivals create dramatic moments and are particularly valuable for the wedding couple or VIP guests. Advance coordination is required for aviation clearances."
+    }
+  ]
+}

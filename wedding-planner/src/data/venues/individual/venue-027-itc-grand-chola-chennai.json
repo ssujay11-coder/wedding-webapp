@@ -1,0 +1,109 @@
+{
+  "id": "venue-027",
+  "name": "ITC Grand Chola, Chennai",
+  "slug": "itc-grand-chola-chennai",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "region": "South",
+  "coordinates": {"lat": 13.0112, "lng": 80.2229},
+  "category": "Urban Palace Hotel",
+  "starRating": 5,
+  "guestCapacity": {"min": 100, "max": 3000},
+  "priceRange": {"min": 45, "max": 250},
+  "startingPrice": "₹45 Lakhs onwards",
+  "shortDescription": "Experience South Indian grandeur at ITC Grand Chola Chennai, a magnificent architectural tribute to Chola dynasty splendor offering India's largest pillarless ballroom and unmatched capacity for grand celebrations.",
+  "longDescription": "ITC Grand Chola stands as a monumental tribute to Tamil Nadu's glorious Chola dynasty, translating ancient architectural magnificence into contemporary hospitality grandeur. This extraordinary property—one of the largest luxury hotels in India—offers couples planning grand celebrations a venue where scale meets sophistication in ways few properties anywhere can match. With India's largest pillarless ballroom and capacity for up to 3,000 guests, ITC Grand Chola has become the venue of choice for South India's most ambitious wedding celebrations.\n\nThe hotel's architecture draws inspiration from the Brihadisvara Temple at Thanjavur, one of the Chola dynasty's greatest architectural achievements. Soaring courtyards, intricate stone carvings, bronze sculptures, and design elements that echo millennium-old traditions create an atmosphere of timeless grandeur. Yet the property's infrastructure is thoroughly contemporary, with sophisticated technology and systems supporting events of extraordinary scale.\n\nWith 600 rooms and suites, ITC Grand Chola accommodates wedding parties that would challenge most properties. The accommodation spans from elegant deluxe rooms to the magnificent ITC One floor experiences offering personalized butler service. The Presidential Suite provides the ultimate bridal preparation space with its expansive layout and refined luxury. The sheer scale allows entire wedding parties—plus extended families—to stay on-site.\n\nWedding venues at ITC Grand Chola achieve scales unprecedented in Indian hospitality. The Rajendra Chola Hall, India's largest pillarless ballroom at 21,000 square feet, can accommodate receptions for 3,000 guests. The Convention Centre adds flexible configurations for varied event scales. The outdoor Chola Court provides elegant garden settings. Multiple smaller venues host intimate gatherings, sangeet celebrations, and family dinners. The venue versatility supports complete multi-day weddings of any scale.\n\nCulinary excellence at ITC Grand Chola draws from legendary ITC expertise, with restaurants including Peshawri, Madras Pavilion, and Pan Asian specializing in distinct traditions. The wedding culinary team operates at a level few properties can approach, executing elaborate menus for thousands of guests without compromising quality. From traditional Tamil wedding feasts served on banana leaves to sophisticated multi-cuisine experiences, the capability is extraordinary.\n\nKaya Kalp Spa provides comprehensive wellness services, while the wedding planning team brings institutional experience managing South India's largest celebrations. For families planning weddings that honor tradition while embracing grand scale, ITC Grand Chola provides a venue where ambition finds no limitations.",
+  "weddingSpaces": [
+    {"name": "Rajendra Chola Hall", "capacity": 3000, "type": "Indoor", "sqft": 21000},
+    {"name": "Rajendra Chola Hall I", "capacity": 1500, "type": "Indoor", "sqft": 10500},
+    {"name": "Convention Centre", "capacity": 2000, "type": "Indoor", "sqft": 18000},
+    {"name": "Chola Court", "capacity": 600, "type": "Outdoor", "sqft": 25000},
+    {"name": "Pallava Hall", "capacity": 400, "type": "Indoor", "sqft": 6000},
+    {"name": "Private Dining Rooms", "capacity": 80, "type": "Indoor", "sqft": 2500}
+  ],
+  "features": ["600 luxury rooms and suites", "India's largest pillarless ballroom", "Chola dynasty-inspired architecture", "Capacity for 3000+ guests", "Multiple specialty restaurants", "Kaya Kalp spa and wellness", "ITC One butler floors", "Convention and wedding expertise", "Award-winning culinary program", "Contemporary infrastructure", "LEED Platinum certified", "Central Chennai location", "Multiple venue configurations", "Comprehensive wedding services"],
+  "cuisineTypes": ["Northwest Frontier (Peshawri)", "Tamil Nadu (Madras Pavilion)", "Pan-Asian", "Southern Spice", "North Indian", "Continental", "Mediterranean", "Multi-cuisine buffets"],
+  "accommodationRooms": 600,
+  "googleRating": 4.6,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.8,
+  "heroImage": "/images/venues/itc-grand-chola-chennai/hero.jpg",
+  "galleryImages": ["/images/venues/itc-grand-chola-chennai/gallery-1.jpg", "/images/venues/itc-grand-chola-chennai/gallery-2.jpg", "/images/venues/itc-grand-chola-chennai/gallery-3.jpg", "/images/venues/itc-grand-chola-chennai/gallery-4.jpg", "/images/venues/itc-grand-chola-chennai/gallery-5.jpg", "/images/venues/itc-grand-chola-chennai/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.itchotels.com/in/en/itcgrandchola-chennai",
+  "nearestAirport": "Chennai International Airport",
+  "distanceFromAirport": "15 km (30 minutes)",
+  "bestSeasons": ["November to February (Winter)", "Year-round (air-conditioned venues)", "Avoid monsoon outdoor events (Oct-Dec)"],
+  "weatherNote": "Chennai has tropical weather. November-February offers pleasant 22-30°C temperatures. Summer (April-June) is hot and humid. Northeast monsoon (October-December) brings rain. Air-conditioned venues eliminate weather concerns.",
+  "metaTitle": "ITC Grand Chola Chennai Wedding | India's Largest Ballroom Wedding Venue",
+  "metaDescription": "Host your grand wedding at ITC Grand Chola Chennai. India's largest pillarless ballroom, 600 rooms, and capacity for 3000+ guests with legendary ITC hospitality.",
+  "keywords": ["ITC Grand Chola wedding", "Chennai wedding venue", "grand wedding South India", "largest ballroom India", "3000 guests wedding", "Tamil Nadu wedding venue", "luxury wedding Chennai", "big fat wedding venue", "Chola dynasty hotel", "destination wedding Chennai"],
+  "phone": "+91-44-2220-0000",
+  "email": "grandchola@itchotels.in",
+  "website": "https://www.itchotels.com/in/en/itcgrandchola-chennai",
+  "awards": ["Condé Nast Traveller Gold List", "Travel + Leisure World's Best", "LEED Platinum Certification", "Best Business Hotel India", "ITC Excellence Award"],
+  "whyChoose": ["India's largest pillarless ballroom (21,000 sq ft)", "Capacity for 3000+ guests in single venue", "600 rooms keeping massive wedding parties together", "Chola dynasty architecture creating distinctive atmosphere", "ITC's legendary culinary excellence at scale", "LEED Platinum sustainable luxury practices", "Comprehensive convention and wedding infrastructure", "Central Chennai location with excellent connectivity"],
+  "idealFor": ["Grand South Indian weddings with 1000+ guests", "Massive celebrations requiring single-venue capacity", "Multi-day celebrations with 500+ families", "Brand-conscious families valuing ITC reputation", "Traditional Tamil Brahmin ceremonies"],
+  "address": "No. 63, Mount Road, Guindy, Chennai, Tamil Nadu 600032, India",
+  "nearestRailway": "Chennai Central",
+  "distanceFromRailway": "12 km (30 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services available with hotel managing permits. Premium spirits, wines, and cocktails offered. Tamil Nadu alcohol regulations apply. Custom bar programs available.",
+  "decorPolicy": "Preferred decorator list with large-scale wedding experience. External decorators coordinate through hotel. The Chola architecture provides stunning foundation. Fire safety critical for large events.",
+  "musicPolicy": "Indoor venues allow music until 11:00 PM. Chennai regulations respected. Nadaswaram and traditional music encouraged. Professional sound systems available.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days before: 25% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited.",
+  "paymentTerms": "30% advance at booking. 30% due 60 days before event. 25% due 15 days before. Balance 15% due 3 days before event.",
+  "securityDeposit": "₹15,00,000 for large weddings (Refundable within 21 working days)",
+  "drivingDirections": {
+    "fromAirport": "From Chennai International Airport, take GST Road towards the city center. Continue on Mount Road (Anna Salai) towards Guindy. ITC Grand Chola is prominently located on Mount Road with distinctive temple-inspired architecture. Journey time approximately 30 minutes.",
+    "fromRailway": "From Chennai Central, take Anna Salai (Mount Road) south towards Guindy. Continue for approximately 10 km. ITC Grand Chola is on the left side with its massive structure clearly visible. Journey time approximately 30 minutes depending on traffic.",
+    "fromCityCenter": "From T Nagar or other central areas, navigate to Anna Salai (Mount Road). Head towards Guindy. ITC Grand Chola's distinctive architecture is a landmark on Mount Road. Journey time varies by starting point.",
+    "landmarks": ["Guindy National Park (adjacent)", "Chennai Trade Centre (nearby)", "Anna Salai (Mount Road)", "Chennai Airport (15 km)"],
+    "parkingInfo": "Extensive parking for 1000+ vehicles. Valet service included. Large event parking coordinated by hotel. The property accommodates wedding convoy requirements."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book ITC Grand Chola?",
+      "answer": "For peak wedding season (November-February) and auspicious dates, booking 18-24 months ahead is recommended. The property's capacity for large celebrations makes it popular. Major Tamil wedding dates fill very early."
+    },
+    {
+      "question": "What is the Rajendra Chola Hall capacity?",
+      "answer": "The Rajendra Chola Hall accommodates up to 3,000 guests at 21,000 square feet—India's largest pillarless ballroom. It can be divided into smaller configurations. This capacity is unmatched in Indian hospitality."
+    },
+    {
+      "question": "Can the hotel accommodate all wedding guests?",
+      "answer": "The 600 rooms accommodate approximately 1,200 guests. For the largest weddings, the hotel coordinates overflow at nearby ITC properties and partner hotels. Most massive celebrations still fit on-site."
+    },
+    {
+      "question": "What South Indian wedding expertise exists?",
+      "answer": "The wedding team has extensive experience with Tamil Brahmin, Chettinad, and other South Indian traditions. Traditional setups, Nadaswaram music, banana leaf dining, and cultural elements are expertly managed."
+    },
+    {
+      "question": "What cuisines can be offered?",
+      "answer": "With Peshawri, Madras Pavilion, and Pan Asian on premises, the culinary range is extraordinary. Traditional Tamil Sadya on banana leaves is a specialty. The team executes elaborate menus for thousands without quality compromise."
+    },
+    {
+      "question": "What wellness options are available?",
+      "answer": "Kaya Kalp Spa offers comprehensive services including Ayurvedic treatments and bridal packages. The spa size accommodates wedding parties. Pre-wedding wellness programs can be customized."
+    },
+    {
+      "question": "What is LEED Platinum certification?",
+      "answer": "ITC Grand Chola is certified LEED Platinum for environmental sustainability. Responsible luxury practices include energy efficiency, water conservation, and waste reduction—all while maintaining exceptional service."
+    },
+    {
+      "question": "What backup exists for Chola Court events?",
+      "answer": "Multiple indoor venues including the Rajendra Chola Hall provide complete backup. Chennai's monsoon season (October-December) makes backup planning essential for outdoor events."
+    },
+    {
+      "question": "How does the large scale affect personalization?",
+      "answer": "Despite the massive capacity, ITC's service culture ensures personalized attention. Multiple event teams coordinate seamlessly. The wedding coordinators manage complexity while maintaining quality."
+    },
+    {
+      "question": "What makes this venue unique for South Indian weddings?",
+      "answer": "The Chola dynasty architecture creates a culturally resonant setting. The massive capacity suits South Indian wedding traditions with extended families. The culinary expertise in South Indian cuisine is unmatched."
+    }
+  ]
+}

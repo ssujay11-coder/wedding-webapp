@@ -1,0 +1,108 @@
+{
+  "id": "venue-013",
+  "name": "W Goa",
+  "slug": "w-goa-vagator",
+  "city": "Vagator",
+  "state": "Goa",
+  "region": "West",
+  "coordinates": {"lat": 15.5943, "lng": 73.7384},
+  "category": "Beach Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 500},
+  "priceRange": {"min": 45, "max": 220},
+  "startingPrice": "₹45 Lakhs onwards",
+  "shortDescription": "Celebrate your love at W Goa, where vibrant energy meets Arabian Sea sunsets. This trendy beachfront resort delivers unforgettable destination weddings with contemporary luxury, bold design, and legendary W service.",
+  "longDescription": "W Goa breaks all conventions of traditional wedding venues, offering couples who dare to be different a celebration space that pulses with energy, creativity, and contemporary cool. Perched above the stunning Vagator Beach with commanding views of the Arabian Sea, this iconic property has become the destination of choice for modern couples seeking weddings that reflect their bold, sophisticated tastes. Here, sunset ceremonies unfold against an infinity of ocean blue, receptions groove to world-class DJs, and every moment is curated with the distinctive flair that defines the W brand.\n\nThe resort's design language speaks of Goan heritage reimagined through a contemporary lens. Portuguese architectural elements blend with vibrant modern aesthetics, creating spaces that feel simultaneously rooted and revolutionary. The signature W Living Room sets the tone with statement furniture, bold artwork, and floor-to-ceiling windows framing the sea. Throughout the property, unexpected design moments—suspended furniture installations, living walls, artist collaborations—provide Instagram-worthy backdrops that today's couples crave.\n\nWedding venues at W Goa offer variety for every celebration style. The Great Lawn, a 40,000 square foot oceanfront expanse, hosts grand ceremonies and receptions for up to 500 guests beneath Goa's legendary sunsets. The pool deck transforms into an ultra-stylish cocktail venue, with the infinity pool and sea creating seamless horizons. For intimate celebrations, the Rock Pool area offers a more secluded setting with direct beach access. Indoor celebrations shine in the Whatever/Whenever Ballroom, a flexible space that adapts to any vision.\n\nThe resort's 128 rooms and suites continue the design-forward aesthetic with beach-chic interiors, balconies or terraces, and the signature W beds ensuring guests rest between celebrations. The Marvelous Suites and Extreme WOW Suite offer expanded spaces for bridal parties and VIP guests, complete with outdoor bathtubs, private pools, and sweeping sea views that make getting ready as photogenic as the ceremony itself.\n\nCulinary experiences at W Goa match the venue's bold personality. Spice Traders delivers contemporary Asian-Goan fusion, while Rock Pool serves seafood with views. The resort's mixology program elevates celebrations with creative cocktails and molecular bartending. For weddings, the culinary team creates custom menus blending Goan coastal traditions with global influences, presented with theatrical flair that transforms every meal into an event.\n\nWhat truly distinguishes W Goa for weddings is the Whatever/Whenever philosophy—if you can dream it, the W team will make it happen. From arranging surprise performances by celebrated artists to coordinating sunrise after-parties on the beach, from creating custom cocktails that tell your love story to organizing boat arrivals via the Arabian Sea, W Goa delivers experiences that conventional venues cannot imagine. For couples seeking a wedding that celebrates their individuality with unapologetic style, W Goa is the ultimate stage.",
+  "weddingSpaces": [
+    {"name": "Great Lawn", "capacity": 500, "type": "Outdoor", "sqft": 40000},
+    {"name": "Pool Deck", "capacity": 250, "type": "Poolside", "sqft": 15000},
+    {"name": "Rock Pool Beach", "capacity": 150, "type": "Beach", "sqft": 12000},
+    {"name": "Whatever/Whenever Ballroom", "capacity": 400, "type": "Indoor", "sqft": 8000},
+    {"name": "Sunset Terrace", "capacity": 200, "type": "Rooftop", "sqft": 10000}
+  ],
+  "features": ["Oceanfront Vagator Beach location", "128 designer rooms and suites", "Signature infinity pool with sea views", "Whatever/Whenever personalized service", "W Sound Suites with DJ equipment", "Contemporary design throughout", "Multiple beach and lawn venues", "World-class mixology program", "Spice Traders restaurant", "AWAY Spa for wedding prep", "24-hour fitness facility", "Direct beach access", "Artist collaborations and installations", "Legendary W party atmosphere"],
+  "cuisineTypes": ["Asian-Goan Fusion", "Contemporary Indian", "Coastal Seafood", "Pan-Asian", "Continental", "Mediterranean", "BBQ & Grills", "Molecular Gastronomy"],
+  "accommodationRooms": 128,
+  "googleRating": 4.5,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.7,
+  "heroImage": "/images/venues/w-goa/hero.jpg",
+  "galleryImages": ["/images/venues/w-goa/gallery-1.jpg", "/images/venues/w-goa/gallery-2.jpg", "/images/venues/w-goa/gallery-3.jpg", "/images/venues/w-goa/gallery-4.jpg", "/images/venues/w-goa/gallery-5.jpg", "/images/venues/w-goa/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.marriott.com/hotels/travel/goiwh-w-goa/",
+  "nearestAirport": "Goa International Airport (Dabolim)",
+  "distanceFromAirport": "45 km (1 hour 15 minutes)",
+  "bestSeasons": ["October to March", "Winter season (November-February)", "Christmas and New Year period"],
+  "weatherNote": "Goa enjoys perfect beach weather from October to March with temperatures between 22°C and 32°C. Monsoon season (June-September) brings heavy rain and rough seas. April-May can be hot and humid.",
+  "metaTitle": "W Goa Wedding | Trendy Beachfront Wedding Venue Vagator Beach",
+  "metaDescription": "Host your dream beach wedding at W Goa. Contemporary luxury meets Arabian Sea sunsets with venues for 50-500 guests and legendary W service.",
+  "keywords": ["W Goa wedding", "beach wedding Goa", "destination wedding Vagator", "luxury beach resort wedding", "contemporary wedding venue India", "Goa beachfront wedding", "designer hotel wedding", "sunset wedding Goa", "pool party wedding", "modern destination wedding"],
+  "phone": "+91-832-671-8888",
+  "email": "wgoa@whotels.com",
+  "website": "https://www.marriott.com/hotels/travel/goiwh-w-goa/",
+  "awards": ["Condé Nast Traveller Hot List", "TripAdvisor Travellers' Choice", "World Luxury Hotel Award", "Best Design Hotel - Travel + Leisure", "Marriott Design Excellence Award"],
+  "whyChoose": ["Stunning Vagator Beach oceanfront setting", "Contemporary design perfect for style-conscious couples", "Whatever/Whenever philosophy delivers any request", "Multiple venue options from beach to ballroom", "128 designer rooms for guest accommodation", "Legendary W party atmosphere and nightlife", "World-class mixology and culinary program", "AWAY Spa for ultimate pre-wedding pampering"],
+  "idealFor": ["Style-conscious modern couples", "Beach wedding celebrations", "Party-loving couples and guests", "International destination weddings", "Couples seeking contemporary over traditional"],
+  "address": "Opposite Vagator Beach, Bardez, Goa 403509, India",
+  "nearestRailway": "Thivim Railway Station",
+  "distanceFromRailway": "12 km (25 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services with extensive cocktail programs. W's mixology expertise creates custom wedding cocktails. Premium spirits, wines, and champagne available. No outside alcohol permitted.",
+  "decorPolicy": "External decorators welcome with coordination through events team. Contemporary and tropical themes align well with W aesthetics. Fire safety compliance required. Beach setup guidelines must be followed.",
+  "musicPolicy": "DJ and live music welcome with W's excellent sound systems. Outdoor music until 10:00 PM per state regulations. Indoor venues and private areas offer more flexibility. After-parties can be arranged in designated spaces.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 25% forfeited. 60-89 days: 50% forfeited. 30-59 days: 75% forfeited. Less than 30 days: 100% forfeited. Peak season bookings have stricter terms.",
+  "paymentTerms": "30% advance at booking. 35% due 60 days before. Balance 35% due 14 days before event. Room blocks booked separately with Marriott terms.",
+  "securityDeposit": "₹7,00,000 (Refundable within 15 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Dabolim Airport, take NH66 north towards Panjim. Cross the Mandovi Bridge and continue on NH66 through Panjim. Take the Mapusa Road exit and continue to Vagator. W Goa is located opposite Vagator Beach with clear signage. Total journey approximately 1 hour 15 minutes.",
+    "fromRailway": "From Thivim Station, head west towards Mapusa. From Mapusa, take the Vagator Road and continue to the beach area. W Goa is prominently located opposite Vagator Beach. Journey time approximately 25 minutes.",
+    "fromCityCenter": "From Panjim, take NH66 north to Mapusa. From Mapusa, follow signs to Vagator Beach. W Goa is located on the main road opposite Vagator Beach, visible by its distinctive architecture. Journey time approximately 35 minutes.",
+    "landmarks": ["Vagator Beach (adjacent)", "Chapora Fort (2 km)", "Anjuna Beach (4 km)", "Mapusa Town (8 km)"],
+    "parkingInfo": "Valet parking for all guests. Wedding convoy parking arranged with advance notice. Beach-side access for certain setups coordinated by events team."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book W Goa?",
+      "answer": "For peak season (November-February), booking 12-15 months ahead is recommended, especially for Christmas/New Year period. The property's popularity for destination weddings means premium dates fill quickly."
+    },
+    {
+      "question": "Can beach ceremonies be arranged?",
+      "answer": "Yes! The Rock Pool area offers direct beach access for ceremonies. Beach setups require coordination with local authorities and environmental guidelines. The events team handles all permissions and logistics."
+    },
+    {
+      "question": "What makes W different from other Goa hotels?",
+      "answer": "W's design-forward aesthetic, Whatever/Whenever service philosophy, and party-perfect atmosphere set it apart. The resort celebrates bold individuality over traditional formality, ideal for couples wanting celebrations that break conventions."
+    },
+    {
+      "question": "What are the DJ and music arrangements?",
+      "answer": "W Goa has excellent in-house sound systems and can arrange renowned DJs. The property's DNA includes legendary parties. While outdoor music follows regulations (until 10 PM), the venue creates electric atmospheres within guidelines."
+    },
+    {
+      "question": "How many guests can stay on property?",
+      "answer": "The 128 rooms accommodate approximately 250 guests. For larger weddings, nearby properties can supplement with shuttle services. Room blocks should be confirmed well in advance for peak season."
+    },
+    {
+      "question": "What wellness options are available for the wedding party?",
+      "answer": "AWAY Spa offers extensive treatments including couple's massages, bridal packages, and group sessions. The 24-hour fitness center and yoga sessions help guests stay balanced during multi-day celebrations."
+    },
+    {
+      "question": "Can you accommodate dietary restrictions?",
+      "answer": "Absolutely. The culinary team expertly handles vegetarian, vegan, gluten-free, and other dietary needs. Custom menus can be created for specific requirements. Goa's seafood-rich cuisine offers excellent variety."
+    },
+    {
+      "question": "What activities can be arranged for wedding guests?",
+      "answer": "Activities include beach days, water sports, Chapora Fort excursions, spice plantation tours, Old Goa heritage visits, sunset cruises, and curated nightlife experiences. W's local connections open doors to unique Goan experiences."
+    },
+    {
+      "question": "Is pool access included for wedding guests?",
+      "answer": "Yes, resort guests have full access to the signature infinity pool. For wedding events, the pool deck can be reserved exclusively for cocktail hours or pool parties with advance booking."
+    },
+    {
+      "question": "What backup options exist for weather issues?",
+      "answer": "The Whatever/Whenever Ballroom (400 capacity) serves as weather backup. Covered areas and tented structures can be arranged. The events team monitors weather closely and coordinates contingencies proactively."
+    }
+  ]
+}

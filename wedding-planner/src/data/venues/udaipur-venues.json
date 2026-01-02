@@ -1,0 +1,2327 @@
+[
+  {
+    "id": "venue-udp-001",
+    "slug": "oberoi-udaivilas-udaipur",
+    "name": "The Oberoi Udaivilas",
+    "locationSlug": "udaipur",
+    "locationName": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "heroImage": "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/udaipur-wedding-planner.webp",
+    "gallery": [
+      "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/udaipur-wedding-planner.webp",
+      "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/elite-wedding-planner.webp",
+      "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/jaipur-wedding-planner.webp"
+    ],
+    "virtualTourUrl": "https://www.oberoihotels.com/hotels-in-udaipur-udaivilas-resort/virtual-tour",
+    "metaTitle": "The Oberoi Udaivilas Wedding | Best Palace Wedding Venue Udaipur",
+    "metaDescription": "Plan your dream wedding at The Oberoi Udaivilas, Udaipur's most luxurious lakeside palace resort. Stunning Lake Pichola views, royal venues, and world-class hospitality for 50-1000 guests.",
+    "keywords": ["Oberoi Udaivilas wedding", "Udaipur palace wedding", "Lake Pichola wedding venue", "luxury wedding Udaipur", "destination wedding Rajasthan", "royal wedding India", "5-star wedding venue Udaipur"],
+    "starRating": 5,
+    "tagline": "Where Every Wedding Becomes a Royal Celebration",
+    "shortDescription": "Set on the banks of Lake Pichola with stunning views of the City Palace and Aravalli Hills, The Oberoi Udaivilas is India's most celebrated luxury wedding destination.",
+    "fullDescription": "The Oberoi Udaivilas stands as India's most iconic wedding venue, where Mughal grandeur meets contemporary luxury. Spread across 50 acres of prime lakefront land, this architectural masterpiece features interconnected domes, courtyards, and reflecting pools that create an ethereal setting for celebrations. The resort's design pays homage to the royal heritage of Mewar, with intricate hand-carved reliefs, gold leaf frescoes, and traditional Rajasthani craftsmanship. Couples exchange vows with the shimmering Lake Pichola as their backdrop, while guests experience hospitality that has welcomed royalty and celebrities from around the world. Every wedding here is a bespoke production, managed by a dedicated team that transforms visions into reality with impeccable attention to detail.",
+    "uniqueSellingPoints": [
+      "Uninterrupted panoramic views of Lake Pichola and City Palace",
+      "Private lakeside ghats for boat arrivals and ceremonial rituals",
+      "87 luxury rooms ensuring exclusive buyout options for privacy",
+      "Award-winning Oberoi culinary team with customizable royal menus",
+      "Dedicated wedding pavilions with indoor and outdoor options",
+      "Legacy of hosting some of India's most celebrated weddings"
+    ],
+    "awardsRecognitions": [
+      "Travel + Leisure World's Best Awards - Top 10 Hotels Globally",
+      "Condé Nast Traveller Gold List 2024",
+      "TripAdvisor Travelers' Choice - Best of the Best",
+      "Forbes Travel Guide Five-Star Award",
+      "World's Leading Luxury Resort - World Travel Awards"
+    ],
+    "celebrityWeddings": [
+      "Business mogul weddings with 700+ guests",
+      "International celebrity destination weddings",
+      "Royal family celebrations"
+    ],
+    "eventSpaces": [
+      {
+        "name": "Udai Mahal Grand Lawns",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 1000,
+          "floating": 1200,
+          "cocktail": 1500
+        },
+        "dimensions": {
+          "length": "120 meters",
+          "width": "80 meters",
+          "area": "9,600 sq meters"
+        },
+        "features": ["Lake views", "Sunset backdrop", "360-degree accessibility", "Built-in stage area", "Covered backup pavilion"],
+        "idealFor": ["Main wedding ceremony", "Grand reception", "Sangeet night", "Baraat arrival"]
+      },
+      {
+        "name": "Mewar Mahal",
+        "type": "indoor",
+        "capacity": {
+          "seated": 400,
+          "floating": 500,
+          "cocktail": 600
+        },
+        "dimensions": {
+          "length": "45 meters",
+          "width": "25 meters",
+          "height": "8 meters",
+          "area": "1,125 sq meters"
+        },
+        "features": ["Crystal chandeliers", "Climate controlled", "Built-in AV system", "Private green room", "Direct lawn access"],
+        "idealFor": ["Indoor reception", "Monsoon backup", "Engagement ceremony", "Corporate events"]
+      },
+      {
+        "name": "Chandni Terrace",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 200,
+          "floating": 250,
+          "cocktail": 350
+        },
+        "dimensions": {
+          "length": "35 meters",
+          "width": "20 meters",
+          "area": "700 sq meters"
+        },
+        "features": ["Elevated lake views", "Moonlit ambiance", "Private access", "Built-in bar area"],
+        "idealFor": ["Cocktail party", "Mehendi", "Intimate dinner", "After-party"]
+      },
+      {
+        "name": "Jharokha Courtyard",
+        "type": "semi-outdoor",
+        "capacity": {
+          "seated": 150,
+          "floating": 180,
+          "cocktail": 250
+        },
+        "dimensions": {
+          "length": "25 meters",
+          "width": "18 meters",
+          "area": "450 sq meters"
+        },
+        "features": ["Traditional architecture", "Covered colonnade", "Water features", "Heritage ambiance"],
+        "idealFor": ["Haldi ceremony", "Ladies sangeet", "Traditional rituals", "Intimate gatherings"]
+      },
+      {
+        "name": "Private Dining Pavilion",
+        "type": "indoor",
+        "capacity": {
+          "seated": 40,
+          "floating": 50,
+          "cocktail": 60
+        },
+        "dimensions": {
+          "length": "12 meters",
+          "width": "8 meters",
+          "area": "96 sq meters"
+        },
+        "features": ["Exclusive setting", "Customizable décor", "Personal butler service", "Lake views"],
+        "idealFor": ["Family dinner", "VIP gathering", "Proposal setup", "Pre-wedding intimate event"]
+      }
+    ],
+    "totalEventSpaces": 5,
+    "maxGuestCapacity": 1000,
+    "venueRentalRange": {
+      "min": "₹25,00,000",
+      "max": "₹1,50,00,000"
+    },
+    "roomNightRange": {
+      "min": "₹65,000",
+      "max": "₹8,50,000"
+    },
+    "foodBeverageMinimum": "₹15,000 per person per day",
+    "totalWeddingBudget": {
+      "min": "₹1.5 Crore",
+      "max": "₹10+ Crore",
+      "note": "Includes 3-night buyout, all F&B, basic décor, and coordination. Décor, entertainment, and photography additional."
+    },
+    "totalRooms": 87,
+    "roomCategories": [
+      {
+        "name": "Premier Room with Semi-Private Pool",
+        "count": 23,
+        "size": "650 sq ft",
+        "priceRange": "₹65,000 - ₹85,000 per night"
+      },
+      {
+        "name": "Luxury Suite with Private Pool",
+        "count": 42,
+        "size": "1,100 sq ft",
+        "priceRange": "₹1,25,000 - ₹1,75,000 per night"
+      },
+      {
+        "name": "Kohinoor Suite",
+        "count": 19,
+        "size": "2,650 sq ft",
+        "priceRange": "₹3,50,000 - ₹5,00,000 per night"
+      },
+      {
+        "name": "The Oberoi Suite",
+        "count": 3,
+        "size": "4,500 sq ft",
+        "priceRange": "₹6,50,000 - ₹8,50,000 per night"
+      }
+    ],
+    "inHouseCatering": true,
+    "cuisineTypes": ["Rajasthani Royal", "Pan-Indian", "Continental", "Pan-Asian", "Lebanese", "Italian"],
+    "signatureDishes": ["Laal Maas", "Safed Maas", "Dal Baati Churma", "Gatte ki Sabzi", "Live Chaat Stations", "Royal Thali Experience"],
+    "dietaryAccommodations": ["Vegetarian", "Vegan", "Jain", "Gluten-Free", "Halal", "Kosher on request"],
+    "weddingAmenities": [
+      "Dedicated wedding coordinator",
+      "In-house décor consultation",
+      "Bridal suite preparation",
+      "Baraat elephant/horse arrangements",
+      "Fireworks coordination",
+      "Guest transport coordination",
+      "Welcome hamper service",
+      "Photography location scouting"
+    ],
+    "guestAmenities": [
+      "Airport transfers",
+      "24-hour butler service",
+      "Boat rides on Lake Pichola",
+      "Complimentary WiFi",
+      "Fitness center",
+      "Swimming pools",
+      "Kids activities",
+      "City tours arrangement"
+    ],
+    "spaWellness": [
+      "The Oberoi Spa - 6,000 sq ft",
+      "Ayurvedic treatments",
+      "Couples massage rooms",
+      "Pre-wedding beauty packages",
+      "Yoga and meditation sessions",
+      "Steam and sauna"
+    ],
+    "address": "Haridasji Ki Magri, Mulla Talai, Udaipur, Rajasthan 313001, India",
+    "coordinates": {
+      "lat": 24.5762,
+      "lng": 73.6808
+    },
+    "nearestAirport": {
+      "name": "Maharana Pratap Airport",
+      "code": "UDR",
+      "distance": "25 km",
+      "driveTime": "45 minutes"
+    },
+    "nearestRailway": {
+      "name": "Udaipur City Railway Station",
+      "distance": "4 km"
+    },
+    "drivingDirections": {
+      "fromAirport": "Exit airport, take NH48 towards Udaipur city. Continue for 20 km, take Fateh Sagar Lake Road exit. Follow signs to Haridasji Ki Magri. The resort entrance is on the right after passing the Monsoon Palace viewpoint.",
+      "fromCityCenter": "From City Palace, head south along Lake Pichola. Take the lakeside road past Jag Mandir viewpoint. Continue 3 km to Haridasji Ki Magri. Resort is on the left overlooking the lake.",
+      "landmarks": ["Near Sajjangarh Monsoon Palace", "Opposite Jag Mandir Island", "Adjacent to Wildlife Sanctuary", "5 minutes from Fateh Sagar Lake"]
+    },
+    "parkingCapacity": "150+ vehicles with valet service",
+    "helipadAvailable": true,
+    "weddingSeasons": {
+      "peak": "October to March (Book 12-18 months ahead)",
+      "offPeak": "April, September (Special summer rates available)",
+      "weather": "Peak season: 15-28°C, clear skies, perfect for outdoor celebrations"
+    },
+    "typicalWeddingDuration": "3-5 days",
+    "exclusiveUseAvailable": true,
+    "exclusiveUsePrice": "₹1.2 Crore per night (full buyout)",
+    "outsideVendorsAllowed": true,
+    "alcoholPolicy": "Full bar service available. Premium international brands stocked. Outside alcohol permitted with corkage.",
+    "decorRestrictions": ["No permanent fixtures on heritage structures", "Fire permits required for pyrotechnics", "Environmental guidelines for lakeside areas", "Noise restrictions after 10 PM near wildlife sanctuary"],
+    "noiseRestrictions": "Music until 10 PM in outdoor areas, indoor venues until midnight with sound insulation",
+    "weddingCoordinator": true,
+    "preferredVendorList": true,
+    "services": [
+      "Event planning and coordination",
+      "Custom menu creation",
+      "Décor and floral arrangements",
+      "Entertainment booking assistance",
+      "Guest accommodation management",
+      "Transport coordination",
+      "Photography/videography arrangements",
+      "Priest/officiant arrangements",
+      "Legal documentation assistance"
+    ],
+    "cancellationPolicy": "Full refund 180+ days before. 50% refund 90-179 days. No refund within 90 days. Force majeure provisions apply.",
+    "paymentTerms": "30% booking deposit. 40% due 90 days before. Final 30% due 30 days before event.",
+    "securityDeposit": "₹10,00,000 refundable deposit (returned within 14 days post-event)",
+    "faqs": [
+      {
+        "question": "What is the minimum booking duration for weddings?",
+        "answer": "We require a minimum 3-night stay for wedding celebrations. This allows adequate time for setup, multiple events, and a relaxed guest experience. For buyouts during peak season, 4-5 nights is recommended."
+      },
+      {
+        "question": "Can we have a baraat procession with horse or elephant?",
+        "answer": "Yes! We coordinate traditional baraat processions with decorated horses, camels, or elephants. The resort's grand entrance is designed for such arrivals, with our team managing all logistics and permits required."
+      },
+      {
+        "question": "Is the venue available during monsoon season?",
+        "answer": "July-September experiences moderate rainfall, but the resort has stunning indoor venues as backup. Many couples choose this period for smaller, intimate celebrations at significantly reduced rates. The landscape is lush green and incredibly photogenic."
+      },
+      {
+        "question": "How far in advance should we book?",
+        "answer": "For peak season dates (November-February), we recommend booking 18-24 months in advance. Popular dates like Diwali week and year-end holidays book 2+ years ahead. Off-season dates may be available with 6-9 months notice."
+      },
+      {
+        "question": "What happens if it rains during our outdoor event?",
+        "answer": "We have a comprehensive weather contingency plan. Mewar Mahal serves as a stunning indoor backup with full lake views. Our team monitors weather closely and can transition setups within 2 hours. Décor is designed for quick relocation when needed."
+      },
+      {
+        "question": "Can we arrange boat arrivals for the bride?",
+        "answer": "Absolutely! Boat arrivals are one of our signature experiences. Decorated traditional boats can transport the bridal party from City Palace to our private ghat. We also arrange boat pickups for guests from Jag Mandir or other lake points."
+      },
+      {
+        "question": "Are fireworks and fire performances allowed?",
+        "answer": "Yes, with proper permits. We coordinate with local authorities for firework displays over the lake. Fire dancers and pyrotechnic shows are popular and can be arranged through our preferred vendor network."
+      },
+      {
+        "question": "What dietary requirements can you accommodate?",
+        "answer": "Our culinary team handles all dietary needs including vegetarian, vegan, Jain (no onion/garlic/root vegetables), gluten-free, halal, and allergies. We conduct detailed menu planning sessions and offer tastings before the event."
+      },
+      {
+        "question": "Is there parking for guest vehicles?",
+        "answer": "We have parking for 150+ vehicles with complimentary valet service. For larger weddings, we arrange additional off-site parking with shuttle service to the venue."
+      },
+      {
+        "question": "What is included in the wedding package?",
+        "answer": "Our packages include venue rental, in-house catering, basic floral décor, accommodation for the couple, wedding coordinator services, and guest amenities. Entertainment, photography, elaborate décor, and additional services are quoted separately based on your vision."
+      }
+    ],
+    "phone": "+91 294 243 3300",
+    "email": "reservations.udaipur@oberoihotels.com",
+    "website": "https://www.oberoihotels.com/hotels-in-udaipur-udaivilas-resort/",
+    "rating": 4.9,
+    "reviewCount": 2847,
+    "weddingsHostedPerYear": "80+",
+    "packages": [
+      {
+        "name": "Royal Celebration Package",
+        "description": "Complete 3-night wedding experience with venue, catering, and accommodations",
+        "priceRange": "₹1.5 - 2.5 Crore",
+        "includes": ["3-night exclusive venue access", "All meals for up to 300 guests", "50 luxury rooms", "Basic floral décor", "Wedding coordinator", "Welcome dinner", "Farewell brunch"]
+      },
+      {
+        "name": "Maharaja Grand Package",
+        "description": "Premium 4-night celebration with full buyout and enhanced services",
+        "priceRange": "₹3.5 - 5 Crore",
+        "includes": ["4-night full resort buyout", "All meals for up to 500 guests", "All 87 rooms", "Enhanced décor package", "Dedicated event team", "Fireworks display", "Cultural performances", "Spa credits for wedding party"]
+      },
+      {
+        "name": "Intimate Elegance",
+        "description": "Perfect for smaller, exclusive celebrations",
+        "priceRange": "₹75 Lakhs - 1.2 Crore",
+        "includes": ["2-night venue access", "All meals for up to 100 guests", "20 luxury rooms", "Curated décor", "Wedding coordinator", "Private dinner experiences"]
+      }
+    ]
+  },
+  {
+    "id": "venue-udp-002",
+    "slug": "taj-lake-palace-udaipur",
+    "name": "Taj Lake Palace",
+    "locationSlug": "udaipur",
+    "locationName": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "heroImage": "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/elite-wedding-planner.webp",
+    "gallery": [
+      "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/elite-wedding-planner.webp",
+      "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/udaipur-wedding-planner.webp"
+    ],
+    "metaTitle": "Taj Lake Palace Wedding | Floating Palace Wedding Venue Udaipur",
+    "metaDescription": "Host your fairytale wedding at Taj Lake Palace, the iconic floating palace on Lake Pichola. Exclusive island venue, royal heritage, and Taj hospitality for unforgettable celebrations.",
+    "keywords": ["Taj Lake Palace wedding", "floating palace wedding", "Lake Pichola venue", "island wedding India", "royal wedding Udaipur", "Taj wedding Rajasthan"],
+    "starRating": 5,
+    "tagline": "A Floating Dream on Lake Pichola",
+    "shortDescription": "The world's most romantic hotel, Taj Lake Palace appears to float on the waters of Lake Pichola, offering an exclusive island venue for fairytale weddings.",
+    "fullDescription": "Rising like a white marble dream from the waters of Lake Pichola, Taj Lake Palace is arguably the world's most romantic wedding venue. Built in 1746 by Maharana Jagat Singh II as a summer pleasure palace, this architectural wonder now offers couples the rarest of wedding experiences - an entire palace on a private island. Accessible only by boat, the palace creates an immediate sense of exclusivity and otherworldliness. With just 65 rooms and 18 suites, weddings here are inherently intimate, even when celebrating with 200 guests. The white marble courtyards, lily ponds, and centuries-old trees provide endless photo opportunities, while the panoramic views of City Palace, Aravalli Hills, and Jag Mandir create a backdrop that has graced countless magazine covers and film sets, including the James Bond classic 'Octopussy'.",
+    "uniqueSellingPoints": [
+      "Only floating palace hotel in the world - complete island exclusivity",
+      "Boat-only access creates unmatched privacy and romance",
+      "Royal heritage dating back to 1746",
+      "360-degree Lake Pichola and city views",
+      "Intimate capacity ensures personalized attention",
+      "James Bond movie location adding global glamour"
+    ],
+    "awardsRecognitions": [
+      "World's Most Romantic Hotel - Multiple Publications",
+      "Condé Nast Traveller Readers' Choice Awards",
+      "Travel + Leisure World's Best",
+      "TripAdvisor Certificate of Excellence Hall of Fame"
+    ],
+    "celebrityWeddings": [
+      "Bollywood celebrities and international stars",
+      "Royal family celebrations",
+      "High-profile destination weddings featured in Vogue"
+    ],
+    "eventSpaces": [
+      {
+        "name": "Mewar Terrace",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 200,
+          "floating": 250,
+          "cocktail": 300
+        },
+        "dimensions": {
+          "length": "40 meters",
+          "width": "20 meters",
+          "area": "800 sq meters"
+        },
+        "features": ["Sunset views", "City Palace backdrop", "Open-air elegance", "360-degree lake views"],
+        "idealFor": ["Main wedding ceremony", "Reception dinner", "Cocktail party"]
+      },
+      {
+        "name": "Chandra Prakash",
+        "type": "indoor",
+        "capacity": {
+          "seated": 100,
+          "floating": 120,
+          "cocktail": 150
+        },
+        "dimensions": {
+          "length": "25 meters",
+          "width": "15 meters",
+          "height": "6 meters",
+          "area": "375 sq meters"
+        },
+        "features": ["Crystal chandeliers", "Stained glass windows", "Climate controlled", "Heritage architecture"],
+        "idealFor": ["Intimate ceremonies", "Sangeet", "Engagement", "Monsoon backup"]
+      },
+      {
+        "name": "Amrit Sagar Poolside",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 80,
+          "floating": 100,
+          "cocktail": 150
+        },
+        "dimensions": {
+          "length": "30 meters",
+          "width": "15 meters",
+          "area": "450 sq meters"
+        },
+        "features": ["Pool reflection views", "Twilight ambiance", "Intimate setting", "Lake breezes"],
+        "idealFor": ["Mehendi", "Cocktails", "Ladies sangeet", "Poolside dinner"]
+      },
+      {
+        "name": "Lily Pond Courtyard",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 60,
+          "floating": 80,
+          "cocktail": 100
+        },
+        "dimensions": {
+          "length": "20 meters",
+          "width": "18 meters",
+          "area": "360 sq meters"
+        },
+        "features": ["Heritage lotus pond", "Marble pavilion", "Traditional architecture", "Photo-perfect backdrop"],
+        "idealFor": ["Haldi ceremony", "Traditional rituals", "Intimate gatherings", "Pre-wedding photography"]
+      }
+    ],
+    "totalEventSpaces": 4,
+    "maxGuestCapacity": 250,
+    "venueRentalRange": {
+      "min": "₹20,00,000",
+      "max": "₹80,00,000"
+    },
+    "roomNightRange": {
+      "min": "₹55,000",
+      "max": "₹12,00,000"
+    },
+    "foodBeverageMinimum": "₹12,000 per person per day",
+    "totalWeddingBudget": {
+      "min": "₹1.2 Crore",
+      "max": "₹5+ Crore",
+      "note": "Island venue commands premium. Includes boat transfers, venue, catering, and rooms. Buyout strongly recommended."
+    },
+    "totalRooms": 83,
+    "roomCategories": [
+      {
+        "name": "Luxury Room with Lake View",
+        "count": 40,
+        "size": "580 sq ft",
+        "priceRange": "₹55,000 - ₹75,000 per night"
+      },
+      {
+        "name": "Palace Room with Lake View",
+        "count": 25,
+        "size": "720 sq ft",
+        "priceRange": "₹85,000 - ₹1,25,000 per night"
+      },
+      {
+        "name": "Royal Suite",
+        "count": 15,
+        "size": "1,400 sq ft",
+        "priceRange": "₹2,50,000 - ₹4,00,000 per night"
+      },
+      {
+        "name": "Grand Presidential Suite",
+        "count": 3,
+        "size": "2,800 sq ft",
+        "priceRange": "₹8,00,000 - ₹12,00,000 per night"
+      }
+    ],
+    "inHouseCatering": true,
+    "cuisineTypes": ["Mewari Royal Cuisine", "Indian Regional", "Continental", "Mediterranean", "Pan-Asian"],
+    "signatureDishes": ["Laal Maas", "Mohan Maas", "Safed Maas", "Live Ghat Pe Khana experience", "Royal Rajputana Thali"],
+    "dietaryAccommodations": ["Vegetarian", "Vegan", "Jain", "Gluten-Free", "Halal", "Kosher"],
+    "weddingAmenities": [
+      "Dedicated wedding manager",
+      "Boat decoration for arrivals",
+      "Sunset ceremony timing",
+      "Palace-wide lighting design",
+      "Floating décor installations",
+      "Guest boat coordination"
+    ],
+    "guestAmenities": [
+      "Private boat transfers",
+      "Butler service",
+      "Pool and spa access",
+      "Heritage walks",
+      "Cultural performances",
+      "Lake cruises"
+    ],
+    "spaWellness": [
+      "Jiva Spa",
+      "Traditional Indian therapies",
+      "Couples treatments",
+      "Pre-wedding packages",
+      "Yoga on terrace"
+    ],
+    "address": "Pichola Lake, Udaipur, Rajasthan 313001, India",
+    "coordinates": {
+      "lat": 24.5752,
+      "lng": 73.6815
+    },
+    "nearestAirport": {
+      "name": "Maharana Pratap Airport",
+      "code": "UDR",
+      "distance": "27 km",
+      "driveTime": "50 minutes to jetty"
+    },
+    "nearestRailway": {
+      "name": "Udaipur City Railway Station",
+      "distance": "3.5 km to jetty"
+    },
+    "drivingDirections": {
+      "fromAirport": "Drive to Udaipur city (25 km). Head to City Palace Jetty on the eastern bank of Lake Pichola. Private boat transfers to the palace are arranged from here (10-minute scenic ride).",
+      "fromCityCenter": "Reach City Palace area. The Taj jetty is adjacent to the City Palace entrance. Boat departures every 30 minutes or on-demand for wedding guests.",
+      "landmarks": ["Boat jetty near City Palace", "Visible from Lake Pichola promenade", "Opposite Jag Mandir", "Iconic white palace on lake"]
+    },
+    "parkingCapacity": "Valet parking at City Palace Jetty for 100+ vehicles",
+    "helipadAvailable": false,
+    "weddingSeasons": {
+      "peak": "October to March",
+      "offPeak": "April-June, September",
+      "weather": "Peak season: 15-28°C with clear skies. Lake at highest level October-February."
+    },
+    "typicalWeddingDuration": "2-4 days",
+    "exclusiveUseAvailable": true,
+    "exclusiveUsePrice": "₹80 Lakhs - ₹1.2 Crore per night",
+    "outsideVendorsAllowed": true,
+    "alcoholPolicy": "Full bar service with international spirits. Premium brands available.",
+    "decorRestrictions": ["Heritage structure protection", "Weight limits on marble flooring", "Lake protection guidelines", "No anchoring external structures"],
+    "noiseRestrictions": "Outdoor music until 10 PM. Indoor venues until 11:30 PM. Lake sound travels - levels monitored.",
+    "weddingCoordinator": true,
+    "preferredVendorList": true,
+    "services": [
+      "Wedding planning",
+      "Boat transfers",
+      "Custom menus",
+      "Décor coordination",
+      "Photography assistance",
+      "Cultural entertainment",
+      "Guest management"
+    ],
+    "cancellationPolicy": "Full refund 120+ days before. 50% refund 60-119 days. No refund within 60 days.",
+    "paymentTerms": "50% booking deposit. Balance due 45 days before event.",
+    "securityDeposit": "₹5,00,000 refundable (returned within 10 days)",
+    "faqs": [
+      {
+        "question": "How do guests reach the palace?",
+        "answer": "All guests travel by decorated Taj boats from the City Palace jetty. The 10-minute boat ride itself becomes a memorable part of the wedding experience. We coordinate multiple boats for efficient guest transfers and can arrange VIP speedboat service for bridal parties."
+      },
+      {
+        "question": "What is the maximum guest capacity?",
+        "answer": "Due to the island's intimate nature, we accommodate maximum 250 guests for seated events. For larger weddings, we recommend combining with Jag Mandir or mainland venues for specific functions."
+      },
+      {
+        "question": "Is the palace suitable for monsoon weddings?",
+        "answer": "The palace offers beautiful indoor venues, though July-August can experience high water levels. Many couples choose September for post-monsoon freshness and greenery at reduced rates."
+      },
+      {
+        "question": "Can we do a sunrise or sunset ceremony over the lake?",
+        "answer": "Absolutely - our signature offering! The Mewar Terrace is positioned perfectly for sunrise pheras or sunset receptions with the City Palace and Aravalli Hills glowing in golden light."
+      },
+      {
+        "question": "What makes Taj Lake Palace weddings unique?",
+        "answer": "It's the only wedding you'll attend where every guest arrives by boat to a private island palace. The exclusivity, the heritage, and the literal fairy-tale setting create an experience no other venue in the world can match."
+      }
+    ],
+    "phone": "+91 294 242 8800",
+    "email": "lakepalace.udaipur@tajhotels.com",
+    "website": "https://www.tajhotels.com/en-in/taj/taj-lake-palace-udaipur/",
+    "rating": 4.8,
+    "reviewCount": 3421,
+    "weddingsHostedPerYear": "50+",
+    "packages": [
+      {
+        "name": "Island Romance Package",
+        "description": "2-night intimate celebration for 100 guests",
+        "priceRange": "₹1.2 - 1.8 Crore",
+        "includes": ["2-night venue access", "All meals", "40 rooms", "Boat transfers", "Basic décor", "Wedding coordinator"]
+      },
+      {
+        "name": "Floating Palace Grand",
+        "description": "3-night exclusive buyout with full services",
+        "priceRange": "₹2.5 - 4 Crore",
+        "includes": ["3-night full buyout", "All 83 rooms", "All meals for 200 guests", "Premium décor", "Cultural performances", "Fireworks (permit dependent)"]
+      }
+    ]
+  },
+  {
+    "id": "venue-udp-003",
+    "slug": "leela-palace-udaipur",
+    "name": "The Leela Palace Udaipur",
+    "locationSlug": "udaipur",
+    "locationName": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "heroImage": "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/jaipur-wedding-planner.webp",
+    "gallery": [
+      "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/jaipur-wedding-planner.webp",
+      "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/elite-wedding-planner.webp"
+    ],
+    "metaTitle": "The Leela Palace Udaipur Wedding | Lakeside Palace Wedding Venue",
+    "metaDescription": "Experience world-class weddings at The Leela Palace Udaipur. Stunning Lake Pichola venue with modern luxury, traditional architecture, and exceptional service for 50-800 guests.",
+    "keywords": ["Leela Palace wedding Udaipur", "lakeside wedding Udaipur", "luxury wedding venue Rajasthan", "destination wedding Leela"],
+    "starRating": 5,
+    "tagline": "Where Mewar Heritage Meets Modern Magnificence",
+    "shortDescription": "A modern palace resort set on the shores of Lake Pichola, The Leela combines traditional Mewari architecture with contemporary luxury for spectacular wedding celebrations.",
+    "fullDescription": "The Leela Palace Udaipur rises majestically on the banks of Lake Pichola, offering a perfect blend of royal heritage and modern luxury. Built in the style of a Mewari palace with stunning attention to traditional architecture, the resort spans 28 acres and features 80 luxurious rooms and suites. The property's sprawling lawns, marble courtyards, and private lake frontage create versatile spaces for weddings ranging from intimate gatherings to grand 800-guest celebrations. Modern amenities seamlessly integrate with traditional design elements, while the dedicated events team brings decades of experience in executing flawless wedding celebrations.",
+    "uniqueSellingPoints": [
+      "28 acres of landscaped grounds with multiple event lawns",
+      "Private lake frontage with boat access",
+      "Contemporary facilities within heritage architecture",
+      "Flexible capacity from 50 to 800 guests",
+      "ESPA spa for pre-wedding relaxation",
+      "Award-winning culinary team"
+    ],
+    "awardsRecognitions": [
+      "Travel + Leisure World's Best Hotels",
+      "Condé Nast Traveller Readers' Choice",
+      "World Luxury Hotel Awards"
+    ],
+    "eventSpaces": [
+      {
+        "name": "Lake View Garden",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 800,
+          "floating": 1000,
+          "cocktail": 1200
+        },
+        "dimensions": {
+          "length": "100 meters",
+          "width": "60 meters",
+          "area": "6,000 sq meters"
+        },
+        "features": ["Direct lake views", "Sunset backdrop", "360-degree access", "Covered pavilion nearby"],
+        "idealFor": ["Grand wedding reception", "Main ceremony", "Large sangeet", "Baraat"]
+      },
+      {
+        "name": "Zenana Mahal",
+        "type": "indoor",
+        "capacity": {
+          "seated": 350,
+          "floating": 400,
+          "cocktail": 500
+        },
+        "dimensions": {
+          "length": "40 meters",
+          "width": "22 meters",
+          "height": "7 meters",
+          "area": "880 sq meters"
+        },
+        "features": ["Pillarless hall", "Natural light", "Pre-function area", "Modern AV"],
+        "idealFor": ["Indoor reception", "Sangeet", "Monsoon backup", "Corporate"]
+      },
+      {
+        "name": "Durbar Hall",
+        "type": "indoor",
+        "capacity": {
+          "seated": 200,
+          "floating": 250,
+          "cocktail": 300
+        },
+        "dimensions": {
+          "length": "30 meters",
+          "width": "18 meters",
+          "area": "540 sq meters"
+        },
+        "features": ["Royal décor", "Crystal lighting", "Heritage design", "Intimate setting"],
+        "idealFor": ["Engagement", "Intimate ceremony", "Family dinner", "Cocktails"]
+      },
+      {
+        "name": "Sheesh Mahal",
+        "type": "indoor",
+        "capacity": {
+          "seated": 80,
+          "floating": 100,
+          "cocktail": 120
+        },
+        "dimensions": {
+          "length": "18 meters",
+          "width": "12 meters",
+          "area": "216 sq meters"
+        },
+        "features": ["Mirror work", "Traditional design", "Intimate ambiance", "Photo backdrop"],
+        "idealFor": ["Mehendi", "Haldi", "Ladies sangeet", "Small gathering"]
+      },
+      {
+        "name": "Courtyard",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 150,
+          "floating": 200,
+          "cocktail": 250
+        },
+        "dimensions": {
+          "length": "25 meters",
+          "width": "20 meters",
+          "area": "500 sq meters"
+        },
+        "features": ["Marble flooring", "Water features", "Heritage architecture", "Evening lighting"],
+        "idealFor": ["Cocktail party", "Traditional ceremonies", "Cultural performances"]
+      }
+    ],
+    "totalEventSpaces": 5,
+    "maxGuestCapacity": 800,
+    "venueRentalRange": {
+      "min": "₹15,00,000",
+      "max": "₹70,00,000"
+    },
+    "roomNightRange": {
+      "min": "₹45,000",
+      "max": "₹6,00,000"
+    },
+    "foodBeverageMinimum": "₹10,000 per person per day",
+    "totalWeddingBudget": {
+      "min": "₹80 Lakhs",
+      "max": "₹6+ Crore",
+      "note": "Competitive pricing with exceptional value. Includes venue, catering, rooms. Décor additional."
+    },
+    "totalRooms": 80,
+    "roomCategories": [
+      {
+        "name": "Palace Room",
+        "count": 38,
+        "size": "600 sq ft",
+        "priceRange": "₹45,000 - ₹65,000 per night"
+      },
+      {
+        "name": "Lake View Palace Room",
+        "count": 22,
+        "size": "650 sq ft",
+        "priceRange": "₹70,000 - ₹90,000 per night"
+      },
+      {
+        "name": "Palace Suite",
+        "count": 15,
+        "size": "1,300 sq ft",
+        "priceRange": "₹1,50,000 - ₹2,50,000 per night"
+      },
+      {
+        "name": "Maharaja Suite",
+        "count": 5,
+        "size": "3,500 sq ft",
+        "priceRange": "₹4,00,000 - ₹6,00,000 per night"
+      }
+    ],
+    "inHouseCatering": true,
+    "cuisineTypes": ["Mewari", "Pan-Indian", "Continental", "Asian", "Mediterranean"],
+    "signatureDishes": ["Jungli Maas", "Govind Gatta", "Ker Sangri", "Live Chaat", "Royal Thali"],
+    "dietaryAccommodations": ["Vegetarian", "Vegan", "Jain", "Gluten-Free", "Halal"],
+    "weddingAmenities": [
+      "Dedicated wedding manager",
+      "In-house décor team",
+      "Bridal lounge",
+      "Multiple event spaces",
+      "Guest coordination",
+      "Transport arrangements"
+    ],
+    "guestAmenities": [
+      "Airport transfers",
+      "Pool access",
+      "Fitness center",
+      "Boat experiences",
+      "City tours",
+      "Kids club"
+    ],
+    "spaWellness": [
+      "ESPA spa",
+      "Couples treatments",
+      "Pre-wedding packages",
+      "Yoga sessions",
+      "Meditation"
+    ],
+    "address": "Lake Pichola, P.O. Box No. 125, Udaipur, Rajasthan 313001, India",
+    "coordinates": {
+      "lat": 24.5845,
+      "lng": 73.6720
+    },
+    "nearestAirport": {
+      "name": "Maharana Pratap Airport",
+      "code": "UDR",
+      "distance": "28 km",
+      "driveTime": "50 minutes"
+    },
+    "nearestRailway": {
+      "name": "Udaipur City Railway Station",
+      "distance": "6 km"
+    },
+    "drivingDirections": {
+      "fromAirport": "Take NH48 towards Udaipur. After 25 km, follow signs for Lake Pichola. Continue on the western lake road. The Leela entrance is on the right, well-signposted.",
+      "fromCityCenter": "From City Palace, head north along Lake Pichola. Continue past Fateh Sagar dam. The resort is 4 km north on the lake's western shore.",
+      "landmarks": ["Western shore of Lake Pichola", "Near Fateh Sagar Lake", "5 km from City Palace", "Adjacent to Sajjangarh Wildlife Sanctuary"]
+    },
+    "parkingCapacity": "200+ vehicles with valet",
+    "helipadAvailable": true,
+    "weddingSeasons": {
+      "peak": "October to March",
+      "offPeak": "April, May, September",
+      "weather": "Peak: 12-28°C, ideal for outdoor events"
+    },
+    "typicalWeddingDuration": "3-4 days",
+    "exclusiveUseAvailable": true,
+    "exclusiveUsePrice": "₹70 Lakhs per night",
+    "outsideVendorsAllowed": true,
+    "alcoholPolicy": "Full bar service available. Premium international brands.",
+    "decorRestrictions": ["Heritage structure guidelines", "Environmental compliance"],
+    "noiseRestrictions": "Outdoor music until 10 PM, indoor until midnight",
+    "weddingCoordinator": true,
+    "preferredVendorList": true,
+    "services": [
+      "Full wedding planning",
+      "Custom menus",
+      "Décor services",
+      "Entertainment booking",
+      "Guest management",
+      "Transport coordination"
+    ],
+    "cancellationPolicy": "Standard terms with 90-day flexibility",
+    "paymentTerms": "40% deposit, 40% at 60 days, balance at event",
+    "securityDeposit": "₹5,00,000 refundable",
+    "faqs": [
+      {
+        "question": "What makes The Leela different from other Udaipur venues?",
+        "answer": "The Leela offers the best of both worlds - modern facilities and service standards within traditional palatial architecture. Our 28-acre campus provides flexibility for any wedding size, and our competitive pricing offers exceptional value."
+      },
+      {
+        "question": "Can you accommodate 500+ guests?",
+        "answer": "Yes, our Lake View Garden comfortably seats 800 guests. For larger weddings, we can coordinate with nearby venues for specific functions while keeping the main celebration at The Leela."
+      },
+      {
+        "question": "What is your approach to sustainability?",
+        "answer": "The Leela is committed to sustainable luxury. We offer eco-friendly décor options, locally sourced ingredients, plastic-free operations, and work with local artisans for authentic experiences."
+      }
+    ],
+    "phone": "+91 294 670 1234",
+    "email": "reservations@theleela.com",
+    "website": "https://www.theleela.com/en_us/hotels-in-udaipur/the-leela-palace-udaipur/",
+    "rating": 4.8,
+    "reviewCount": 2156,
+    "weddingsHostedPerYear": "100+",
+    "packages": [
+      {
+        "name": "Palace Celebration",
+        "description": "3-night wedding package for 200 guests",
+        "priceRange": "₹1 - 1.5 Crore",
+        "includes": ["3-night venue access", "All meals", "50 rooms", "Basic décor", "Coordinator"]
+      },
+      {
+        "name": "Grand Leela Wedding",
+        "description": "4-night premium celebration with buyout",
+        "priceRange": "₹2.5 - 4 Crore",
+        "includes": ["4-night full buyout", "All rooms", "Premium catering", "Enhanced décor", "Entertainment"]
+      }
+    ]
+  },
+  {
+    "id": "venue-udp-004",
+    "slug": "fateh-prakash-palace-udaipur",
+    "name": "Fateh Prakash Palace",
+    "locationSlug": "udaipur",
+    "locationName": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "heroImage": "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/jodhpur-wedding-planner.webp",
+    "gallery": [
+      "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/jodhpur-wedding-planner.webp"
+    ],
+    "metaTitle": "Fateh Prakash Palace Wedding | Royal Heritage Wedding Venue Udaipur",
+    "metaDescription": "Host an authentic royal wedding at Fateh Prakash Palace, part of the City Palace complex. Historic grandeur, Lake Pichola views, and genuine Mewar hospitality.",
+    "keywords": ["Fateh Prakash Palace wedding", "City Palace wedding Udaipur", "heritage wedding venue", "royal wedding Rajasthan", "authentic palace wedding"],
+    "starRating": 5,
+    "tagline": "An Authentic Royal Residence on Lake Pichola",
+    "shortDescription": "Part of the City Palace complex and still home to the Udaipur royal family, Fateh Prakash Palace offers the most authentic royal wedding experience in India.",
+    "fullDescription": "Fateh Prakash Palace isn't just a wedding venue—it's a living piece of history. Part of the legendary City Palace complex and managed by the HRH Group of Hotels, this heritage palace remains connected to the Udaipur royal family. Wedding celebrations here carry an authenticity that purpose-built hotels cannot replicate. The palace's stunning Durbar Hall, with its crystal chandeliers, royal portraits, and ornate decor, has hosted maharajas and dignitaries for centuries. Its lakefront position offers unmatched views of Lake Pichola, Jag Mandir, and the surrounding hills. For couples seeking a wedding steeped in genuine royal heritage rather than recreated luxury, Fateh Prakash Palace is unparalleled.",
+    "uniqueSellingPoints": [
+      "Part of City Palace complex - genuine royal heritage",
+      "Crystal Gallery with world's largest Osler crystal collection",
+      "Durbar Hall unchanged since the Maharana era",
+      "Direct Lake Pichola access from palace",
+      "Still connected to the Udaipur royal family",
+      "Most authentic palace wedding experience available"
+    ],
+    "awardsRecognitions": [
+      "Heritage Hotels of India - Grand Heritage Category",
+      "India's Most Authentic Heritage Hotel"
+    ],
+    "celebrityWeddings": [
+      "Royal family celebrations continue to this day",
+      "International dignitaries and aristocratic families"
+    ],
+    "eventSpaces": [
+      {
+        "name": "Durbar Hall",
+        "type": "indoor",
+        "capacity": {
+          "seated": 200,
+          "floating": 250,
+          "cocktail": 300
+        },
+        "dimensions": {
+          "length": "35 meters",
+          "width": "18 meters",
+          "height": "9 meters",
+          "area": "630 sq meters"
+        },
+        "features": ["Crystal chandeliers", "Royal portraits", "Original décor", "Historic ambiance"],
+        "idealFor": ["Grand reception", "Sangeet", "Engagement", "Gala dinner"]
+      },
+      {
+        "name": "Sunset Terrace",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 300,
+          "floating": 400,
+          "cocktail": 500
+        },
+        "dimensions": {
+          "length": "50 meters",
+          "width": "25 meters",
+          "area": "1,250 sq meters"
+        },
+        "features": ["Lake Pichola views", "Sunset backdrop", "City Palace adjacent", "Open air elegance"],
+        "idealFor": ["Wedding ceremony", "Reception", "Cocktails", "Cultural performances"]
+      },
+      {
+        "name": "Crystal Gallery",
+        "type": "indoor",
+        "capacity": {
+          "seated": 80,
+          "floating": 100,
+          "cocktail": 120
+        },
+        "dimensions": {
+          "length": "20 meters",
+          "width": "10 meters",
+          "area": "200 sq meters"
+        },
+        "features": ["Osler crystal collection", "Unique setting", "Historic significance", "Museum atmosphere"],
+        "idealFor": ["VIP gathering", "Intimate dinner", "Special photo session"]
+      },
+      {
+        "name": "Palace Courtyard",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 150,
+          "floating": 180,
+          "cocktail": 220
+        },
+        "dimensions": {
+          "length": "28 meters",
+          "width": "18 meters",
+          "area": "504 sq meters"
+        },
+        "features": ["Heritage architecture", "Traditional design", "Central fountain", "Evening ambiance"],
+        "idealFor": ["Mehendi", "Haldi", "Traditional ceremonies", "Welcome dinner"]
+      }
+    ],
+    "totalEventSpaces": 4,
+    "maxGuestCapacity": 400,
+    "venueRentalRange": {
+      "min": "₹10,00,000",
+      "max": "₹50,00,000"
+    },
+    "roomNightRange": {
+      "min": "₹25,000",
+      "max": "₹1,50,000"
+    },
+    "foodBeverageMinimum": "₹8,000 per person per day",
+    "totalWeddingBudget": {
+      "min": "₹50 Lakhs",
+      "max": "₹3+ Crore",
+      "note": "Authentic heritage value at competitive pricing. Venue, catering, rooms included."
+    },
+    "totalRooms": 21,
+    "roomCategories": [
+      {
+        "name": "Heritage Room",
+        "count": 10,
+        "size": "400 sq ft",
+        "priceRange": "₹25,000 - ₹35,000 per night"
+      },
+      {
+        "name": "Deluxe Suite",
+        "count": 8,
+        "size": "650 sq ft",
+        "priceRange": "₹50,000 - ₹75,000 per night"
+      },
+      {
+        "name": "Royal Suite",
+        "count": 3,
+        "size": "1,200 sq ft",
+        "priceRange": "₹1,00,000 - ₹1,50,000 per night"
+      }
+    ],
+    "inHouseCatering": true,
+    "cuisineTypes": ["Traditional Mewari", "Rajasthani Royal", "North Indian", "Continental"],
+    "signatureDishes": ["Mewari Thali", "Laal Maas", "Dal Baati", "Royal Feast experiences"],
+    "dietaryAccommodations": ["Vegetarian", "Vegan", "Jain", "Special dietary needs"],
+    "weddingAmenities": [
+      "Palace wedding coordinator",
+      "Heritage décor elements",
+      "Traditional ceremonies assistance",
+      "Royal protocols guidance",
+      "City Palace access"
+    ],
+    "guestAmenities": [
+      "City Palace complex access",
+      "Boat rides",
+      "Heritage walks",
+      "Cultural performances",
+      "Traditional experiences"
+    ],
+    "spaWellness": [
+      "In-palace spa services",
+      "Ayurvedic treatments",
+      "Traditional wellness"
+    ],
+    "address": "City Palace Complex, Udaipur, Rajasthan 313001, India",
+    "coordinates": {
+      "lat": 24.5755,
+      "lng": 73.6910
+    },
+    "nearestAirport": {
+      "name": "Maharana Pratap Airport",
+      "code": "UDR",
+      "distance": "26 km",
+      "driveTime": "45 minutes"
+    },
+    "nearestRailway": {
+      "name": "Udaipur City Railway Station",
+      "distance": "3 km"
+    },
+    "drivingDirections": {
+      "fromAirport": "Take NH48 to Udaipur city center. Follow signs to City Palace. The palace is within the City Palace complex, accessible through the main entrance.",
+      "fromCityCenter": "The palace is in the heart of the old city, part of the City Palace complex. Enter through the main City Palace gate.",
+      "landmarks": ["Within City Palace complex", "Adjacent to Lake Pichola", "Near Jagdish Temple", "Opposite boat jetty"]
+    },
+    "parkingCapacity": "Limited - 30 vehicles at palace, additional at City Palace parking",
+    "helipadAvailable": false,
+    "weddingSeasons": {
+      "peak": "October to March",
+      "offPeak": "April-September",
+      "weather": "Peak: 15-28°C, perfect for outdoor ceremonies"
+    },
+    "typicalWeddingDuration": "2-3 days",
+    "exclusiveUseAvailable": true,
+    "exclusiveUsePrice": "₹25 Lakhs per night",
+    "outsideVendorsAllowed": true,
+    "alcoholPolicy": "Available with palace approval. Traditional ambiance maintained.",
+    "decorRestrictions": ["Heritage structure protection mandatory", "Traditional décor preferred", "Modern elements require approval"],
+    "noiseRestrictions": "10 PM outdoor, 11 PM indoor - heritage neighborhood",
+    "weddingCoordinator": true,
+    "preferredVendorList": true,
+    "services": [
+      "Heritage wedding planning",
+      "Traditional ceremonies",
+      "Royal feast catering",
+      "Cultural programming",
+      "City Palace integration"
+    ],
+    "cancellationPolicy": "Flexible terms for heritage venue",
+    "paymentTerms": "40% deposit, balance as scheduled",
+    "securityDeposit": "₹3,00,000 refundable",
+    "faqs": [
+      {
+        "question": "Is this a real palace or a heritage hotel?",
+        "answer": "Fateh Prakash Palace is a real, historic palace that's part of the City Palace complex, still connected to the Udaipur royal family. It's been converted into a heritage hotel while maintaining its authentic character."
+      },
+      {
+        "question": "What makes this different from newer palace hotels?",
+        "answer": "Unlike purpose-built 'palace-style' hotels, Fateh Prakash Palace is genuinely historic. The Durbar Hall, Crystal Gallery, and architecture are original—you're celebrating in spaces where real royalty lived and entertained."
+      },
+      {
+        "question": "Is there enough room capacity for large weddings?",
+        "answer": "With 21 rooms, we can accommodate 40-50 guests on-site. For larger weddings, we partner with nearby hotels for overflow accommodation while hosting all events at the palace."
+      }
+    ],
+    "phone": "+91 294 252 8016",
+    "email": "reservations@hrhhotels.com",
+    "website": "https://www.hrhhotels.com/fateh-prakash-palace-udaipur/",
+    "rating": 4.7,
+    "reviewCount": 1823,
+    "weddingsHostedPerYear": "40+",
+    "packages": [
+      {
+        "name": "Heritage Celebration",
+        "description": "2-night authentic palace wedding",
+        "priceRange": "₹60 - 90 Lakhs",
+        "includes": ["2-night venue", "All rooms", "Traditional catering", "Heritage décor", "Cultural performances"]
+      },
+      {
+        "name": "Royal Heritage Grand",
+        "description": "3-night exclusive palace experience",
+        "priceRange": "₹1.2 - 2 Crore",
+        "includes": ["3-night buyout", "Premium catering", "Full décor", "Entertainment", "City Palace access"]
+      }
+    ]
+  },
+  {
+    "id": "venue-udp-005",
+    "slug": "jagmandir-island-palace-udaipur",
+    "name": "Jagmandir Island Palace",
+    "locationSlug": "udaipur",
+    "locationName": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "heroImage": "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/goa-wedding-planner.webp",
+    "gallery": [
+      "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/goa-wedding-planner.webp"
+    ],
+    "metaTitle": "Jagmandir Island Palace Wedding | Private Island Wedding Venue Udaipur",
+    "metaDescription": "Host an exclusive island wedding at Jagmandir Palace on Lake Pichola. Private island venue, historic Mughal refuge, spectacular sunset ceremonies for up to 500 guests.",
+    "keywords": ["Jagmandir wedding", "island wedding Udaipur", "Lake Pichola island venue", "private island wedding India", "Mughal palace wedding"],
+    "starRating": 5,
+    "tagline": "Your Private Island. Your Royal Celebration.",
+    "shortDescription": "A historic island palace on Lake Pichola, Jagmandir offers complete island exclusivity for weddings, with 4 centuries of royal heritage as your backdrop.",
+    "fullDescription": "Rising from the waters of Lake Pichola, Jagmandir Island Palace carries a romance unmatched by any mainland venue. Built in the 17th century, this island palace famously sheltered the young Mughal prince Shah Jahan—who later built the Taj Mahal. Today, managed by the HRH Group, Jagmandir opens its marble courtyards and gardens for exclusive wedding celebrations. Accessed only by traditional boats, the island creates instant exclusivity. The Kunwar Pada Gardens, with elephant-lined walkways and the palace as backdrop, offer a ceremony setting that feels genuinely magical. Unlike shared venues, Jagmandir weddings are truly private—the entire island becomes yours.",
+    "uniqueSellingPoints": [
+      "Complete private island exclusivity",
+      "Historic Mughal connection - Shah Jahan's refuge",
+      "Boat-only access ensures privacy",
+      "4-acre island with gardens and palace",
+      "Spectacular sunset ceremony location",
+      "Can host day events with mainland accommodation"
+    ],
+    "awardsRecognitions": [
+      "Heritage Sites of India Recognition",
+      "Most Unique Wedding Venue - Wedding Industry Awards"
+    ],
+    "eventSpaces": [
+      {
+        "name": "Kunwar Pada Gardens",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 500,
+          "floating": 600,
+          "cocktail": 800
+        },
+        "dimensions": {
+          "length": "80 meters",
+          "width": "50 meters",
+          "area": "4,000 sq meters"
+        },
+        "features": ["Elephant-lined walkways", "Palace backdrop", "Lake surroundings", "Sunset views"],
+        "idealFor": ["Main wedding ceremony", "Grand reception", "Baraat arrival"]
+      },
+      {
+        "name": "Gul Mahal",
+        "type": "indoor",
+        "capacity": {
+          "seated": 150,
+          "floating": 180,
+          "cocktail": 220
+        },
+        "dimensions": {
+          "length": "25 meters",
+          "width": "18 meters",
+          "area": "450 sq meters"
+        },
+        "features": ["Palace interiors", "Historic architecture", "Climate control", "Royal ambiance"],
+        "idealFor": ["Intimate ceremony", "Engagement", "Family dinner", "Monsoon backup"]
+      },
+      {
+        "name": "Darikhana Terrace",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 200,
+          "floating": 250,
+          "cocktail": 300
+        },
+        "dimensions": {
+          "length": "35 meters",
+          "width": "20 meters",
+          "area": "700 sq meters"
+        },
+        "features": ["Elevated views", "Lake panorama", "City Palace visible", "Evening atmosphere"],
+        "idealFor": ["Cocktail party", "Sangeet", "Reception dinner"]
+      }
+    ],
+    "totalEventSpaces": 3,
+    "maxGuestCapacity": 500,
+    "venueRentalRange": {
+      "min": "₹15,00,000",
+      "max": "₹40,00,000"
+    },
+    "roomNightRange": {
+      "min": "₹0",
+      "max": "₹0"
+    },
+    "foodBeverageMinimum": "₹8,000 per person",
+    "totalWeddingBudget": {
+      "min": "₹60 Lakhs",
+      "max": "₹2.5 Crore",
+      "note": "Venue only - no accommodation. Guests stay at partnering mainland hotels. Includes boat transfers."
+    },
+    "totalRooms": 0,
+    "roomCategories": [],
+    "inHouseCatering": true,
+    "cuisineTypes": ["Mewari", "Rajasthani", "North Indian", "Continental"],
+    "signatureDishes": ["Traditional Mewar cuisine", "Royal feast menus", "Live stations"],
+    "dietaryAccommodations": ["Vegetarian", "Vegan", "Jain", "Halal"],
+    "weddingAmenities": [
+      "Private island exclusivity",
+      "Decorated boat transfers",
+      "Island lighting design",
+      "Traditional welcome ceremonies",
+      "Heritage décor elements"
+    ],
+    "guestAmenities": [
+      "Premium boat transfers",
+      "Island exploration",
+      "Photography locations",
+      "Cultural experiences"
+    ],
+    "spaWellness": [],
+    "address": "Jagmandir Island, Lake Pichola, Udaipur, Rajasthan, India",
+    "coordinates": {
+      "lat": 24.5745,
+      "lng": 73.6890
+    },
+    "nearestAirport": {
+      "name": "Maharana Pratap Airport",
+      "code": "UDR",
+      "distance": "27 km",
+      "driveTime": "50 minutes to jetty"
+    },
+    "drivingDirections": {
+      "fromAirport": "Drive to City Palace jetty (25 km). Private boat transfers to island (15 minutes).",
+      "fromCityCenter": "Access from City Palace or Rameshwar Ghat jetties. Boats provided for all guests.",
+      "landmarks": ["Visible from Lake Pichola shore", "South of Taj Lake Palace", "Near City Palace"]
+    },
+    "parkingCapacity": "Jetty parking for 100+ vehicles",
+    "helipadAvailable": false,
+    "weddingSeasons": {
+      "peak": "October to March",
+      "offPeak": "April-September",
+      "weather": "Peak: Clear skies, calm lake, perfect sunsets"
+    },
+    "typicalWeddingDuration": "1-2 days (day use)",
+    "exclusiveUseAvailable": true,
+    "exclusiveUsePrice": "₹25-40 Lakhs for full island",
+    "outsideVendorsAllowed": true,
+    "alcoholPolicy": "Full bar service available on island",
+    "decorRestrictions": ["Heritage protection guidelines", "Island environment considerations"],
+    "noiseRestrictions": "Music until 10:30 PM - lake sound considerations",
+    "weddingCoordinator": true,
+    "preferredVendorList": true,
+    "services": [
+      "Island event management",
+      "Boat coordination",
+      "Catering services",
+      "Décor setup",
+      "Guest logistics"
+    ],
+    "cancellationPolicy": "Standard HRH terms",
+    "paymentTerms": "50% deposit, balance 30 days before",
+    "securityDeposit": "₹3,00,000 refundable",
+    "faqs": [
+      {
+        "question": "Where do guests stay if there's no accommodation?",
+        "answer": "Guests stay at mainland hotels - we partner with Fateh Prakash Palace, Shiv Niwas Palace, and other lake-view hotels. Boat transfers bring everyone to the island for celebrations, creating a spectacular arrival experience."
+      },
+      {
+        "question": "Can we host multiple days of events here?",
+        "answer": "Absolutely! Many couples host mehendi and sangeet at mainland hotels, then use Jagmandir for the main wedding ceremony and reception. The island can host events on consecutive days."
+      },
+      {
+        "question": "What if weather is bad?",
+        "answer": "Gul Mahal provides indoor backup for up to 180 guests. We also have weather monitoring and can adjust timings. In extreme weather, boats may be affected - contingency planning is part of our service."
+      }
+    ],
+    "phone": "+91 294 252 8016",
+    "email": "reservations@hrhhotels.com",
+    "website": "https://www.hrhhotels.com/jagmandir-island-palace/",
+    "rating": 4.8,
+    "reviewCount": 1245,
+    "weddingsHostedPerYear": "35+",
+    "packages": [
+      {
+        "name": "Island Exclusive",
+        "description": "Full island rental for wedding day",
+        "priceRange": "₹60 - 90 Lakhs",
+        "includes": ["Full island access", "Boat transfers", "Catering for 300", "Basic island décor"]
+      },
+      {
+        "name": "Two-Day Island Celebration",
+        "description": "Extended island access with premium services",
+        "priceRange": "₹1.2 - 2 Crore",
+        "includes": ["2-day island access", "Premium catering 400 guests", "Enhanced décor", "Entertainment coordination"]
+      }
+    ]
+  },
+  {
+    "id": "venue-udp-006",
+    "slug": "trident-udaipur",
+    "name": "Trident Udaipur",
+    "locationSlug": "udaipur",
+    "locationName": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "heroImage": "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/dubai-wedding.webp",
+    "gallery": [],
+    "metaTitle": "Trident Udaipur Wedding | Lakeside Resort Wedding Venue",
+    "metaDescription": "Plan your dream wedding at Trident Udaipur on Lake Pichola. Contemporary luxury, stunning lake views, and excellent value for celebrations of 100-600 guests.",
+    "keywords": ["Trident Udaipur wedding", "affordable luxury wedding Udaipur", "lakeside wedding venue", "Oberoi Group wedding"],
+    "starRating": 5,
+    "tagline": "Contemporary Elegance on Lake Pichola",
+    "shortDescription": "A stylish Oberoi Group property offering contemporary luxury and stunning lake views at accessible price points, perfect for couples seeking quality without excess.",
+    "fullDescription": "Trident Udaipur offers the refined service standards of the Oberoi Group with a more contemporary aesthetic and accessible pricing. Set on 43 acres along Lake Pichola, the resort features landscaped gardens, reflection pools, and modern architecture that complements Udaipur's heritage backdrop. With 143 rooms and versatile event spaces, Trident accommodates weddings from intimate gatherings to grand celebrations. The property's skilled events team brings the same attention to detail expected from the Oberoi Group, making it an excellent choice for couples who want exceptional quality without the premium of its sister property, Udaivilas.",
+    "uniqueSellingPoints": [
+      "Oberoi Group standards at accessible pricing",
+      "43-acre lakeside property",
+      "143 rooms for easy guest accommodation",
+      "Modern facilities with heritage surroundings",
+      "Flexible spaces for 100-600 guests",
+      "Outstanding value proposition"
+    ],
+    "awardsRecognitions": [
+      "TripAdvisor Certificate of Excellence",
+      "Oberoi Group Quality Standards"
+    ],
+    "eventSpaces": [
+      {
+        "name": "Lake View Lawns",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 600,
+          "floating": 750,
+          "cocktail": 900
+        },
+        "dimensions": {
+          "length": "80 meters",
+          "width": "50 meters",
+          "area": "4,000 sq meters"
+        },
+        "features": ["Lake views", "Sunset backdrop", "Multiple configurations", "Adjacent pavilion"],
+        "idealFor": ["Wedding ceremony", "Reception", "Sangeet", "Baraat"]
+      },
+      {
+        "name": "Grand Ballroom",
+        "type": "indoor",
+        "capacity": {
+          "seated": 400,
+          "floating": 500,
+          "cocktail": 600
+        },
+        "dimensions": {
+          "length": "40 meters",
+          "width": "25 meters",
+          "height": "6 meters",
+          "area": "1,000 sq meters"
+        },
+        "features": ["Pillarless space", "Modern AV", "Pre-function area", "Climate controlled"],
+        "idealFor": ["Indoor reception", "Monsoon backup", "Sangeet", "Corporate"]
+      },
+      {
+        "name": "Courtyard",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 200,
+          "floating": 250,
+          "cocktail": 300
+        },
+        "dimensions": {
+          "length": "30 meters",
+          "width": "20 meters",
+          "area": "600 sq meters"
+        },
+        "features": ["Intimate setting", "Evening ambiance", "Water features", "Traditional design"],
+        "idealFor": ["Mehendi", "Cocktails", "Family dinner", "Cultural evening"]
+      }
+    ],
+    "totalEventSpaces": 3,
+    "maxGuestCapacity": 600,
+    "venueRentalRange": {
+      "min": "₹8,00,000",
+      "max": "₹35,00,000"
+    },
+    "roomNightRange": {
+      "min": "₹18,000",
+      "max": "₹75,000"
+    },
+    "foodBeverageMinimum": "₹6,000 per person per day",
+    "totalWeddingBudget": {
+      "min": "₹40 Lakhs",
+      "max": "₹2 Crore",
+      "note": "Excellent value with Oberoi Group quality. Venue, catering, rooms included."
+    },
+    "totalRooms": 143,
+    "roomCategories": [
+      {
+        "name": "Deluxe Room",
+        "count": 91,
+        "size": "440 sq ft",
+        "priceRange": "₹18,000 - ₹28,000 per night"
+      },
+      {
+        "name": "Garden View Suite",
+        "count": 32,
+        "size": "650 sq ft",
+        "priceRange": "₹35,000 - ₹50,000 per night"
+      },
+      {
+        "name": "Lake View Suite",
+        "count": 18,
+        "size": "750 sq ft",
+        "priceRange": "₹55,000 - ₹75,000 per night"
+      },
+      {
+        "name": "Premium Suite",
+        "count": 2,
+        "size": "1,100 sq ft",
+        "priceRange": "₹85,000 - ₹1,10,000 per night"
+      }
+    ],
+    "inHouseCatering": true,
+    "cuisineTypes": ["Indian Multi-Regional", "Continental", "Asian", "Local Rajasthani"],
+    "signatureDishes": ["Live counters", "Regional specialties", "International cuisine"],
+    "dietaryAccommodations": ["Vegetarian", "Vegan", "Jain", "Gluten-Free"],
+    "weddingAmenities": [
+      "Wedding coordinator",
+      "In-house décor",
+      "Guest management",
+      "Transport coordination",
+      "Vendor liaison"
+    ],
+    "guestAmenities": [
+      "Airport transfers",
+      "Swimming pool",
+      "Fitness center",
+      "Lake activities",
+      "City tours"
+    ],
+    "spaWellness": [
+      "In-house spa",
+      "Wellness treatments",
+      "Pre-wedding packages"
+    ],
+    "address": "Haridas Ji Ki Magri, Udaipur, Rajasthan 313001, India",
+    "coordinates": {
+      "lat": 24.5680,
+      "lng": 73.6750
+    },
+    "nearestAirport": {
+      "name": "Maharana Pratap Airport",
+      "code": "UDR",
+      "distance": "24 km",
+      "driveTime": "40 minutes"
+    },
+    "drivingDirections": {
+      "fromAirport": "NH48 towards Udaipur. Follow signs to Lake Pichola western shore. Trident is well-signposted.",
+      "fromCityCenter": "Western lake road past Fateh Sagar. 5 km from City Palace.",
+      "landmarks": ["Near Oberoi Udaivilas", "Western Lake Pichola shore"]
+    },
+    "parkingCapacity": "150+ vehicles with valet",
+    "helipadAvailable": false,
+    "weddingSeasons": {
+      "peak": "October to March",
+      "offPeak": "April-September",
+      "weather": "Peak: 15-28°C, ideal outdoor weather"
+    },
+    "typicalWeddingDuration": "2-4 days",
+    "exclusiveUseAvailable": true,
+    "exclusiveUsePrice": "₹35 Lakhs per night",
+    "outsideVendorsAllowed": true,
+    "alcoholPolicy": "Full bar service available",
+    "decorRestrictions": ["Standard venue guidelines"],
+    "noiseRestrictions": "10 PM outdoor, midnight indoor",
+    "weddingCoordinator": true,
+    "preferredVendorList": true,
+    "services": [
+      "Wedding planning",
+      "Catering",
+      "Décor coordination",
+      "Entertainment",
+      "Guest management"
+    ],
+    "cancellationPolicy": "Flexible Oberoi Group terms",
+    "paymentTerms": "30% deposit, staged payments",
+    "securityDeposit": "₹3,00,000 refundable",
+    "faqs": [
+      {
+        "question": "How does Trident compare to Oberoi Udaivilas?",
+        "answer": "Trident offers the same Oberoi Group service standards with more contemporary design and significantly lower pricing. It's ideal for couples who want quality without ultra-luxury pricing."
+      },
+      {
+        "question": "Is this suitable for large weddings?",
+        "answer": "With 143 rooms and capacity for 600 seated guests, Trident is excellent for larger celebrations. The high room count means most guests can stay on-property."
+      }
+    ],
+    "phone": "+91 294 243 2200",
+    "email": "reservations.udaipur@tridenthotels.com",
+    "website": "https://www.tridenthotels.com/hotels-in-udaipur/",
+    "rating": 4.6,
+    "reviewCount": 2890,
+    "weddingsHostedPerYear": "120+",
+    "packages": [
+      {
+        "name": "Classic Celebration",
+        "description": "2-night wedding package",
+        "priceRange": "₹50 - 80 Lakhs",
+        "includes": ["2-night venue", "Catering 300 guests", "60 rooms", "Basic décor"]
+      },
+      {
+        "name": "Grand Trident Wedding",
+        "description": "3-night comprehensive package",
+        "priceRange": "₹1 - 1.8 Crore",
+        "includes": ["3-night venue", "Premium catering 500 guests", "100 rooms", "Enhanced décor"]
+      }
+    ]
+  },
+  {
+    "id": "venue-udp-007",
+    "slug": "radisson-blu-udaipur",
+    "name": "Radisson Blu Udaipur Palace Resort & Spa",
+    "locationSlug": "udaipur",
+    "locationName": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "heroImage": "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/elite-wedding-planner.webp",
+    "gallery": [],
+    "metaTitle": "Radisson Blu Udaipur Wedding | Fateh Sagar Lake Wedding Venue",
+    "metaDescription": "Plan your wedding at Radisson Blu Udaipur on Fateh Sagar Lake. Stunning hilltop location, panoramic views, and international hospitality for 100-800 guests.",
+    "keywords": ["Radisson Blu Udaipur wedding", "Fateh Sagar wedding venue", "hilltop wedding Udaipur", "international hotel wedding Rajasthan"],
+    "starRating": 5,
+    "tagline": "Hilltop Grandeur with International Standards",
+    "shortDescription": "Set on a hilltop overlooking Fateh Sagar Lake, Radisson Blu offers panoramic views, modern facilities, and international service standards for memorable weddings.",
+    "fullDescription": "Perched on a hilltop with commanding views of Fateh Sagar Lake and the Aravalli Hills, Radisson Blu Udaipur offers a different perspective on Udaipur weddings. The resort combines international hospitality standards with local Rajasthani influences, creating a comfortable environment for guests while providing stunning venues for celebrations. With 240 rooms and extensive event spaces, the property easily accommodates large weddings while maintaining intimacy for smaller gatherings. The hilltop location ensures privacy and delivers spectacular sunset views that rival any lakeside venue.",
+    "uniqueSellingPoints": [
+      "Hilltop location with panoramic lake and mountain views",
+      "240 rooms - largest capacity in Udaipur",
+      "International brand standards",
+      "Multiple event spaces for 800+ guests",
+      "Competitive pricing with volume capacity",
+      "Fateh Sagar Lake proximity"
+    ],
+    "awardsRecognitions": [
+      "Radisson Quality Standards",
+      "TripAdvisor Certificate of Excellence"
+    ],
+    "eventSpaces": [
+      {
+        "name": "Horizon Lawns",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 800,
+          "floating": 1000,
+          "cocktail": 1200
+        },
+        "dimensions": {
+          "length": "100 meters",
+          "width": "60 meters",
+          "area": "6,000 sq meters"
+        },
+        "features": ["Panoramic views", "Sunset backdrop", "Hilltop setting", "Multiple zones"],
+        "idealFor": ["Grand wedding", "Large reception", "Sangeet", "Baraat"]
+      },
+      {
+        "name": "Palace Ballroom",
+        "type": "indoor",
+        "capacity": {
+          "seated": 500,
+          "floating": 600,
+          "cocktail": 750
+        },
+        "dimensions": {
+          "length": "45 meters",
+          "width": "28 meters",
+          "height": "7 meters",
+          "area": "1,260 sq meters"
+        },
+        "features": ["Pillarless design", "Modern AV", "Pre-function area", "Climate controlled"],
+        "idealFor": ["Indoor reception", "Monsoon backup", "Large sangeet", "Conferences"]
+      },
+      {
+        "name": "Aravalli Terrace",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 300,
+          "floating": 400,
+          "cocktail": 500
+        },
+        "dimensions": {
+          "length": "45 meters",
+          "width": "25 meters",
+          "area": "1,125 sq meters"
+        },
+        "features": ["Mountain views", "Evening ambiance", "Private setting", "Bar access"],
+        "idealFor": ["Cocktails", "Engagement", "Sangeet", "Family dinner"]
+      }
+    ],
+    "totalEventSpaces": 3,
+    "maxGuestCapacity": 800,
+    "venueRentalRange": {
+      "min": "₹6,00,000",
+      "max": "₹30,00,000"
+    },
+    "roomNightRange": {
+      "min": "₹12,000",
+      "max": "₹45,000"
+    },
+    "foodBeverageMinimum": "₹5,000 per person per day",
+    "totalWeddingBudget": {
+      "min": "₹30 Lakhs",
+      "max": "₹1.5 Crore",
+      "note": "Excellent value for large weddings. High room capacity keeps per-head costs low."
+    },
+    "totalRooms": 240,
+    "roomCategories": [
+      {
+        "name": "Superior Room",
+        "count": 140,
+        "size": "380 sq ft",
+        "priceRange": "₹12,000 - ₹18,000 per night"
+      },
+      {
+        "name": "Premium Room",
+        "count": 70,
+        "size": "450 sq ft",
+        "priceRange": "₹22,000 - ₹32,000 per night"
+      },
+      {
+        "name": "Suite",
+        "count": 25,
+        "size": "750 sq ft",
+        "priceRange": "₹35,000 - ₹45,000 per night"
+      },
+      {
+        "name": "Presidential Suite",
+        "count": 5,
+        "size": "1,400 sq ft",
+        "priceRange": "₹65,000 - ₹85,000 per night"
+      }
+    ],
+    "inHouseCatering": true,
+    "cuisineTypes": ["Multi-Cuisine", "Rajasthani", "Pan-Indian", "International"],
+    "signatureDishes": ["Live counters", "Thali service", "International buffets"],
+    "dietaryAccommodations": ["Vegetarian", "Vegan", "Jain", "Halal", "Gluten-Free"],
+    "weddingAmenities": [
+      "Event coordinator",
+      "In-house décor",
+      "AV support",
+      "Guest coordination",
+      "Transport"
+    ],
+    "guestAmenities": [
+      "Swimming pool",
+      "Fitness center",
+      "Spa",
+      "Multiple restaurants",
+      "Kids facilities"
+    ],
+    "spaWellness": [
+      "Full-service spa",
+      "Wellness center",
+      "Pre-wedding packages"
+    ],
+    "address": "Near Fateh Sagar Lake, Udaipur, Rajasthan 313001, India",
+    "coordinates": {
+      "lat": 24.6020,
+      "lng": 73.6810
+    },
+    "nearestAirport": {
+      "name": "Maharana Pratap Airport",
+      "code": "UDR",
+      "distance": "30 km",
+      "driveTime": "55 minutes"
+    },
+    "drivingDirections": {
+      "fromAirport": "Take NH48 towards Udaipur. Follow signs to Fateh Sagar Lake. The resort is on the hill above the lake, well-signposted.",
+      "fromCityCenter": "8 km from City Palace. Take the Fateh Sagar road north. Resort entrance is on the hilltop.",
+      "landmarks": ["Overlooking Fateh Sagar Lake", "Near Nehru Garden", "Hilltop location visible from city"]
+    },
+    "parkingCapacity": "250+ vehicles",
+    "helipadAvailable": false,
+    "weddingSeasons": {
+      "peak": "October to March",
+      "offPeak": "April-September",
+      "weather": "Peak: 12-26°C at hilltop, pleasant evenings"
+    },
+    "typicalWeddingDuration": "2-4 days",
+    "exclusiveUseAvailable": true,
+    "exclusiveUsePrice": "₹30 Lakhs per night",
+    "outsideVendorsAllowed": true,
+    "alcoholPolicy": "Full bar service available",
+    "decorRestrictions": ["Standard guidelines"],
+    "noiseRestrictions": "10 PM outdoor, midnight indoor",
+    "weddingCoordinator": true,
+    "preferredVendorList": true,
+    "services": [
+      "Wedding planning",
+      "Catering",
+      "Décor",
+      "Entertainment booking",
+      "Guest management"
+    ],
+    "cancellationPolicy": "Radisson standard terms",
+    "paymentTerms": "30% deposit, staged payments",
+    "securityDeposit": "₹2,50,000 refundable",
+    "faqs": [
+      {
+        "question": "What's the advantage of the hilltop location?",
+        "answer": "The hilltop offers panoramic views of Fateh Sagar Lake and Aravalli Hills, privacy from the city bustle, and spectacular sunsets. The elevated position creates natural drama for photographs."
+      },
+      {
+        "question": "How large a wedding can you accommodate?",
+        "answer": "With 240 rooms and lawns for 800+ guests, we're ideal for large celebrations. Most wedding parties can stay entirely on-property, simplifying logistics."
+      }
+    ],
+    "phone": "+91 294 302 5000",
+    "email": "reservations.udaipur@radisson.com",
+    "website": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-udaipur",
+    "rating": 4.5,
+    "reviewCount": 3245,
+    "weddingsHostedPerYear": "150+",
+    "packages": [
+      {
+        "name": "Value Celebration",
+        "description": "2-night budget-friendly package",
+        "priceRange": "₹35 - 55 Lakhs",
+        "includes": ["2-night venue", "Catering 300 guests", "80 rooms", "Basic décor"]
+      },
+      {
+        "name": "Grand Radisson Package",
+        "description": "3-night comprehensive wedding",
+        "priceRange": "₹80 Lakhs - 1.3 Crore",
+        "includes": ["3-night venue", "Premium catering 600 guests", "150 rooms", "Enhanced décor", "Entertainment"]
+      }
+    ]
+  },
+  {
+    "id": "venue-udp-008",
+    "slug": "shiv-niwas-palace-udaipur",
+    "name": "Shiv Niwas Palace",
+    "locationSlug": "udaipur",
+    "locationName": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "heroImage": "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/jodhpur-wedding-planner.webp",
+    "gallery": [],
+    "metaTitle": "Shiv Niwas Palace Wedding | City Palace Complex Wedding Venue",
+    "metaDescription": "Host an intimate royal wedding at Shiv Niwas Palace within Udaipur's City Palace complex. Authentic heritage, stunning lake views, perfect for 50-200 guests.",
+    "keywords": ["Shiv Niwas Palace wedding", "intimate palace wedding", "City Palace wedding venue", "boutique heritage wedding Udaipur"],
+    "starRating": 5,
+    "tagline": "Intimate Royal Grandeur Within City Palace",
+    "shortDescription": "A former royal guesthouse within the City Palace complex, Shiv Niwas offers intimate wedding celebrations with genuine heritage and stunning Lake Pichola views.",
+    "fullDescription": "Shiv Niwas Palace, once the guesthouse of the Maharana of Udaipur, offers an intimate palace wedding experience within the legendary City Palace complex. With just 36 rooms and suites, weddings here are necessarily exclusive, creating a house-party atmosphere where guests truly feel like royalty. The palace's terraces offer unobstructed views of Lake Pichola and Jag Mandir, while the interiors showcase genuine royal artifacts and period furnishings. For couples seeking authentic heritage without mega-venue scale, Shiv Niwas provides the perfect intimate setting.",
+    "uniqueSellingPoints": [
+      "Within City Palace complex - ultimate heritage location",
+      "36 rooms ensures intimate, exclusive celebrations",
+      "Former royal guesthouse with genuine artifacts",
+      "Lake Pichola views from multiple terraces",
+      "Combined bookings possible with Fateh Prakash Palace",
+      "Perfect for 50-200 guest weddings"
+    ],
+    "awardsRecognitions": [
+      "Heritage Hotels of India Recognition",
+      "Boutique Heritage Hotel of the Year"
+    ],
+    "eventSpaces": [
+      {
+        "name": "Lake Terrace",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 200,
+          "floating": 250,
+          "cocktail": 300
+        },
+        "dimensions": {
+          "length": "35 meters",
+          "width": "20 meters",
+          "area": "700 sq meters"
+        },
+        "features": ["Direct lake views", "City Palace backdrop", "Sunset ceremonies", "Heritage setting"],
+        "idealFor": ["Wedding ceremony", "Reception", "Cocktails"]
+      },
+      {
+        "name": "Durbar Room",
+        "type": "indoor",
+        "capacity": {
+          "seated": 80,
+          "floating": 100,
+          "cocktail": 120
+        },
+        "dimensions": {
+          "length": "18 meters",
+          "width": "12 meters",
+          "area": "216 sq meters"
+        },
+        "features": ["Royal portraits", "Period furnishings", "Intimate setting", "Heritage ambiance"],
+        "idealFor": ["Engagement", "Intimate dinner", "Family gathering", "Monsoon backup"]
+      },
+      {
+        "name": "Courtyard",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 100,
+          "floating": 120,
+          "cocktail": 150
+        },
+        "dimensions": {
+          "length": "22 meters",
+          "width": "16 meters",
+          "area": "352 sq meters"
+        },
+        "features": ["Traditional design", "Fountain center", "Evening ambiance"],
+        "idealFor": ["Mehendi", "Haldi", "Traditional ceremonies"]
+      }
+    ],
+    "totalEventSpaces": 3,
+    "maxGuestCapacity": 200,
+    "venueRentalRange": {
+      "min": "₹8,00,000",
+      "max": "₹30,00,000"
+    },
+    "roomNightRange": {
+      "min": "₹20,000",
+      "max": "₹1,00,000"
+    },
+    "foodBeverageMinimum": "₹7,000 per person per day",
+    "totalWeddingBudget": {
+      "min": "₹40 Lakhs",
+      "max": "₹1.5 Crore",
+      "note": "Intimate luxury within City Palace. Perfect for smaller, exclusive celebrations."
+    },
+    "totalRooms": 36,
+    "roomCategories": [
+      {
+        "name": "Heritage Room",
+        "count": 18,
+        "size": "350 sq ft",
+        "priceRange": "₹20,000 - ₹30,000 per night"
+      },
+      {
+        "name": "Palace Room",
+        "count": 12,
+        "size": "500 sq ft",
+        "priceRange": "₹40,000 - ₹60,000 per night"
+      },
+      {
+        "name": "Royal Suite",
+        "count": 6,
+        "size": "900 sq ft",
+        "priceRange": "₹75,000 - ₹1,00,000 per night"
+      }
+    ],
+    "inHouseCatering": true,
+    "cuisineTypes": ["Mewari Royal", "Rajasthani", "North Indian"],
+    "signatureDishes": ["Traditional Thali", "Royal feast menus"],
+    "dietaryAccommodations": ["Vegetarian", "Vegan", "Jain"],
+    "weddingAmenities": [
+      "Dedicated coordinator",
+      "Heritage décor",
+      "Traditional ceremonies",
+      "Lake views",
+      "City Palace access"
+    ],
+    "guestAmenities": [
+      "Pool access (shared with City Palace hotels)",
+      "Heritage walks",
+      "Cultural performances",
+      "City Palace museum access"
+    ],
+    "spaWellness": [
+      "In-palace treatments",
+      "Traditional wellness"
+    ],
+    "address": "City Palace Complex, Udaipur, Rajasthan 313001, India",
+    "coordinates": {
+      "lat": 24.5758,
+      "lng": 73.6908
+    },
+    "nearestAirport": {
+      "name": "Maharana Pratap Airport",
+      "code": "UDR",
+      "distance": "26 km",
+      "driveTime": "45 minutes"
+    },
+    "drivingDirections": {
+      "fromAirport": "As per City Palace directions. Enter through main City Palace gate.",
+      "fromCityCenter": "Within City Palace complex, adjacent to Fateh Prakash Palace.",
+      "landmarks": ["City Palace complex", "Near Lake Pichola jetty"]
+    },
+    "parkingCapacity": "City Palace parking facilities",
+    "helipadAvailable": false,
+    "weddingSeasons": {
+      "peak": "October to March",
+      "offPeak": "April-September",
+      "weather": "Peak: 15-28°C"
+    },
+    "typicalWeddingDuration": "2-3 days",
+    "exclusiveUseAvailable": true,
+    "exclusiveUsePrice": "₹18 Lakhs per night",
+    "outsideVendorsAllowed": true,
+    "alcoholPolicy": "Available with approval",
+    "decorRestrictions": ["Heritage protection required"],
+    "noiseRestrictions": "10 PM outdoor",
+    "weddingCoordinator": true,
+    "preferredVendorList": true,
+    "services": [
+      "Intimate wedding planning",
+      "Heritage catering",
+      "Traditional ceremonies",
+      "Cultural experiences"
+    ],
+    "cancellationPolicy": "HRH Group standard terms",
+    "paymentTerms": "50% deposit, balance before event",
+    "securityDeposit": "₹2,00,000 refundable",
+    "faqs": [
+      {
+        "question": "What's the relationship with Fateh Prakash Palace?",
+        "answer": "Both are HRH Group properties within City Palace. Many weddings combine both venues - events at Fateh Prakash with intimate gatherings at Shiv Niwas, giving access to more rooms and venue variety."
+      },
+      {
+        "question": "Is Shiv Niwas suitable for larger weddings?",
+        "answer": "With 36 rooms and capacity for 200, it's ideal for intimate weddings. For larger celebrations, combine with Fateh Prakash Palace or use Jagmandir for main ceremony."
+      }
+    ],
+    "phone": "+91 294 252 8016",
+    "email": "reservations@hrhhotels.com",
+    "website": "https://www.hrhhotels.com/shiv-niwas-palace/",
+    "rating": 4.6,
+    "reviewCount": 1456,
+    "weddingsHostedPerYear": "30+",
+    "packages": [
+      {
+        "name": "Intimate Heritage",
+        "description": "2-night boutique wedding",
+        "priceRange": "₹45 - 70 Lakhs",
+        "includes": ["2-night venue", "All rooms", "Heritage catering", "Traditional décor"]
+      }
+    ]
+  },
+  {
+    "id": "venue-udp-009",
+    "slug": "ramada-udaipur",
+    "name": "Ramada Udaipur Resort & Spa",
+    "locationSlug": "udaipur",
+    "locationName": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "heroImage": "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/goa-wedding-planner.webp",
+    "gallery": [],
+    "metaTitle": "Ramada Udaipur Wedding | Value Luxury Wedding Venue Rajasthan",
+    "metaDescription": "Plan an affordable luxury wedding at Ramada Udaipur. Excellent facilities, professional service, and competitive pricing for weddings of 100-500 guests.",
+    "keywords": ["Ramada Udaipur wedding", "affordable wedding venue Udaipur", "budget luxury wedding", "value wedding venue Rajasthan"],
+    "starRating": 4,
+    "tagline": "International Standards, Accessible Luxury",
+    "shortDescription": "A well-appointed resort offering international hospitality standards at competitive prices, ideal for couples seeking quality celebration without premium pricing.",
+    "fullDescription": "Ramada Udaipur offers a practical yet elegant option for wedding celebrations. Part of the Wyndham hotel group, the resort delivers consistent international standards while maintaining competitive pricing. With 96 rooms and versatile event spaces, it accommodates weddings from 100 to 500 guests comfortably. The property's experienced events team understands Indian wedding requirements and works efficiently to deliver memorable celebrations. For couples prioritizing value without compromising on essential quality, Ramada represents an intelligent choice.",
+    "uniqueSellingPoints": [
+      "International brand reliability",
+      "Competitive pricing",
+      "96 rooms for guest convenience",
+      "Professional events team",
+      "Versatile venue options",
+      "Modern facilities"
+    ],
+    "awardsRecognitions": [
+      "Wyndham Quality Standards",
+      "TripAdvisor Certificate of Excellence"
+    ],
+    "eventSpaces": [
+      {
+        "name": "Grand Lawn",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 500,
+          "floating": 600,
+          "cocktail": 750
+        },
+        "dimensions": {
+          "length": "60 meters",
+          "width": "40 meters",
+          "area": "2,400 sq meters"
+        },
+        "features": ["Open air", "Evening lighting", "Stage area", "Flexible layout"],
+        "idealFor": ["Wedding ceremony", "Reception", "Sangeet"]
+      },
+      {
+        "name": "Celebration Hall",
+        "type": "indoor",
+        "capacity": {
+          "seated": 300,
+          "floating": 400,
+          "cocktail": 450
+        },
+        "dimensions": {
+          "length": "35 meters",
+          "width": "22 meters",
+          "area": "770 sq meters"
+        },
+        "features": ["Climate controlled", "Modern AV", "Pre-function area"],
+        "idealFor": ["Indoor reception", "Monsoon backup", "Large gatherings"]
+      }
+    ],
+    "totalEventSpaces": 2,
+    "maxGuestCapacity": 500,
+    "venueRentalRange": {
+      "min": "₹3,00,000",
+      "max": "₹15,00,000"
+    },
+    "roomNightRange": {
+      "min": "₹8,000",
+      "max": "₹25,000"
+    },
+    "foodBeverageMinimum": "₹3,500 per person per day",
+    "totalWeddingBudget": {
+      "min": "₹20 Lakhs",
+      "max": "₹80 Lakhs",
+      "note": "Excellent value proposition. Complete weddings at fraction of luxury venue costs."
+    },
+    "totalRooms": 96,
+    "roomCategories": [
+      {
+        "name": "Superior Room",
+        "count": 60,
+        "size": "320 sq ft",
+        "priceRange": "₹8,000 - ₹12,000 per night"
+      },
+      {
+        "name": "Deluxe Room",
+        "count": 28,
+        "size": "400 sq ft",
+        "priceRange": "₹14,000 - ₹20,000 per night"
+      },
+      {
+        "name": "Suite",
+        "count": 8,
+        "size": "600 sq ft",
+        "priceRange": "₹22,000 - ₹25,000 per night"
+      }
+    ],
+    "inHouseCatering": true,
+    "cuisineTypes": ["Multi-Cuisine", "North Indian", "Rajasthani", "Continental"],
+    "signatureDishes": ["Buffet service", "Live counters"],
+    "dietaryAccommodations": ["Vegetarian", "Jain", "Special requests"],
+    "weddingAmenities": [
+      "Event coordinator",
+      "Basic décor",
+      "AV support",
+      "Transport assistance"
+    ],
+    "guestAmenities": [
+      "Swimming pool",
+      "Fitness center",
+      "Restaurant",
+      "Parking"
+    ],
+    "spaWellness": [
+      "Spa services"
+    ],
+    "address": "Kodiyat Road, Udaipur, Rajasthan 313001, India",
+    "coordinates": {
+      "lat": 24.5620,
+      "lng": 73.7050
+    },
+    "nearestAirport": {
+      "name": "Maharana Pratap Airport",
+      "code": "UDR",
+      "distance": "22 km",
+      "driveTime": "35 minutes"
+    },
+    "drivingDirections": {
+      "fromAirport": "NH48 towards Udaipur. Take Kodiyat Road exit. Resort on left.",
+      "fromCityCenter": "6 km from City Palace via Kodiyat Road.",
+      "landmarks": ["Kodiyat area", "Near Shilpgram"]
+    },
+    "parkingCapacity": "100+ vehicles",
+    "helipadAvailable": false,
+    "weddingSeasons": {
+      "peak": "October to March",
+      "offPeak": "April-September",
+      "weather": "Peak: 15-28°C"
+    },
+    "typicalWeddingDuration": "2-3 days",
+    "exclusiveUseAvailable": true,
+    "exclusiveUsePrice": "₹12 Lakhs per night",
+    "outsideVendorsAllowed": true,
+    "alcoholPolicy": "Full bar service",
+    "decorRestrictions": ["Standard venue terms"],
+    "noiseRestrictions": "10 PM outdoor",
+    "weddingCoordinator": true,
+    "preferredVendorList": true,
+    "services": [
+      "Event coordination",
+      "Catering",
+      "Basic décor",
+      "Guest management"
+    ],
+    "cancellationPolicy": "Wyndham standard terms",
+    "paymentTerms": "30% deposit, staged payments",
+    "securityDeposit": "₹1,00,000 refundable",
+    "faqs": [
+      {
+        "question": "Is Ramada suitable for a luxury wedding?",
+        "answer": "Ramada provides excellent facilities at competitive prices. While not ultra-luxury, it offers reliable quality for couples who prefer investing in other aspects like décor, entertainment, or photography."
+      }
+    ],
+    "phone": "+91 294 660 6000",
+    "email": "reservations@ramadaudaipur.com",
+    "website": "https://www.wyndhamhotels.com/ramada/udaipur-india/",
+    "rating": 4.3,
+    "reviewCount": 2134,
+    "weddingsHostedPerYear": "100+",
+    "packages": [
+      {
+        "name": "Smart Celebration",
+        "description": "Budget-friendly 2-night package",
+        "priceRange": "₹25 - 45 Lakhs",
+        "includes": ["2-night venue", "Catering 250 guests", "50 rooms", "Basic décor"]
+      }
+    ]
+  },
+  {
+    "id": "venue-udp-010",
+    "slug": "lalit-laxmi-vilas-palace-udaipur",
+    "name": "The LaLit Laxmi Vilas Palace Udaipur",
+    "locationSlug": "udaipur",
+    "locationName": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "heroImage": "https://www.eliteweddingplanner.in/wp-content/uploads/2024/05/elite-wedding-planner.webp",
+    "gallery": [],
+    "metaTitle": "LaLit Laxmi Vilas Palace Wedding | Heritage Palace Wedding Udaipur",
+    "metaDescription": "Host your wedding at The LaLit Laxmi Vilas Palace, a restored heritage palace with stunning Fateh Sagar views. Authentic Rajputana grandeur for 100-500 guests.",
+    "keywords": ["LaLit Laxmi Vilas Palace wedding", "heritage palace wedding", "Fateh Sagar wedding venue", "restored palace wedding Udaipur"],
+    "starRating": 5,
+    "tagline": "Heritage Grandeur Restored to Glory",
+    "shortDescription": "A magnificently restored heritage palace overlooking Fateh Sagar Lake, offering authentic Rajputana grandeur with modern luxury amenities.",
+    "fullDescription": "The LaLit Laxmi Vilas Palace represents the careful restoration of a genuine heritage palace into a luxury hotel while preserving its royal character. Overlooking the serene waters of Fateh Sagar Lake, the palace combines authentic period architecture with contemporary comforts. The 55 rooms and suites maintain original features while adding modern conveniences, and the event spaces showcase genuine heritage elements rarely found in purpose-built hotels. For couples who want palace wedding authenticity combined with reliable modern service, LaLit Laxmi Vilas offers an elegant solution.",
+    "uniqueSellingPoints": [
+      "Genuine restored heritage palace",
+      "Fateh Sagar Lake views",
+      "55 rooms with heritage character",
+      "Original architectural elements preserved",
+      "LaLit hospitality standards",
+      "Mid-size capacity ideal for 100-500 guests"
+    ],
+    "awardsRecognitions": [
+      "Heritage Hotels of India Recognition",
+      "LaLit Group Quality Standards"
+    ],
+    "eventSpaces": [
+      {
+        "name": "Palace Lawns",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 500,
+          "floating": 600,
+          "cocktail": 750
+        },
+        "dimensions": {
+          "length": "65 meters",
+          "width": "40 meters",
+          "area": "2,600 sq meters"
+        },
+        "features": ["Lake views", "Heritage backdrop", "Evening ambiance", "Multiple zones"],
+        "idealFor": ["Wedding ceremony", "Reception", "Sangeet"]
+      },
+      {
+        "name": "Durbar Hall",
+        "type": "indoor",
+        "capacity": {
+          "seated": 200,
+          "floating": 250,
+          "cocktail": 300
+        },
+        "dimensions": {
+          "length": "28 meters",
+          "width": "18 meters",
+          "area": "504 sq meters"
+        },
+        "features": ["Original architecture", "Period décor", "Climate controlled", "Historic ambiance"],
+        "idealFor": ["Indoor ceremony", "Engagement", "Family gathering", "Monsoon backup"]
+      },
+      {
+        "name": "Terrace",
+        "type": "outdoor",
+        "capacity": {
+          "seated": 150,
+          "floating": 180,
+          "cocktail": 220
+        },
+        "dimensions": {
+          "length": "25 meters",
+          "width": "18 meters",
+          "area": "450 sq meters"
+        },
+        "features": ["Elevated views", "Sunset perspective", "Intimate setting"],
+        "idealFor": ["Cocktails", "Mehendi", "Small ceremony"]
+      }
+    ],
+    "totalEventSpaces": 3,
+    "maxGuestCapacity": 500,
+    "venueRentalRange": {
+      "min": "₹8,00,000",
+      "max": "₹35,00,000"
+    },
+    "roomNightRange": {
+      "min": "₹15,000",
+      "max": "₹65,000"
+    },
+    "foodBeverageMinimum": "₹6,000 per person per day",
+    "totalWeddingBudget": {
+      "min": "₹50 Lakhs",
+      "max": "₹2.5 Crore",
+      "note": "Heritage palace experience at moderate pricing. Venue, catering, rooms included."
+    },
+    "totalRooms": 55,
+    "roomCategories": [
+      {
+        "name": "Heritage Room",
+        "count": 30,
+        "size": "400 sq ft",
+        "priceRange": "₹15,000 - ₹25,000 per night"
+      },
+      {
+        "name": "Palace Room",
+        "count": 18,
+        "size": "550 sq ft",
+        "priceRange": "₹35,000 - ₹45,000 per night"
+      },
+      {
+        "name": "Royal Suite",
+        "count": 7,
+        "size": "900 sq ft",
+        "priceRange": "₹55,000 - ₹65,000 per night"
+      }
+    ],
+    "inHouseCatering": true,
+    "cuisineTypes": ["Rajasthani", "North Indian", "Continental", "Pan-Asian"],
+    "signatureDishes": ["Royal Thali", "Mewari cuisine", "Live counters"],
+    "dietaryAccommodations": ["Vegetarian", "Vegan", "Jain", "Gluten-Free"],
+    "weddingAmenities": [
+      "Wedding coordinator",
+      "Heritage décor options",
+      "Cultural programming",
+      "Guest coordination",
+      "Transport"
+    ],
+    "guestAmenities": [
+      "Swimming pool",
+      "Spa",
+      "Fitness center",
+      "Multiple restaurants",
+      "Lake activities"
+    ],
+    "spaWellness": [
+      "Rejuve Spa",
+      "Ayurvedic treatments",
+      "Pre-wedding packages"
+    ],
+    "address": "Fateh Sagar Lake, Udaipur, Rajasthan 313001, India",
+    "coordinates": {
+      "lat": 24.5950,
+      "lng": 73.6750
+    },
+    "nearestAirport": {
+      "name": "Maharana Pratap Airport",
+      "code": "UDR",
+      "distance": "28 km",
+      "driveTime": "50 minutes"
+    },
+    "drivingDirections": {
+      "fromAirport": "Take NH48 to Udaipur. Follow signs to Fateh Sagar Lake. The palace is on the lake's western shore.",
+      "fromCityCenter": "7 km from City Palace via Fateh Sagar road.",
+      "landmarks": ["Fateh Sagar Lake", "Near Nehru Park"]
+    },
+    "parkingCapacity": "80+ vehicles with valet",
+    "helipadAvailable": false,
+    "weddingSeasons": {
+      "peak": "October to March",
+      "offPeak": "April-September",
+      "weather": "Peak: 15-28°C"
+    },
+    "typicalWeddingDuration": "2-3 days",
+    "exclusiveUseAvailable": true,
+    "exclusiveUsePrice": "₹25 Lakhs per night",
+    "outsideVendorsAllowed": true,
+    "alcoholPolicy": "Full bar service available",
+    "decorRestrictions": ["Heritage protection guidelines"],
+    "noiseRestrictions": "10 PM outdoor, midnight indoor",
+    "weddingCoordinator": true,
+    "preferredVendorList": true,
+    "services": [
+      "Wedding planning",
+      "Heritage catering",
+      "Décor coordination",
+      "Entertainment",
+      "Guest management"
+    ],
+    "cancellationPolicy": "LaLit standard terms",
+    "paymentTerms": "40% deposit, staged payments",
+    "securityDeposit": "₹3,00,000 refundable",
+    "faqs": [
+      {
+        "question": "How does this compare to Lake Pichola venues?",
+        "answer": "While Lake Pichola venues offer City Palace views, LaLit Laxmi Vilas provides tranquil Fateh Sagar views with genuine palace heritage. It's less crowded and offers excellent value for heritage seekers."
+      },
+      {
+        "question": "Is 55 rooms enough for larger weddings?",
+        "answer": "For weddings over 100 guests, we partner with nearby hotels for overflow. All events remain at the palace with coordinated transport for off-site guests."
+      }
+    ],
+    "phone": "+91 294 252 8800",
+    "email": "reservations.lvu@thelalit.com",
+    "website": "https://www.thelalit.com/the-lalit-laxmi-vilas-palace-udaipur/",
+    "rating": 4.5,
+    "reviewCount": 1876,
+    "weddingsHostedPerYear": "60+",
+    "packages": [
+      {
+        "name": "Heritage Elegance",
+        "description": "2-night palace wedding",
+        "priceRange": "₹60 - 95 Lakhs",
+        "includes": ["2-night venue", "All rooms", "Catering 200 guests", "Heritage décor"]
+      },
+      {
+        "name": "Royal LaLit Package",
+        "description": "3-night premium experience",
+        "priceRange": "₹1.3 - 2.2 Crore",
+        "includes": ["3-night exclusive", "Premium catering 400 guests", "Full décor", "Entertainment", "Spa treatments"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "id": "venue-024",
+  "name": "The Oberoi Amarvilas, Agra",
+  "slug": "oberoi-amarvilas-agra",
+  "city": "Agra",
+  "state": "Uttar Pradesh",
+  "region": "North",
+  "coordinates": {"lat": 27.1621, "lng": 78.0364},
+  "category": "Luxury Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 250},
+  "priceRange": {"min": 100, "max": 450},
+  "startingPrice": "₹100 Lakhs onwards",
+  "shortDescription": "Exchange vows with the Taj Mahal as your witness at The Oberoi Amarvilas, the only hotel offering unobstructed views of the world's greatest monument to love, creating truly poetic destination weddings.",
+  "longDescription": "The Oberoi Amarvilas occupies what might be the most romantic hotel location on earth—just 600 meters from the Taj Mahal, with every room offering unobstructed views of this eternal monument to love. For couples seeking a wedding venue where the very setting speaks of devotion and romance, Amarvilas creates an experience that no other property in the world can match. Here, ceremonies unfold with the Taj Mahal's silhouette marking the horizon, and receptions take place beneath starlit skies with the marble dome glowing in the moonlight.\n\nThe resort's architecture pays homage to Mughal traditions, with terraced lawns, fountains, reflection pools, and pavilions that echo the gardens surrounding the Taj Mahal itself. The interiors blend classical Mughal motifs with contemporary luxury, creating spaces that feel both timeless and comfortable. Throughout the property, the design ensures that the Taj Mahal remains in view, a constant reminder of why love is celebrated here.\n\nWith 102 rooms and suites, The Oberoi Amarvilas maintains the intimate scale that allows for truly personalized service. Every accommodation faces the Taj Mahal, with private terraces or gardens providing personal viewing spaces. The Kohinoor Suite offers the ultimate bridal experience, with its expansive living spaces and unrivaled Taj views. The attention to detail in room design reflects Oberoi's legendary commitment to guest comfort.\n\nWedding venues at Amarvilas leverage the extraordinary Taj Mahal views. The manicured lawns, spread across multiple levels, provide ceremony spaces with the monument as backdrop—a setting that needs no decoration. The pool terrace offers an intimate alternative with reflections of the Taj shimmering in the water. Indoor celebrations unfold in elegant venues with large windows framing the monument. The small scale ensures every wedding receives the property's complete attention.\n\nCulinary excellence at Amarvilas draws from Mughlai traditions appropriate to the setting, alongside refined continental and Asian options. Bellevue restaurant offers all-day dining with Taj views, while Esphahan serves refined Indian cuisine. The wedding culinary team creates menus that honor the Mughal heritage while accommodating diverse palates. Outdoor dining beneath the stars, with the Taj Mahal glowing in the distance, creates unforgettable reception experiences.\n\nThe Oberoi Spa offers holistic wellness drawing from ancient Indian traditions, preparing couples for their special day with personalized treatment programs. The wedding planning team understands that every celebration here carries special significance—the Taj Mahal was built as the ultimate expression of love, and weddings at Amarvilas inherit that legacy. For couples who understand that some settings transcend ordinary beauty, The Oberoi Amarvilas offers a wedding experience of profound romantic significance.",
+  "weddingSpaces": [
+    {"name": "Mughal Lawns", "capacity": 250, "type": "Outdoor", "sqft": 18000},
+    {"name": "Courtyard Terrace", "capacity": 150, "type": "Outdoor", "sqft": 10000},
+    {"name": "Pool Pavilion", "capacity": 100, "type": "Poolside", "sqft": 6000},
+    {"name": "Grand Ballroom", "capacity": 180, "type": "Indoor", "sqft": 5000},
+    {"name": "Private Dining Room", "capacity": 40, "type": "Indoor", "sqft": 1500}
+  ],
+  "features": ["Unobstructed Taj Mahal views from all rooms", "Only 600 meters from Taj Mahal", "102 exclusive rooms and suites", "Mughal-inspired architecture", "Terraced gardens with fountains", "Oberoi Spa wellness center", "Esphahan fine dining restaurant", "Romantic outdoor venues", "Intimate wedding scale", "Reflection pools and pavilions", "Sunrise and sunset Taj views", "Butler service throughout", "Comprehensive wedding planning", "Legendary Oberoi service"],
+  "cuisineTypes": ["Mughlai Fine Dining (Esphahan)", "Continental (Bellevue)", "North Indian", "Asian", "Mediterranean", "Fusion Cuisine"],
+  "accommodationRooms": 102,
+  "googleRating": 4.8,
+  "tripAdvisorRating": 5.0,
+  "weddingWireRating": 4.9,
+  "heroImage": "/images/venues/oberoi-amarvilas-agra/hero.jpg",
+  "galleryImages": ["/images/venues/oberoi-amarvilas-agra/gallery-1.jpg", "/images/venues/oberoi-amarvilas-agra/gallery-2.jpg", "/images/venues/oberoi-amarvilas-agra/gallery-3.jpg", "/images/venues/oberoi-amarvilas-agra/gallery-4.jpg", "/images/venues/oberoi-amarvilas-agra/gallery-5.jpg", "/images/venues/oberoi-amarvilas-agra/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.oberoihotels.com/hotels-in-agra-amarvilas-resort/",
+  "nearestAirport": "Agra Airport (Kheria)",
+  "distanceFromAirport": "12 km (25 minutes)",
+  "bestSeasons": ["October to March", "Winter season (November-February)", "Early spring (February-March)"],
+  "weatherNote": "Agra enjoys ideal visiting weather from October to March with temperatures between 8°C and 28°C. Summer months (April-June) are extremely hot, exceeding 45°C. The Taj Mahal views are clearest during winter.",
+  "metaTitle": "Oberoi Amarvilas Wedding | Taj Mahal Views Wedding Venue Agra",
+  "metaDescription": "Marry with the Taj Mahal as witness at The Oberoi Amarvilas. India's most romantic hotel offering unobstructed monument views for unforgettable weddings.",
+  "keywords": ["Oberoi Amarvilas wedding", "Taj Mahal wedding", "Agra wedding venue", "romantic wedding India", "monument wedding venue", "luxury wedding Agra", "Taj view wedding", "destination wedding Agra", "intimate wedding venue", "iconic wedding location"],
+  "phone": "+91-562-223-1515",
+  "email": "reservations.amarvilas@oberoihotels.com",
+  "website": "https://www.oberoihotels.com/hotels-in-agra-amarvilas-resort/",
+  "awards": ["Condé Nast Traveller Gold List", "Travel + Leisure World's Best", "Forbes Travel Guide Five Star", "TripAdvisor Travellers' Choice Hall of Fame", "Best Hotel View in the World"],
+  "whyChoose": ["Only hotel with unobstructed Taj Mahal views", "Most romantic location for weddings in India", "Every room faces the Taj Mahal", "Intimate 102-room property ensuring personalized attention", "Mughal-inspired architecture complementing the setting", "Legendary Oberoi service standards", "Profound symbolism—marry at love's ultimate monument", "Photography opportunities impossible elsewhere"],
+  "idealFor": ["Couples seeking ultimate romantic symbolism", "Intimate weddings up to 250 guests", "Photography-focused destination weddings", "History and architecture enthusiasts", "International couples seeking iconic Indian experience"],
+  "address": "Taj East Gate Road, Agra, Uttar Pradesh 282001, India",
+  "nearestRailway": "Agra Cantt Railway Station",
+  "distanceFromRailway": "6 km (15 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services available with hotel managing UP state permits. Premium spirits, wines, and cocktails offered. Elegant bar setups for wedding celebrations.",
+  "decorPolicy": "The Taj Mahal backdrop requires minimal decoration. Preferred decorators understand the setting's power. Floral and subtle décor enhance rather than compete. External decorators follow property guidelines.",
+  "musicPolicy": "Outdoor music until 10:00 PM respecting Taj Mahal heritage zone regulations. Indoor venues offer flexibility. Romantic acoustic performances suit the setting. The monument's presence creates natural atmosphere.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": true,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 25% forfeited. 60-89 days: 50% forfeited. 30-59 days: 75% forfeited. Less than 30 days: 100% forfeited.",
+  "paymentTerms": "40% advance at booking. 30% due 60 days before event. Balance 30% due 14 days before event. Full buyouts require 50% advance.",
+  "securityDeposit": "₹8,00,000 (Refundable within 14 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Agra Airport (Kheria), take NH44 towards the city. Follow signs towards Taj Mahal East Gate. The Oberoi Amarvilas is on Taj East Gate Road, just 600 meters from the monument. The hotel's Mughal-inspired entrance is clearly marked. Journey time approximately 25 minutes.",
+    "fromRailway": "From Agra Cantt Station, head towards the Taj Mahal area. Navigate to the East Gate via local roads. The Oberoi Amarvilas is on Taj East Gate Road, very close to the monument. Journey time approximately 15 minutes.",
+    "fromCityCenter": "From Agra Fort/main market area, head towards Taj Mahal East Gate. The Oberoi Amarvilas is on the main approach road to the East Gate, impossible to miss given its proximity to the monument. Journey time approximately 15-20 minutes.",
+    "landmarks": ["Taj Mahal East Gate (600 m)", "Mehtab Bagh (2 km)", "Agra Fort (5 km)", "Itimad-ud-Daulah (6 km)"],
+    "parkingInfo": "Complimentary valet parking for all guests. Limited parking within heritage zone. Wedding convoy coordination through hotel with advance planning."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book The Oberoi Amarvilas?",
+      "answer": "For this iconic venue, booking 12-18 months ahead is recommended. The unique Taj Mahal setting makes it highly sought after for destination weddings. Peak season (October-March) dates fill very early."
+    },
+    {
+      "question": "Can we have ceremonies with Taj Mahal directly visible?",
+      "answer": "Yes! The property is designed so every outdoor venue offers Taj Mahal views. The Mughal Lawns provide ceremonies with the monument as direct backdrop. Sunset ceremonies as the Taj glows golden are particularly magical."
+    },
+    {
+      "question": "What is the accommodation capacity?",
+      "answer": "The 102 rooms accommodate approximately 200 guests. For intimate Amarvilas weddings, this suits the venue's character. Full buyouts ensure complete privacy and the property's undivided attention."
+    },
+    {
+      "question": "Are Taj Mahal visits arranged for guests?",
+      "answer": "Absolutely. The hotel arranges private guided tours at optimal times. Sunrise Taj visits are particularly popular. The proximity means guests can visit independently throughout their stay."
+    },
+    {
+      "question": "What makes this location uniquely romantic?",
+      "answer": "The Taj Mahal was built as history's greatest monument to love—Shah Jahan's tribute to his wife Mumtaz. Marrying within sight of this symbol carries profound romantic significance impossible to replicate anywhere."
+    },
+    {
+      "question": "What culinary options are available?",
+      "answer": "Esphahan offers refined Mughlai cuisine appropriate to the setting. Continental and Asian options are also available. Outdoor dining with Taj views creates unforgettable wedding feast experiences."
+    },
+    {
+      "question": "What wellness services are available?",
+      "answer": "The Oberoi Spa offers comprehensive treatments including couples' rituals and bridal packages. Traditional Indian wellness traditions prepare couples for their special day. The spa setting overlooks gardens and Taj views."
+    },
+    {
+      "question": "What backup exists for outdoor events?",
+      "answer": "The Grand Ballroom provides climate-controlled backup with Taj views through large windows. Covered terraces and pavilions supplement. The winter season typically has reliable weather."
+    },
+    {
+      "question": "Is full property buyout recommended?",
+      "answer": "Yes, buyouts are highly recommended for weddings. The intimate scale means the property focuses entirely on your celebration. Buyout ensures all guests experience the exclusive Taj Mahal views."
+    },
+    {
+      "question": "What photography opportunities exist?",
+      "answer": "The Taj Mahal provides the world's most romantic backdrop. Sunrise and sunset offer golden light. The hotel's terraced gardens, reflection pools, and pavilions create diverse settings. Photography here is unmatched globally."
+    }
+  ]
+}

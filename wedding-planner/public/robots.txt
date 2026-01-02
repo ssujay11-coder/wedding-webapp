@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /api/
+Disallow: /admin/
+
+# Host
+Host: https://eliteweddingplanner.in
+
+# Sitemaps
+Sitemap: https://eliteweddingplanner.in/sitemap.xml

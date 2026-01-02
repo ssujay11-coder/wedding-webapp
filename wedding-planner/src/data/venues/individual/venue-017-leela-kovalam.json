@@ -1,0 +1,108 @@
+{
+  "id": "venue-017",
+  "name": "The Leela Kovalam, A Raviz Hotel",
+  "slug": "leela-kovalam-kerala",
+  "city": "Kovalam",
+  "state": "Kerala",
+  "region": "South",
+  "coordinates": {"lat": 8.4008, "lng": 76.9770},
+  "category": "Cliff Beach Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 500},
+  "priceRange": {"min": 50, "max": 220},
+  "startingPrice": "₹50 Lakhs onwards",
+  "shortDescription": "Perched on a dramatic cliff overlooking the Arabian Sea, The Leela Kovalam offers breathtaking sunset ceremonies, pristine private beaches, and Kerala's legendary hospitality for unforgettable destination weddings.",
+  "longDescription": "The Leela Kovalam commands one of India's most spectacular coastal positions—a dramatic cliff-top perch overlooking the iconic Kovalam Beach and the endless expanse of the Arabian Sea. This legendary resort has defined luxury beach tourism in Kerala since its opening, offering couples a destination wedding venue where every sunset feels like a divine blessing and every moment carries the whisper of the waves below. For those seeking beach wedding magic with a touch of theatrical drama, The Leela Kovalam delivers an experience that photographs beautifully and lives forever in memory.\n\nThe resort's architecture harmonizes with its stunning natural setting, with low-rise buildings cascading down the cliff face through tropical gardens. Traditional Kerala architectural elements—sloping tiled roofs, wooden verandahs, and open-air courtyards—blend with contemporary luxury amenities. The property's multiple levels create intimate zones and dramatic viewpoints, with every corner revealing new perspectives of the azure sea below.\n\nWith 183 rooms and suites spread across the cliff-side property, The Leela Kovalam accommodates substantial wedding parties while maintaining the intimate resort atmosphere that defines the property's charm. The Beach Villas offer direct sand access for couples seeking ultimate privacy. The Cliff Suites provide panoramic ocean views from private balconies. Throughout the accommodation, the design celebrates Kerala's craft traditions with contemporary comfort.\n\nWedding venues at The Leela Kovalam leverage the extraordinary setting with creativity. The Beach Lawn, stretching along the private beach below the cliff, hosts ceremonies for up to 500 guests with the sea as witness. The Cliff-Top Lawn offers a more elevated perspective, with sunset ceremonies unfolding as the sun dips into the Arabian Sea. The open-air Tides restaurant terrace becomes a romantic dinner venue. Indoor celebrations are hosted in the elegant ballroom with floor-to-ceiling windows framing ocean views.\n\nThe culinary program celebrates Kerala's extraordinary food traditions with particular emphasis on the state's famous seafood preparations. Fresh catch from local fishermen, spices from nearby plantations, and family recipes passed down through generations combine in menus that tell the story of God's Own Country. The resort's restaurants—The Terrace for all-day dining, Sky Grill for oceanside barbecue, and the specialty outlets—provide diverse dining experiences for multi-day wedding celebrations.\n\nDivya Spa draws on Kerala's millennia-old Ayurvedic healing traditions, offering treatments that prepare the body and mind for life's significant transitions. From traditional Panchakarma purification to modern beauty services, the spa team creates comprehensive pre-wedding wellness programs. Wedding guests can also explore Kerala's cultural treasures, from Padmanabhaswamy Temple in nearby Trivandrum to the historic lighthouse and fishing villages of Kovalam.",
+  "weddingSpaces": [
+    {"name": "Beach Lawn", "capacity": 500, "type": "Beach", "sqft": 40000},
+    {"name": "Cliff-Top Lawn", "capacity": 350, "type": "Outdoor", "sqft": 25000},
+    {"name": "The Terrace", "capacity": 200, "type": "Outdoor", "sqft": 12000},
+    {"name": "Grand Ballroom", "capacity": 400, "type": "Indoor", "sqft": 10000},
+    {"name": "Poolside Deck", "capacity": 150, "type": "Poolside", "sqft": 8000}
+  ],
+  "features": ["Dramatic cliff-top location", "Private beach access", "183 rooms and suites", "Legendary Kovalam Beach views", "Infinity pool overlooking sea", "Divya Spa with Ayurvedic treatments", "Multiple oceanfront venues", "Spectacular sunset ceremonies", "Traditional Kerala architecture", "Award-winning culinary team", "Water sports center", "Cultural performance arrangements", "Dedicated wedding planning", "Helipad for arrivals"],
+  "cuisineTypes": ["Traditional Kerala", "Malabar Seafood", "South Indian", "North Indian", "Continental", "Pan-Asian", "Mediterranean", "BBQ & Grills"],
+  "accommodationRooms": 183,
+  "googleRating": 4.5,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.8,
+  "heroImage": "/images/venues/leela-kovalam/hero.jpg",
+  "galleryImages": ["/images/venues/leela-kovalam/gallery-1.jpg", "/images/venues/leela-kovalam/gallery-2.jpg", "/images/venues/leela-kovalam/gallery-3.jpg", "/images/venues/leela-kovalam/gallery-4.jpg", "/images/venues/leela-kovalam/gallery-5.jpg", "/images/venues/leela-kovalam/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.theleela.com/kovalam/",
+  "nearestAirport": "Trivandrum International Airport",
+  "distanceFromAirport": "15 km (30 minutes)",
+  "bestSeasons": ["September to March", "Winter season (October-February)", "Post-monsoon (September-October)"],
+  "weatherNote": "Kovalam enjoys tropical weather with October to March ideal for beach weddings. Temperatures range from 23°C to 33°C with sea breezes providing relief. Monsoon (June-August) brings heavy rain and rough seas.",
+  "metaTitle": "The Leela Kovalam Wedding | Spectacular Cliff Beach Wedding Venue Kerala",
+  "metaDescription": "Host your dream beach wedding at The Leela Kovalam. Dramatic cliff-top resort with private beach, stunning sunsets, and venues for 50-500 guests in Kerala.",
+  "keywords": ["Leela Kovalam wedding", "Kovalam beach wedding", "cliff wedding venue India", "Kerala destination wedding", "beach resort wedding", "sunset wedding Kerala", "luxury beach wedding", "Arabian Sea wedding", "5 star beach wedding", "coastal wedding venue"],
+  "phone": "+91-471-305-1234",
+  "email": "reservations.kovalam@theleela.com",
+  "website": "https://www.theleela.com/kovalam/",
+  "awards": ["Condé Nast Traveller Gold List", "Travel + Leisure World's Best", "TripAdvisor Travellers' Choice", "Best Beach Resort Kerala", "Luxury Lifestyle Awards"],
+  "whyChoose": ["Dramatic cliff-top setting with panoramic Arabian Sea views", "Private beach providing exclusive celebration space", "Legendary sunset ceremonies over the ocean", "183 rooms accommodating large wedding parties", "Comprehensive Ayurvedic spa for pre-wedding wellness", "Close to Trivandrum airport for guest convenience", "Traditional Kerala architecture and hospitality", "Diverse venue options from beach to ballroom"],
+  "idealFor": ["Couples seeking dramatic coastal settings", "Beach wedding celebrations up to 500 guests", "Sunset-focused ceremony planning", "Multi-day celebrations with varied venues", "International guests seeking Kerala experience"],
+  "address": "Beach Road, Kovalam, Thiruvananthapuram, Kerala 695527, India",
+  "nearestRailway": "Trivandrum Central",
+  "distanceFromRailway": "18 km (35 minutes)",
+  "helipadAvailable": true,
+  "alcoholPolicy": "Full bar services available with hotel managing Kerala's liquor permits. Premium spirits, wines, and cocktails offered. Local specialty drinks including Kerala variations can be incorporated.",
+  "decorPolicy": "External decorators welcome with event team coordination. Beach and cliff setups require environmental compliance. Traditional Kerala floral arrangements encouraged. Fire safety protocols mandatory for all venues.",
+  "musicPolicy": "Beach music until 10:00 PM per local regulations. Ballroom allows music until 11:00 PM. Traditional Kerala percussion and classical performances can extend beyond restrictions in covered venues.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 25% forfeited. 60-89 days: 50% forfeited. 30-59 days: 75% forfeited. Less than 30 days: 100% forfeited.",
+  "paymentTerms": "30% advance at booking. 35% due 60 days before event. Balance 35% due 14 days before event.",
+  "securityDeposit": "₹7,00,000 (Refundable within 14 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Trivandrum International Airport, exit onto NH66 and head south towards Kovalam. Continue for approximately 12 km, passing Kovalam Junction. Follow signs to Leela Beach Road. The resort entrance is clearly marked on the cliff road. Journey time approximately 30 minutes.",
+    "fromRailway": "From Trivandrum Central Railway Station, head south on NH66 through the city. Continue past Kovalam Junction and follow beach road signs. The Leela Kovalam is at the end of the beach road on the cliff. Journey time approximately 35 minutes.",
+    "fromCityCenter": "From Trivandrum city center, take NH66 south. Pass through the suburbs and continue to Kovalam (14 km). Follow signs to Leela Beach and the resort. The dramatic cliff-top property is visible as you approach. Journey time approximately 30 minutes.",
+    "landmarks": ["Kovalam Beach (adjacent)", "Kovalam Lighthouse (2 km)", "Trivandrum Airport (15 km)", "Padmanabhaswamy Temple (16 km)"],
+    "parkingInfo": "Valet parking for all guests. Wedding convoy parking at designated areas with shuttle to venues. Beach access for setup vehicles coordinated through events team."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book The Leela Kovalam?",
+      "answer": "For peak season (October-March), booking 12-18 months ahead is recommended. The resort's dramatic setting makes it highly sought after for destination weddings. Popular dates fill early, especially during the Christmas/New Year period."
+    },
+    {
+      "question": "What makes the cliff-top setting special?",
+      "answer": "The elevated position provides 180-degree Arabian Sea views with sunset ceremonies becoming theatrical events. The multiple levels create intimate zones while maintaining grand scale. Photography benefits from dramatic angles and lighting."
+    },
+    {
+      "question": "Can beach ceremonies be arranged?",
+      "answer": "Yes, the private beach hosts ceremonies and receptions for up to 500 guests. Beach setup includes seating, lighting, and décor with environmental compliance. The sound of waves provides natural ambiance for ceremonies."
+    },
+    {
+      "question": "What Ayurvedic services are available?",
+      "answer": "Divya Spa offers authentic Kerala Ayurvedic treatments including Abhyanga, Shirodhara, and specialized bridal packages. The spa team can create comprehensive pre-wedding wellness programs for the entire wedding party."
+    },
+    {
+      "question": "How many guests can stay on property?",
+      "answer": "The 183 rooms accommodate approximately 350 guests. For larger weddings, partner hotels in Kovalam provide overflow with shuttle services. The beach venue capacity of 500 allows celebrations beyond room count."
+    },
+    {
+      "question": "What activities can guests enjoy?",
+      "answer": "Options include water sports, beach activities, Trivandrum temple visits, lighthouse tours, Ayurvedic spa treatments, backwater cruises, and cultural performances. The concierge tailors experiences for wedding guests."
+    },
+    {
+      "question": "Is helicopter arrival possible?",
+      "answer": "Yes, the resort has a helipad for dramatic arrivals. Helicopter services can be arranged from major cities. This creates memorable arrival moments and excellent photography opportunities."
+    },
+    {
+      "question": "What cuisine specialties are offered?",
+      "answer": "The culinary team excels in Kerala seafood, traditional Malabar cuisine, and South Indian vegetarian fare. North Indian, continental, and international options are also available. Fresh catch from local fishermen features prominently."
+    },
+    {
+      "question": "What backup exists for weather issues?",
+      "answer": "The Grand Ballroom (400 capacity) provides climate-controlled backup with ocean views. Covered terraces and temporary structures can supplement. The events team monitors weather and coordinates alternatives seamlessly."
+    },
+    {
+      "question": "What traditional elements can be incorporated?",
+      "answer": "Kerala wedding traditions including floral arrangements, Nilavilakku lamps, traditional percussion, Kathakali performances, and elaborate Sadhya feasts can all be incorporated. The team has extensive experience with Hindu, Christian, and multi-faith ceremonies."
+    }
+  ]
+}

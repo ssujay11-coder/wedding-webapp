@@ -1,0 +1,108 @@
+{
+  "id": "venue-021",
+  "name": "The St. Regis Mumbai",
+  "slug": "st-regis-mumbai",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "region": "West",
+  "coordinates": {"lat": 19.0074, "lng": 72.8180},
+  "category": "Ultra Luxury Tower",
+  "starRating": 5,
+  "guestCapacity": {"min": 100, "max": 1000},
+  "priceRange": {"min": 70, "max": 350},
+  "startingPrice": "₹70 Lakhs onwards",
+  "shortDescription": "Soar above Mumbai at The St. Regis, an ultra-modern skyscraper offering dramatic city views, expansive ballrooms, legendary St. Regis Butler Service, and sophisticated glamour for spectacular destination weddings.",
+  "longDescription": "The St. Regis Mumbai represents the pinnacle of contemporary luxury hospitality, a soaring skyscraper that has redefined sophistication in India's financial capital. Rising above Lower Parel's dynamic cityscape, this landmark property offers couples who embrace modernity and grandeur a wedding venue that matches their ambitions. Here, celebrations unfold against floor-to-ceiling windows framing Mumbai's glittering skyline, with service delivered by the legendary St. Regis Butler tradition that has defined luxury hospitality for over a century.\n\nThe hotel's design celebrates bold contemporary aesthetics with spaces that feel simultaneously intimate and dramatic. Art installations by celebrated contemporary artists punctuate public areas. The signature St. Regis Bar recreates the sophisticated atmosphere of the original New York location. Throughout the property, careful attention to materials, lighting, and spatial flow creates an atmosphere of refined modernity that photographs beautifully and impresses discerning guests.\n\nWith 395 rooms and suites occupying the upper floors of the tower, The St. Regis Mumbai offers wedding parties accommodation with views that extend to the Arabian Sea. Every room features floor-to-ceiling windows, luxurious marble bathrooms, and the signature St. Regis Butler Service. The Presidential Suite and Bentley Suite offer expansive living spaces for the couple and VIP guests, with private butler attention throughout the stay.\n\nWedding venues at The St. Regis Mumbai achieve impressive scale while maintaining sophistication. The Grand Ballroom, spanning 8,500 square feet with 23-foot ceilings, accommodates receptions for up to 1,000 guests in pillarless grandeur. Pre-function areas and foyers allow seamless event flow. Multiple smaller venues host sangeet, mehendi, and intimate celebrations. The rooftop venue offers al fresco celebrations with spectacular city views. The flexibility of venues allows complete multi-day weddings on-site.\n\nCulinary experiences at The St. Regis draw from both global expertise and local talent. Yuuka offers Japanese fine dining, while By the Mekong presents Pan-Asian flavors. The Seven Kitchens all-day dining showcases diverse cuisines. For weddings, the culinary team creates bespoke menus that can range from elaborate Indian wedding feasts to sophisticated multi-course continental dinners, executed with precision at significant scale.\n\nThe St. Regis Butler Service, a tradition dating to 1904, elevates wedding experiences beyond typical hospitality. Butlers anticipate needs, manage logistics, and ensure that the couple and key guests experience seamless, personalized service throughout the celebration. Iridium Spa provides comprehensive pre-wedding wellness, from signature treatments to bridal beauty packages. For couples seeking a wedding venue that combines contemporary glamour with legendary service traditions, The St. Regis Mumbai delivers exceptionally.",
+  "weddingSpaces": [
+    {"name": "Grand Ballroom", "capacity": 1000, "type": "Indoor", "sqft": 8500},
+    {"name": "Astor Ballroom", "capacity": 400, "type": "Indoor", "sqft": 4000},
+    {"name": "The Drawing Room", "capacity": 150, "type": "Indoor", "sqft": 2500},
+    {"name": "Rooftop Terrace", "capacity": 200, "type": "Outdoor", "sqft": 5000},
+    {"name": "Private Dining Rooms", "capacity": 80, "type": "Indoor", "sqft": 1800}
+  ],
+  "features": ["395 luxury rooms and suites", "Legendary St. Regis Butler Service", "Grand Ballroom with 23-ft ceilings", "Floor-to-ceiling city views", "Iridium Spa wellness center", "Contemporary art installations", "The St. Regis Bar", "Multiple dining venues", "Rooftop celebration space", "Central Lower Parel location", "Pillarless ballroom design", "Pre-function areas", "Modern audio-visual systems", "Valet and concierge services"],
+  "cuisineTypes": ["Japanese (Yuuka)", "Pan-Asian (By the Mekong)", "Multi-cuisine (Seven Kitchens)", "North Indian", "Continental", "Mediterranean", "Fusion Cuisine"],
+  "accommodationRooms": 395,
+  "googleRating": 4.6,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.8,
+  "heroImage": "/images/venues/st-regis-mumbai/hero.jpg",
+  "galleryImages": ["/images/venues/st-regis-mumbai/gallery-1.jpg", "/images/venues/st-regis-mumbai/gallery-2.jpg", "/images/venues/st-regis-mumbai/gallery-3.jpg", "/images/venues/st-regis-mumbai/gallery-4.jpg", "/images/venues/st-regis-mumbai/gallery-5.jpg", "/images/venues/st-regis-mumbai/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.marriott.com/hotels/travel/bomxr-the-st-regis-mumbai/",
+  "nearestAirport": "Chhatrapati Shivaji International Airport",
+  "distanceFromAirport": "18 km (40 minutes)",
+  "bestSeasons": ["October to March", "Winter season (November-February)", "Post-monsoon (October-November)"],
+  "weatherNote": "Mumbai enjoys tropical weather with October to March ideal for celebrations. Temperatures range from 20°C to 33°C. Monsoon (June-September) brings heavy rain. The indoor venues eliminate weather concerns.",
+  "metaTitle": "St. Regis Mumbai Wedding | Ultra Luxury Skyscraper Wedding Venue",
+  "metaDescription": "Host your glamorous wedding at The St. Regis Mumbai. Legendary Butler Service, Grand Ballroom for 1000 guests, and spectacular city skyline views.",
+  "keywords": ["St. Regis Mumbai wedding", "luxury wedding Mumbai", "skyscraper wedding venue", "modern wedding venue India", "large wedding Mumbai", "5 star wedding venue", "Butler Service wedding", "contemporary wedding venue", "Lower Parel wedding", "glamorous wedding India"],
+  "phone": "+91-22-6162-8000",
+  "email": "stregis.mumbai@stregis.com",
+  "website": "https://www.marriott.com/hotels/travel/bomxr-the-st-regis-mumbai/",
+  "awards": ["Condé Nast Traveller Hot List", "Travel + Leisure World's Best", "Forbes Travel Guide Five Star", "Best Luxury Hotel Mumbai", "Marriott Brand Excellence Award"],
+  "whyChoose": ["Legendary St. Regis Butler Service tradition since 1904", "Grand Ballroom accommodates 1000 guests with 23-ft ceilings", "395 rooms with dramatic Mumbai skyline views", "Contemporary glamour with sophisticated design", "Rooftop venue for memorable outdoor moments", "Central location accessible from all parts of Mumbai", "Iridium Spa for comprehensive pre-wedding wellness", "Marriott Bonvoy benefits for wedding parties"],
+  "idealFor": ["Modern couples embracing contemporary aesthetics", "Large-scale celebrations up to 1000 guests", "Families seeking sophisticated urban venue", "High-profile weddings requiring privacy and service", "Brand-conscious couples valuing St. Regis legacy"],
+  "address": "462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013, India",
+  "nearestRailway": "Lower Parel Railway Station",
+  "distanceFromRailway": "1 km (5 minutes)",
+  "helipadAvailable": true,
+  "alcoholPolicy": "Full bar services with extensive wine and spirits selection. St. Regis Bar expertise available for signature cocktails. Premium packages and rare vintages available. No outside alcohol permitted.",
+  "decorPolicy": "Preferred decorator list provided. External decorators welcome with coordination. The contemporary design provides sophisticated canvas. Fire safety compliance mandatory for large events.",
+  "musicPolicy": "Indoor venues allow music until 11:00 PM. Rooftop follows local regulations. Professional sound systems available. DJ and live band arrangements coordinated through events team.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days before: 25% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited.",
+  "paymentTerms": "30% advance at booking. 35% due 60 days before event. Balance 35% due 14 days before event. Marriott corporate terms apply for room blocks.",
+  "securityDeposit": "₹12,00,000 for large events (Refundable within 21 working days)",
+  "drivingDirections": {
+    "fromAirport": "From Chhatrapati Shivaji International Airport, take Western Express Highway south. Exit at Lower Parel and head towards Senapati Bapat Marg. The St. Regis tower is prominently visible in the skyline. Journey time approximately 40 minutes depending on traffic.",
+    "fromRailway": "From Lower Parel Railway Station, the hotel is a 5-minute walk on Senapati Bapat Marg. The iconic tower is visible from the station. Alternatively, hotel cars can provide pickup with advance notice.",
+    "fromCityCenter": "From South Mumbai/Colaba, take Dr. Annie Besant Road towards Lower Parel. Continue on Senapati Bapat Marg. The St. Regis tower is a landmark in the area. Journey time approximately 30-40 minutes.",
+    "landmarks": ["Palladium Mall (adjacent)", "Phoenix Mills (adjacent)", "Lower Parel Station (1 km)", "Worli Sea Face (3 km)"],
+    "parkingInfo": "Valet parking included for all guests. Extensive underground parking. Wedding convoy coordination available. The commercial district location offers good accessibility."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book The St. Regis Mumbai?",
+      "answer": "For peak season (November-February), booking 12-18 months ahead is recommended. The Grand Ballroom's capacity makes it popular for large weddings. Auspicious dates fill quickly."
+    },
+    {
+      "question": "What is St. Regis Butler Service?",
+      "answer": "The Butler Service tradition dates to the original St. Regis New York in 1904. Dedicated butlers handle packing/unpacking, garment pressing, shoe shining, and personalized requests—elevating the wedding couple and VIP guests' experience significantly."
+    },
+    {
+      "question": "What is the Grand Ballroom capacity?",
+      "answer": "The Grand Ballroom accommodates up to 1,000 guests in 8,500 sq ft of pillarless space with 23-foot ceilings. The scale and ceiling height allow dramatic décor installations and large-scale productions."
+    },
+    {
+      "question": "Can all guests stay on property?",
+      "answer": "The 395 rooms accommodate approximately 750 guests. For very large weddings, Marriott coordinates overflow at nearby properties. Room blocks should be secured well in advance."
+    },
+    {
+      "question": "Is the rooftop available for weddings?",
+      "answer": "Yes, the rooftop terrace accommodates up to 200 guests for cocktails, sangeet, or intimate ceremonies. The Mumbai skyline views are spectacular, especially at sunset and night."
+    },
+    {
+      "question": "What wellness services are available?",
+      "answer": "Iridium Spa offers comprehensive treatments including signature St. Regis rituals, bridal packages, and group wellness. The spa's contemporary setting matches the hotel's aesthetic."
+    },
+    {
+      "question": "How does the Lower Parel location benefit weddings?",
+      "answer": "The central location is accessible from all parts of Mumbai. The commercial district offers excellent infrastructure. Adjacent Palladium Mall provides shopping for guests. Airport access is convenient."
+    },
+    {
+      "question": "What backup exists for rooftop events?",
+      "answer": "Indoor venues including the Grand Ballroom provide complete backup for outdoor events. The hotel's predominantly indoor focus means weather rarely impacts celebrations."
+    },
+    {
+      "question": "What makes this venue different from heritage hotels?",
+      "answer": "The St. Regis offers contemporary glamour versus heritage charm. The modern infrastructure, city views, and sleek design appeal to couples seeking sophisticated urban celebrations rather than traditional settings."
+    },
+    {
+      "question": "Is helicopter arrival possible?",
+      "answer": "Yes, the hotel has a helipad for dramatic arrivals. Helicopter services can be coordinated for memorable moments. This feature is particularly valuable for time-sensitive VIP arrivals."
+    }
+  ]
+}

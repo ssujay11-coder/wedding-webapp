@@ -1,0 +1,108 @@
+{
+  "id": "venue-025",
+  "name": "Wildflower Hall, An Oberoi Resort",
+  "slug": "wildflower-hall-shimla",
+  "city": "Shimla",
+  "state": "Himachal Pradesh",
+  "region": "North",
+  "coordinates": {"lat": 31.1049, "lng": 77.1891},
+  "category": "Himalayan Mountain Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 30, "max": 200},
+  "priceRange": {"min": 80, "max": 350},
+  "startingPrice": "₹80 Lakhs onwards",
+  "shortDescription": "Escape to the clouds at Wildflower Hall Shimla, a magnificent Himalayan retreat set amid cedar forests at 8,250 feet, offering breathtaking mountain views and romantic seclusion for intimate destination weddings.",
+  "longDescription": "Wildflower Hall commands one of the most spectacular settings in the Himalayan range—a former residence of Lord Kitchener reimagined as an exquisite mountain resort, perched at 8,250 feet amid towering deodar cedars with panoramic views of snow-capped peaks. For couples seeking a destination wedding that combines natural grandeur with refined luxury, Wildflower Hall offers an escape from the ordinary into a realm of crisp mountain air, pristine forests, and horizons that stretch to forever. Here, weddings unfold against one of nature's most magnificent canvases.\n\nThe resort's architecture harmonizes with its alpine setting, featuring local stone, timber, and design elements that echo traditional Himalayan building styles while providing contemporary comfort. The interiors celebrate mountain living with warm wood paneling, stone fireplaces, and large windows framing the spectacular views. Throughout the property, the design philosophy respects the environment while creating spaces of understated elegance and natural luxury.\n\nWith only 85 rooms, suites, and residences, Wildflower Hall maintains the intimate atmosphere that defines exceptional mountain resorts. Each accommodation offers views of either the valley below or the snow-capped peaks beyond, with private balconies providing personal observation points for the ever-changing mountain scenery. The Lord Kitchener Suite and Oberoi Suite offer expansive living spaces for the wedding couple, with fireplaces and panoramic windows creating romantic retreats.\n\nWedding venues at Wildflower Hall leverage the extraordinary mountain setting. The terraced lawns, surrounded by ancient cedars and overlooking the valley, provide ceremony spaces with the Himalayas as backdrop. The indoor venues offer warm, elegant settings for winter celebrations when the mountains wear their snow blankets. The poolside terrace, heated for comfort, hosts cocktail gatherings with sunset views over the peaks. The flexibility of venues allows celebrations in any season.\n\nCulinary experiences at Wildflower Hall celebrate mountain bounty and diverse traditions. The restaurant serves refined Indian and continental cuisine with ingredients sourced from local farms and the property's own gardens. For weddings, the culinary team creates menus that can range from elaborate North Indian celebrations to sophisticated multi-cuisine experiences, all prepared with the attention to detail that defines Oberoi hospitality.\n\nThe Oberoi Spa draws from Himalayan wellness traditions, offering treatments that incorporate local herbs and mountain influences. The wedding planning team understands the unique logistics of mountain celebrations, from weather contingencies to transportation coordination. For couples seeking a wedding venue where nature's grandeur becomes part of the celebration, Wildflower Hall provides an experience of profound beauty and romance.",
+  "weddingSpaces": [
+    {"name": "Cedar Lawn", "capacity": 200, "type": "Outdoor", "sqft": 15000},
+    {"name": "Valley View Terrace", "capacity": 120, "type": "Outdoor", "sqft": 8000},
+    {"name": "Grand Ballroom", "capacity": 150, "type": "Indoor", "sqft": 4500},
+    {"name": "Heated Pool Deck", "capacity": 80, "type": "Poolside", "sqft": 4000},
+    {"name": "Private Dining Hall", "capacity": 40, "type": "Indoor", "sqft": 1500}
+  ],
+  "features": ["8,250 feet Himalayan elevation", "Former Lord Kitchener residence", "Only 85 rooms and suites", "Panoramic snow-peak views", "Ancient deodar cedar forests", "Heated outdoor swimming pool", "Oberoi Spa with Himalayan treatments", "Multiple outdoor terraces", "Fireplaces in accommodations", "Crisp mountain air setting", "Year-round destination", "Adventure activities available", "Intimate wedding scale", "Legendary Oberoi service"],
+  "cuisineTypes": ["North Indian", "Himalayan Cuisine", "Continental", "Pan-Asian", "Mediterranean", "Fusion Cuisine"],
+  "accommodationRooms": 85,
+  "googleRating": 4.7,
+  "tripAdvisorRating": 5.0,
+  "weddingWireRating": 4.9,
+  "heroImage": "/images/venues/wildflower-hall-shimla/hero.jpg",
+  "galleryImages": ["/images/venues/wildflower-hall-shimla/gallery-1.jpg", "/images/venues/wildflower-hall-shimla/gallery-2.jpg", "/images/venues/wildflower-hall-shimla/gallery-3.jpg", "/images/venues/wildflower-hall-shimla/gallery-4.jpg", "/images/venues/wildflower-hall-shimla/gallery-5.jpg", "/images/venues/wildflower-hall-shimla/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.oberoihotels.com/hotels-in-shimla-wildflower-hall-resort/",
+  "nearestAirport": "Chandigarh International Airport",
+  "distanceFromAirport": "110 km (3.5 hours)",
+  "bestSeasons": ["March to June (Spring/Summer)", "September to November (Autumn)", "December to February (Snow Weddings)"],
+  "weatherNote": "Shimla enjoys cool weather year-round. Summer (March-June) offers pleasant 15-25°C temperatures. Autumn provides clear skies. Winter (December-February) brings snow creating magical settings, but requires cold weather planning.",
+  "metaTitle": "Wildflower Hall Shimla Wedding | Himalayan Mountain Wedding Venue",
+  "metaDescription": "Host your dream mountain wedding at Wildflower Hall Shimla. Breathtaking Himalayan views, cedar forests, and intimate luxury at 8,250 feet elevation.",
+  "keywords": ["Wildflower Hall wedding", "Shimla wedding venue", "Himalayan wedding", "mountain wedding India", "hill station wedding", "snow wedding India", "Oberoi wedding venue", "intimate mountain wedding", "destination wedding Himachal", "luxury resort wedding"],
+  "phone": "+91-177-264-8585",
+  "email": "reservations.wildflowerhall@oberoihotels.com",
+  "website": "https://www.oberoihotels.com/hotels-in-shimla-wildflower-hall-resort/",
+  "awards": ["Condé Nast Traveller Gold List", "Travel + Leisure World's Best", "TripAdvisor Travellers' Choice", "Best Mountain Resort India", "Oberoi Excellence Award"],
+  "whyChoose": ["Spectacular 8,250-foot Himalayan setting", "Ancient cedar forests surrounding the property", "Panoramic snow-capped peak views", "Intimate 85-room property for personalized celebrations", "Year-round destination including magical snow weddings", "Cool climate escaping Indian heat", "Oberoi's legendary service in mountain setting", "Adventure activities for wedding guests"],
+  "idealFor": ["Couples seeking nature-immersed celebrations", "Intimate mountain weddings up to 200 guests", "Summer escapes from plains heat", "Winter snow wedding experiences", "Adventure-loving couples and guests"],
+  "address": "Charabra, Shimla, Himachal Pradesh 171012, India",
+  "nearestRailway": "Shimla Railway Station",
+  "distanceFromRailway": "13 km (40 minutes)",
+  "helipadAvailable": true,
+  "alcoholPolicy": "Full bar services available. Himachal Pradesh has relaxed alcohol policies. Premium spirits, wines, and cocktails offered. Mountain setting perfect for whisky and wine tastings.",
+  "decorPolicy": "Natural forest setting requires minimal decoration. Preferred decorators understand mountain aesthetics. Floral and natural elements encouraged. External decorators welcome with guidelines.",
+  "musicPolicy": "Mountain setting has flexible music policies. Outdoor music until 10:30 PM typical. Indoor venues offer more flexibility. Acoustic and folk performances suit the atmosphere.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": true,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 25% forfeited. 60-89 days: 50% forfeited. 30-59 days: 75% forfeited. Less than 30 days: 100% forfeited.",
+  "paymentTerms": "40% advance at booking. 30% due 60 days before event. Balance 30% due 14 days before event. Full buyouts require 50% advance.",
+  "securityDeposit": "₹6,00,000 (Refundable within 14 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Chandigarh Airport, take NH5 towards Shimla. Continue through Kalka and Solan, climbing into the mountains. After reaching Shimla, continue to Charabra (13 km beyond Shimla). Wildflower Hall is signposted on the left. Journey time approximately 3.5-4 hours.",
+    "fromRailway": "From Shimla Railway Station, take the road to Charabra. Continue uphill through the cedar forests. Wildflower Hall is approximately 13 km beyond Shimla at higher elevation. Journey time approximately 40 minutes.",
+    "fromShimla": "From Shimla Mall Road, take the road to Charabra/Mashobra. Continue uphill through increasingly forested roads. Wildflower Hall is clearly signposted on the main road. Journey time approximately 40 minutes.",
+    "landmarks": ["Mashobra (5 km)", "Shimla (13 km)", "Kufri (12 km)", "Green Valley (nearby)"],
+    "parkingInfo": "Complimentary parking for guests. Mountain road conditions considered. Wedding convoy coordination includes weather and road assessments. Helipad available for alternative arrivals."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book Wildflower Hall?",
+      "answer": "For peak seasons (March-June summer and December-February snow), booking 12-15 months ahead is recommended. The intimate scale and unique mountain setting make it popular. Off-season dates can be confirmed 6-9 months ahead."
+    },
+    {
+      "question": "What is the weather like for weddings?",
+      "answer": "Summer (March-June) offers pleasant 15-25°C weather. Autumn (September-November) brings clear skies and stunning views. Winter (December-February) provides snow settings but requires cold weather planning with temperatures often below 0°C."
+    },
+    {
+      "question": "Can snow weddings be arranged?",
+      "answer": "Yes! Winter weddings with snow-covered landscapes create magical settings. Indoor venues are heated and comfortable. Outdoor ceremonies require careful weather monitoring. The snow-capped peaks as backdrop are extraordinarily romantic."
+    },
+    {
+      "question": "What is the accommodation capacity?",
+      "answer": "The 85 rooms accommodate approximately 160 guests. For mountain weddings, this intimate scale is ideal. Full property buyouts are recommended to ensure privacy and the resort's complete attention."
+    },
+    {
+      "question": "Is helicopter arrival possible?",
+      "answer": "Yes, Wildflower Hall has a helipad. Helicopter service from Chandigarh dramatically reduces travel time and provides spectacular aerial approaches. This is valuable for VIP guests or time-sensitive arrivals."
+    },
+    {
+      "question": "What activities can guests enjoy?",
+      "answer": "Options include nature walks, bird watching, mountain biking, trekking, river rafting, and winter skiing/tobogganing. The spa offers Himalayan wellness treatments. The setting itself provides relaxation through natural beauty."
+    },
+    {
+      "question": "What backup exists for weather issues?",
+      "answer": "The Grand Ballroom and indoor dining venues provide complete backup. Mountain weather can change rapidly, so contingency plans are always prepared. Heated indoor spaces ensure comfort regardless of conditions."
+    },
+    {
+      "question": "How does the mountain location affect logistics?",
+      "answer": "The mountain setting requires advance planning for transportation and vendor coordination. The wedding team has extensive experience managing these logistics. Most guests appreciate the journey as part of the destination experience."
+    },
+    {
+      "question": "What cuisine is available?",
+      "answer": "The culinary team offers North Indian, continental, and Himalayan specialties. Fresh ingredients from local farms and the property's gardens feature prominently. Warm soups and mountain-appropriate menus are specialties."
+    },
+    {
+      "question": "What makes this venue special?",
+      "answer": "The combination of 8,250-foot elevation, ancient cedar forests, snow-peak views, and Oberoi service creates an experience impossible to replicate. The natural grandeur becomes part of the wedding story in profound ways."
+    }
+  ]
+}

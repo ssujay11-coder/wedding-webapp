@@ -1,0 +1,449 @@
+{
+  "name": "Taj Lake Palace",
+  "slug": "taj-lake-palace-udaipur",
+  "tagline": "A Floating Dream on Lake Pichola",
+  "description": "Rising majestically from the serene waters of Lake Pichola, Taj Lake Palace is an architectural marvel that transforms your wedding into a fairy tale. Built in 1746 as the royal summer palace, this iconic white marble floating palace offers unparalleled luxury and romance. Every corner tells a story of royal heritage, from the lily ponds and fountains to the intricate Mewar architecture. Your guests will arrive by boat, setting the tone for an extraordinary celebration that blends regal grandeur with intimate romance.",
+  "heroImage": "/images/venues/taj-lake-palace-photo-1566073771259-6a8506099945.webp",
+  "heroVideo": "https://www.youtube.com/embed/example",
+  "location": {
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "address": "Pichola, Udaipur, Rajasthan 313001"
+  },
+  "capacity": {
+    "min": 50,
+    "max": 200
+  },
+  "priceRange": {
+    "min": 5000000,
+    "max": 25000000,
+    "currency": "INR"
+  },
+  "rating": 5.0,
+  "reviewCount": 127,
+  "highlights": [
+    "Floating Palace",
+    "Lake Views",
+    "Royal Heritage",
+    "Boat Arrival",
+    "5-Star Luxury"
+  ],
+  "venueTypes": [
+    "Palace",
+    "Lakeside",
+    "Heritage"
+  ],
+  "amenities": [
+    {
+      "icon": "palace",
+      "title": "Royal Suites",
+      "description": "83 rooms and suites with antique furniture, silk fabrics, and stunning lake views"
+    },
+    {
+      "icon": "food",
+      "title": "Gourmet Dining",
+      "description": "Award-winning restaurants offering Rajasthani, Indian, and international cuisines"
+    },
+    {
+      "icon": "spa",
+      "title": "Jiva Spa",
+      "description": "Luxurious spa with traditional Indian wellness therapies and beauty treatments"
+    },
+    {
+      "icon": "boat",
+      "title": "Private Boat Service",
+      "description": "Exclusive boat transfers for you and your guests from the jetty"
+    },
+    {
+      "icon": "decor",
+      "title": "In-house Décor Team",
+      "description": "Expert decorators specializing in royal Rajasthani and contemporary themes"
+    },
+    {
+      "icon": "events",
+      "title": "Multiple Venues",
+      "description": "Mewar Mahal, Lily Pond, Jharokha, and private courtyards for different functions"
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/venues/taj-lake-palace-photo-1566073771259-6a8506099945.webp",
+      "alt": "Taj Lake Palace exterior",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/venues/taj-lake-palace-photo-1582719508461-905c673771fd.webp",
+      "alt": "Wedding mandap setup",
+      "category": "Ceremony"
+    },
+    {
+      "src": "/images/venues/taj-lake-palace-photo-1519167758481-83f550bb49b3.webp",
+      "alt": "Reception dinner",
+      "category": "Reception"
+    },
+    {
+      "src": "/images/venues/taj-lake-palace-photo-1464366400600-7168b8af9bc3.webp",
+      "alt": "Lake view suite",
+      "category": "Rooms"
+    },
+    {
+      "src": "/images/venues/taj-lake-palace-photo-1551882547-ff40c63fe5fa.webp",
+      "alt": "Lily pond venue",
+      "category": "Venues"
+    },
+    {
+      "src": "/images/venues/taj-lake-palace-photo-1515934751635-c81c6bc9a2d8.webp",
+      "alt": "Sunset ceremony",
+      "category": "Ceremony"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1529543544277-750e2ea84bc5?q=80&w=1000",
+      "alt": "Royal decor",
+      "category": "Decor"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1549916238-d806d444c5c3?q=80&w=1000",
+      "alt": "Dining experience",
+      "category": "Reception"
+    },
+    {
+      "src": "/images/venues/taj-lake-palace-photo-1542314831-068cd1dbfeeb.webp",
+      "alt": "Palace courtyard",
+      "category": "Venues"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Priya & Rahul",
+      "quote": "Our wedding at Taj Lake Palace was beyond our wildest dreams. Arriving by boat as the sun set over Lake Pichola was a moment we'll cherish forever.",
+      "weddingDate": "February 2025"
+    },
+    {
+      "name": "Aisha & Vikram",
+      "quote": "The attention to detail was impeccable. From the floral arrangements to the cuisine, everything was fit for royalty. Our guests still talk about it!",
+      "weddingDate": "December 2024"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do guests reach Taj Lake Palace?",
+      "answer": "Guests are transported to the palace via private boats from the City Palace jetty. The scenic 5-minute boat ride adds to the magical experience of attending a wedding at this floating palace."
+    },
+    {
+      "question": "What is the minimum guest count for a wedding?",
+      "answer": "The palace recommends a minimum of 50 guests for a wedding celebration to make full use of the exclusive venues and services. Maximum capacity is 200 guests for a single event."
+    },
+    {
+      "question": "Can we have a destination wedding package?",
+      "answer": "Yes, Taj Lake Palace offers comprehensive wedding packages that include accommodation for guests, catering, décor, and coordination. Custom packages can be tailored to your specific requirements."
+    },
+    {
+      "question": "What outdoor venues are available?",
+      "answer": "The palace offers the stunning Lily Pond courtyard, Mewar Mahal with panoramic lake views, and the Jharokha terrace. Each venue offers unique settings for different wedding functions."
+    },
+    {
+      "question": "Is there accommodation for all guests on the property?",
+      "answer": "The palace has 83 rooms and suites. For larger weddings, the Taj group arranges additional accommodation at nearby Taj properties including Fateh Prakash Palace and Taj Aravali Resort."
+    },
+    {
+      "question": "What is the cost of a wedding at Taj Lake Palace?",
+      "answer": "A wedding at Taj Lake Palace typically ranges from ₹2.5 crores to ₹5+ crores depending on guest count, season, and customizations. This includes venue rental, accommodation for 83 rooms, catering for all events, and basic décor. Peak season (October-March) commands 20-30% higher rates."
+    },
+    {
+      "question": "What is the best time for a wedding at Taj Lake Palace?",
+      "answer": "The ideal months for a wedding at Taj Lake Palace are October to March when Udaipur enjoys pleasant weather with temperatures between 15-25°C. November and February are most popular for outdoor ceremonies. Avoid monsoon season (July-September) when boat services may be affected."
+    },
+    {
+      "question": "Can we have fireworks at Taj Lake Palace?",
+      "answer": "Yes, fireworks displays over Lake Pichola are one of the signature experiences at Taj Lake Palace. The venue can arrange choreographed fireworks for your wedding night. Permits and safety arrangements are handled by the palace team. Sound ordinances require displays to end by 10 PM."
+    },
+    {
+      "question": "Are outside vendors allowed at Taj Lake Palace?",
+      "answer": "Catering is exclusively handled by Taj Lake Palace's in-house team. For décor, photography, and entertainment, you can bring outside vendors, though the palace maintains a preferred vendor list of professionals experienced with the venue. Outside vendors must comply with heritage property guidelines."
+    },
+    {
+      "question": "How far in advance should I book Taj Lake Palace for my wedding?",
+      "answer": "For peak wedding season (October-March), we recommend booking 18-24 months in advance. The palace hosts only one wedding at a time for exclusivity, making prime dates extremely sought-after. For off-season bookings, 12 months advance notice is usually sufficient."
+    },
+    {
+      "question": "What makes Taj Lake Palace unique for destination weddings?",
+      "answer": "Taj Lake Palace is the only floating palace wedding venue in India. Built in 1746 as a royal summer palace, it offers an unmatched experience: guests arrive by boat, ceremonies take place surrounded by Lake Pichola, and the 360-degree water views create a magical, intimate atmosphere that no land-based venue can replicate."
+    },
+    {
+      "question": "Can elderly or wheelchair-bound guests attend weddings at Taj Lake Palace?",
+      "answer": "Yes, Taj Lake Palace accommodates guests with mobility challenges. Boats are equipped for wheelchair access, and the palace has ramps and elevators for internal movement. The venue coordinator can arrange specific room locations closer to event venues for elderly guests requiring minimal walking."
+    }
+  ],
+  "nearbyAttractions": [
+    "City Palace",
+    "Jagdish Temple",
+    "Saheliyon ki Bari",
+    "Monsoon Palace",
+    "Vintage Car Museum"
+  ],
+  "weddingsHosted": 85,
+  "features": [
+    "Exclusive buyouts available",
+    "Multi-faith ceremonies",
+    "In-house event planners",
+    "Custom menu creation",
+    "Traditional music performances",
+    "Fireworks arrangements",
+    "Guest room blocking",
+    "Airport transfers",
+    "Pre-wedding shoots",
+    "Honeymoon suites",
+    "Baraat by boat",
+    "Royal elephant welcome"
+  ],
+  "weddingSpaces": [
+    {
+      "name": "Mewar Mahal",
+      "capacity": 150,
+      "type": "Indoor",
+      "sqft": 3000,
+      "features": [
+        "Lake View",
+        "AC",
+        "Royal Decor"
+      ]
+    },
+    {
+      "name": "Lily Pond",
+      "capacity": 100,
+      "type": "Outdoor",
+      "sqft": 4500,
+      "features": [
+        "Open Air",
+        "Water Feature",
+        "Intimate"
+      ]
+    },
+    {
+      "name": "Jharokha",
+      "capacity": 50,
+      "type": "Rooftop",
+      "sqft": 1200,
+      "features": [
+        "Panoramic View",
+        "Sunset Point"
+      ]
+    }
+  ],
+  "pros": [
+    "Unmatched royal heritage and exclusive island location",
+    "Stunning 360-degree views of Lake Pichola and City Palace",
+    "World-class Taj hospitality and culinary excellence",
+    "Extremely photogenic venues for day and night functions"
+  ],
+  "cons": [
+    "Logistics can be challenging due to boat-only access",
+    "Limited capacity (max 200) makes it unsuitable for massive weddings",
+    "Strict noise restrictions after 10 PM for outdoor events",
+    "Premium pricing makes it one of the most expensive venues in India"
+  ],
+  "roomTypes": [
+    {
+      "name": "Luxury Room Garden View",
+      "price": "₹65,000",
+      "description": "Elegant rooms overlooking the lily pond or terrace.",
+      "image": "/images/venues/taj-lake-palace-photo-1590490360182-c33d57733427.webp",
+      "amenities": [
+        "King Bed",
+        "Bathtub",
+        "Butler Service"
+      ]
+    },
+    {
+      "name": "Palace Lake View Room",
+      "price": "₹85,000",
+      "description": "Breathtaking views of the lake and Aravalli mountains.",
+      "image": "https://images.unsplash.com/photo-1595576560481-097141854e3c?q=80&w=1000",
+      "amenities": [
+        "Lake View",
+        "Sitting Area",
+        "Premium Mini-bar"
+      ]
+    },
+    {
+      "name": "Royal Suite",
+      "price": "₹2,50,000",
+      "description": "Opulent suites with original frescoes and crystal chandeliers.",
+      "image": "/images/venues/taj-lake-palace-photo-1578683010236-d716f9a3f461.webp",
+      "amenities": [
+        "Separate Living Room",
+        "Jacuzzi",
+        "Private Terrace"
+      ]
+    }
+  ],
+  "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3628.271391985956!2d73.6806893150005!3d24.57688998418844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396cc28b2488888f%3A0x6e26715456247c1a!2sTaj%20Lake%20Palace%2C%20Udaipur!5e0!3m2!1sen!2sin!4v1652438914652!5m2!1sen!2sin",
+  "uniqueSellingPoints": [
+    "Only floating palace wedding venue in India",
+    "360-degree panoramic views of Lake Pichola and Aravalli Hills",
+    "Guests arrive exclusively by boat - a truly royal entrance",
+    "Former summer palace of Mewar royalty dating back to 1746",
+    "Every wedding feels like a private celebration - complete palace buyout available"
+  ],
+  "insiderTips": [
+    "Book the Mewar Mahal for your main ceremony - the sunset views through the jharokhas (traditional windows) create magical lighting for photographs without any artificial setup.",
+    "Request the palace's traditional Mewar musicians for your baraat - their dhol and shehnai performances echoing across the lake create an unforgettable atmosphere.",
+    "Schedule your mehendi at the Lily Pond between 4-6 PM when the natural light is perfect and the evening breeze keeps guests comfortable.",
+    "The palace kitchen excels at Rajasthani cuisine - include Dal Baati Churma and Laal Maas in your menu for an authentic local experience that guests remember.",
+    "Book the Jiva Spa for a pre-wedding bridal party - the royal treatment packages are designed specifically for wedding groups.",
+    "Request room allocation strategically - parents and elderly guests should be in garden view rooms closer to the lobby, while the bridal party enjoys the premium lake view suites."
+  ],
+  "planningTimeline": [
+    { "months": "18M", "task": "Initial inquiry and date blocking - Peak season (Oct-Mar) dates book 18-24 months ahead" },
+    { "months": "15M", "task": "Site visit and venue confirmation with 30% booking deposit" },
+    { "months": "12M", "task": "Finalize guest list and book all 83 rooms plus overflow at Fateh Prakash Palace" },
+    { "months": "10M", "task": "Select and book decorators who specialize in palace venues - they understand heritage restrictions" },
+    { "months": "8M", "task": "Confirm caterers, photographers, and entertainment vendors from Taj's preferred list" },
+    { "months": "6M", "task": "Menu tasting and finalize food arrangements including dietary requirements" },
+    { "months": "4M", "task": "Complete décor designs, seating arrangements, and boat transfer schedules" },
+    { "months": "2M", "task": "Final guest confirmations, room assignments, and welcome bag arrangements" },
+    { "months": "1M", "task": "Final walkthrough with all vendors, confirm timelines, and contingency plans" },
+    { "months": "1W", "task": "Guest arrivals begin, welcome dinners, and pre-wedding ceremonies" }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Royal Boat Baraat",
+      "description": "The groom arrives on a decorated shikara boat accompanied by musicians playing traditional instruments as the sun sets over Lake Pichola. Guests watch from the palace terrace as the procession approaches - a moment that photographs beautifully and creates lasting memories."
+    },
+    {
+      "title": "Floating Phera Ceremony",
+      "description": "Exchange vows at the Lily Pond with the sacred fire reflecting in the water, surrounded by white marble arches draped in marigolds. The intimate courtyard holds 100 guests perfectly, creating an atmosphere of exclusive celebration."
+    },
+    {
+      "title": "Rooftop Sangeet Under Stars",
+      "description": "The Jharokha terrace transforms into a starlit dance floor with the City Palace illuminated in the background. The natural acoustics of the courtyard make even soft music carry beautifully across the space."
+    },
+    {
+      "title": "Lake Pichola Fireworks Display",
+      "description": "End your wedding night with a choreographed fireworks display over the lake. The reflections on the water double the visual impact, and the sound echoing off the Aravalli Hills creates a truly cinematic finale."
+    }
+  ],
+  "whatToExpect": [
+    "Dedicated wedding coordinator assigned 6 months before your date for seamless planning",
+    "Private boat transfers for all guests from City Palace jetty - no public ferry mixing",
+    "White-glove butler service in all rooms throughout your stay",
+    "Complimentary suite upgrade for the bride and groom on wedding night",
+    "24-hour in-room dining with full palace menu available",
+    "Traditional welcome with rose petals, tikka, and aarti for all arriving guests",
+    "Nightly turndown service with local Rajasthani sweets",
+    "Dedicated concierge for guest excursion bookings and special requests"
+  ],
+  "photographySpots": [
+    "Lily Pond at golden hour with reflections in the water",
+    "Mewar Mahal balcony with City Palace in background",
+    "Main entrance marble steps with the lake behind",
+    "Jharokha terrace during blue hour for cityscape shots",
+    "Private boat on Lake Pichola at sunrise",
+    "Crystal Gallery with its unique glass and mirror work",
+    "Royal Suite private terrace for intimate couple portraits",
+    "Palace corridors with their intricate Mewar artwork"
+  ],
+  "nearbyAttractions": [
+    {
+      "name": "City Palace",
+      "distance": "5 min boat ride",
+      "description": "The largest palace complex in Rajasthan with stunning museums, courtyards, and panoramic terraces. Perfect for a half-day excursion for guests."
+    },
+    {
+      "name": "Jagdish Temple",
+      "distance": "10 min from jetty",
+      "description": "16th-century Indo-Aryan temple dedicated to Lord Vishnu. Many couples visit for blessings before their wedding ceremony."
+    },
+    {
+      "name": "Vintage Car Museum",
+      "distance": "15 min drive",
+      "description": "Houses the royal family's collection of classic cars including Rolls-Royces and Mercedes. Great for unique pre-wedding photo shoots."
+    },
+    {
+      "name": "Sajjangarh Palace (Monsoon Palace)",
+      "distance": "25 min drive",
+      "description": "Hilltop palace offering the best sunset views over Udaipur. Ideal for a pre-wedding shoot or guest evening excursion."
+    },
+    {
+      "name": "Shilpgram Crafts Village",
+      "distance": "20 min drive",
+      "description": "Traditional arts and crafts village showcasing Rajasthani culture. Perfect for guests interested in local shopping and cultural experiences."
+    }
+  ],
+  "realWeddingStories": [
+    {
+      "couple": "Priya & Rahul Sharma",
+      "date": "February 2024",
+      "guestCount": 180,
+      "highlight": "Three-day celebration with fusion Indo-Western ceremonies",
+      "testimonial": "The moment our guests arrived by boat and saw us waiting on the steps of this floating palace, we knew every penny was worth it. The palace team anticipated every need, from arranging a surprise fireworks display to accommodating my grandmother's wheelchair on the boats. Pure magic."
+    },
+    {
+      "couple": "Aisha & Vikram Mehta",
+      "date": "December 2023",
+      "guestCount": 120,
+      "highlight": "Intimate royal-themed wedding with traditional Rajasthani elements",
+      "testimonial": "We chose Taj Lake Palace specifically for the intimacy it offers. Even with 120 guests, it felt personal and exclusive. The Lily Pond ceremony at sunset, with our reflections in the water and the dhol echoing across the lake, was exactly the royal wedding we dreamed of."
+    },
+    {
+      "couple": "Neha & David Thompson",
+      "date": "November 2023",
+      "guestCount": 85,
+      "highlight": "Cross-cultural celebration blending Indian and Western traditions",
+      "testimonial": "As an NRI couple with guests from three continents, we needed a venue that would wow everyone. Lake Palace delivered beyond expectations. David's family couldn't stop talking about the boat arrival, and my Indian relatives were impressed by the authentic royal experience."
+    }
+  ],
+  "budgetBreakdown": [
+    {
+      "category": "Venue & Accommodation",
+      "percentage": "40%",
+      "note": "Includes room buyout (83 rooms), venue rental for all events, and basic setup. Peak season rates are 20-30% higher."
+    },
+    {
+      "category": "Catering & Beverages",
+      "percentage": "25%",
+      "note": "Taj's in-house catering is mandatory. Budget for 3-4 meals daily over 3 days plus welcome drinks and cocktail stations."
+    },
+    {
+      "category": "Décor & Florals",
+      "percentage": "15%",
+      "note": "Palace restrictions mean working with experienced vendors who understand heritage site limitations. Budget more for floating décor elements."
+    },
+    {
+      "category": "Photography & Entertainment",
+      "percentage": "12%",
+      "note": "Book photographers familiar with the palace lighting. DJ sound restrictions after 10 PM mean budgeting for live musicians."
+    },
+    {
+      "category": "Guest Experiences & Logistics",
+      "percentage": "8%",
+      "note": "Includes boat transfers, welcome bags, excursions, and transportation from airport for all guests."
+    }
+  ],
+  "vendorRecommendations": [
+    {
+      "category": "Decorator",
+      "tip": "Choose decorators who have worked at Taj Lake Palace before - they understand the marble restrictions and optimal flower weight limits for balconies."
+    },
+    {
+      "category": "Photographer",
+      "tip": "Book photographers with palace experience who know the best light timings for each venue and have drone permissions pre-approved."
+    },
+    {
+      "category": "Makeup Artist",
+      "tip": "Select an artist comfortable working in humid lakeside conditions - traditional makeup can struggle in Udaipur's climate."
+    },
+    {
+      "category": "Entertainment",
+      "tip": "Local Langa and Manganiyar musicians add authentic Rajasthani flair and work beautifully with the palace's acoustic limitations."
+    },
+    {
+      "category": "Mehendi Artist",
+      "tip": "Rajasthani mehendi artists create distinct patterns - book local talent for authentic bridal mehendi that photographs beautifully."
+    },
+    {
+      "category": "Caterer",
+      "tip": "Work with Taj's executive chef early to customize menus - they can recreate family recipes and accommodate any dietary requirements."
+    }
+  ]
+}

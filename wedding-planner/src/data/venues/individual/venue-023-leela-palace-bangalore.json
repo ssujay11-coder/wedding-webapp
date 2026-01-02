@@ -1,0 +1,108 @@
+{
+  "id": "venue-023",
+  "name": "The Leela Palace Bengaluru",
+  "slug": "leela-palace-bangalore",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "region": "South",
+  "coordinates": {"lat": 12.9621, "lng": 77.6475},
+  "category": "Urban Palace Hotel",
+  "starRating": 5,
+  "guestCapacity": {"min": 100, "max": 1000},
+  "priceRange": {"min": 55, "max": 280},
+  "startingPrice": "₹55 Lakhs onwards",
+  "shortDescription": "Celebrate in regal splendor at The Leela Palace Bengaluru, where royal architecture meets contemporary luxury in India's tech capital, offering expansive venues, lush gardens, and impeccable service for grand destination weddings.",
+  "longDescription": "The Leela Palace Bengaluru stands as a magnificent tribute to the architectural grandeur of the Mysore Maharajas, bringing royal elegance to India's dynamic technology capital. This urban palace hotel, spread across sprawling landscaped grounds, offers couples seeking grand celebrations a venue that combines the warmth of Indian hospitality with the sophistication of contemporary luxury. The distinctive golden domes and ornate interiors create an atmosphere of unmistakable regality, providing the perfect setting for weddings that aspire to magnificence.\n\nThe palace's design draws inspiration from the legendary Mysore Palace, with domes, ornate pillars, and intricate detailing that transport guests to an era of royal grandeur. Yet the property seamlessly integrates modern amenities and technology, reflecting Bengaluru's position as India's innovation hub. Art collections featuring works by celebrated Indian masters adorn public spaces, while the interiors showcase a thoughtful blend of traditional craftsmanship and contemporary comfort.\n\nWith 357 rooms and suites, The Leela Palace Bengaluru accommodates wedding parties of significant scale while maintaining the personalized attention that defines Leela hospitality. The Royal Club floors offer enhanced luxury with exclusive lounge access and dedicated butler service. The Presidential Suite and Royal Suites provide expansive living spaces for the wedding couple and VIP guests, with private terraces overlooking the landscaped gardens.\n\nWedding venues at The Leela Palace Bengaluru achieve impressive versatility. The Grand Ballroom, one of the largest in Bengaluru, accommodates receptions for up to 1,000 guests with its pillarless design and high ceilings. The sprawling gardens and lawns provide romantic outdoor settings for ceremonies and cultural celebrations. Multiple smaller venues—including the elegant Jamavar and refined Le Cirque—host intimate gatherings, sangeet celebrations, and family dinners. The venue configuration allows complete multi-day weddings to unfold on-site.\n\nCulinary excellence at The Leela Palace draws from diverse traditions. Jamavar presents refined Indian cuisine, Le Cirque offers Italian sophistication, and Zen showcases Asian flavors. The wedding culinary team draws from this exceptional talent pool, creating bespoke menus that range from elaborate South Indian wedding feasts to sophisticated multi-cuisine experiences. The property's reputation for culinary excellence ensures wedding meals become memorable highlights.\n\nThe Leela Spa provides comprehensive pre-wedding wellness, from traditional Ayurvedic treatments to contemporary beauty services. The wedding planning team brings extensive experience orchestrating elaborate celebrations, with meticulous attention to the cultural nuances that make Indian weddings unique. For families seeking a wedding venue that honors tradition while embracing modernity, The Leela Palace Bengaluru delivers with distinction.",
+  "weddingSpaces": [
+    {"name": "Grand Ballroom", "capacity": 1000, "type": "Indoor", "sqft": 12000},
+    {"name": "Palace Gardens", "capacity": 600, "type": "Outdoor", "sqft": 40000},
+    {"name": "Celebration Lawn", "capacity": 400, "type": "Outdoor", "sqft": 20000},
+    {"name": "Rajendra Hall", "capacity": 250, "type": "Indoor", "sqft": 5000},
+    {"name": "Poolside Terrace", "capacity": 200, "type": "Poolside", "sqft": 8000}
+  ],
+  "features": ["357 luxury rooms and suites", "Mysore Palace-inspired architecture", "Expansive landscaped gardens", "Grand Ballroom for 1000 guests", "Multiple award-winning restaurants", "The ESPA spa and wellness", "Royal Club exclusive floors", "Contemporary art collection", "Central Bengaluru location", "Pillarless ballroom design", "Outdoor and indoor venue options", "Butler service available", "Comprehensive wedding planning", "Excellent city connectivity"],
+  "cuisineTypes": ["Indian Fine Dining (Jamavar)", "Italian (Le Cirque)", "Asian (Zen)", "South Indian", "North Indian", "Continental", "Pan-Asian", "Mediterranean"],
+  "accommodationRooms": 357,
+  "googleRating": 4.6,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.8,
+  "heroImage": "/images/venues/leela-palace-bangalore/hero.jpg",
+  "galleryImages": ["/images/venues/leela-palace-bangalore/gallery-1.jpg", "/images/venues/leela-palace-bangalore/gallery-2.jpg", "/images/venues/leela-palace-bangalore/gallery-3.jpg", "/images/venues/leela-palace-bangalore/gallery-4.jpg", "/images/venues/leela-palace-bangalore/gallery-5.jpg", "/images/venues/leela-palace-bangalore/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.theleela.com/bengaluru/",
+  "nearestAirport": "Kempegowda International Airport",
+  "distanceFromAirport": "35 km (1 hour)",
+  "bestSeasons": ["October to March", "Winter months (November-February)", "Year-round pleasant climate"],
+  "weatherNote": "Bengaluru enjoys pleasant weather year-round due to its elevation, with temperatures typically between 15°C and 35°C. The garden city rarely experiences extreme heat. Light showers possible during monsoon (June-September) but rarely disruptive.",
+  "metaTitle": "The Leela Palace Bengaluru Wedding | Royal Urban Palace Wedding Venue",
+  "metaDescription": "Host your grand wedding at The Leela Palace Bengaluru. Mysore Palace-inspired luxury with venues for 100-1000 guests and legendary Leela hospitality.",
+  "keywords": ["Leela Palace Bangalore wedding", "Bengaluru wedding venue", "luxury wedding Bangalore", "palace wedding South India", "large wedding venue Karnataka", "5 star wedding Bangalore", "destination wedding Bengaluru", "garden wedding venue", "royal wedding venue", "urban palace wedding"],
+  "phone": "+91-80-2521-1234",
+  "email": "reservations.bangalore@theleela.com",
+  "website": "https://www.theleela.com/bengaluru/",
+  "awards": ["Condé Nast Traveller Gold List", "Travel + Leisure World's Best", "Forbes Travel Guide", "Best Luxury Hotel Karnataka", "TripAdvisor Travellers' Choice"],
+  "whyChoose": ["Mysore Palace-inspired architecture creating regal atmosphere", "Grand Ballroom accommodates 1000 guests with flexibility", "Sprawling gardens perfect for outdoor celebrations", "357 rooms keeping large wedding parties together", "Award-winning restaurants for exceptional culinary experiences", "Year-round pleasant Bengaluru climate", "Central location with excellent accessibility", "Leela hospitality tradition ensuring flawless execution"],
+  "idealFor": ["Grand weddings with 500-1000 guests", "South Indian traditional celebrations", "Multi-day wedding festivities", "Families seeking outdoor garden venues", "Tech industry celebrations in Silicon Valley of India"],
+  "address": "23, HAL Old Airport Road, Bengaluru, Karnataka 560008, India",
+  "nearestRailway": "Bengaluru City Railway Station",
+  "distanceFromRailway": "8 km (25 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services available with hotel managing all permits. Premium spirits, wines, and cocktails offered. Custom bar programs created for weddings.",
+  "decorPolicy": "Preferred decorator list provided. External decorators welcome with coordination. The palace architecture provides stunning foundation. Fire safety compliance mandatory.",
+  "musicPolicy": "Indoor venues until 11:00 PM. Outdoor venues follow Bengaluru 10:00 PM regulations. Professional sound systems available. Classical music and live performances encouraged.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 25% forfeited. 60-89 days: 50% forfeited. 30-59 days: 75% forfeited. Less than 30 days: 100% forfeited.",
+  "paymentTerms": "30% advance at booking. 35% due 60 days before event. Balance 35% due 14 days before event.",
+  "securityDeposit": "₹10,00,000 for large events (Refundable within 21 working days)",
+  "drivingDirections": {
+    "fromAirport": "From Kempegowda International Airport, take NH44 (Bellary Road) south towards the city. Continue on the Outer Ring Road or through the city center. Exit towards HAL Old Airport Road. The Leela Palace is prominently located with distinctive golden domes. Journey time approximately 1 hour depending on traffic.",
+    "fromRailway": "From Bengaluru City Railway Station, head east towards MG Road. Continue towards HAL Old Airport Road. The Leela Palace is on the main road with clear signage. Journey time approximately 25-30 minutes.",
+    "fromCityCenter": "From MG Road/Brigade Road area, head east on MG Road towards HAL. Continue on HAL Old Airport Road. The Leela Palace's distinctive architecture is visible from the main road. Journey time approximately 15-20 minutes.",
+    "landmarks": ["HAL Old Airport (adjacent)", "Indiranagar (3 km)", "MG Road (5 km)", "Koramangala (6 km)"],
+    "parkingInfo": "Extensive valet parking included. Large underground parking available. Wedding convoy coordination through hotel security. The property accommodates 400+ vehicles."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book The Leela Palace Bengaluru?",
+      "answer": "For peak wedding season (October-March), booking 12-18 months ahead is recommended. The Grand Ballroom's capacity makes it popular for large weddings. Auspicious dates fill quickly in this tech hub city."
+    },
+    {
+      "question": "What is the Grand Ballroom capacity?",
+      "answer": "The Grand Ballroom accommodates up to 1,000 guests in 12,000 sq ft of pillarless space. Combined with pre-function areas, even larger gatherings can be accommodated for receptions."
+    },
+    {
+      "question": "Can outdoor ceremonies be arranged?",
+      "answer": "Yes, the Palace Gardens (600 capacity) and Celebration Lawn (400 capacity) offer beautiful outdoor settings. Bengaluru's pleasant climate makes outdoor celebrations comfortable year-round."
+    },
+    {
+      "question": "Can all wedding guests stay on property?",
+      "answer": "The 357 rooms accommodate approximately 700 guests. For very large weddings, partner hotels coordinate overflow. Room blocks should be secured well in advance for peak season."
+    },
+    {
+      "question": "What cuisine options are available?",
+      "answer": "With Jamavar (Indian fine dining), Le Cirque (Italian), and Zen (Asian), the culinary team covers diverse cuisines expertly. South Indian wedding feasts with traditional banana leaf service are a specialty."
+    },
+    {
+      "question": "What wellness options are available?",
+      "answer": "The ESPA spa offers comprehensive treatments including traditional and contemporary options. Bridal packages, couple's treatments, and group wellness can all be arranged for wedding parties."
+    },
+    {
+      "question": "How does the Bengaluru location help logistics?",
+      "answer": "Bengaluru's central India location provides good connectivity from all parts of the country. The pleasant year-round climate reduces weather concerns. The city's infrastructure supports large-scale events well."
+    },
+    {
+      "question": "What backup exists for outdoor events?",
+      "answer": "The Grand Ballroom and Rajendra Hall provide indoor backup for outdoor celebrations. Bengaluru's weather is generally predictable, but contingency plans are always prepared."
+    },
+    {
+      "question": "Can South Indian wedding traditions be accommodated?",
+      "answer": "Absolutely. The wedding team has extensive experience with Brahmin, Coorgi, Mangalorean, and other South Indian wedding traditions. Traditional setups, rituals, and cuisine are all expertly managed."
+    },
+    {
+      "question": "What makes this venue special for Bengaluru weddings?",
+      "answer": "The palace architecture provides regal settings rare in modern Bengaluru. The combination of grand indoor ballroom, expansive gardens, and multiple venue options creates flexibility. The Leela service ensures flawless execution."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "venue-016",
+  "name": "Taj Malabar Resort & Spa",
+  "slug": "taj-malabar-cochin",
+  "city": "Kochi",
+  "state": "Kerala",
+  "region": "South",
+  "coordinates": {"lat": 9.9689, "lng": 76.2355},
+  "category": "Heritage Waterfront",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 400},
+  "priceRange": {"min": 45, "max": 200},
+  "startingPrice": "₹45 Lakhs onwards",
+  "shortDescription": "Experience waterfront elegance at Taj Malabar Cochin, a historic heritage hotel overlooking the Arabian Sea and Cochin harbour, where colonial charm meets tropical luxury for unforgettable destination weddings.",
+  "longDescription": "Taj Malabar Resort & Spa occupies one of the most enchanting locations in all of India—the tip of Willingdon Island overlooking where the backwaters meet the Arabian Sea. This storied property, dating to 1935, has witnessed countless celebrations of love, hosting royalty, dignitaries, and discerning couples who recognize that few places on earth offer such a perfect confluence of history, natural beauty, and sophisticated hospitality. For destination weddings that seek to capture the mystical allure of Kerala, Taj Malabar delivers an experience both intimate and unforgettable.\n\nThe resort's architecture tells the story of Cochin's cosmopolitan heritage, blending Dutch, Portuguese, British, and indigenous Kerala influences into a cohesive colonial elegance. The historic Tower Wing, dating to the original 1935 construction, offers suites that have hosted generations of distinguished guests. The contemporary Malabar Wing extends into the harbour with rooms featuring private balconies overlooking the sea. Throughout the property, antique furniture, period photographs, and traditional craft work create an atmosphere of gracious living from another era.\n\nWedding venues at Taj Malabar maximize the spectacular waterfront setting. The Harbour Lawn, stretching along the water's edge, hosts ceremonies and receptions for up to 400 guests with the harbour's Chinese fishing nets and passing ships creating an ever-changing backdrop. The Poolside Terrace offers a more intimate setting for sangeet and cocktail celebrations. For indoor elegance, the ballroom provides climate-controlled comfort with harbour views. The resort can also arrange celebrations on the private pier, with the couple arriving by traditional Kettuvallam houseboat.\n\nCulinary traditions at Taj Malabar celebrate Kerala's extraordinary food heritage. The Pepper & Rice restaurant showcases the coastal state's famous seafood preparations and vegetarian delicacies. The resort's chefs source ingredients from local spice plantations and fishing communities, creating menus that tell the story of the Spice Coast. For weddings, the culinary team crafts bespoke menus blending Kerala Sadhya traditions with continental sophistication, served in the elaborate style befitting the venue's heritage.\n\nThe Jiva Spa provides pre-wedding wellness rooted in Kerala's legendary Ayurvedic traditions. From traditional Abhyanga massages to bride and groom preparation rituals, the spa team draws on centuries of holistic healing knowledge. Wedding guests can also explore Cochin's remarkable cultural treasures, from the ancient synagogue and Portuguese palace in Jew Town to the Chinese fishing nets of Fort Kochi, all within minutes of the resort.\n\nWhat distinguishes Taj Malabar for destination weddings is its ability to immerse guests in Kerala's unique culture while maintaining the gracious service standards for which Taj is renowned worldwide. The wedding planning team crafts celebrations that honor local traditions—from Thali ceremonies to traditional percussion performances—while incorporating the couple's personal vision.",
+  "weddingSpaces": [
+    {"name": "Harbour Lawn", "capacity": 400, "type": "Outdoor", "sqft": 25000},
+    {"name": "Poolside Terrace", "capacity": 200, "type": "Poolside", "sqft": 12000},
+    {"name": "Malabar Ballroom", "capacity": 250, "type": "Indoor", "sqft": 8000},
+    {"name": "Heritage Courtyard", "capacity": 150, "type": "Outdoor", "sqft": 6000},
+    {"name": "Private Pier", "capacity": 80, "type": "Waterfront", "sqft": 3000}
+  ],
+  "features": ["Historic 1935 heritage property", "Spectacular harbour and sea views", "96 rooms in heritage and contemporary wings", "Traditional Kettuvallam boat arrangements", "Chinese fishing nets backdrop", "Jiva Spa with Ayurvedic treatments", "Multiple waterfront venues", "Award-winning Kerala cuisine", "Fort Kochi walking distance", "Sunset ceremonies over Arabian Sea", "Traditional percussion performances", "Antique-filled interiors", "Dedicated wedding planning team", "Cultural experience arrangements"],
+  "cuisineTypes": ["Traditional Kerala", "Malabar Cuisine", "South Indian", "North Indian", "Continental", "Mediterranean", "Seafood Specialties", "Kerala Sadhya"],
+  "accommodationRooms": 96,
+  "googleRating": 4.5,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.7,
+  "heroImage": "/images/venues/taj-malabar-cochin/hero.jpg",
+  "galleryImages": ["/images/venues/taj-malabar-cochin/gallery-1.jpg", "/images/venues/taj-malabar-cochin/gallery-2.jpg", "/images/venues/taj-malabar-cochin/gallery-3.jpg", "/images/venues/taj-malabar-cochin/gallery-4.jpg", "/images/venues/taj-malabar-cochin/gallery-5.jpg", "/images/venues/taj-malabar-cochin/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.tajhotels.com/en-in/taj/taj-malabar-resort-spa-cochin/",
+  "nearestAirport": "Cochin International Airport",
+  "distanceFromAirport": "35 km (1 hour)",
+  "bestSeasons": ["September to March", "Winter season (November-February)", "Post-monsoon (September-October)"],
+  "weatherNote": "Kochi enjoys tropical weather with October to March being ideal for outdoor weddings with temperatures between 23°C and 32°C. Monsoon season (June-August) brings heavy rain. Humidity is always present but sea breeze provides relief.",
+  "metaTitle": "Taj Malabar Cochin Wedding | Heritage Waterfront Wedding Venue Kerala",
+  "metaDescription": "Host your destination wedding at Taj Malabar Cochin. Historic heritage hotel overlooking Cochin harbour with venues for 50-400 guests and legendary Taj hospitality.",
+  "keywords": ["Taj Malabar wedding", "Cochin wedding venue", "Kerala destination wedding", "waterfront wedding India", "heritage hotel wedding Kerala", "harbour wedding Kochi", "luxury wedding Cochin", "colonial wedding venue", "beach wedding Kerala", "5 star wedding Kochi"],
+  "phone": "+91-484-664-3000",
+  "email": "malabar.cochin@tajhotels.com",
+  "website": "https://www.tajhotels.com/en-in/taj/taj-malabar-resort-spa-cochin/",
+  "awards": ["Condé Nast Traveller Gold List", "TripAdvisor Certificate of Excellence", "Travel + Leisure India's Best", "Best Heritage Hotel Kerala", "National Tourism Award"],
+  "whyChoose": ["Iconic 1935 heritage property with colonial elegance", "Spectacular harbour and Arabian Sea setting", "Chinese fishing nets create unique photography backdrop", "Jiva Spa offers authentic Ayurvedic pre-wedding wellness", "Fort Kochi cultural attractions within walking distance", "Traditional Kettuvallam boat ceremonies possible", "Intimate scale with world-class Taj service", "Gateway to Kerala's backwaters and cultural treasures"],
+  "idealFor": ["Couples seeking heritage waterfront settings", "Intimate destination weddings up to 400 guests", "Cultural enthusiasts drawn to Kerala's traditions", "Families wanting authentic South Indian experiences", "Photography-focused couples wanting unique backdrops"],
+  "address": "Willingdon Island, Kochi, Kerala 682009, India",
+  "nearestRailway": "Ernakulam Junction",
+  "distanceFromRailway": "6 km (15 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services available. Kerala has specific alcohol regulations with permits arranged by hotel. Premium spirits, wines, and cocktails offered. Toddy and local specialty drinks can be incorporated.",
+  "decorPolicy": "External decorators welcome with coordination through events team. Traditional Kerala themes with banana leaves, flowers, and oil lamps encouraged. Property's heritage aesthetic requires sympathetic decoration approaches.",
+  "musicPolicy": "Outdoor music until 10:00 PM per local regulations. Traditional percussion (Chenda, Thavil) performances encouraged. Indoor venues offer more flexibility. The harbour location provides natural sound management.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 25% forfeited. 60-89 days: 50% forfeited. 30-59 days: 75% forfeited. Less than 30 days: 100% forfeited.",
+  "paymentTerms": "30% advance at booking. 40% due 60 days before event. Final 30% due 7 days before event.",
+  "securityDeposit": "₹5,00,000 (Refundable within 14 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Cochin International Airport, take NH544 towards Kochi city. Cross the Goshree bridges to Willingdon Island. Follow signs to Taj Malabar at the tip of the island. The hotel is prominently located with harbour views. Journey time approximately 1 hour.",
+    "fromRailway": "From Ernakulam Junction, head towards Willingdon Island via the Wellington Island Bridge. Follow the main road to the northern tip of the island. Taj Malabar is at the end, overlooking the harbour. Journey time approximately 15 minutes.",
+    "fromCityCenter": "From Fort Kochi, take the ferry to Willingdon Island (15 minutes) or drive via bridges (25 minutes). Taj Malabar is at the northern tip of the island with clear signage. The harbour setting is visible as you approach.",
+    "landmarks": ["Cochin Harbour (adjacent)", "Chinese Fishing Nets (visible)", "Fort Kochi (2 km by ferry)", "Mattancherry Palace (4 km)"],
+    "parkingInfo": "Complimentary valet parking for guests. Limited parking within heritage property. Wedding convoy parking coordinated at designated areas with shuttle service."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book Taj Malabar?",
+      "answer": "For peak season (November-February), booking 12-15 months ahead is recommended. The property's historic significance and waterfront setting make it popular for destination weddings. Off-season dates can be confirmed 6-8 months ahead."
+    },
+    {
+      "question": "Can Kettuvallam houseboat ceremonies be arranged?",
+      "answer": "Yes! Traditional Kettuvallam houseboats can be arranged for unique ceremony experiences, couple arrivals, or intimate dinners. The boats navigate from the backwaters to the hotel's pier, creating memorable processions."
+    },
+    {
+      "question": "What makes the harbour setting special?",
+      "answer": "The harbour offers ever-changing backdrops with Chinese fishing nets, cargo ships, and spectacular sunsets over the Arabian Sea. The intersection of backwaters and open sea creates dramatic lighting conditions that photographers treasure."
+    },
+    {
+      "question": "What are the Ayurvedic spa offerings?",
+      "answer": "Jiva Spa offers authentic Kerala Ayurvedic treatments including Abhyanga, Shirodhara, and Pizhichil. Special bridal packages combine traditional treatments with beauty services. Group wellness sessions can be arranged for wedding parties."
+    },
+    {
+      "question": "What cultural activities can guests experience?",
+      "answer": "Fort Kochi offers synagogues, Portuguese palaces, Dutch architecture, and Chinese fishing nets within walking distance. Kathakali performances, Kerala martial arts demonstrations, and backwater cruises can be arranged for wedding guests."
+    },
+    {
+      "question": "How many guests can the property accommodate?",
+      "answer": "Taj Malabar has 96 rooms accommodating approximately 180 guests. For larger weddings, partner hotels in Kochi provide overflow with transfer services. The venue capacity of 400 allows celebrations larger than room count."
+    },
+    {
+      "question": "What cuisine specialties are available?",
+      "answer": "The culinary team excels in Kerala cuisine including Malabar specialties, Syrian Christian dishes, and traditional Sadhya served on banana leaves. North Indian, continental, and seafood options round out wedding menus."
+    },
+    {
+      "question": "What is the weather contingency plan?",
+      "answer": "The Malabar Ballroom provides air-conditioned backup for 250 guests. Covered areas and tent structures can supplement. The wedding team monitors weather carefully, especially during transitional seasons."
+    },
+    {
+      "question": "Is the property accessible for elderly guests?",
+      "answer": "The Malabar Wing offers elevator access and contemporary amenities. The Heritage Wing has character but includes stairs. Ground-floor rooms and accessible venues can be prioritized for guests with mobility needs."
+    },
+    {
+      "question": "What traditional elements can be incorporated?",
+      "answer": "The wedding team arranges traditional elements including Kerala-style floral arrangements, Nilavilakku oil lamps, Chenda percussion, Theyyam performers, and elaborate Sadhya feasts. Christian, Hindu, and multi-faith ceremonies are all accommodated."
+    }
+  ]
+}

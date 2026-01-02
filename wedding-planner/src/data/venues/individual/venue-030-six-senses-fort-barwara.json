@@ -1,0 +1,108 @@
+{
+  "id": "venue-030",
+  "name": "Six Senses Fort Barwara",
+  "slug": "six-senses-fort-barwara",
+  "city": "Sawai Madhopur",
+  "state": "Rajasthan",
+  "region": "North",
+  "coordinates": {"lat": 26.0275, "lng": 76.3467},
+  "category": "Restored Fort Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 30, "max": 180},
+  "priceRange": {"min": 120, "max": 500},
+  "startingPrice": "₹120 Lakhs onwards",
+  "shortDescription": "Step into history at Six Senses Fort Barwara, a magnificently restored 14th-century warrior fort offering authentic Rajasthani grandeur, holistic wellness, and intimate destination weddings near Ranthambore.",
+  "longDescription": "Six Senses Fort Barwara represents an extraordinary achievement in heritage restoration—a 14th-century Rajput warrior fort meticulously brought back to life and reimagined as an ultra-luxury wellness resort. Spread across 700 acres encompassing two palaces, two temples, and ancient ramparts, this property offers couples seeking weddings of profound historical significance a venue where every stone tells a story of Rajputana valor and romance. Here, ceremonies unfold in spaces where warriors once gathered, and celebrations echo through halls that have witnessed centuries of noble traditions.\n\nThe restoration, overseen by the royal Barwara family in partnership with Six Senses, preserves authentic architectural elements while introducing sensitive contemporary additions. Original frescos, carved jharokhas, ancient courtyards, and temple complexes stand alongside modern amenities invisibly integrated into the historic fabric. The Six Senses commitment to sustainability and wellness creates a holistic experience where heritage, nature, and well-being converge.\n\nWith only 48 suites—each occupying original palace or fort quarters—Six Senses Fort Barwara offers exclusivity that larger properties cannot match. Every suite features private courtyards, antique furnishings, and views of the fort walls or surrounding wilderness. The Royal and Burj Suites provide palatial living spaces for the wedding couple. The authentic heritage atmosphere in accommodations makes every guest feel like royal participants in the celebration.\n\nWedding venues at Six Senses Fort Barwara draw from centuries of history. The Durbar Hall, with its original murals and chandeliers, provides an indoor setting of unmatched authenticity. The temple courtyards offer sacred spaces for ceremonies. The rampart terraces host celebrations with views across the wilderness. The manicured gardens between palace and fort walls create intimate outdoor settings. Every venue carries the weight of history into present celebrations.\n\nCulinary experiences blend royal Rajasthani traditions with Six Senses' global wellness philosophy. Local ingredients, ancient recipes, and health-conscious preparation create menus that honor tradition while supporting well-being. The chefs can recreate royal feast traditions or craft contemporary wellness-focused celebrations. The unique combination of heritage cuisine and modern health consciousness appeals to discerning couples.\n\nThe Six Senses Spa incorporates wellness traditions from both Ayurveda and Rajput royal practices, offering comprehensive pre-wedding preparation in extraordinary settings. The proximity to Ranthambore National Park allows wedding guests to experience tiger safaris and wildlife adventures. For couples seeking weddings that connect to living history, nature, and holistic well-being, Six Senses Fort Barwara offers an experience of profound meaning.",
+  "weddingSpaces": [
+    {"name": "Durbar Hall", "capacity": 150, "type": "Indoor", "sqft": 5000},
+    {"name": "Temple Courtyard", "capacity": 100, "type": "Outdoor", "sqft": 6000},
+    {"name": "Rampart Terrace", "capacity": 180, "type": "Outdoor", "sqft": 12000},
+    {"name": "Palace Gardens", "capacity": 120, "type": "Outdoor", "sqft": 10000},
+    {"name": "Private Fort Courtyards", "capacity": 60, "type": "Outdoor", "sqft": 4000}
+  ],
+  "features": ["14th-century restored warrior fort", "700-acre fort and wilderness estate", "Only 48 exclusive suites", "Two ancient temple complexes", "Original murals and architecture", "Six Senses holistic spa", "Near Ranthambore tiger reserve", "Sustainable luxury practices", "Royal family heritage connection", "Ancient durbar hall venue", "Rampart ceremony terraces", "Wildlife experiences available", "Authentic Rajputana cuisine", "Complete privacy and seclusion"],
+  "cuisineTypes": ["Royal Rajasthani", "Wellness Cuisine", "North Indian", "Continental", "Mediterranean", "Farm-to-Table"],
+  "accommodationRooms": 48,
+  "googleRating": 4.8,
+  "tripAdvisorRating": 5.0,
+  "weddingWireRating": 4.9,
+  "heroImage": "/images/venues/six-senses-fort-barwara/hero.jpg",
+  "galleryImages": ["/images/venues/six-senses-fort-barwara/gallery-1.jpg", "/images/venues/six-senses-fort-barwara/gallery-2.jpg", "/images/venues/six-senses-fort-barwara/gallery-3.jpg", "/images/venues/six-senses-fort-barwara/gallery-4.jpg", "/images/venues/six-senses-fort-barwara/gallery-5.jpg", "/images/venues/six-senses-fort-barwara/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.sixsenses.com/en/resorts/fort-barwara/",
+  "nearestAirport": "Jaipur International Airport",
+  "distanceFromAirport": "110 km (2.5 hours)",
+  "bestSeasons": ["October to March", "Winter season (November-February)", "Tiger safari season aligns"],
+  "weatherNote": "The region enjoys pleasant weather from October to March with temperatures between 8°C and 28°C. The fort's thick walls provide natural insulation. Summer months (April-June) are extremely hot. Tiger sighting season (October-June) overlaps with wedding season.",
+  "metaTitle": "Six Senses Fort Barwara Wedding | Restored 14th-Century Fort Wedding Venue",
+  "metaDescription": "Host your heritage wedding at Six Senses Fort Barwara. A magnificently restored warrior fort with 48 suites, holistic wellness, and authentic Rajasthani grandeur.",
+  "keywords": ["Six Senses Fort Barwara wedding", "restored fort wedding", "heritage wedding Rajasthan", "Ranthambore wedding venue", "luxury fort wedding India", "warrior fort wedding", "intimate destination wedding", "wellness wedding venue", "historic wedding venue", "Rajput fort wedding"],
+  "phone": "+91-7462-258-258",
+  "email": "reservations-fortbarwara@sixsenses.com",
+  "website": "https://www.sixsenses.com/en/resorts/fort-barwara/",
+  "awards": ["Condé Nast Traveller Hot List", "Travel + Leisure World's Best", "Architectural Digest Best Restoration", "Best Heritage Resort India", "Six Senses Sustainability Award"],
+  "whyChoose": ["700-acre 14th-century warrior fort estate", "Only 48 suites ensuring ultimate exclusivity", "Ancient durbar hall and temple venues", "Six Senses holistic wellness philosophy", "Proximity to Ranthambore tiger safaris", "Authentic Rajput heritage with royal family connection", "Sustainable luxury in historic setting", "Unique combination of heritage and wellness focus"],
+  "idealFor": ["Couples seeking profound historical significance", "Intimate celebrations up to 180 guests", "Wellness-focused wedding experiences", "Wildlife and adventure enthusiasts", "Heritage and architecture aficionados"],
+  "address": "Barwara, District Sawai Madhopur, Rajasthan 322028, India",
+  "nearestRailway": "Sawai Madhopur Railway Station",
+  "distanceFromRailway": "30 km (45 minutes)",
+  "helipadAvailable": true,
+  "alcoholPolicy": "Full bar services available. Six Senses' wellness approach includes healthy cocktail options alongside premium spirits. Traditional Rajasthani beverages can be incorporated.",
+  "decorPolicy": "The authentic heritage architecture requires minimal decoration. Preferred decorators understand historic sensitivities. External decorators must follow preservation guidelines. Floral and natural elements complement the fort aesthetic.",
+  "musicPolicy": "Fort location allows flexible music policies. The ramparts and courtyards have different acoustic properties. Traditional Rajasthani music encouraged. Sound levels respect the spiritual temple areas.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": true,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days before: 30% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited.",
+  "paymentTerms": "50% advance at booking. 30% due 60 days before event. Balance 20% due 14 days before event. Full buyouts require 60% advance.",
+  "securityDeposit": "₹10,00,000 (Refundable within 21 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Jaipur Airport, take NH52 towards Sawai Madhopur. Continue through Dausa and towards Ranthambore. Follow signs to Fort Barwara near Barwara village. The fort is visible from the approach road. Journey time approximately 2.5-3 hours.",
+    "fromRailway": "From Sawai Madhopur Station (Ranthambore gateway), take the road towards Barwara village. The fort is approximately 30 km away. Journey time approximately 45 minutes.",
+    "fromRanthambore": "From Ranthambore National Park entrance, head towards Barwara. The fort is approximately 25 km from the park. Journey time approximately 35 minutes. Tiger safari and wedding can be combined.",
+    "landmarks": ["Ranthambore National Park (25 km)", "Sawai Madhopur (30 km)", "Jaipur (110 km)", "Barwara Village (adjacent)"],
+    "parkingInfo": "Parking within fort complex. Wedding convoy coordination through resort. The fort layout requires specific vehicle management. Helipad available for alternative arrivals."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book Six Senses Fort Barwara?",
+      "answer": "For this exclusive property, booking 18-24 months ahead is essential. The 48-suite capacity limits availability significantly. Peak season (October-March) aligns with tiger safari season, increasing demand."
+    },
+    {
+      "question": "What is the restoration significance?",
+      "answer": "The 14th-century Rajput warrior fort was comprehensively restored over a decade in partnership with the royal family. Original architecture, murals, and temple complexes were preserved. This is among India's most significant heritage restorations."
+    },
+    {
+      "question": "Can tiger safaris be arranged for guests?",
+      "answer": "Absolutely! Ranthambore National Park is 25 km away. Morning and afternoon safaris can be scheduled around wedding events. Seeing wild tigers makes for extraordinary guest experiences."
+    },
+    {
+      "question": "What is the Six Senses wellness approach?",
+      "answer": "Six Senses integrates holistic wellness into every aspect, from spa treatments drawing on Ayurveda and royal traditions to healthy cuisine options. Pre-wedding wellness programs can prepare couples and families comprehensively."
+    },
+    {
+      "question": "What is the accommodation capacity?",
+      "answer": "The 48 suites accommodate approximately 90-100 guests. For intimate fort weddings, this scale is ideal. Full property buyouts ensure complete privacy and the resort's undivided attention."
+    },
+    {
+      "question": "What makes the Durbar Hall special?",
+      "answer": "The original durbar (royal audience) hall features authentic murals, chandeliers, and architectural details where Rajput nobility once gathered. Ceremonies here carry profound historical resonance impossible to replicate."
+    },
+    {
+      "question": "What activities can guests enjoy?",
+      "answer": "Beyond tiger safaris, options include fort heritage walks, temple visits, traditional craft experiences, wellness programs, stargazing, and cultural performances. The 700-acre estate provides extensive exploration opportunities."
+    },
+    {
+      "question": "How does the remote location affect logistics?",
+      "answer": "The 2.5-hour drive from Jaipur requires coordination. The resort manages guest transfers. The journey through rural Rajasthan becomes part of the experience. Helipad provides alternative rapid access."
+    },
+    {
+      "question": "What backup exists for outdoor events?",
+      "answer": "The Durbar Hall and covered palace areas provide indoor backup. Multiple courtyards offer partially covered options. Winter weather is generally reliable, but contingency plans are standard."
+    },
+    {
+      "question": "Is this venue truly different from palace hotels?",
+      "answer": "While palace hotels offer luxury, Six Senses Fort Barwara combines restored warrior fort authenticity, holistic wellness philosophy, sustainability commitment, and wildlife proximity in ways unavailable elsewhere. The experience is uniquely multidimensional."
+    }
+  ]
+}

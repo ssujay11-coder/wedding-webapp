@@ -1,0 +1,109 @@
+{
+  "id": "venue-019",
+  "name": "ITC Maurya, New Delhi",
+  "slug": "itc-maurya-new-delhi",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "region": "North",
+  "coordinates": {"lat": 28.5984, "lng": 77.1715},
+  "category": "Luxury Business Hotel",
+  "starRating": 5,
+  "guestCapacity": {"min": 100, "max": 1500},
+  "priceRange": {"min": 50, "max": 280},
+  "startingPrice": "₹50 Lakhs onwards",
+  "shortDescription": "Celebrate grandeur at ITC Maurya, Delhi's iconic luxury address housing the legendary Bukhara restaurant, offering unmatched culinary excellence, expansive venues, and ITC's signature hospitality for magnificent weddings.",
+  "longDescription": "ITC Maurya has defined luxury hospitality in India's capital for over four decades, establishing itself as the preferred address for world leaders, celebrities, and discerning families celebrating life's most significant moments. Home to the legendary Bukhara—consistently ranked among the world's best restaurants—and multiple award-winning dining venues, ITC Maurya offers wedding couples access to culinary excellence unmatched by any hotel in the country. For families seeking grand celebrations that honor tradition with exceptional quality, ITC Maurya remains Delhi's gold standard.\n\nThe hotel's architecture makes a bold statement, with the distinctive pyramid structure and grand atrium lobby creating an immediate impression of scale and ambition. The interiors showcase ITC's signature aesthetic, blending traditional Indian craftsmanship with contemporary luxury. Art collections featuring works by celebrated Indian masters adorn public spaces and function areas, while the extensive use of marble, brass, and rich textiles creates an atmosphere of timeless elegance.\n\nWith 438 rooms and suites, ITC Maurya accommodates wedding parties of substantial scale. The accommodation ranges from well-appointed Deluxe rooms to the magnificent Presidential Suite, offering options for every requirement. The Towers floors provide enhanced luxury with exclusive lounge access, while the ITC One experiences cater to the most discerning guests. The property's size allows entire wedding parties to stay on-site, simplifying logistics for multi-day celebrations.\n\nWedding venues at ITC Maurya span intimate gatherings to celebrations of extraordinary scale. The magnificent Peacock Hall, one of Delhi's largest hotel ballrooms at over 20,000 square feet, accommodates receptions for 1,500 guests. The outdoor Peacock Lawns provide manicured green spaces for ceremonies. Multiple smaller venues—including the elegant Kautilya and refined Maya—host sangeet, mehendi, and intimate dinners. The venue configuration allows complete multi-day weddings to unfold on-site with variety and flow.\n\nThe culinary program at ITC Maurya is legendary. Bukhara has served its iconic dal and sikandari raan to generations of dignitaries and food lovers. Dum Pukht presents the refined flavors of Awadhi cuisine. West View offers contemporary international fare. The wedding culinary team draws from this extraordinary expertise, creating menus that become talking points long after celebrations conclude. Few wedding venues can offer this depth of culinary mastery at scale.\n\nKaya Kalp—The Royal Spa provides comprehensive pre-wedding wellness, from Ayurvedic treatments to contemporary beauty services. The wedding planning team brings decades of institutional knowledge, having orchestrated celebrations for India's most prominent families. This experience translates into flawless execution, with ITC's signature attention to detail evident in every interaction.",
+  "weddingSpaces": [
+    {"name": "Peacock Hall", "capacity": 1500, "type": "Indoor", "sqft": 20000},
+    {"name": "Peacock Lawns", "capacity": 800, "type": "Outdoor", "sqft": 35000},
+    {"name": "Maya Hall", "capacity": 400, "type": "Indoor", "sqft": 8000},
+    {"name": "Kautilya", "capacity": 200, "type": "Indoor", "sqft": 5000},
+    {"name": "Chanakya Garden", "capacity": 300, "type": "Outdoor", "sqft": 15000},
+    {"name": "Private Dining Rooms", "capacity": 80, "type": "Indoor", "sqft": 2500}
+  ],
+  "features": ["438 rooms and luxury suites", "Home to legendary Bukhara restaurant", "20,000 sq ft Peacock Hall", "Multiple award-winning restaurants", "Kaya Kalp spa and wellness", "Prime Diplomatic Enclave location", "Extensive art collections", "ITC's culinary excellence", "Comprehensive wedding services", "40+ years of wedding expertise", "The Towers premium floors", "Multiple venue configurations", "Climate-controlled grand ballrooms", "Sustainable luxury practices"],
+  "cuisineTypes": ["Northwest Frontier (Bukhara)", "Awadhi (Dum Pukht)", "Pan-Indian", "International (West View)", "North Indian", "South Indian", "Continental", "Pan-Asian", "Mediterranean"],
+  "accommodationRooms": 438,
+  "googleRating": 4.5,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.8,
+  "heroImage": "/images/venues/itc-maurya-delhi/hero.jpg",
+  "galleryImages": ["/images/venues/itc-maurya-delhi/gallery-1.jpg", "/images/venues/itc-maurya-delhi/gallery-2.jpg", "/images/venues/itc-maurya-delhi/gallery-3.jpg", "/images/venues/itc-maurya-delhi/gallery-4.jpg", "/images/venues/itc-maurya-delhi/gallery-5.jpg", "/images/venues/itc-maurya-delhi/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.itchotels.com/in/en/itcmaurya-new-delhi",
+  "nearestAirport": "Indira Gandhi International Airport",
+  "distanceFromAirport": "14 km (30 minutes)",
+  "bestSeasons": ["October to March", "Winter season (November-February)", "Spring (February-March)"],
+  "weatherNote": "Delhi enjoys pleasant weather from October to March with temperatures between 8°C and 28°C. Winter mornings can be foggy. Summer months (April-June) are extremely hot. Monsoon (July-September) brings humidity and occasional heavy rain.",
+  "metaTitle": "ITC Maurya Delhi Wedding | Iconic Luxury Hotel with Bukhara Restaurant",
+  "metaDescription": "Host your grand wedding at ITC Maurya Delhi. Home to legendary Bukhara restaurant with venues for 100-1500 guests and ITC's signature hospitality excellence.",
+  "keywords": ["ITC Maurya wedding", "Bukhara restaurant wedding", "grand wedding venue Delhi", "luxury hotel wedding Delhi", "large wedding venue New Delhi", "5 star wedding Delhi", "destination wedding Delhi", "1000 guests wedding", "celebrity wedding venue", "iconic hotel wedding"],
+  "phone": "+91-11-2611-2233",
+  "email": "maurya@itchotels.in",
+  "website": "https://www.itchotels.com/in/en/itcmaurya-new-delhi",
+  "awards": ["Condé Nast Traveller Gold List", "Travel + Leisure World's Best", "Forbes Travel Guide Five Star", "Best Business Hotel India", "Bukhara - Asia's Best Restaurant"],
+  "whyChoose": ["Home to legendary Bukhara and Dum Pukht restaurants", "Peacock Hall accommodates 1500 guests in grandeur", "438 rooms keeping large wedding parties together", "40+ years experience hosting India's most prominent weddings", "Diplomatic Enclave location with excellent connectivity", "Multiple venue options for complete wedding celebrations", "ITC's commitment to sustainable luxury practices", "Unmatched culinary expertise at wedding scale"],
+  "idealFor": ["Grand weddings with 500-1500 guests", "Families prioritizing culinary excellence", "Traditional Indian weddings with multiple ceremonies", "High-profile celebrations requiring proven capability", "Multi-day celebrations with diverse venue needs"],
+  "address": "Diplomatic Enclave, Sardar Patel Marg, New Delhi, Delhi 110021, India",
+  "nearestRailway": "New Delhi Railway Station",
+  "distanceFromRailway": "10 km (25 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services with ITC managing permits. Extensive wine collection and premium spirits. Custom cocktail programs available. No outside alcohol permitted.",
+  "decorPolicy": "Preferred decorator list with proven track record. External decorators coordinate through hotel events team. Fire safety compliance mandatory. The grand venues accommodate elaborate decorations.",
+  "musicPolicy": "Indoor music until 11:00 PM. Outdoor venues follow Delhi 10:00 PM regulations. Professional sound systems available. The hotel's experience ensures smooth coordination with authorities.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days before: 25% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited.",
+  "paymentTerms": "30% advance at booking. 30% due 60 days before event. 25% due 15 days before. Balance 15% due 3 days before event.",
+  "securityDeposit": "₹15,00,000 for large weddings (Refundable within 21 working days)",
+  "drivingDirections": {
+    "fromAirport": "From IGI Airport, exit onto NH48 and head towards central Delhi. Exit onto Sardar Patel Marg towards the Diplomatic Enclave. ITC Maurya is prominently located on the left with its distinctive pyramid architecture. Journey time approximately 30 minutes.",
+    "fromRailway": "From New Delhi Railway Station, head west on Ajmeri Gate Road. Continue onto Pusa Road and then Sardar Patel Marg. ITC Maurya is in the Diplomatic Enclave area. Journey time approximately 25 minutes.",
+    "fromCityCenter": "From Connaught Place, take Janpath south and then west onto Teen Murti Marg. Continue to Sardar Patel Marg. ITC Maurya is visible with its iconic architecture. Journey time approximately 20 minutes.",
+    "landmarks": ["Diplomatic Enclave", "Teen Murti Bhavan (2 km)", "Nehru Park (adjacent)", "Rashtrapati Bhavan (4 km)"],
+    "parkingInfo": "Extensive valet and self-parking. Large underground parking for wedding guests. Dedicated area for baraat convoys. The property accommodates 500+ vehicles."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book ITC Maurya?",
+      "answer": "For peak season (November-February), booking 12-18 months ahead is recommended. The hotel's popularity for grand weddings means auspicious dates fill quickly. Bukhara private dining requires separate advance booking."
+    },
+    {
+      "question": "What is the Peacock Hall capacity?",
+      "answer": "Peacock Hall accommodates up to 1,500 guests—one of Delhi's largest hotel ballrooms at over 20,000 sq ft. The column-free design allows flexible configurations. Combined with outdoor venues, even larger celebrations are possible."
+    },
+    {
+      "question": "Can Bukhara host wedding dinners?",
+      "answer": "Bukhara offers private dining experiences for up to 30 guests—ideal for intimate family dinners. The restaurant's legendary dishes can also be incorporated into larger wedding menus, bringing Bukhara's magic to your celebration."
+    },
+    {
+      "question": "What cuisines can be offered at weddings?",
+      "answer": "With Bukhara, Dum Pukht, West View, and extensive banqueting experience, the culinary team covers Northwest Frontier, Awadhi, Pan-Indian, and international cuisines at exceptional quality, even at scale."
+    },
+    {
+      "question": "Can all wedding guests stay on property?",
+      "answer": "The 438 rooms accommodate approximately 800+ guests. For very large weddings, ITC coordinates overflow with nearby properties. Room blocks should be confirmed well in advance for peak season."
+    },
+    {
+      "question": "What makes ITC Maurya special for weddings?",
+      "answer": "The combination of legendary culinary expertise, grand venues, proven experience with high-profile celebrations, and ITC's service standards creates wedding experiences few venues can match. Over 40 years of hosting prominent weddings builds institutional knowledge."
+    },
+    {
+      "question": "What wellness options are available?",
+      "answer": "Kaya Kalp Spa offers comprehensive services including Ayurvedic treatments, beauty services, and bridal packages. The spa has experience preparing couples and wedding parties for celebrations."
+    },
+    {
+      "question": "Is there outdoor venue backup?",
+      "answer": "Peacock Hall and Maya Hall provide indoor backup for outdoor events. Delhi's winter weather is generally reliable, but contingency plans are always prepared. The events team monitors forecasts carefully."
+    },
+    {
+      "question": "What baraat arrangements are available?",
+      "answer": "The Diplomatic Enclave location allows elaborate baraat processions. Band, horses, elephants, and vintage car arrangements can be coordinated. The hotel has extensive experience managing grand arrivals."
+    },
+    {
+      "question": "What sustainable practices does ITC follow?",
+      "answer": "ITC's Responsible Luxury philosophy includes LEED Platinum certification, sustainable sourcing, waste reduction, and energy efficiency. Weddings can incorporate eco-friendly elements while maintaining luxury standards."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "venue-014",
+  "name": "Park Hyatt Goa Resort and Spa",
+  "slug": "park-hyatt-goa-cansaulim",
+  "city": "Cansaulim",
+  "state": "Goa",
+  "region": "West",
+  "coordinates": {"lat": 15.4053, "lng": 73.8911},
+  "category": "Beach Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 600},
+  "priceRange": {"min": 50, "max": 250},
+  "startingPrice": "₹50 Lakhs onwards",
+  "shortDescription": "Experience refined elegance at Park Hyatt Goa, a sprawling 45-acre beachfront paradise on South Goa's pristine Arossim Beach, offering intimate luxury and world-class hospitality for unforgettable destination weddings.",
+  "longDescription": "Park Hyatt Goa Resort and Spa represents the pinnacle of refined beachfront luxury, a meticulously designed 45-acre paradise that seamlessly blends Portuguese colonial elegance with contemporary sophistication. Set along the pristine Arossim Beach in South Goa's quieter shores, this award-winning resort offers couples a wedding destination that prioritizes serenity, intimacy, and impeccable service over the bustle of North Goa's party scene. For those seeking a beach wedding with understated elegance and genuine tranquility, Park Hyatt Goa delivers an experience of uncommon refinement.\n\nThe resort's architecture pays graceful homage to Goa's Indo-Portuguese heritage, with whitewashed buildings featuring traditional balcaos, terracotta roofs, and vibrant bougainvillea cascading over shaded verandahs. The design philosophy emphasizes horizontal space and natural integration, with no building rising above the surrounding palm canopy. Meandering pathways connect intimate courtyards, lotus ponds, and tropical gardens, creating a village-like atmosphere where every turn reveals new beauty.\n\nWith 250 spacious rooms, suites, and villas, Park Hyatt Goa can accommodate wedding celebrations of significant scale while maintaining the intimate atmosphere that defines the property. The Pousada-style architecture arranges accommodation in small clusters, each with private gardens and distinct character. The ultra-luxurious Park Villas offer private pools and direct beach access, ideal for the couple and VIP guests seeking exceptional privacy.\n\nWedding venues at Park Hyatt Goa span beach, lawn, and interior spaces with remarkable versatility. The beachfront lawn, stretching along 300 meters of pristine coastline, accommodates grand celebrations for up to 600 guests with the Arabian Sea as backdrop. The central courtyard, surrounded by colonial arcades and illuminated by fairy lights, creates magical settings for ceremonies and dinners. Casa Mascarenhas, the resort's striking function venue, offers 10,000 square feet of indoor space adaptable to any celebration style.\n\nThe resort's culinary program reflects Goa's position at the crossroads of cultures. From traditional Goan Catholic cuisine to Portuguese-influenced seafood preparations, from refined pan-Indian dishes to contemporary international fare, the culinary team crafts menus that tell stories of this unique coastal land. The lagoon-side restaurant creates romantic dinner settings, while beach barbecues and courtyard feasts offer more relaxed dining atmospheres.\n\nPark Hyatt's legendary service standards elevate every aspect of the wedding experience. The dedicated events team coordinates with precision, managing complex logistics while maintaining the relaxed atmosphere that defines Goa. The Sereno Spa offers comprehensive pre-wedding wellness, from Ayurvedic treatments to bridal beauty services. For wedding guests, the resort provides water sports, village excursions, spice plantation tours, and access to South Goa's quieter attractions.",
+  "weddingSpaces": [
+    {"name": "Beachfront Lawn", "capacity": 600, "type": "Beach", "sqft": 50000},
+    {"name": "Central Courtyard", "capacity": 300, "type": "Outdoor", "sqft": 20000},
+    {"name": "Casa Mascarenhas", "capacity": 400, "type": "Indoor", "sqft": 10000},
+    {"name": "Lagoon Terrace", "capacity": 200, "type": "Outdoor", "sqft": 12000},
+    {"name": "Pool Pavilion", "capacity": 150, "type": "Poolside", "sqft": 8000},
+    {"name": "Beach Deck", "capacity": 120, "type": "Beach", "sqft": 6000}
+  ],
+  "features": ["45-acre beachfront property", "250 rooms, suites, and villas", "300 meters private beach frontage", "Indo-Portuguese colonial architecture", "Multiple lagoons and water features", "Award-winning Sereno Spa", "Private pool villas available", "Water sports center", "Village-style intimate atmosphere", "Multiple dining venues", "Comprehensive wedding services", "South Goa tranquility", "Tropical garden settings", "Direct beach access"],
+  "cuisineTypes": ["Traditional Goan", "Portuguese-Goan Fusion", "South Indian", "North Indian", "Continental", "Mediterranean", "Pan-Asian", "Coastal Seafood"],
+  "accommodationRooms": 250,
+  "googleRating": 4.6,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.8,
+  "heroImage": "/images/venues/park-hyatt-goa/hero.jpg",
+  "galleryImages": ["/images/venues/park-hyatt-goa/gallery-1.jpg", "/images/venues/park-hyatt-goa/gallery-2.jpg", "/images/venues/park-hyatt-goa/gallery-3.jpg", "/images/venues/park-hyatt-goa/gallery-4.jpg", "/images/venues/park-hyatt-goa/gallery-5.jpg", "/images/venues/park-hyatt-goa/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.hyatt.com/en-US/hotel/india/park-hyatt-goa-resort-and-spa/goagh",
+  "nearestAirport": "Goa International Airport (Dabolim)",
+  "distanceFromAirport": "15 km (25 minutes)",
+  "bestSeasons": ["October to March", "Winter season (November-February)", "Early spring (March)"],
+  "weatherNote": "South Goa enjoys pleasant weather from October to March with temperatures between 22°C and 32°C. The beach location provides natural cooling. Monsoon (June-September) brings heavy rain. Summer (April-May) is hot and humid.",
+  "metaTitle": "Park Hyatt Goa Wedding | Luxury Beachfront Resort Wedding Venue South Goa",
+  "metaDescription": "Host your elegant beach wedding at Park Hyatt Goa. 45 acres of beachfront luxury on Arossim Beach with venues for 50-600 guests and world-class hospitality.",
+  "keywords": ["Park Hyatt Goa wedding", "South Goa wedding venue", "beach wedding Goa", "luxury resort wedding", "Arossim Beach wedding", "destination wedding Goa", "5 star beach resort wedding", "intimate beach wedding", "Portuguese colonial wedding", "beachfront wedding India"],
+  "phone": "+91-832-272-1234",
+  "email": "goa.parkhyatt@hyatt.com",
+  "website": "https://www.hyatt.com/en-US/hotel/india/park-hyatt-goa-resort-and-spa/goagh",
+  "awards": ["Condé Nast Traveller Gold List", "TripAdvisor Certificate of Excellence", "World Travel Awards - Leading Resort", "Luxury Lifestyle Awards", "Best Beach Resort - Travel + Leisure"],
+  "whyChoose": ["45 acres of pristine beachfront paradise in peaceful South Goa", "Indo-Portuguese architecture creating unique romantic atmosphere", "250 rooms allowing large wedding parties on-site", "Park Hyatt legendary service and attention to detail", "Multiple venue options from intimate to grand scale", "Award-winning Sereno Spa for pre-wedding wellness", "Private pool villas for VIP guests and couple", "South Goa tranquility away from touristy crowds"],
+  "idealFor": ["Couples seeking refined beach wedding atmosphere", "Large destination weddings requiring extensive accommodation", "Families valuing tranquility over party scene", "Wedding celebrations emphasizing elegance and service", "Multi-generational gatherings with varied interests"],
+  "address": "Arossim Beach, Cansaulim, South Goa 403712, India",
+  "nearestRailway": "Vasco da Gama Railway Station",
+  "distanceFromRailway": "10 km (20 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services available with resort managing permits. Premium spirits, wines, and cocktails included in packages. Custom bar menus created for wedding celebrations.",
+  "decorPolicy": "Preferred decorator list provided. External decorators welcome with coordination through events team. Beach and garden décor must follow environmental guidelines. Fire safety compliance required for indoor venues.",
+  "musicPolicy": "Outdoor music permitted until 10:00 PM per Goa regulations. Casa Mascarenhas indoor venue allows music until 11:00 PM. Beach acoustic sessions can continue longer with appropriate volume management.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days before: 25% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited. Hyatt terms apply.",
+  "paymentTerms": "25% advance at booking. 25% due 90 days before. 25% due 30 days before. Balance 25% due 7 days before. Room blocks follow Hyatt corporate terms.",
+  "securityDeposit": "₹8,00,000 (Refundable within 21 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Dabolim Airport, exit onto NH66 and head south. Take the Velsao/Cansaulim exit after approximately 8 km. Follow signs to Cansaulim and then Arossim Beach. Park Hyatt Goa is prominently located on the beachfront. Total journey approximately 25 minutes.",
+    "fromRailway": "From Vasco da Gama Station, head south on the coastal road towards Bogmalo. Continue past Bogmalo Beach to Cansaulim. Follow signs to Arossim Beach and Park Hyatt Goa. Journey time approximately 20 minutes.",
+    "fromCityCenter": "From Panjim, take NH66 south past the airport junction. Exit at Cansaulim and follow signs to Arossim Beach. Park Hyatt Goa is clearly visible on the beachfront with resort signage. Journey time approximately 45 minutes.",
+    "landmarks": ["Arossim Beach (adjacent)", "Dabolim Airport (15 km)", "Vasco da Gama (10 km)", "Majorda Beach (8 km)"],
+    "parkingInfo": "Extensive complimentary parking for guests. Valet service available. Wedding convoy parking coordinated by events team. Beach access points for setup vehicles."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book Park Hyatt Goa?",
+      "answer": "For peak season (November-February), we recommend booking 12-18 months ahead. The resort's reputation for elegant weddings means popular dates fill early. Christmas and New Year require even earlier booking."
+    },
+    {
+      "question": "What is the capacity for beach weddings?",
+      "answer": "The beachfront lawn accommodates up to 600 guests for ceremonies and receptions. The 300-meter beach frontage allows flexible setup configurations. Beach ceremonies require coordination with local authorities."
+    },
+    {
+      "question": "Can all wedding guests stay on property?",
+      "answer": "The 250 rooms can accommodate approximately 500 guests. For larger weddings, nearby partner hotels offer overflow with shuttle services. The resort's size means most weddings are comfortably housed on-site."
+    },
+    {
+      "question": "What makes South Goa different from North Goa?",
+      "answer": "South Goa offers a more tranquil, refined atmosphere with pristine beaches and less tourist activity. Park Hyatt's location provides the beauty of Goa without the party-town atmosphere, ideal for families and sophisticated celebrations."
+    },
+    {
+      "question": "What wellness options are available?",
+      "answer": "Sereno Spa offers comprehensive services including Ayurvedic treatments, couple's massages, bridal packages, and group wellness sessions. The spa pavilions overlooking lagoons provide serene settings for pre-wedding pampering."
+    },
+    {
+      "question": "What activities can be arranged for guests?",
+      "answer": "Options include water sports, beach activities, village walks, spice plantation tours, Old Goa heritage excursions, sunset cruises, cooking classes, and golf at nearby courses. The concierge tailors experiences to group interests."
+    },
+    {
+      "question": "How does the proximity to airport help?",
+      "answer": "At just 25 minutes from Dabolim Airport, Park Hyatt Goa offers exceptional convenience for destination wedding guests. This reduces travel fatigue and maximizes celebration time, especially valuable for international guests."
+    },
+    {
+      "question": "What cuisine specialties are available?",
+      "answer": "The culinary team excels in traditional Goan Catholic cuisine, Portuguese-Goan fusion, and coastal seafood. Continental, Pan-Indian, and Asian options round out offerings. Beach barbecues and themed dinners create memorable dining experiences."
+    },
+    {
+      "question": "What backup exists for weather issues?",
+      "answer": "Casa Mascarenhas provides 10,000 square feet of covered backup space for 400 guests. Covered terraces and tent structures can be arranged. The events team monitors weather and coordinates contingencies well in advance."
+    },
+    {
+      "question": "Are villa buyouts available for the wedding couple?",
+      "answer": "Yes, Park Villas with private pools and beach access offer ultimate privacy for couples. These can be reserved exclusively for the wedding stay, providing a resort-within-resort experience for special occasions."
+    }
+  ]
+}

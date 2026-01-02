@@ -1,0 +1,109 @@
+{
+  "id": "venue-012",
+  "name": "Samode Palace",
+  "slug": "samode-palace-jaipur",
+  "city": "Samode",
+  "state": "Rajasthan",
+  "region": "North",
+  "coordinates": {"lat": 27.2724, "lng": 75.8089},
+  "category": "Heritage Palace",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 300},
+  "priceRange": {"min": 60, "max": 280},
+  "startingPrice": "₹60 Lakhs onwards",
+  "shortDescription": "Step into a fairytale at Samode Palace, a 475-year-old royal residence nestled in the Aravalli hills, offering authentic Rajputana grandeur with hand-painted murals, mirrored halls, and timeless romantic charm.",
+  "longDescription": "Samode Palace is not merely a wedding venue—it is a living museum of Rajputana artistry and royal heritage that has witnessed over four centuries of celebrations, romances, and family traditions. This magnificent 475-year-old palace, still owned and operated by the Samode royal family, offers couples the rare opportunity to celebrate their union in an authentic historic setting that no modern construction can replicate. For those seeking a wedding that feels like stepping into a bygone era of maharajas and royal ceremonies, Samode Palace delivers an experience of unparalleled authenticity.\n\nThe palace's artistic heritage is immediately evident upon entering its gates. Every surface tells a story through elaborate hand-painted murals depicting royal hunts, celestial beings, and geometric patterns executed in the distinctive Samode style that blends Mughal and Rajput artistic traditions. The famed Sheesh Mahal (Mirror Palace) dazzles visitors with thousands of tiny mirrors embedded in intricate patterns, creating a kaleidoscope of reflected candlelight during evening celebrations. The Durbar Hall, with its original painted walls and royal seating, provides a ceremonial space that requires no decoration—its beauty is complete.\n\nWedding celebrations at Samode Palace unfold across a tapestry of romantic venues, each with its own character and charm. The sprawling palace lawns, surrounded by historic walls and backed by the Aravalli hills, accommodate ceremonies for up to 300 guests. The stepped garden, with its fountains and terraced levels, creates a dramatic setting for sangeet celebrations. The palace courtyards, intimate and enclosed by painted archways, host mehendi ceremonies bathed in natural light. For evening receptions, the Sheesh Mahal and Durbar Hall provide indoor grandeur that photographs beautifully in candlelight.\n\nThe 43 rooms and suites within the palace maintain their historic character while offering modern comforts. Each room features original artwork, antique furniture, and unique architectural details—no two rooms are alike. The royal suites occupy the palace's most significant chambers, offering carved marble bathrooms, private terraces, and views over the gardens and hills. Staying at Samode Palace means living as royalty did, surrounded by history and art at every turn.\n\nCulinary experiences at Samode Palace celebrate the rich traditions of Rajasthani cuisine alongside refined continental options. The palace kitchen has served generations of the royal family and their guests, maintaining recipes passed down through centuries while adapting to contemporary tastes. Wedding feasts can include everything from elaborate Rajasthani thalis served on silver thalis to European-style courses. The palace can arrange intimate dinners in the gardens, group dining in historic halls, or elaborate outdoor feasts under the stars.\n\nWhat makes Samode Palace truly special for weddings is its authenticity. The family's ongoing involvement ensures that celebrations honor both the venue's heritage and the significance of the wedding occasion. Traditional ceremonies are conducted with genuine understanding of their meaning, not merely as performance. The palace's relative seclusion—just 45 kilometers from Jaipur—provides privacy and tranquility impossible to find in city venues, while remaining accessible for guests arriving from near and far.",
+  "weddingSpaces": [
+    {"name": "Palace Lawns", "capacity": 300, "type": "Outdoor", "sqft": 25000},
+    {"name": "Stepped Garden", "capacity": 200, "type": "Outdoor", "sqft": 15000},
+    {"name": "Sheesh Mahal", "capacity": 60, "type": "Indoor", "sqft": 2500},
+    {"name": "Durbar Hall", "capacity": 100, "type": "Indoor", "sqft": 4000},
+    {"name": "Central Courtyard", "capacity": 80, "type": "Outdoor", "sqft": 3500},
+    {"name": "Sultan Mahal", "capacity": 120, "type": "Indoor", "sqft": 5000}
+  ],
+  "features": ["475-year-old authentic royal palace", "Original hand-painted murals throughout", "Famous Sheesh Mahal mirror hall", "43 unique heritage rooms", "Aravalli hill backdrop", "Royal family hospitality", "Private and secluded location", "Antique furnishings and décor", "Traditional Rajasthani ceremonies", "Heated swimming pool", "Palace gardens and terraces", "Camel and horse arrangements", "Vintage car collection", "Complete privacy for celebrations"],
+  "cuisineTypes": ["Royal Rajasthani", "Traditional Marwari", "Mughlai", "North Indian", "Continental", "Mediterranean", "Fusion Cuisine"],
+  "accommodationRooms": 43,
+  "googleRating": 4.7,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.9,
+  "heroImage": "/images/venues/samode-palace/hero.jpg",
+  "galleryImages": ["/images/venues/samode-palace/gallery-1.jpg", "/images/venues/samode-palace/gallery-2.jpg", "/images/venues/samode-palace/gallery-3.jpg", "/images/venues/samode-palace/gallery-4.jpg", "/images/venues/samode-palace/gallery-5.jpg", "/images/venues/samode-palace/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.samode.com/virtual-tour/",
+  "nearestAirport": "Jaipur International Airport",
+  "distanceFromAirport": "50 km (1 hour 15 minutes)",
+  "bestSeasons": ["October to March", "Winter weddings (November-February)", "Early spring (February-March)"],
+  "weatherNote": "Samode enjoys pleasant weather from October to March with temperatures between 8°C to 26°C. The hillside location provides natural cooling. Winter evenings can be cool, requiring heating for outdoor events.",
+  "metaTitle": "Samode Palace Wedding | 475-Year-Old Heritage Palace Wedding Venue Jaipur",
+  "metaDescription": "Celebrate your royal wedding at Samode Palace, a 475-year-old heritage palace with famous Sheesh Mahal. Intimate destination weddings for 50-300 guests near Jaipur.",
+  "keywords": ["Samode Palace wedding", "heritage palace wedding Rajasthan", "Sheesh Mahal wedding", "authentic royal wedding India", "historical wedding venue Jaipur", "intimate palace wedding", "Rajputana wedding venue", "antique palace wedding", "traditional Rajasthani wedding", "boutique palace wedding"],
+  "phone": "+91-1423-240-014",
+  "email": "reservations@samode.com",
+  "website": "https://www.samode.com/",
+  "awards": ["Condé Nast Traveller Gold List", "Andrew Harper Grand Award", "TripAdvisor Certificate of Excellence", "National Tourism Award", "Best Heritage Hotel - Travel + Leisure"],
+  "whyChoose": ["Authentic 475-year-old royal palace with original artwork", "Famous Sheesh Mahal provides unique photo opportunities", "Secluded location ensures complete privacy for celebrations", "Royal family hospitality with genuine understanding of traditions", "Every room unique with antique furnishings and murals", "Intimate scale perfect for meaningful celebrations", "Aravalli hill setting provides stunning natural backdrop", "Living heritage experience impossible to replicate"],
+  "idealFor": ["Couples seeking authentic heritage wedding experience", "Intimate celebrations with 50-300 guests", "Art and history enthusiasts", "Photography-focused weddings with unique backdrops", "Families valuing tradition and cultural authenticity"],
+  "address": "Samode, District Jaipur, Rajasthan 303806, India",
+  "nearestRailway": "Jaipur Junction",
+  "distanceFromRailway": "45 km (1 hour)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Alcohol service permitted with license. The palace assists with obtaining necessary permits. Bar setups can be arranged in designated areas. Premium spirits and wines available.",
+  "decorPolicy": "The palace's original artwork requires minimal additional decoration. External decorators must coordinate with palace management. No fixtures on painted surfaces. Natural décor elements like flowers preferred.",
+  "musicPolicy": "Music permitted until 10:30 PM. The rural location has more flexibility than city venues. Traditional music encouraged. Sound levels must be respectful of the historic setting.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": true,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 90+ days before: 25% forfeited. 60-89 days: 50% forfeited. 30-59 days: 75% forfeited. Less than 30 days: 100% forfeited.",
+  "paymentTerms": "30% advance at booking. 40% due 60 days before event. Final 30% due 15 days before event. Full buyouts require 40% advance.",
+  "securityDeposit": "₹5,00,000 (Refundable within 14 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Jaipur Airport, exit onto NH48 and head north towards Delhi. After approximately 15 km, take the exit towards Chomu/Samode. Follow signs for Samode village. The palace is prominently located on a hillock at the edge of the village. Total journey approximately 1 hour 15 minutes.",
+    "fromRailway": "From Jaipur Junction, head north on NH48 towards Delhi. After crossing Chomu, follow signs to Samode. The village is approximately 45 km from Jaipur. The palace is visible on the hillside as you approach. Journey time approximately 1 hour.",
+    "fromCityCenter": "From Hawa Mahal/Jaipur city center, take the Chomu Road (NH48) northward. Continue through Chomu town and follow signs to Samode. The journey through rural Rajasthan offers glimpses of traditional village life. Journey time approximately 1 hour 10 minutes.",
+    "landmarks": ["Samode Village", "Chomu Town (15 km)", "Jaipur City (45 km)", "Amber Fort (35 km)"],
+    "parkingInfo": "Parking available at palace entrance and village area. Wedding convoys accommodated with advance coordination. Limited space within palace grounds for vehicles."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book Samode Palace?",
+      "answer": "For peak wedding season (October-March), we recommend booking 15-18 months ahead. The palace hosts limited weddings annually to maintain exclusivity and quality. Off-season dates can be confirmed 8-10 months in advance."
+    },
+    {
+      "question": "Can the entire palace be booked exclusively?",
+      "answer": "Yes, full palace buyouts are available and strongly recommended for weddings. This ensures complete privacy and allows all 43 rooms for your wedding guests. Buyout rates include accommodation, venue access, and breakfast."
+    },
+    {
+      "question": "What makes Sheesh Mahal special for weddings?",
+      "answer": "The Sheesh Mahal (Mirror Palace) is adorned with thousands of tiny mirrors in intricate patterns. When lit with candles or soft lighting, it creates magical reflections ideal for intimate ceremonies, cocktails, or couple photography sessions."
+    },
+    {
+      "question": "How many guests can the palace accommodate?",
+      "answer": "Samode Palace has 43 rooms accommodating approximately 80-90 guests. For larger weddings, the nearby Samode Bagh resort adds 44 luxury tents. Combined, both properties host 160+ guests with shuttle service between them."
+    },
+    {
+      "question": "Is the palace accessible for elderly guests?",
+      "answer": "The palace is a historic structure with stairs and uneven surfaces. While ground-floor rooms and main venues are accessible, some areas require climbing. The palace team accommodates special needs with advance notice."
+    },
+    {
+      "question": "What activities can be arranged for wedding guests?",
+      "answer": "Activities include village walks, camel rides, cooking classes, henna sessions, turban-tying demonstrations, local craft shopping, bird watching, and excursions to Jaipur attractions. The palace curates authentic rural Rajasthan experiences."
+    },
+    {
+      "question": "Can specific ceremonies be conducted in traditional style?",
+      "answer": "Absolutely. The royal family and palace team have deep knowledge of Rajasthani wedding traditions. They can guide families through authentic ceremonies, arrange traditional priests, and ensure rituals are conducted properly."
+    },
+    {
+      "question": "What catering options are available?",
+      "answer": "The palace kitchen specializes in royal Rajasthani cuisine with recipes preserved for generations. Continental options are also available. Outside caterers can be discussed for specific regional cuisines not offered in-house."
+    },
+    {
+      "question": "How does decoration work in a historic palace?",
+      "answer": "The palace's original murals and architecture are the primary décor. Floral additions, fabric draping, and lighting enhance without competing. Decorators must follow guidelines protecting the historic surfaces. Less is often more here."
+    },
+    {
+      "question": "What is the weather contingency plan?",
+      "answer": "The Durbar Hall and Sultan Mahal provide covered backup for outdoor events. The palace has extensive covered courtyards and verandahs. Tent structures can be arranged with advance planning. Winter weddings may require heating arrangements."
+    }
+  ]
+}

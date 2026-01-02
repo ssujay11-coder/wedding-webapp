@@ -1,0 +1,109 @@
+{
+  "id": "venue-015",
+  "name": "ITC Grand Goa, a Luxury Collection Resort",
+  "slug": "itc-grand-goa-arossim",
+  "city": "Arossim",
+  "state": "Goa",
+  "region": "West",
+  "coordinates": {"lat": 15.4089, "lng": 73.8883},
+  "category": "Luxury Beach Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 100, "max": 1500},
+  "priceRange": {"min": 60, "max": 350},
+  "startingPrice": "₹60 Lakhs onwards",
+  "shortDescription": "Celebrate magnificence at ITC Grand Goa, a spectacular 45-acre Goan village resort on pristine Arossim Beach, offering grandest wedding venues, legendary ITC hospitality, and exquisite culinary excellence.",
+  "longDescription": "ITC Grand Goa stands as South Goa's most magnificent celebration destination, a 45-acre paradise that reimagines the traditional Goan village as a canvas for the grandest wedding celebrations. Part of Marriott's prestigious Luxury Collection, this award-winning resort combines ITC's legendary Indian hospitality with international luxury standards, creating a destination where couples can host celebrations of extraordinary scale without sacrificing intimacy, authenticity, or service excellence.\n\nThe resort's design philosophy draws deeply from Goan architectural heritage, recreating the charm of a traditional waterfront village complete with cobblestone pathways, Portuguese-style balcaos, terracotta roofs, and churches that anchor the property's visual identity. Sixteen interconnected waterways and cascading water bodies create a Venice-like atmosphere, with intimate bridges connecting different zones of the property. The effect is magical—a place where modernity serves tradition rather than replacing it.\n\nWith 252 rooms and suites arranged in villa-style clusters, ITC Grand Goa can accommodate wedding parties of significant scale while maintaining the intimate village atmosphere. The rooms reflect Goan heritage with four-poster beds, traditional furniture, and private balconies overlooking waterways or gardens. The Presidential Suites and Manor Suite offer exceptional luxury for the couple and VIP family members.\n\nWedding venues at ITC Grand Goa achieve scales unmatched by most beach properties. The Grand Lawn, an expansive 75,000 square foot oceanfront venue, can host celebrations for up to 1,500 guests—making it ideal for the grandest Indian wedding celebrations. The indoor Grand Ballroom offers 12,000 square feet of climate-controlled elegance. Multiple waterfront venues, courtyards, and intimate gardens provide options for every event type, from mehendi gatherings to grand receptions.\n\nITC's culinary reputation reaches its zenith at Grand Goa. The resort features multiple specialty restaurants, including the acclaimed Peshawri for Northwest Frontier cuisine, Tempero for Mediterranean fare, and specialty Goan restaurants showcasing coastal traditions. For weddings, the legendary ITC culinary team creates bespoke menus that can feature anything from elaborate Rajasthani thalis to seven-course continental dinners, executed with precision at scales few hotels can manage.\n\nThe Kaya Kalp Royal Spa, one of India's most awarded wellness destinations, provides comprehensive pre-wedding services from traditional Ayurvedic treatments to contemporary beauty services. For wedding guests, the resort offers exceptional recreation including swimming pools, water sports, fitness center, and curated cultural experiences that showcase Goa's unique heritage.",
+  "weddingSpaces": [
+    {"name": "Grand Lawn", "capacity": 1500, "type": "Outdoor", "sqft": 75000},
+    {"name": "Grand Ballroom", "capacity": 800, "type": "Indoor", "sqft": 12000},
+    {"name": "Waterfront Courtyard", "capacity": 400, "type": "Outdoor", "sqft": 20000},
+    {"name": "Village Square", "capacity": 300, "type": "Outdoor", "sqft": 15000},
+    {"name": "Beach Pavilion", "capacity": 250, "type": "Beach", "sqft": 12000},
+    {"name": "Poolside Terrace", "capacity": 200, "type": "Poolside", "sqft": 10000}
+  ],
+  "features": ["45-acre waterfront village resort", "252 heritage-style rooms and suites", "75,000 sq ft Grand Lawn venue", "16 interconnected waterways", "Traditional Goan village architecture", "Award-winning Kaya Kalp Spa", "Multiple dining venues", "ITC's legendary culinary excellence", "Luxury Collection amenities", "Beachfront location on Arossim Beach", "Comprehensive wedding planning", "Cultural performance arrangements", "Water sports and recreation", "Eco-conscious luxury practices"],
+  "cuisineTypes": ["Goan Coastal", "Northwest Frontier (Peshawri)", "Mediterranean", "North Indian", "South Indian", "Continental", "Pan-Asian", "Mughlai", "Traditional Rajasthani"],
+  "accommodationRooms": 252,
+  "googleRating": 4.6,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.8,
+  "heroImage": "/images/venues/itc-grand-goa/hero.jpg",
+  "galleryImages": ["/images/venues/itc-grand-goa/gallery-1.jpg", "/images/venues/itc-grand-goa/gallery-2.jpg", "/images/venues/itc-grand-goa/gallery-3.jpg", "/images/venues/itc-grand-goa/gallery-4.jpg", "/images/venues/itc-grand-goa/gallery-5.jpg", "/images/venues/itc-grand-goa/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.itchotels.com/in/en/itcgrandgoa-goa",
+  "nearestAirport": "Goa International Airport (Dabolim)",
+  "distanceFromAirport": "12 km (20 minutes)",
+  "bestSeasons": ["October to March", "Winter season (November-February)", "Spring period (February-March)"],
+  "weatherNote": "Goa enjoys excellent beach weather from October to March with temperatures between 22°C to 32°C. The monsoon season (June-September) brings heavy rainfall. Summer months (April-May) are hot and humid.",
+  "metaTitle": "ITC Grand Goa Wedding | Grand 1500 Guest Luxury Beach Wedding Venue",
+  "metaDescription": "Host your grand destination wedding at ITC Grand Goa. 45-acre luxury village resort with venues for up to 1500 guests, legendary ITC hospitality, and world-class cuisine.",
+  "keywords": ["ITC Grand Goa wedding", "large wedding venue Goa", "grand wedding beach resort", "1000 guests wedding Goa", "luxury beach wedding India", "destination wedding ITC", "South Goa wedding venue", "big fat Indian wedding Goa", "5 star resort wedding", "beachfront grand wedding"],
+  "phone": "+91-832-272-8888",
+  "email": "grandgoa@itchotels.in",
+  "website": "https://www.itchotels.com/in/en/itcgrandgoa-goa",
+  "awards": ["Condé Nast Traveller Readers' Choice", "Travel + Leisure World's Best", "TripAdvisor Certificate of Excellence", "Best Wedding Resort - WeddingSutra", "Luxury Lifestyle Awards Winner"],
+  "whyChoose": ["Massive 75,000 sq ft lawn accommodating 1500+ guests", "Beautiful Goan village architecture and waterways", "ITC's legendary hospitality and attention to detail", "Award-winning culinary excellence across multiple cuisines", "252 rooms keeping all guests on-property", "Kaya Kalp Spa for comprehensive pre-wedding wellness", "Close proximity to Dabolim Airport (20 mins)", "Luxury Collection standards with Indian hospitality warmth"],
+  "idealFor": ["Grand Indian weddings with 500-1500 guests", "Families seeking all guests under one roof", "Couples prioritizing culinary excellence", "Large-scale celebrations requiring diverse venues", "Multi-day weddings with extensive programming"],
+  "address": "Arossim Beach, Cansaulim, South Goa 403712, India",
+  "nearestRailway": "Vasco da Gama Railway Station",
+  "distanceFromRailway": "8 km (15 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services with ITC managing all permits. Premium alcohol packages including international spirits and wines. Custom cocktail menus available. No outside alcohol permitted.",
+  "decorPolicy": "Preferred decorator list with ITC-approved vendors. External decorators permitted with coordination. The village architecture provides exceptional natural ambiance. Fire safety compliance mandatory.",
+  "musicPolicy": "Outdoor music until 10:00 PM per Goa regulations. Grand Ballroom permits music until 11:00 PM. Professional sound management ensures optimal acoustics within guidelines.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days: 25% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited.",
+  "paymentTerms": "30% advance at booking. 30% due 60 days before. 25% due 15 days before. Balance 15% due 3 days before event.",
+  "securityDeposit": "₹12,00,000 for large weddings (Refundable within 21 working days)",
+  "drivingDirections": {
+    "fromAirport": "From Dabolim Airport, exit onto NH66 and head south. Take the Cansaulim/Arossim exit after approximately 8 km. Follow signs to Arossim Beach. ITC Grand Goa is prominently located with grand entrance visible from main road. Journey time approximately 20 minutes.",
+    "fromRailway": "From Vasco da Gama Station, head south on coastal road. Continue through Bogmalo area towards Cansaulim. Follow signs to Arossim Beach and ITC Grand Goa. Journey time approximately 15 minutes.",
+    "fromCityCenter": "From Panjim, take NH66 south past the airport junction. Continue to Cansaulim exit and follow signs to Arossim Beach. ITC Grand Goa is the largest resort on this stretch with clear signage. Journey time approximately 40 minutes.",
+    "landmarks": ["Arossim Beach (adjacent)", "Park Hyatt Goa (neighboring)", "Dabolim Airport (12 km)", "Vasco da Gama City (8 km)"],
+    "parkingInfo": "Extensive parking for 500+ vehicles. Valet service included. Dedicated area for wedding buses and convoys. Beach access for setup coordinated by events team."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book ITC Grand Goa?",
+      "answer": "For peak season (November-February) and grand weddings, booking 15-18 months ahead is essential. The property's capacity for large celebrations makes it highly sought after. Popular auspicious dates require even earlier booking."
+    },
+    {
+      "question": "What is the maximum guest capacity?",
+      "answer": "The Grand Lawn accommodates up to 1,500 guests for outdoor celebrations—one of Goa's largest capacities. The Grand Ballroom hosts 800 guests for indoor events. Flexible configurations allow various event scales."
+    },
+    {
+      "question": "Can all wedding guests stay on property?",
+      "answer": "The 252 rooms accommodate approximately 500 guests. For larger weddings, ITC coordinates with nearby premium properties for overflow. The resort's size means most weddings are comfortably housed on-site."
+    },
+    {
+      "question": "What makes ITC's culinary offering special?",
+      "answer": "ITC is renowned for culinary excellence with award-winning restaurants like Peshawri. The wedding culinary team can execute elaborate menus at massive scale without compromising quality—a rare capability crucial for large Indian weddings."
+    },
+    {
+      "question": "What is the Goan village concept?",
+      "answer": "The resort recreates a traditional Goan waterfront village with 16 interconnected waterways, Portuguese-style architecture, and village squares. This unique design provides diverse celebration settings while maintaining cohesive atmosphere."
+    },
+    {
+      "question": "What wellness options are available?",
+      "answer": "Kaya Kalp Royal Spa is one of India's most awarded spas, offering Ayurvedic treatments, beauty services, bridal packages, and group wellness. The spa's reputation attracts guests specifically for pre-wedding pampering."
+    },
+    {
+      "question": "What activities can be arranged for guests?",
+      "answer": "Options include beach activities, water sports, village walks, spice plantation tours, Old Goa heritage excursions, cooking classes, and cultural performances. The resort tailors multi-day activity programs for wedding guests."
+    },
+    {
+      "question": "How does proximity to airport help logistics?",
+      "answer": "At just 20 minutes from Dabolim Airport, guest arrivals and departures are efficient. This is especially valuable for large weddings with guests arriving from multiple cities. The events team coordinates group transfers."
+    },
+    {
+      "question": "What backup options exist for weather?",
+      "answer": "The Grand Ballroom (800 capacity) serves as primary backup. Multiple covered venues and tent structures can be arranged. ITC's event management team has extensive contingency protocols for seamless transitions."
+    },
+    {
+      "question": "Are sustainable practices incorporated?",
+      "answer": "ITC's Responsible Luxury philosophy includes sustainable practices throughout operations. From locally-sourced cuisine to eco-friendly amenities, the resort balances luxury with environmental consciousness."
+    }
+  ]
+}

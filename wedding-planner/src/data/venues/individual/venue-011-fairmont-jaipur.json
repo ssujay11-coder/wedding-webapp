@@ -1,0 +1,109 @@
+{
+  "id": "venue-011",
+  "name": "Fairmont Jaipur",
+  "slug": "fairmont-jaipur",
+  "city": "Jaipur",
+  "state": "Rajasthan",
+  "region": "North",
+  "coordinates": {"lat": 26.8351, "lng": 75.6571},
+  "category": "Luxury Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 100, "max": 2500},
+  "priceRange": {"min": 35, "max": 200},
+  "startingPrice": "₹35 Lakhs onwards",
+  "shortDescription": "Celebrate grand Indian weddings at Fairmont Jaipur, a magnificent Mughal palace-inspired resort offering expansive venues, luxury accommodation, and world-class hospitality for celebrations up to 2,500 guests.",
+  "longDescription": "Fairmont Jaipur stands as the Pink City's most impressive modern palace, a sprawling 20-acre resort that captures the grandeur of Mughal architecture while delivering 21st-century luxury. Designed to host the most ambitious celebrations, this magnificent property has quickly become Jaipur's premier venue for large-scale destination weddings, offering couples the rare combination of palatial venues, extensive accommodation, and the legendary service for which the Fairmont brand is renowned worldwide.\n\nThe resort's architecture draws inspiration from the great Mughal palaces, featuring soaring domes, intricate marble inlay work, reflective pools, and meticulously manicured Char Bagh gardens. Every vista within the property offers photo-worthy moments, from the grand porte-cochère entrance to the stunning central courtyard with its cascading fountain. The scale is deliberately impressive—this is a venue designed to accommodate the grandest of Indian wedding celebrations without sacrificing intimacy or elegance.\n\nWith 245 luxuriously appointed rooms and suites, Fairmont Jaipur can accommodate up to 500 wedding guests on-property, eliminating the logistical challenges of coordinating multiple hotels for large celebrations. Each room reflects the resort's design philosophy, combining Rajasthani artistic traditions with contemporary luxury. The Grand Presidential Suite, spanning over 4,200 square feet, offers the ultimate bridal preparation space, complete with private gardens and panoramic resort views.\n\nWedding venues at Fairmont Jaipur range from intimate garden pavilions to the magnificent Grand Lawn capable of hosting 2,500 guests. The Udyan Courtyard provides a romantic setting for ceremonies with its lotus pools and marble pavilions. The Grand Ballroom, at 10,000 square feet, offers climate-controlled elegance for receptions and sangeet celebrations. For couples seeking outdoor celebrations, the resort's multiple lawns can be configured for any event scale, from intimate cocktail gatherings to elaborate baraat processions.\n\nThe culinary team at Fairmont Jaipur brings expertise in crafting elaborate wedding feasts that honor Indian traditions while showcasing global culinary techniques. From traditional Rajasthani thalis featuring dal baati churma and laal maas to contemporary Indo-fusion tasting menus, every meal is executed with precision. The resort's specialty dining venues, including the award-winning Zarin for Indian cuisine and Venetia for Italian fare, can host intimate family dinners, while the extensive banqueting operation seamlessly serves thousands.\n\nFairmont's wedding planning services are comprehensive, with dedicated teams handling everything from vendor coordination and décor management to guest logistics and entertainment programming. The resort maintains relationships with Jaipur's finest decorators, musicians, and performers, ensuring access to the best talent. For families seeking traditional elements, Fairmont can arrange everything from elaborate baraat processions with bands, horses, and elephants to classical dance performances and fireworks displays.\n\nThe resort's extensive facilities ensure wedding guests remain entertained throughout multi-day celebrations. The Willow Stream Spa offers traditional and contemporary treatments for pre-wedding pampering. The fitness center and yoga pavilion cater to health-conscious guests. Multiple pools, including a stunning infinity pool, provide relaxation between events. The resort can also arrange curated Jaipur experiences, from private fort tours to jewelry shopping expeditions, ensuring every guest's stay becomes memorable.",
+  "weddingSpaces": [
+    {"name": "Grand Lawn", "capacity": 2500, "type": "Outdoor", "sqft": 80000},
+    {"name": "Udyan Courtyard", "capacity": 600, "type": "Outdoor", "sqft": 25000},
+    {"name": "Grand Ballroom", "capacity": 1000, "type": "Indoor", "sqft": 10000},
+    {"name": "Mehfil Lawn", "capacity": 400, "type": "Outdoor", "sqft": 18000},
+    {"name": "Poolside Pavilion", "capacity": 300, "type": "Poolside", "sqft": 12000},
+    {"name": "Char Bagh Gardens", "capacity": 500, "type": "Outdoor", "sqft": 22000}
+  ],
+  "features": ["20-acre palatial resort campus", "245 luxury rooms and suites", "Multiple venue options for any scale", "Capacity for 2,500+ guests", "Mughal-inspired architecture", "Award-winning Willow Stream Spa", "Multiple dining venues", "Infinity pool and leisure facilities", "Dedicated wedding planning team", "Elephant and horse baraat arrangements", "In-house décor coordination", "Helicopter landing facility", "24-hour business and event support", "Luxury car fleet for transfers"],
+  "cuisineTypes": ["Royal Rajasthani", "Awadhi", "North Indian", "South Indian", "Continental", "Italian", "Pan-Asian", "Mediterranean", "Live Grills & BBQ", "International Buffets"],
+  "accommodationRooms": 245,
+  "googleRating": 4.6,
+  "tripAdvisorRating": 4.5,
+  "weddingWireRating": 4.7,
+  "heroImage": "/images/venues/fairmont-jaipur/hero.jpg",
+  "galleryImages": ["/images/venues/fairmont-jaipur/gallery-1.jpg", "/images/venues/fairmont-jaipur/gallery-2.jpg", "/images/venues/fairmont-jaipur/gallery-3.jpg", "/images/venues/fairmont-jaipur/gallery-4.jpg", "/images/venues/fairmont-jaipur/gallery-5.jpg", "/images/venues/fairmont-jaipur/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.fairmont.com/jaipur/virtual-tour/",
+  "nearestAirport": "Jaipur International Airport",
+  "distanceFromAirport": "12 km (30 minutes)",
+  "bestSeasons": ["October to March", "Winter weddings (November-February)", "Spring season (February-March)"],
+  "weatherNote": "Jaipur enjoys excellent weather from October to March with temperatures ranging from 8°C to 25°C. The dry climate ensures minimal rain disruption. Avoid April-June due to extreme heat exceeding 40°C.",
+  "metaTitle": "Fairmont Jaipur Wedding | Grand Palace Resort Wedding Venue for 2500+ Guests",
+  "metaDescription": "Host your dream grand wedding at Fairmont Jaipur. A magnificent 20-acre Mughal palace resort offering luxury venues for 100-2500 guests with world-class hospitality.",
+  "keywords": ["Fairmont Jaipur wedding", "grand wedding venue Jaipur", "large wedding venue Rajasthan", "palace wedding Jaipur", "destination wedding Fairmont", "luxury resort wedding India", "2000 guests wedding venue", "Mughal palace wedding", "big fat Indian wedding Jaipur", "5 star wedding venue Jaipur"],
+  "phone": "+91-141-407-8888",
+  "email": "jaipur@fairmont.com",
+  "website": "https://www.fairmont.com/jaipur/",
+  "awards": ["World Travel Awards - Leading Resort India", "Condé Nast Traveller Readers' Choice", "TripAdvisor Certificate of Excellence", "Luxury Lifestyle Awards Winner", "Best Wedding Venue - Wedding Sutra Awards"],
+  "whyChoose": ["Massive capacity accommodating up to 2,500 guests seamlessly", "245 on-site rooms eliminating multi-hotel logistics", "Stunning Mughal-palace architecture perfect for grand celebrations", "Multiple venue configurations for any event type or size", "World-renowned Fairmont hospitality and service standards", "Comprehensive wedding planning support from experienced team", "Strategic location near Jaipur's major attractions", "Excellent value compared to heritage palace venues"],
+  "idealFor": ["Grand Indian weddings with 500+ guests", "Families seeking all-guests-on-site accommodation", "Corporate-style organized wedding celebrations", "Couples wanting modern luxury with traditional aesthetics", "Multi-day celebrations requiring diverse venue spaces"],
+  "address": "2, Riico Kukas, Jaipur-Delhi Highway, Jaipur, Rajasthan 303101, India",
+  "nearestRailway": "Jaipur Junction",
+  "distanceFromRailway": "15 km (35 minutes)",
+  "helipadAvailable": true,
+  "alcoholPolicy": "Full bar services available with necessary permits. Premium alcohol packages including international spirits, wines, and cocktails. Custom bar menus created for weddings. No outside alcohol permitted.",
+  "decorPolicy": "Preferred decorator list provided with proven experience in large-scale weddings. External decorators welcome with security deposit and coordination through hotel events team. Fire safety compliance mandatory.",
+  "musicPolicy": "Outdoor music permitted until 10:00 PM per local regulations. Grand Ballroom allows music until midnight. DJ and band arrangements coordinated through events team. Traditional band baaja facilities available for baraat.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": false,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days before: 25% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited. Force majeure provisions apply.",
+  "paymentTerms": "25% advance at booking. 25% due 90 days before. 25% due 30 days before. Balance 25% due 7 days before event. Room blocks billed separately per hotel policy.",
+  "securityDeposit": "₹10,00,000 (Refundable within 21 working days post-event, subject to damage assessment)",
+  "drivingDirections": {
+    "fromAirport": "From Jaipur International Airport, exit onto NH48 (Jaipur-Delhi Highway). Head north towards Kukas. Continue for approximately 10 km. Fairmont Jaipur is located on the left side of the highway with a grand entrance gate. Clear signage visible from highway. Journey time approximately 30 minutes.",
+    "fromRailway": "From Jaipur Junction Railway Station, take MI Road towards Bani Park. Continue to Ajmer Road and then merge onto NH48 towards Delhi. Drive approximately 12 km north. The resort is on the left side of the highway. Journey time approximately 35-40 minutes.",
+    "fromCityCenter": "From Hawa Mahal/City Palace area, head north via MI Road. Join NH48 (Delhi Highway) and continue for approximately 15 km. Fairmont Jaipur is located near Kukas village on the highway. Journey time approximately 35-45 minutes depending on traffic.",
+    "landmarks": ["Delhi-Jaipur Highway NH48", "RIICO Kukas Industrial Area", "Jaipur International Airport (10 km)", "Nahargarh Fort (20 km)"],
+    "parkingInfo": "Extensive complimentary parking for 500+ vehicles. Valet parking for wedding guests. Dedicated bus parking area. Multiple entry points for large wedding convoys."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book Fairmont Jaipur?",
+      "answer": "For peak season (November-February) weddings, booking 12-18 months ahead is recommended, especially for auspicious dates. The property's popularity for large weddings means prime dates fill quickly. Off-season weddings can be booked 6-9 months ahead."
+    },
+    {
+      "question": "What is the maximum guest capacity?",
+      "answer": "The Grand Lawn can accommodate up to 2,500 guests for outdoor celebrations. The Grand Ballroom seats 1,000 for indoor events. Various venue combinations allow flexible configurations for any wedding size."
+    },
+    {
+      "question": "Can all wedding guests stay on property?",
+      "answer": "The resort has 245 rooms accommodating approximately 500 guests. For larger weddings, partnerships with nearby hotels provide overflow accommodation with shuttle services. The events team coordinates all logistics seamlessly."
+    },
+    {
+      "question": "What cuisines are available for wedding catering?",
+      "answer": "The culinary team offers Rajasthani, North Indian, South Indian, Continental, Italian, Pan-Asian, and international cuisines. Custom menus incorporating family recipes or specific regional dishes can be arranged. Live counters and theatrical presentations available."
+    },
+    {
+      "question": "Are baraat arrangements available?",
+      "answer": "Yes, Fairmont specializes in elaborate baraat setups including decorated horses, elephants, band baaja, vintage cars, and LED-lit chariots. The expansive driveway and grounds perfectly accommodate processions for any scale."
+    },
+    {
+      "question": "What decoration services are provided?",
+      "answer": "While the resort has a preferred decorator list, external decorators are welcome. The events team coordinates all vendors and ensures décor aligns with venue guidelines. The Mughal architecture provides a stunning foundation requiring minimal enhancement."
+    },
+    {
+      "question": "Is there a minimum spend requirement?",
+      "answer": "Minimum F&B spends vary by season and venue selection. Peak season typically requires minimum commitments of ₹20-40 lakhs depending on venues booked. Detailed proposals provided during site visits."
+    },
+    {
+      "question": "What backup options exist for outdoor events?",
+      "answer": "The Grand Ballroom (1,000 capacity) serves as primary backup. Additionally, large tent structures can be erected on lawns with advance planning. Weather monitoring and contingency protocols are standard practice."
+    },
+    {
+      "question": "Can helicopter arrivals be arranged?",
+      "answer": "Yes, Fairmont Jaipur has a helipad for dramatic arrivals. Helicopter services can be arranged for the couple's entrance or VIP guest transportation. Aviation permits and coordination handled by the resort."
+    },
+    {
+      "question": "What activities are available for wedding guests?",
+      "answer": "Guests enjoy the Willow Stream Spa, fitness center, pools, and dining venues. The resort arranges Jaipur sightseeing, shopping trips, cultural performances, and curated experiences. Multi-day weddings include complete guest entertainment programming."
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "theme": {
+    "colorPalette": ["rose pink #ee2b5b", "royal gold #d4af37", "ivory cream", "soft sage", "lavender mist"],
+    "style": "luxury Indian wedding, elegant, romantic, editorial photography quality",
+    "mood": "opulent, warm, celebratory, intimate, timeless"
+  },
+  "heroes": [
+    {
+      "id": "home-hero",
+      "filename": "home-hero.webp",
+      "prompt": "Ultra-realistic photograph of an elegant Indian couple at their luxury palace wedding in Udaipur at golden hour, bride in stunning red and gold lehenga, groom in cream sherwani, marble palace courtyard with marigold flowers and rose petals scattered, warm ambient lighting, romantic atmosphere, Lake Pichola reflecting sunset in background, professional wedding photography, 8K quality, cinematic composition",
+      "size": "1920x1080",
+      "type": "hero"
+    },
+    {
+      "id": "about-hero",
+      "filename": "about-hero.webp",
+      "prompt": "Aerial view of a magnificent destination wedding setup at a Rajasthani palace at twilight, elegant white tents with golden accents, thousands of floating candles and fairy lights, lush flower arrangements in pink and white, guests in formal Indian attire mingling, professional event photography, ultra-realistic, cinematic lighting",
+      "size": "1920x1080",
+      "type": "hero"
+    },
+    {
+      "id": "services-hero",
+      "filename": "services-hero.webp",
+      "prompt": "Luxurious mandap setup for Indian wedding ceremony, intricately carved white marble pillars draped with blush pink roses and white orchids, golden chandelier with warm lighting, traditional yet modern design, flower petals on red carpet, professional wedding decor photography, shallow depth of field, ultra-realistic",
+      "size": "1920x1080",
+      "type": "hero"
+    },
+    {
+      "id": "contact-hero",
+      "filename": "contact-hero.webp",
+      "prompt": "Elegant close-up of bride and groom hands with mehndi and wedding rings, holding a beautiful pink rose bouquet, soft natural lighting, romantic intimate moment, luxury Indian wedding aesthetic, professional detail photography, bokeh background with warm golden tones",
+      "size": "1920x800",
+      "type": "hero"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "udaipur",
+      "filename": "udaipur-destination.webp",
+      "prompt": "Stunning photograph of Lake Palace Udaipur at sunset, the white marble palace floating on Lake Pichola, golden sky reflections in calm water, traditional boats with marigold decorations, Aravalli hills in background, luxury destination wedding location, professional travel photography, ultra-realistic, 8K quality",
+      "size": "1200x800",
+      "type": "destination"
+    },
+    {
+      "id": "goa",
+      "filename": "goa-destination.webp",
+      "prompt": "Breathtaking beach wedding setup in Goa at golden hour, white wooden archway decorated with tropical flowers and flowing white fabric, pristine golden sand beach, turquoise Arabian Sea, palm trees silhouettes, scattered rose petals creating aisle, fairy lights, professional beach wedding photography, ultra-realistic",
+      "size": "1200x800",
+      "type": "destination"
+    },
+    {
+      "id": "jaipur",
+      "filename": "jaipur-destination.webp",
+      "prompt": "Majestic Jaipur palace exterior at dusk, pink sandstone architecture illuminated with warm lights, traditional Rajasthani lanterns and marigold garlands decorating entrance, wedding guests in elegant attire arriving, heritage wedding venue, professional architectural photography, ultra-realistic, cinematic lighting",
+      "size": "1200x800",
+      "type": "destination"
+    },
+    {
+      "id": "jodhpur",
+      "filename": "jodhpur-destination.webp",
+      "prompt": "Magnificent Mehrangarh Fort Jodhpur overlooking the blue city at twilight, dramatic fortress walls lit with golden lights, blue houses cascading down the hill, clear sky with stars appearing, royal Rajasthani wedding venue, professional landscape photography, ultra-realistic, cinematic composition",
+      "size": "1200x800",
+      "type": "destination"
+    },
+    {
+      "id": "dubai",
+      "filename": "dubai-destination.webp",
+      "prompt": "Luxurious rooftop wedding venue in Dubai at night, Burj Khalifa and modern skyline in background, elegant white and gold decor setup, infinity pool reflecting city lights, crystal chandeliers, white flowers and candles, international destination wedding luxury, professional event photography, ultra-realistic",
+      "size": "1200x800",
+      "type": "destination"
+    }
+  ],
+  "services": [
+    {
+      "id": "complete-planning",
+      "filename": "service-complete-planning.webp",
+      "prompt": "Elegant flat lay of luxury wedding planning materials on marble surface, leather-bound planner, gold pen, fabric swatches in blush and cream, flower samples, calligraphy invitation, diamond ring, vintage photographs, professional styled product photography, soft natural lighting, ultra-realistic",
+      "size": "1200x800",
+      "type": "service"
+    },
+    {
+      "id": "guest-management",
+      "filename": "service-guest-management.webp",
+      "prompt": "Elegant Indian wedding welcome area, beautifully dressed reception table with guest book and golden name cards, fresh flower arrangements in pink and white, traditional brass diyas, ushers in formal attire welcoming guests, professional event photography, warm ambient lighting, ultra-realistic",
+      "size": "1200x800",
+      "type": "service"
+    },
+    {
+      "id": "hospitality",
+      "filename": "service-hospitality.webp",
+      "prompt": "Luxurious hotel suite decorated for wedding guests, four-poster bed with silk drapes, welcome gift basket with local treats and flowers, elegant bathroom amenities visible, soft warm lighting, five-star hospitality experience, professional interior photography, ultra-realistic",
+      "size": "1200x800",
+      "type": "service"
+    },
+    {
+      "id": "entertainment",
+      "filename": "service-entertainment.webp",
+      "prompt": "Spectacular Sangeet night performance on decorated stage, professional dancers in colorful lehengas, dramatic stage lighting with LED screens, confetti falling, guests watching with joy, Indian wedding celebration, professional event photography, dynamic action shot, ultra-realistic",
+      "size": "1200x800",
+      "type": "service"
+    },
+    {
+      "id": "decor",
+      "filename": "service-decor.webp",
+      "prompt": "Stunning wedding mandap closeup, thousands of white roses and blush peonies cascading from ceiling, crystal beaded curtains, golden kalash and traditional elements, soft diffused lighting creating dreamy atmosphere, Indian wedding decor masterpiece, professional detail photography, ultra-realistic",
+      "size": "1200x800",
+      "type": "service"
+    },
+    {
+      "id": "food-beverage",
+      "filename": "service-food-beverage.webp",
+      "prompt": "Elegant Indian wedding food display, ornate silver serving dishes with biryani and traditional sweets, live cooking station in background, chef in traditional attire, beautiful floral arrangements, warm lighting, luxury catering setup, professional food photography, ultra-realistic",
+      "size": "1200x800",
+      "type": "service"
+    },
+    {
+      "id": "logistics",
+      "filename": "service-logistics.webp",
+      "prompt": "Aerial view of elegant wedding venue with coordinated luxury vehicles arriving, decorated entrance gate with flowers, uniformed staff directing traffic, wedding guests disembarking in formal attire, organized event logistics, professional event photography, ultra-realistic",
+      "size": "1200x800",
+      "type": "service"
+    },
+    {
+      "id": "technical",
+      "filename": "service-technical.webp",
+      "prompt": "Professional wedding stage with advanced lighting setup, LED panels displaying couple's journey video, crystal chandelier centerpiece, intelligent color-changing lights, sound equipment discreetly placed, dramatic production quality, professional stage photography, ultra-realistic",
+      "size": "1200x800",
+      "type": "service"
+    },
+    {
+      "id": "crew",
+      "filename": "service-crew.webp",
+      "prompt": "Professional wedding coordination team in elegant black attire with earpieces, holding clipboards and tablets, coordinating in beautifully decorated venue, focused and professional, luxury event management, professional corporate photography, ultra-realistic",
+      "size": "1200x800",
+      "type": "service"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "palace-wedding-1",
+      "filename": "portfolio-palace-1.webp",
+      "prompt": "Royal palace wedding ceremony, bride and groom taking pheras around sacred fire in magnificent marble courtyard, intricate mandap with flowers, traditional pandit performing rituals, family watching with emotion, golden evening light, professional Indian wedding photography, ultra-realistic",
+      "size": "1600x1200",
+      "type": "portfolio"
+    },
+    {
+      "id": "beach-wedding-1",
+      "filename": "portfolio-beach-1.webp",
+      "prompt": "Romantic beach wedding ceremony at sunset, bride in white lehenga and groom in cream sherwani under floral arch, barefoot on sand, waves gently lapping shore, orange and pink sky, fairy lights, intimate celebration, professional destination wedding photography, ultra-realistic",
+      "size": "1600x1200",
+      "type": "portfolio"
+    },
+    {
+      "id": "heritage-wedding-1",
+      "filename": "portfolio-heritage-1.webp",
+      "prompt": "Grand heritage haveli wedding, couple posing in ornate carved doorway, traditional Rajasthani architecture, bride in red bridal lehenga with gold jewelry, groom in embroidered sherwani, vintage aesthetic, professional portrait photography, soft natural lighting, ultra-realistic",
+      "size": "1600x1200",
+      "type": "portfolio"
+    },
+    {
+      "id": "urban-wedding-1",
+      "filename": "portfolio-urban-1.webp",
+      "prompt": "Modern luxury hotel wedding reception, elegantly dressed couple making grand entrance, contemporary crystal chandeliers, white and gold decor, guests applauding, city skyline visible through windows, sophisticated celebration, professional event photography, ultra-realistic",
+      "size": "1600x1200",
+      "type": "portfolio"
+    },
+    {
+      "id": "intimate-wedding-1",
+      "filename": "portfolio-intimate-1.webp",
+      "prompt": "Intimate garden wedding ceremony, small gathering of close family under flowering tree, rustic elegant decor with candles and lanterns, emotional moment during vows, soft afternoon light filtering through leaves, professional candid wedding photography, ultra-realistic",
+      "size": "1600x1200",
+      "type": "portfolio"
+    }
+  ],
+  "blog": [
+    {
+      "id": "budget-planning",
+      "filename": "blog-budget-planning.webp",
+      "prompt": "Elegant wedding budget planning concept, calculator and notebook on marble desk, wedding planning spreadsheet visible on laptop, stack of vendor brochures, gold coins scattered artistically, cup of chai, soft natural lighting, professional styled photography, ultra-realistic",
+      "size": "1200x600",
+      "type": "blog"
+    },
+    {
+      "id": "timeline-planning",
+      "filename": "blog-timeline.webp",
+      "prompt": "Beautiful wedding planning timeline concept, elegant calendar with wedding date circled in gold, vintage clock showing 6pm, checklist with golden checkmarks, flowers and rings nearby, romantic soft focus background, professional styled photography, ultra-realistic",
+      "size": "1200x600",
+      "type": "blog"
+    },
+    {
+      "id": "vendor-selection",
+      "filename": "blog-vendor-selection.webp",
+      "prompt": "Wedding vendor meeting scene, elegant couple reviewing photography portfolio with vendor at luxury venue, fabric samples and flower arrangements on table, professional consultation, warm friendly atmosphere, professional business photography, ultra-realistic",
+      "size": "1200x600",
+      "type": "blog"
+    },
+    {
+      "id": "destination-guide",
+      "filename": "blog-destination-guide.webp",
+      "prompt": "Travel and destination wedding planning concept, vintage suitcase with world map, passport and boarding passes, miniature Taj Mahal and Eiffel Tower, wedding invitation, camera, wanderlust aesthetic, professional styled photography, warm tones, ultra-realistic",
+      "size": "1200x600",
+      "type": "blog"
+    },
+    {
+      "id": "wedding-trends",
+      "filename": "blog-trends.webp",
+      "prompt": "Modern wedding trends mood board concept, fashion magazine clippings, fabric swatches in trendy colors, dried flowers, minimalist jewelry, polaroid photos of venues, aesthetic flatlay on neutral background, professional styled photography, ultra-realistic",
+      "size": "1200x600",
+      "type": "blog"
+    },
+    {
+      "id": "pre-wedding-photoshoot",
+      "filename": "blog-prewedding.webp",
+      "prompt": "Romantic pre-wedding photoshoot scene, couple in coordinated outfits laughing together in beautiful lavender field at golden hour, photographer capturing candid moment in background, dreamy bokeh, professional engagement photography, ultra-realistic",
+      "size": "1200x600",
+      "type": "blog"
+    }
+  ],
+  "decorative": [
+    {
+      "id": "floral-divider",
+      "filename": "decor-floral-divider.webp",
+      "prompt": "Elegant horizontal floral divider design, delicate pink roses and white baby's breath arranged in symmetrical pattern, gold leaf accents, transparent background style, wedding invitation aesthetic, professional botanical illustration style, ultra-realistic",
+      "size": "800x200",
+      "type": "decorative"
+    },
+    {
+      "id": "mandala-pattern",
+      "filename": "decor-mandala.webp",
+      "prompt": "Intricate Indian mandala pattern in rose gold and cream colors, traditional geometric design with floral elements, suitable for wedding backgrounds, seamless tileable pattern, elegant and luxurious, professional graphic design quality",
+      "size": "800x800",
+      "type": "decorative"
+    },
+    {
+      "id": "rose-corner",
+      "filename": "decor-rose-corner.webp",
+      "prompt": "Beautiful corner decoration with cascading pink and cream roses, green leaves and baby's breath, elegant wedding frame element, transparent background style, professional floral design, ultra-realistic",
+      "size": "400x400",
+      "type": "decorative"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "couple-1",
+      "filename": "testimonial-couple-1.webp",
+      "prompt": "Professional portrait of happy Indian couple in traditional wedding attire, bride with elegant bridal makeup and jewelry, groom in cream sherwani, warm smiles, soft studio lighting, neutral background, professional headshot quality, ultra-realistic",
+      "size": "400x400",
+      "type": "testimonial"
+    },
+    {
+      "id": "couple-2",
+      "filename": "testimonial-couple-2.webp",
+      "prompt": "Professional portrait of elegant South Indian couple, bride in silk saree with temple jewelry, groom in traditional veshti, genuine happy expressions, professional studio lighting, neutral background, portrait photography quality, ultra-realistic",
+      "size": "400x400",
+      "type": "testimonial"
+    },
+    {
+      "id": "couple-3",
+      "filename": "testimonial-couple-3.webp",
+      "prompt": "Professional portrait of modern Indian couple in fusion wedding outfits, contemporary elegant style, genuine loving expressions, soft professional lighting, neutral background, magazine quality portrait photography, ultra-realistic",
+      "size": "400x400",
+      "type": "testimonial"
+    }
+  ]
+}

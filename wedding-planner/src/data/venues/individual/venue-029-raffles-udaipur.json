@@ -1,0 +1,108 @@
+{
+  "id": "venue-029",
+  "name": "Raffles Udaipur",
+  "slug": "raffles-udaipur",
+  "city": "Udaipur",
+  "state": "Rajasthan",
+  "region": "North",
+  "coordinates": {"lat": 24.5558, "lng": 73.6426},
+  "category": "Ultra Luxury Island Resort",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 200},
+  "priceRange": {"min": 150, "max": 600},
+  "startingPrice": "₹150 Lakhs onwards",
+  "shortDescription": "Discover unparalleled exclusivity at Raffles Udaipur, a private island sanctuary on Lake Udai Sagar offering only 101 rooms, legendary Raffles service, and the most intimate luxury wedding experience in Rajasthan.",
+  "longDescription": "Raffles Udaipur represents a new pinnacle of luxury hospitality in India—an ultra-exclusive island resort that brings the legendary Raffles service tradition to the romantic setting of Udaipur's lake country. Situated on a 21-acre private island in Lake Udai Sagar, accessible only by private boat, this remarkable property offers couples seeking the ultimate in exclusivity a wedding destination where privacy is absolute, service is legendary, and every moment unfolds in settings of extraordinary beauty.\n\nThe resort's design draws inspiration from traditional Mewari architecture while embracing contemporary luxury in every detail. Stone-carved jharokhas, reflective pools, and landscaped courtyards create an atmosphere of timeless elegance. The Raffles Spa, one of the largest in India, occupies its own wing with treatment rooms overlooking the lake. Throughout the property, the design philosophy celebrates space, light, and the integration of indoor and outdoor living that defines the Raffles aesthetic.\n\nWith only 101 rooms and suites, Raffles Udaipur maintains the intimate scale that allows for truly personalized service. Every accommodation faces the lake, with private balconies or terraces providing personal viewing spaces for the ever-changing water and sky. The Raffles Suite and Mewari Heritage Suite offer expansive living spaces with private pools. The Raffles Butler service ensures that guest needs are anticipated and fulfilled with graceful precision.\n\nWedding venues at Raffles Udaipur leverage the island's unique position. The waterfront lawns provide ceremony spaces with the lake stretching to the horizon. The grand pavilion offers elegant covered settings. The infinity pool terrace transforms for sunset celebrations. Indoor spaces provide climate-controlled backup while maintaining lake views. The exclusive island setting means complete privacy—no interruption from external visitors or traffic.\n\nCulinary experiences at Raffles Udaipur blend Indian traditions with international sophistication. Sawai Kitchen presents modern interpretations of Rajasthani cuisine, while Belvedere offers Mediterranean fare. The Long Bar channels the legendary cocktail culture of Raffles Singapore. For weddings, the culinary team creates bespoke menus that honor local traditions while showcasing global influences, executed with the precision that defines Raffles hospitality.\n\nThe Raffles Spa provides comprehensive pre-wedding wellness in settings of extraordinary beauty. The island's 21 acres include landscaped gardens, heritage elements, and spaces for cultural activities. For couples who understand that true luxury lies in exclusivity, privacy, and legendary service, Raffles Udaipur offers a wedding experience that surpasses expectation.",
+  "weddingSpaces": [
+    {"name": "Lakefront Lawn", "capacity": 200, "type": "Outdoor", "sqft": 15000},
+    {"name": "Grand Pavilion", "capacity": 150, "type": "Outdoor", "sqft": 10000},
+    {"name": "Infinity Pool Terrace", "capacity": 100, "type": "Poolside", "sqft": 6000},
+    {"name": "Ballroom", "capacity": 180, "type": "Indoor", "sqft": 5000},
+    {"name": "Writers Bar Terrace", "capacity": 60, "type": "Outdoor", "sqft": 3000}
+  ],
+  "features": ["21-acre private island", "Only 101 rooms and suites", "Boat-only access for exclusivity", "Legendary Raffles Butler service", "India's largest spa complex", "Lake Udai Sagar setting", "Mewari-inspired architecture", "Private pool suites available", "Multiple waterfront venues", "Sawai Kitchen restaurant", "The Long Bar cocktail program", "Complete island privacy", "Cultural experience arrangements", "Ultra-luxury wedding focus"],
+  "cuisineTypes": ["Modern Rajasthani (Sawai Kitchen)", "Mediterranean (Belvedere)", "Pan-Asian", "Continental", "North Indian", "Fusion Cuisine"],
+  "accommodationRooms": 101,
+  "googleRating": 4.9,
+  "tripAdvisorRating": 5.0,
+  "weddingWireRating": 4.9,
+  "heroImage": "/images/venues/raffles-udaipur/hero.jpg",
+  "galleryImages": ["/images/venues/raffles-udaipur/gallery-1.jpg", "/images/venues/raffles-udaipur/gallery-2.jpg", "/images/venues/raffles-udaipur/gallery-3.jpg", "/images/venues/raffles-udaipur/gallery-4.jpg", "/images/venues/raffles-udaipur/gallery-5.jpg", "/images/venues/raffles-udaipur/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.raffles.com/udaipur/",
+  "nearestAirport": "Maharana Pratap Airport, Udaipur",
+  "distanceFromAirport": "35 km (1 hour including boat transfer)",
+  "bestSeasons": ["October to March", "Winter weddings (November-February)", "Pre-monsoon (September-October)"],
+  "weatherNote": "Udaipur enjoys pleasant weather from October to March with temperatures between 10°C and 28°C. The lake setting provides natural cooling. Avoid summer months (April-June) due to extreme heat exceeding 40°C.",
+  "metaTitle": "Raffles Udaipur Wedding | Private Island Ultra-Luxury Wedding Venue",
+  "metaDescription": "Host your exclusive wedding at Raffles Udaipur. A 21-acre private island with only 101 rooms, legendary Raffles service, and intimate lakefront venues.",
+  "keywords": ["Raffles Udaipur wedding", "private island wedding India", "ultra luxury wedding Udaipur", "exclusive wedding venue", "island resort wedding", "Rajasthan luxury wedding", "intimate destination wedding", "boutique wedding venue", "lakefront wedding Udaipur", "5 star island wedding"],
+  "phone": "+91-294-242-7777",
+  "email": "udaipur@raffles.com",
+  "website": "https://www.raffles.com/udaipur/",
+  "awards": ["Condé Nast Traveller Hot List", "Travel + Leisure World's Best New Hotel", "Forbes Travel Guide Five Star", "Robb Report Best of the Best", "Best New Luxury Hotel India"],
+  "whyChoose": ["21-acre private island ensuring absolute exclusivity", "Only 101 rooms—one of India's most exclusive properties", "Legendary Raffles Butler service tradition", "Boat-only access creates complete privacy", "India's largest spa complex for pre-wedding wellness", "Lake Udai Sagar setting away from tourist areas", "Intimate scale guarantees personalized attention", "Modern Mewari architecture with contemporary luxury"],
+  "idealFor": ["Couples seeking ultimate privacy and exclusivity", "Intimate weddings up to 200 guests", "Ultra-high-net-worth families", "International couples wanting exceptional Indian experience", "Privacy-focused celebrities and high-profile individuals"],
+  "address": "NH 76, Village Debaripura, Udaipur, Rajasthan 313001, India",
+  "nearestRailway": "Udaipur City Railway Station",
+  "distanceFromRailway": "18 km (45 minutes including boat transfer)",
+  "helipadAvailable": true,
+  "alcoholPolicy": "Full premium bar services. Raffles' legendary cocktail culture available. The Long Bar expertise for signature wedding drinks. Premium spirits and rare wines accessible.",
+  "decorPolicy": "Preferred decorators familiar with island logistics. External decorators coordinate through resort. The Mewari architecture provides stunning foundation. Boat transport for decoration materials managed by resort.",
+  "musicPolicy": "Private island location allows flexible music policies. Outdoor music until late evening typical. The isolation ensures no external restrictions. Sound considerations respect guest experience.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": true,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days before: 30% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited.",
+  "paymentTerms": "50% advance at booking. 30% due 60 days before event. Balance 20% due 14 days before event. Full island buyouts require 60% advance.",
+  "securityDeposit": "₹15,00,000 (Refundable within 21 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From Maharana Pratap Airport, take NH76 towards the city. After approximately 30 km, follow signs to Raffles Udaipur boat jetty. Park at the designated area and take the private boat transfer to the island. Total journey approximately 1 hour including the scenic boat ride.",
+    "fromRailway": "From Udaipur City Station, head towards NH76 via the outer ring road. Continue to the Raffles boat jetty (approximately 15 km). The boat transfer to the island takes 10-15 minutes. Total journey approximately 45 minutes.",
+    "fromCityCenter": "From City Palace/Lake Pichola area, take the outer road towards NH76. Navigate to the Raffles boat jetty near Debaripura. The private boat completes the journey to the island. Journey time approximately 40 minutes.",
+    "landmarks": ["Lake Udai Sagar", "NH76 (Delhi-Mumbai Highway)", "Udaipur City (18 km)", "Maharana Pratap Airport (35 km)"],
+    "parkingInfo": "Secure parking at the mainland boat jetty. Guests transfer to private boats for island access. Wedding convoys park at jetty with boat coordination. Helipad on island for alternative arrivals."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book Raffles Udaipur?",
+      "answer": "For this ultra-exclusive property, booking 18-24 months ahead is essential for preferred dates. The 101-room capacity limits availability. Peak season and auspicious dates require earliest possible booking."
+    },
+    {
+      "question": "What is the island access experience?",
+      "answer": "All guests access the island via private boat from the mainland jetty. The 10-15 minute scenic ride across Lake Udai Sagar becomes part of the exclusive experience. Alternatively, helicopter landing on the island is available."
+    },
+    {
+      "question": "What is Raffles Butler service?",
+      "answer": "The legendary Raffles Butler tradition provides personalized service throughout stay. Butlers manage guest preferences, coordinate requests, handle unpacking/packing, and ensure every need is anticipated. This service elevates the wedding experience significantly."
+    },
+    {
+      "question": "What is the accommodation capacity?",
+      "answer": "The 101 rooms and suites accommodate approximately 200 guests. For exclusive weddings, full island buyouts are recommended, ensuring complete privacy and the resort's undivided attention."
+    },
+    {
+      "question": "What makes the spa special?",
+      "answer": "The Raffles Spa is one of India's largest, with treatment rooms overlooking the lake. Pre-wedding wellness programs can include couples' treatments, bridal packages, and group sessions. The spa setting is extraordinarily beautiful."
+    },
+    {
+      "question": "Can vendors access the island?",
+      "answer": "Yes, all vendors coordinate through the resort for boat transfers and logistics. The wedding team manages island access seamlessly. Preferred vendors are familiar with island operations."
+    },
+    {
+      "question": "What is the Long Bar experience?",
+      "answer": "The Long Bar channels Raffles Singapore's legendary cocktail heritage. Expert mixologists create signature drinks including the famous Singapore Sling. Wedding celebrations can incorporate bespoke cocktail programs."
+    },
+    {
+      "question": "What backup exists for weather?",
+      "answer": "The Ballroom provides air-conditioned backup for outdoor events. Covered terraces and pavilions supplement. The winter season typically has reliable weather, but contingency plans are always prepared."
+    },
+    {
+      "question": "Is helicopter arrival possible?",
+      "answer": "Yes, the island has a helipad for dramatic arrivals. Helicopter services can be arranged from major cities. This option provides time savings and creates memorable moments for the couple's arrival."
+    },
+    {
+      "question": "What makes this different from other Udaipur hotels?",
+      "answer": "The private island location on Lake Udai Sagar (away from tourist Lake Pichola) provides complete seclusion. The Raffles service tradition, ultra-intimate scale, and contemporary luxury create experiences unavailable at traditional palace hotels."
+    }
+  ]
+}

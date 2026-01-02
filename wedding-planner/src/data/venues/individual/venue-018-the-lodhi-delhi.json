@@ -1,0 +1,108 @@
+{
+  "id": "venue-018",
+  "name": "The Lodhi, New Delhi",
+  "slug": "the-lodhi-new-delhi",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "region": "North",
+  "coordinates": {"lat": 28.5888, "lng": 77.2248},
+  "category": "Ultra Luxury Hotel",
+  "starRating": 5,
+  "guestCapacity": {"min": 50, "max": 350},
+  "priceRange": {"min": 80, "max": 400},
+  "startingPrice": "₹80 Lakhs onwards",
+  "shortDescription": "Experience ultra-exclusive celebrations at The Lodhi, Delhi's only all-suite luxury hotel where every wedding becomes a private affair with personalized service, contemporary elegance, and unmatched sophistication.",
+  "longDescription": "The Lodhi represents the absolute pinnacle of luxury hospitality in India's capital—an ultra-exclusive address where the concept of personalized service reaches unprecedented levels. As Delhi's only hotel where every accommodation is a suite, each featuring a private pool or garden, The Lodhi offers couples who accept nothing less than exceptional an opportunity to host celebrations that redefine wedding luxury. This is not a venue for crowds or conventional celebrations; this is for those who seek intimacy elevated to an art form.\n\nThe property's aesthetic draws from India's rich artistic heritage, reimagined through a contemporary lens. Curated art collections featuring works by celebrated Indian artists adorn public spaces and suites alike. The architecture favors clean lines, natural materials, and thoughtful integration of indoor and outdoor living. Gardens spread across the property create serene pockets of greenery unusual in urban Delhi, while the signature private plunge pools offer guests unprecedented privacy and luxury.\n\nWith only 40 suites, The Lodhi provides an exclusivity that larger properties simply cannot match. Each suite spans a minimum of 1,076 square feet, with the Premier and Lodhi Suites offering even more expansive living spaces. Private gardens, plunge pools, and dedicated butler service ensure that the wedding couple and their closest family members experience accommodation that rivals private residences.\n\nWedding venues at The Lodhi prioritize quality over quantity. The manicured lawns provide an intimate outdoor setting for up to 350 guests, framed by mature trees and exquisite landscaping. The sophisticated indoor venues offer climate-controlled elegance for receptions and sangeet celebrations. Private dining rooms host intimate family gatherings, while the pool terrace can be configured for cocktail evenings. The exclusivity means that when you book The Lodhi for a wedding, the celebration commands the property's full attention.\n\nCulinary experiences at The Lodhi reflect the property's commitment to excellence without compromise. Elan, the award-winning restaurant, and Indian Accent, consistently ranked among Asia's best, represent the depth of culinary talent at the couple's disposal. Wedding menus can draw from this expertise, creating bespoke dining experiences that match the occasion's significance. The culinary team specializes in intimate, plated dinners as well as elegant buffet presentations.\n\nThe service philosophy at The Lodhi centers on anticipation and personalization. The wedding team works closely with couples over extended planning periods, understanding preferences, family dynamics, and vision in detail rarely possible at larger venues. Every staff member knows wedding guests by name. Every request receives individual attention. For couples who value service perfection over grand scale, The Lodhi delivers an experience without parallel.",
+  "weddingSpaces": [
+    {"name": "Garden Lawn", "capacity": 350, "type": "Outdoor", "sqft": 20000},
+    {"name": "Ballroom", "capacity": 250, "type": "Indoor", "sqft": 6000},
+    {"name": "Pool Terrace", "capacity": 150, "type": "Poolside", "sqft": 8000},
+    {"name": "Private Dining Room", "capacity": 40, "type": "Indoor", "sqft": 2000},
+    {"name": "Garden Pavilion", "capacity": 100, "type": "Outdoor", "sqft": 4000}
+  ],
+  "features": ["Only 40 all-suite accommodation", "Private pools in every suite", "Curated contemporary art collection", "Award-winning Indian Accent restaurant", "Personalized butler service", "Intimate and exclusive atmosphere", "Manicured gardens in urban setting", "Aheli Spa for wellness", "Sophisticated contemporary design", "Unmatched staff-to-guest ratio", "Complete privacy for celebrations", "Central Lutyens' Delhi location", "World-class culinary team", "Personalized wedding planning"],
+  "cuisineTypes": ["Contemporary Indian (Indian Accent)", "Modern European (Elan)", "Pan-Asian", "Mediterranean", "Fusion Cuisine", "North Indian", "Continental"],
+  "accommodationRooms": 40,
+  "googleRating": 4.7,
+  "tripAdvisorRating": 5.0,
+  "weddingWireRating": 4.9,
+  "heroImage": "/images/venues/the-lodhi-delhi/hero.jpg",
+  "galleryImages": ["/images/venues/the-lodhi-delhi/gallery-1.jpg", "/images/venues/the-lodhi-delhi/gallery-2.jpg", "/images/venues/the-lodhi-delhi/gallery-3.jpg", "/images/venues/the-lodhi-delhi/gallery-4.jpg", "/images/venues/the-lodhi-delhi/gallery-5.jpg", "/images/venues/the-lodhi-delhi/gallery-6.jpg"],
+  "virtualTourUrl": "https://www.thelodhi.com/virtual-tour/",
+  "nearestAirport": "Indira Gandhi International Airport",
+  "distanceFromAirport": "18 km (35 minutes)",
+  "bestSeasons": ["October to March", "Winter season (November-February)", "Spring (February-March)"],
+  "weatherNote": "Delhi enjoys pleasant weather from October to March with temperatures between 8°C and 28°C. Winter mornings can be foggy. Summer (April-June) is extremely hot, exceeding 45°C. Monsoon (July-September) brings humidity and rain.",
+  "metaTitle": "The Lodhi Delhi Wedding | Ultra Exclusive All-Suite Luxury Wedding Venue",
+  "metaDescription": "Host your exclusive wedding at The Lodhi Delhi. India's only all-suite hotel with private pools, world-class cuisine, and intimate venues for 50-350 guests.",
+  "keywords": ["The Lodhi wedding", "exclusive wedding venue Delhi", "luxury wedding New Delhi", "intimate wedding Delhi", "boutique hotel wedding", "5 star wedding Delhi", "private pool suites wedding", "ultra luxury wedding India", "small wedding venue Delhi", "contemporary wedding venue"],
+  "phone": "+91-11-4363-3333",
+  "email": "reservations@thelodhi.com",
+  "website": "https://www.thelodhi.com/",
+  "awards": ["Condé Nast Traveller Gold List", "Travel + Leisure World's Best", "Forbes Travel Guide Five-Star", "TripAdvisor Travellers' Choice", "Best Boutique Hotel India"],
+  "whyChoose": ["Ultimate exclusivity with only 40 all-suite accommodation", "Every suite features private pool or garden", "Award-winning Indian Accent restaurant on premises", "Exceptional staff-to-guest ratio ensuring personalized service", "Curated art collection creating sophisticated atmosphere", "Intimate scale means complete property attention", "Central Delhi location in prestigious Lutyens' zone", "Uncompromising luxury without ostentation"],
+  "idealFor": ["Couples seeking ultimate exclusivity over grand scale", "Intimate weddings up to 350 guests", "Discerning families valuing privacy and service", "International celebrities and high-profile celebrations", "Design-conscious couples appreciating contemporary aesthetics"],
+  "address": "Lodhi Road, New Delhi, Delhi 110003, India",
+  "nearestRailway": "New Delhi Railway Station",
+  "distanceFromRailway": "6 km (15 minutes)",
+  "helipadAvailable": false,
+  "alcoholPolicy": "Full bar services with premium offerings. The hotel's sophisticated beverage program includes rare wines and craft cocktails. Complete bar customization for wedding celebrations.",
+  "decorPolicy": "Preferred decorator list provided. External decorators work with hotel's aesthetic standards. The property's contemporary elegance requires thoughtful decoration approaches. Minimalist, sophisticated themes encouraged.",
+  "musicPolicy": "Garden music until 10:00 PM per Delhi regulations. Indoor venues offer flexibility until 11:00 PM. Acoustic and classical performances suit the property's sophisticated atmosphere.",
+  "outsideVendorsAllowed": true,
+  "exclusiveUseAvailable": true,
+  "weddingCoordinator": true,
+  "preferredVendorList": true,
+  "cancellationPolicy": "Cancellations 120+ days before: 30% forfeited. 90-119 days: 50% forfeited. 60-89 days: 75% forfeited. Less than 60 days: 100% forfeited.",
+  "paymentTerms": "40% advance at booking. 30% due 60 days before event. Balance 30% due 14 days before event. Full buyout requires 50% advance.",
+  "securityDeposit": "₹10,00,000 (Refundable within 21 working days post-event)",
+  "drivingDirections": {
+    "fromAirport": "From IGI Airport, take NH48 towards central Delhi. Exit onto Aurobindo Marg and continue through the diplomatic enclave. Turn right onto Lodhi Road. The Lodhi is on the left side, near Lodhi Gardens. Journey time approximately 35 minutes without traffic.",
+    "fromRailway": "From New Delhi Railway Station, head south on Ashoka Road. Continue to India Gate and take Rajpath towards Lodhi Road. The hotel is located near Lodhi Gardens intersection. Journey time approximately 15-20 minutes.",
+    "fromCityCenter": "From Connaught Place, head south on Janpath. Continue past India Gate onto Lodhi Road. The Lodhi is on the right side near the intersection with Jor Bagh Road. Journey time approximately 15 minutes.",
+    "landmarks": ["Lodhi Gardens (adjacent)", "India Gate (3 km)", "Khan Market (2 km)", "Humayun's Tomb (3 km)"],
+    "parkingInfo": "Complimentary valet parking. Underground parking available. Limited spaces for wedding convoys with advance coordination. Street parking restricted due to diplomatic zone."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should we book The Lodhi?",
+      "answer": "For wedding dates, we recommend booking 15-18 months ahead. The property's limited size and exclusive appeal mean dates fill quickly. Popular dates during the winter wedding season require even earlier planning."
+    },
+    {
+      "question": "What is the maximum wedding capacity?",
+      "answer": "The Garden Lawn accommodates up to 350 guests. The intimate scale is by design—The Lodhi specializes in exclusive celebrations rather than large-scale events. Multiple venues allow creative configurations."
+    },
+    {
+      "question": "Can all wedding guests stay on property?",
+      "answer": "The 40 suites accommodate approximately 80-100 guests. For wedding parties, exclusive buyouts are recommended. Partner hotels nearby provide overflow with dedicated transportation."
+    },
+    {
+      "question": "What makes The Lodhi's dining special?",
+      "answer": "Indian Accent, located at The Lodhi, is consistently ranked among Asia's best restaurants. The culinary team led by Chef Manish Mehrotra can create bespoke wedding menus drawing on this expertise. Few wedding venues offer this level of culinary artistry."
+    },
+    {
+      "question": "What is the suite experience like?",
+      "answer": "Every suite features a private plunge pool or garden, starting at 1,076 sq ft. Butler service, premium amenities, and contemporary design create residential luxury. The bride and groom suites offer exceptional preparation spaces."
+    },
+    {
+      "question": "Is full property buyout available?",
+      "answer": "Yes, complete buyouts are available and recommended for weddings. This ensures total privacy and allows the celebration to define the property experience. Buyout rates vary by season and duration."
+    },
+    {
+      "question": "What wellness options are available?",
+      "answer": "Aheli Spa offers comprehensive treatments including couples' massages and bridal packages. The intimate setting allows personalized wellness programming. Private pool suites enable in-room relaxation between events."
+    },
+    {
+      "question": "What is the aesthetic and décor approach?",
+      "answer": "The Lodhi's sophisticated contemporary design requires thoughtful decoration. The property's art collection and clean lines are assets. Decorators should complement rather than compete with the existing elegance."
+    },
+    {
+      "question": "What backup exists for outdoor events?",
+      "answer": "The Ballroom (250 capacity) provides climate-controlled backup. The property's intimate scale allows flexible reconfiguration. Weather contingencies are carefully planned given the outdoor venue focus."
+    },
+    {
+      "question": "What makes this venue different from large hotels?",
+      "answer": "The Lodhi offers intimacy impossible at larger venues. Staff know guests by name. Service anticipates needs. The celebration receives undivided attention. For couples prioritizing personalization over scale, this difference is profound."
+    }
+  ]
+}

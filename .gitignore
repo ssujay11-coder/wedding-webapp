@@ -1,0 +1,17 @@
+# Zip files
+*.zip
+
+# Large files
+java-1.8.0-openjdk-*.zip
+
+# System files
+nul
+.DS_Store
+Thumbs.db
+
+# Node modules (if any)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
