@@ -1,4 +1,12 @@
 {
+  "mcpServers": {
+    "wedding-planner": {
+      "command": "node",
+      "args": [
+        "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner-mcp-server/dist/index.js"
+      ]
+    }
+  },
   "permissions": {
     "allow": [
       "Bash(git clone:*)",
@@ -41,7 +49,13 @@
       "Bash(node scripts/add-location-content.js:*)",
       "Bash(du -sh:*)",
       "Bash(node scripts/download-all-external-images.js:*)",
-      "Bash(git rm:*)"
+      "Bash(git rm:*)",
+      "Bash(tree:*)",
+      "Bash(xargs basename:*)",
+      "Bash(git -C /Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner log --oneline)",
+      "Bash(pkill:*)",
+      "Skill(frontend-design:frontend-design)",
+      "Skill(frontend-design:frontend-design:*)"
     ]
   }
 }

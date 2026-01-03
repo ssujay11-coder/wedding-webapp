@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "agent-orchestration@claude-code-workflows": true,
+    "database-migrations@claude-code-workflows": true
+  }
+}

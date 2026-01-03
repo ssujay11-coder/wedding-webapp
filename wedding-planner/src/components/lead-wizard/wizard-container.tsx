@@ -49,7 +49,8 @@ export function WizardContainer() {
         setIsSubmitting(true);
         try {
             // Store in Supabase
-            const { error: dbError } = await supabase.from('leads').insert([{
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
+            const { error: dbError } = await (supabase as any).from('leads').insert([{
                 wedding_date: formData.weddingDate,
                 guest_count: formData.guestCount,
                 budget_range: formData.budgetRange,

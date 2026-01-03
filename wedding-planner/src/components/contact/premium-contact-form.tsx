@@ -77,7 +77,8 @@ export function PremiumContactForm() {
 
     try {
       // Store in Supabase
-      const { error: dbError } = await supabase.from('leads').insert([{
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      const { error: dbError } = await (supabase as any).from('leads').insert([{
         wedding_date: formData.weddingDate,
         guest_count: parseInt(formData.guestCount) || null,
         budget_range: formData.budget,

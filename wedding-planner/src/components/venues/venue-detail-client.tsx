@@ -50,6 +50,9 @@ import {
 } from "lucide-react";
 import type { WeddingVenue } from "@/data/venues";
 import { LeadCaptureForm } from "@/components/forms/lead-capture-form";
+import { TextScramble } from "@/components/ui/text-scramble";
+import { GoldSparkles } from "@/components/ui/gold-sparkles";
+import { FloralDecoration } from "@/components/decorative/floral-elements";
 
 interface VenueDetailClientProps {
   venue: WeddingVenue;
@@ -84,9 +87,9 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
   };
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-sheet-background">
       {/* Hero Section - Mobile Optimized */}
-      <section className="relative h-[60vh] sm:h-[70vh] min-h-[400px] sm:min-h-[500px]">
+      <section className="relative h-[60vh] sm:h-[70vh] min-h-[400px] sm:min-h-[500px] overflow-hidden">
         <div className="absolute inset-0">
           <Image
             src={venue.heroImage || "/images/venues/placeholder-hero.jpg"}
@@ -95,11 +98,12 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
             className="object-cover"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent" />
+          <GoldSparkles className="opacity-50" />
         </div>
 
         {/* Hero Content */}
-        <div className="absolute bottom-0 left-0 right-0 p-4 sm:p-6 md:p-12">
+        <div className="absolute bottom-0 left-0 right-0 p-4 sm:p-6 md:p-12 z-10">
           <div className="max-w-7xl mx-auto">
             <motion.div
               initial={{ opacity: 0, y: 30 }}
@@ -108,28 +112,28 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
             >
               {/* Category Badges - Mobile Scroll */}
               <div className="flex items-center gap-2 sm:gap-3 mb-3 sm:mb-4 overflow-x-auto scrollbar-hide pb-1">
-                <span className="px-2 sm:px-3 py-1 bg-primary/90 text-white text-xs sm:text-sm font-medium rounded-full whitespace-nowrap">
+                <span className="px-2 sm:px-3 py-1 bg-primary/90 text-white text-xs sm:text-sm font-medium rounded-full whitespace-nowrap backdrop-blur-md border border-white/20">
                   {venue.category}
                 </span>
-                <span className="px-2 sm:px-3 py-1 bg-white/20 text-white text-xs sm:text-sm font-medium rounded-full backdrop-blur-sm whitespace-nowrap flex items-center gap-1">
-                  <Star className="w-3 h-3 fill-yellow-400 text-yellow-400" />
+                <span className="px-2 sm:px-3 py-1 bg-white/10 text-white text-xs sm:text-sm font-medium rounded-full backdrop-blur-md border border-white/20 whitespace-nowrap flex items-center gap-1">
+                  <Star className="w-3 h-3 fill-[var(--gold)] text-[var(--gold)]" />
                   {venue.starRating} Star
                 </span>
                 {venue.helipadAvailable && (
-                  <span className="px-2 sm:px-3 py-1 bg-yellow-500/90 text-white text-xs sm:text-sm font-medium rounded-full whitespace-nowrap">
+                  <span className="px-2 sm:px-3 py-1 bg-[var(--gold)]/90 text-white text-xs sm:text-sm font-medium rounded-full whitespace-nowrap backdrop-blur-md">
                     Helipad
                   </span>
                 )}
                 {venue.googleRating && venue.googleRating >= 4.5 && (
-                  <span className="px-2 sm:px-3 py-1 bg-green-500/90 text-white text-xs sm:text-sm font-medium rounded-full whitespace-nowrap">
+                  <span className="px-2 sm:px-3 py-1 bg-green-500/80 text-white text-xs sm:text-sm font-medium rounded-full whitespace-nowrap backdrop-blur-md">
                     Highly Rated
                   </span>
                 )}
               </div>
 
               {/* Title */}
-              <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-display italic text-white mb-3 sm:mb-4">
-                {venue.name}
+              <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-display text-white mb-3 sm:mb-4 leading-tight">
+                <TextScramble className="font-normal italic" text={venue.name} />
               </h1>
 
               {/* Location & Ratings - Mobile Grid */}
@@ -267,11 +271,10 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
               <button
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id as typeof activeTab)}
-                className={`py-4 px-2 font-medium border-b-2 transition-colors whitespace-nowrap ${
-                  activeTab === tab.id
-                    ? "border-primary text-primary"
-                    : "border-transparent text-muted-foreground hover:text-foreground"
-                }`}
+                className={`py-4 px-2 font-medium border-b-2 transition-colors whitespace-nowrap ${activeTab === tab.id
+                  ? "border-primary text-primary"
+                  : "border-transparent text-muted-foreground hover:text-foreground"
+                  }`}
               >
                 {tab.label}
               </button>
@@ -715,21 +718,20 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
                             <h3 className="text-xl font-semibold text-foreground mb-2">
                               {space.name}
                             </h3>
-                            <span className={`inline-block px-3 py-1 rounded-full text-sm font-medium ${
-                              space.type === "Indoor"
-                                ? "bg-blue-100 text-blue-700"
-                                : space.type === "Outdoor"
+                            <span className={`inline-block px-3 py-1 rounded-full text-sm font-medium ${space.type === "Indoor"
+                              ? "bg-blue-100 text-blue-700"
+                              : space.type === "Outdoor"
                                 ? "bg-green-100 text-green-700"
                                 : space.type === "Poolside"
-                                ? "bg-cyan-100 text-cyan-700"
-                                : space.type === "Rooftop"
-                                ? "bg-purple-100 text-purple-700"
-                                : space.type === "Beachfront"
-                                ? "bg-amber-100 text-amber-700"
-                                : space.type === "Lakeside"
-                                ? "bg-teal-100 text-teal-700"
-                                : "bg-gray-100 text-gray-700"
-                            }`}>
+                                  ? "bg-cyan-100 text-cyan-700"
+                                  : space.type === "Rooftop"
+                                    ? "bg-purple-100 text-purple-700"
+                                    : space.type === "Beachfront"
+                                      ? "bg-amber-100 text-amber-700"
+                                      : space.type === "Lakeside"
+                                        ? "bg-teal-100 text-teal-700"
+                                        : "bg-gray-100 text-gray-700"
+                              }`}>
                               {space.type}
                             </span>
                           </div>
@@ -1180,9 +1182,8 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
                               <span className="font-medium text-foreground">{faq.question}</span>
                             </div>
                             <ChevronDown
-                              className={`w-5 h-5 text-muted-foreground flex-shrink-0 transition-transform ${
-                                expandedFaq === index ? "rotate-180" : ""
-                              }`}
+                              className={`w-5 h-5 text-muted-foreground flex-shrink-0 transition-transform ${expandedFaq === index ? "rotate-180" : ""
+                                }`}
                             />
                           </button>
                           <AnimatePresence>
