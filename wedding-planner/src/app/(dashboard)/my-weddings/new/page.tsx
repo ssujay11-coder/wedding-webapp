@@ -96,24 +96,32 @@ export default function NewWeddingPage() {
     setIsLoading(true)
     setError(null)
 
-    const selectedBudget = budgetRanges.find((b) => b.id === budget)
-    const selectedGuests = guestRanges.find((g) => g.id === guestCount)
+    try {
+      const selectedBudget = budgetRanges.find((b) => b.id === budget)
+      const selectedGuests = guestRanges.find((g) => g.id === guestCount)
 
-    const { wedding, error: createError } = await createWedding({
-      brideName,
-      groomName,
-      weddingDate: weddingDate || undefined,
-      primaryCity: destination === 'other' ? customDestination : destinations.find(d => d.id === destination)?.name,
-      estimatedGuests: selectedGuests?.value,
-      totalBudget: selectedBudget?.value,
-      destinationType: destination === 'dubai' ? 'international' : 'destination',
-    })
+      const { wedding, error: createError } = await createWedding({
+        brideName,
+        groomName,
+        weddingDate: weddingDate || undefined,
+        primaryCity: destination === 'other' ? customDestination : destinations.find(d => d.id === destination)?.name,
+        estimatedGuests: selectedGuests?.value,
+        totalBudget: selectedBudget?.value,
+        destinationType: destination === 'dubai' ? 'international' : 'destination',
+      })
 
-    if (createError) {
-      setError(createError.message)
+      if (createError) {
+        setError(createError.message || 'Failed to create wedding. Please try again.')
+      } else if (wedding) {
+        router.push('/dashboard')
+        return
+      } else {
+        setError('Something went wrong. Please try again.')
+      }
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'An unexpected error occurred.')
+    } finally {
       setIsLoading(false)
-    } else if (wedding) {
-      router.push('/dashboard')
     }
   }
 

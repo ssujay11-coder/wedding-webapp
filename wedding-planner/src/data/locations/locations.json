@@ -6,12 +6,12 @@
     "country": "India",
     "region": "Rajasthan",
     "tagline": "The City of Lakes - India's Most Romantic Wedding Destination",
-    "heroImage": "/images/locations/heroImage-photo-1587474260584-136574528ed5.webp",
+    "heroImage": "/images/gallery/venues/venues-006-4g4a3787-lg.webp",
     "galleryImages": [
-      "/images/locations/galleryImages-0-photo-1587474260584-136574528ed5.webp",
-      "/images/locations/galleryImages-1-photo-1599661046289-e31897846e41.webp",
-      "https://images.unsplash.com/photo-1602301360498-be1fa60f8d72?w=800&q=80",
-      "https://images.unsplash.com/photo-1585405421957-a13e84f0a239?w=800&q=80"
+      "/images/gallery/venues/venues-005-4g4a3761-lg.webp",
+      "/images/gallery/ceremonies/ceremonies-001-grandweddingbymyweddingplanningeliteweddingplanner-lg.webp",
+      "/images/gallery/decor/decor-005-pp-0844-lg.webp",
+      "/images/gallery/couples/couples-003-sdak-0767-lg.webp"
     ],
     "metaTitle": "Udaipur Wedding - Plan Your Royal Palace Wedding in City of Lakes",
     "metaDescription": "Plan your dream destination wedding in Udaipur, India's most romantic city. Royal palaces, lakeside venues, and world-class hospitality for unforgettable celebrations.",
@@ -36,17 +36,17 @@
       {
         "name": "Oberoi Udaivilas",
         "slug": "oberoi-udaivilas-udaipur",
-        "image": "/images/venues/oberoi-udaivilas/hero.jpg"
+        "image": "/images/venues/oberoi-udaivilas-udaipur/hero.webp"
       },
       {
         "name": "Taj Lake Palace",
         "slug": "taj-lake-palace-udaipur",
-        "image": "/images/venues/taj-lake-palace/hero.jpg"
+        "image": "/images/venues/taj-lake-palace-udaipur/hero.webp"
       },
       {
         "name": "The Leela Palace Udaipur",
         "slug": "leela-palace-udaipur",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/leela-palace-udaipur/hero.webp"
       },
       {
         "name": "Fateh Prakash Palace",
@@ -62,12 +62,12 @@
     "weddingSeasons": {
       "best": "October to March (Peak: November-February)",
       "avoid": "April to June (Extreme heat), July-September (Monsoon)",
-      "weather": "Pleasant winters with temperatures 10°C-28°C, perfect for outdoor lakeside ceremonies and palace celebrations."
+      "weather": "Pleasant winters with temperatures 10\u00b0C-28\u00b0C, perfect for outdoor lakeside ceremonies and palace celebrations."
     },
     "budgetRange": {
-      "min": "₹50 Lakhs",
-      "max": "₹10+ Crores",
-      "note": "Includes venue, decor, catering, and accommodation for 200-500 guests. Palace buyouts start from ₹1 Crore per night."
+      "min": "\u20b950 Lakhs",
+      "max": "\u20b910+ Crores",
+      "note": "Includes venue, decor, catering, and accommodation for 200-500 guests. Palace buyouts start from \u20b91 Crore per night."
     },
     "guestCapacity": "50 to 1000+ guests depending on venue selection",
     "nearestAirport": "Maharana Pratap Airport, Udaipur (UDR)",
@@ -174,7 +174,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹50 Lakhs",
+      "averageBudget": "\u20b950 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March (Peak: November-February)",
       "repeatBookingRate": "72%",
@@ -190,7 +190,7 @@
     "tagline": "The Pink City - Where Heritage Meets Grand Celebrations",
     "heroImage": "/images/locations/heroImage-photo-1599661046289-e31897846e41.webp",
     "galleryImages": [
-      "/images/locations/galleryImages-1-photo-1599661046289-e31897846e41.webp",
+      "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&q=80",
       "/images/locations/galleryImages-1-photo-1603262110263-fb0112e7cc33.webp",
       "/images/locations/galleryImages-2-photo-1524492412937-b28074a5d7da.webp",
       "https://images.unsplash.com/photo-1602508453035-c67cb18d7e80?w=800&q=80"
@@ -217,7 +217,7 @@
       {
         "name": "Rambagh Palace",
         "slug": "rambagh-palace-jaipur",
-        "image": "/images/venues/rambagh-palace/hero.jpg"
+        "image": "/images/venues/rambagh-palace-jaipur/hero.webp"
       },
       {
         "name": "Jai Mahal Palace",
@@ -227,7 +227,7 @@
       {
         "name": "Samode Palace",
         "slug": "samode-palace",
-        "image": "/images/locations/image-photo-1582719508461-905c673771fd.webp"
+        "image": "/images/venues/samode-palace-jaipur/hero.webp"
       },
       {
         "name": "The Oberoi Rajvilas",
@@ -242,13 +242,13 @@
     ],
     "weddingSeasons": {
       "best": "October to March (Peak: November-February)",
-      "avoid": "April to June (Extreme heat 40°C+)",
+      "avoid": "April to June (Extreme heat 40\u00b0C+)",
       "weather": "Pleasant winters with clear skies, perfect for outdoor fort and palace celebrations."
     },
     "budgetRange": {
-      "min": "₹40 Lakhs",
-      "max": "₹8+ Crores",
-      "note": "Heritage palace weddings typically range ₹80 Lakhs to ₹5 Crores for 300-500 guests."
+      "min": "\u20b940 Lakhs",
+      "max": "\u20b98+ Crores",
+      "note": "Heritage palace weddings typically range \u20b980 Lakhs to \u20b95 Crores for 300-500 guests."
     },
     "guestCapacity": "50 to 2000+ guests with various venue options",
     "nearestAirport": "Jaipur International Airport (JAI)",
@@ -355,7 +355,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹40 Lakhs",
+      "averageBudget": "\u20b940 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March (Peak: November-February)",
       "repeatBookingRate": "72%",
@@ -369,12 +369,12 @@
     "country": "India",
     "region": "West Coast",
     "tagline": "Sun, Sand & Sacred Vows - India's Beach Wedding Paradise",
-    "heroImage": "/images/locations/heroImage-photo-1512343879784-a960bf40e7f2.webp",
+    "heroImage": "/images/gallery/couples/couples-023-sdak-3870-lg.webp",
     "galleryImages": [
-      "/images/locations/galleryImages-0-photo-1512343879784-a960bf40e7f2.webp",
-      "/images/locations/galleryImages-1-photo-1507525428034-b723cf961d3e.webp",
-      "/images/locations/galleryImages-2-photo-1519046904884-53103b34b206.webp",
-      "/images/locations/galleryImages-3-photo-1544551763-46a013bb70d5.webp"
+      "/images/gallery/couples/couples-004-sdak-0770-lg.webp",
+      "/images/gallery/ceremonies/ceremonies-020-grandweddingbymyweddingplanningeliteweddingplanner-lg.webp",
+      "/images/gallery/entertainment/entertainment-001-mod-0258-lg.webp",
+      "/images/gallery/decor/decor-022-pp-619-lg.webp"
     ],
     "metaTitle": "Goa Beach Wedding - Plan Your Dream Beachfront Celebration",
     "metaDescription": "Plan your perfect beach wedding in Goa. Stunning Arabian Sea backdrops, luxury resorts, and laid-back vibes for romantic destination celebrations.",
@@ -398,17 +398,17 @@
       {
         "name": "Taj Exotica Goa",
         "slug": "taj-exotica-goa",
-        "image": "/images/venues/taj-exotica-goa/hero.jpg"
+        "image": "/images/venues/taj-exotica-goa/hero.webp"
       },
       {
         "name": "The Leela Goa",
         "slug": "leela-goa",
-        "image": "/images/venues/leela-goa/hero.jpg"
+        "image": "/images/venues/leela-goa/hero.webp"
       },
       {
         "name": "W Goa",
         "slug": "w-goa",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/w-goa-vagator/hero.webp"
       },
       {
         "name": "Grand Hyatt Goa",
@@ -418,18 +418,18 @@
       {
         "name": "Park Hyatt Goa",
         "slug": "park-hyatt-goa",
-        "image": "/images/locations/image-photo-1564501049412-61c2a3083791.webp"
+        "image": "/images/venues/park-hyatt-goa-cansaulim/hero.webp"
       }
     ],
     "weddingSeasons": {
       "best": "October to April (Peak: November-February)",
       "avoid": "June to September (Heavy Monsoon)",
-      "weather": "Perfect beach weather with temperatures 25°C-32°C, ideal for outdoor ceremonies and beach parties."
+      "weather": "Perfect beach weather with temperatures 25\u00b0C-32\u00b0C, ideal for outdoor ceremonies and beach parties."
     },
     "budgetRange": {
-      "min": "₹30 Lakhs",
-      "max": "₹5+ Crores",
-      "note": "Beach resort weddings typically range ₹50 Lakhs to ₹2 Crores for 200-400 guests."
+      "min": "\u20b930 Lakhs",
+      "max": "\u20b95+ Crores",
+      "note": "Beach resort weddings typically range \u20b950 Lakhs to \u20b92 Crores for 200-400 guests."
     },
     "guestCapacity": "50 to 500+ guests at major beach resorts",
     "nearestAirport": "Goa International Airport (Dabolim - GOI, Manohar Mopa - GOX)",
@@ -536,7 +536,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹30 Lakhs",
+      "averageBudget": "\u20b930 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to April (Peak: November-February)",
       "repeatBookingRate": "72%",
@@ -550,12 +550,12 @@
     "country": "India",
     "region": "Rajasthan",
     "tagline": "The Blue City - Majestic Fort Weddings & Royal Grandeur",
-    "heroImage": "https://images.unsplash.com/photo-1599831013079-e8b0ab4c8a8a?w=1920&q=80",
+    "heroImage": "/images/gallery/venues/venues-007-4g4a3833-lg.webp",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1599831013079-e8b0ab4c8a8a?w=800&q=80",
-      "/images/locations/galleryImages-1-photo-1578662996442-48f60103fc96.webp",
-      "/images/locations/galleryImages-2-photo-1524492412937-b28074a5d7da.webp",
-      "https://images.unsplash.com/photo-1585405421957-a13e84f0a239?w=800&q=80"
+      "/images/gallery/venues/venues-004-4g4a3654-lg.webp",
+      "/images/gallery/ceremonies/ceremonies-010-grandweddingbymyweddingplanningeliteweddingplanner-lg.webp",
+      "/images/gallery/decor/decor-020-pp-594-lg.webp",
+      "/images/gallery/couples/couples-028-sdak-4001-md.webp"
     ],
     "metaTitle": "Jodhpur Wedding - Plan Your Fort Wedding in the Blue City",
     "metaDescription": "Host your dream destination wedding in Jodhpur. Magnificent Mehrangarh Fort views, royal palaces, and legendary Marwar hospitality for grand celebrations.",
@@ -579,7 +579,7 @@
       {
         "name": "Umaid Bhawan Palace",
         "slug": "umaid-bhawan-palace-jodhpur",
-        "image": "/images/venues/umaid-bhawan-palace/hero.jpg"
+        "image": "/images/venues/umaid-bhawan-palace-jodhpur/hero.webp"
       },
       {
         "name": "Taj Hari Mahal",
@@ -594,7 +594,7 @@
       {
         "name": "Raas Jodhpur",
         "slug": "raas-jodhpur",
-        "image": "/images/locations/image-photo-1564501049412-61c2a3083791.webp"
+        "image": "/images/venues/raas-jodhpur/hero.webp"
       },
       {
         "name": "Ajit Bhawan",
@@ -604,13 +604,13 @@
     ],
     "weddingSeasons": {
       "best": "October to March (Peak: November-February)",
-      "avoid": "April to June (Desert heat exceeds 45°C)",
-      "weather": "Cool desert winters with temperatures 8°C-25°C, ideal for outdoor fort ceremonies."
+      "avoid": "April to June (Desert heat exceeds 45\u00b0C)",
+      "weather": "Cool desert winters with temperatures 8\u00b0C-25\u00b0C, ideal for outdoor fort ceremonies."
     },
     "budgetRange": {
-      "min": "₹80 Lakhs",
-      "max": "₹15+ Crores",
-      "note": "Umaid Bhawan Palace weddings typically start from ₹2 Crores. Fort venue weddings from ₹1 Crore."
+      "min": "\u20b980 Lakhs",
+      "max": "\u20b915+ Crores",
+      "note": "Umaid Bhawan Palace weddings typically start from \u20b92 Crores. Fort venue weddings from \u20b91 Crore."
     },
     "guestCapacity": "50 to 500+ guests with palace and fort venues",
     "nearestAirport": "Jodhpur Airport (JDH)",
@@ -716,7 +716,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹80 Lakhs",
+      "averageBudget": "\u20b980 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March (Peak: November-February)",
       "repeatBookingRate": "72%",
@@ -759,7 +759,7 @@
       {
         "name": "Kumarakom Lake Resort",
         "slug": "kumarakom-lake-resort",
-        "image": "/images/venues/kumarakom-lake-resort/hero.jpg"
+        "image": "/images/venues/kumarakom-lake-resort/hero.webp"
       },
       {
         "name": "Taj Bekal Resort",
@@ -769,7 +769,7 @@
       {
         "name": "The Leela Kovalam",
         "slug": "leela-kovalam",
-        "image": "/images/locations/image-photo-1582719508461-905c673771fd.webp"
+        "image": "/images/venues/leela-kovalam-kerala/hero.webp"
       },
       {
         "name": "Coconut Lagoon",
@@ -785,12 +785,12 @@
     "weddingSeasons": {
       "best": "September to March (Peak: November-February)",
       "avoid": "June to August (Heavy Monsoon)",
-      "weather": "Pleasant tropical climate with temperatures 22°C-32°C, ideal for backwater and beach ceremonies."
+      "weather": "Pleasant tropical climate with temperatures 22\u00b0C-32\u00b0C, ideal for backwater and beach ceremonies."
     },
     "budgetRange": {
-      "min": "₹25 Lakhs",
-      "max": "₹3+ Crores",
-      "note": "Backwater resort weddings typically range ₹40 Lakhs to ₹1.5 Crores for 150-300 guests."
+      "min": "\u20b925 Lakhs",
+      "max": "\u20b93+ Crores",
+      "note": "Backwater resort weddings typically range \u20b940 Lakhs to \u20b91.5 Crores for 150-300 guests."
     },
     "guestCapacity": "50 to 300 guests at most backwater and beach resorts",
     "nearestAirport": "Cochin International Airport (COK), Trivandrum Airport (TRV)",
@@ -897,7 +897,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹25 Lakhs",
+      "averageBudget": "\u20b925 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "September to March (Peak: November-February)",
       "repeatBookingRate": "72%",
@@ -940,22 +940,22 @@
       {
         "name": "The Taj Mahal Palace",
         "slug": "taj-mahal-palace-mumbai",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/taj-mahal-palace-mumbai/hero.webp"
       },
       {
         "name": "St. Regis Mumbai",
         "slug": "st-regis-mumbai",
-        "image": "/images/locations/image-photo-1582719508461-905c673771fd.webp"
+        "image": "/images/venues/st-regis-mumbai/hero.webp"
       },
       {
         "name": "Four Seasons Mumbai",
         "slug": "four-seasons-mumbai",
-        "image": "/images/locations/image-photo-1564501049412-61c2a3083791.webp"
+        "image": "/images/venues/four-seasons-mumbai/hero.webp"
       },
       {
         "name": "JW Marriott Juhu",
         "slug": "jw-marriott-mumbai-juhu",
-        "image": "/images/locations/image-photo-1551882547-ff40c63fe5fa.webp"
+        "image": "/images/venues/jw-marriott-mumbai-juhu/hero.webp"
       },
       {
         "name": "The Oberoi Mumbai",
@@ -966,12 +966,12 @@
     "weddingSeasons": {
       "best": "November to February (Pleasant weather)",
       "avoid": "June to September (Heavy Monsoon)",
-      "weather": "Tropical climate with best wedding weather during winter months, temperatures 18°C-32°C."
+      "weather": "Tropical climate with best wedding weather during winter months, temperatures 18\u00b0C-32\u00b0C."
     },
     "budgetRange": {
-      "min": "₹50 Lakhs",
-      "max": "₹20+ Crores",
-      "note": "Five-star hotel weddings typically range ₹1-5 Crores for 300-500 guests."
+      "min": "\u20b950 Lakhs",
+      "max": "\u20b920+ Crores",
+      "note": "Five-star hotel weddings typically range \u20b91-5 Crores for 300-500 guests."
     },
     "guestCapacity": "50 to 1500+ guests with various venue options",
     "nearestAirport": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
@@ -1078,7 +1078,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹50 Lakhs",
+      "averageBudget": "\u20b950 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "November to February (Pleasant weather)",
       "repeatBookingRate": "72%",
@@ -1094,7 +1094,7 @@
     "tagline": "The Capital Experience - Grand Celebrations in Historic Splendor",
     "heroImage": "/images/locations/heroImage-photo-1587474260584-136574528ed5.webp",
     "galleryImages": [
-      "/images/locations/galleryImages-0-photo-1587474260584-136574528ed5.webp",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&q=80",
       "/images/locations/galleryImages-1-photo-1564507592333-c60657eea523.webp",
       "/images/locations/galleryImages-2-photo-1609766857041-ed402ea8069a.webp",
       "/images/locations/galleryImages-3-photo-1597040663342-45b6af3d91a5.webp"
@@ -1121,7 +1121,7 @@
       {
         "name": "The Leela Palace New Delhi",
         "slug": "leela-palace-new-delhi",
-        "image": "/images/venues/leela-palace-delhi/hero.jpg"
+        "image": "/images/venues/leela-palace-new-delhi/hero.webp"
       },
       {
         "name": "Taj Palace New Delhi",
@@ -1147,12 +1147,12 @@
     "weddingSeasons": {
       "best": "October to March (Peak: November-February)",
       "avoid": "April to June (Extreme heat), July-August (Monsoon humidity)",
-      "weather": "Pleasant winters with temperatures 8°C-22°C, perfect for outdoor lawn ceremonies."
+      "weather": "Pleasant winters with temperatures 8\u00b0C-22\u00b0C, perfect for outdoor lawn ceremonies."
     },
     "budgetRange": {
-      "min": "₹40 Lakhs",
-      "max": "₹25+ Crores",
-      "note": "Farmhouse weddings from ₹50 Lakhs, five-star hotels from ₹1 Crore for 500+ guests."
+      "min": "\u20b940 Lakhs",
+      "max": "\u20b925+ Crores",
+      "note": "Farmhouse weddings from \u20b950 Lakhs, five-star hotels from \u20b91 Crore for 500+ guests."
     },
     "guestCapacity": "50 to 3000+ guests with farmhouse and banquet options",
     "nearestAirport": "Indira Gandhi International Airport (DEL)",
@@ -1259,7 +1259,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹40 Lakhs",
+      "averageBudget": "\u20b940 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March (Peak: November-February)",
       "repeatBookingRate": "72%",
@@ -1302,7 +1302,7 @@
       {
         "name": "The Oberoi Amarvilas",
         "slug": "oberoi-amarvilas-agra",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/oberoi-amarvilas-agra/hero.webp"
       },
       {
         "name": "ITC Mughal",
@@ -1327,13 +1327,13 @@
     ],
     "weddingSeasons": {
       "best": "October to March (Peak: November-February)",
-      "avoid": "April to June (Extreme heat 45°C+)",
-      "weather": "Pleasant winters with temperatures 8°C-25°C, perfect for viewing the Taj in soft light."
+      "avoid": "April to June (Extreme heat 45\u00b0C+)",
+      "weather": "Pleasant winters with temperatures 8\u00b0C-25\u00b0C, perfect for viewing the Taj in soft light."
     },
     "budgetRange": {
-      "min": "₹40 Lakhs",
-      "max": "₹5+ Crores",
-      "note": "Oberoi Amarvilas weddings with Taj views typically range ₹1-3 Crores for 200-300 guests."
+      "min": "\u20b940 Lakhs",
+      "max": "\u20b95+ Crores",
+      "note": "Oberoi Amarvilas weddings with Taj views typically range \u20b91-3 Crores for 200-300 guests."
     },
     "guestCapacity": "50 to 500 guests with luxury hotel venues",
     "nearestAirport": "Agra Airport (AGR) - Limited flights, Delhi Airport (DEL) - 3 hours",
@@ -1440,7 +1440,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹40 Lakhs",
+      "averageBudget": "\u20b940 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March (Peak: November-February)",
       "repeatBookingRate": "72%",
@@ -1509,12 +1509,12 @@
     "weddingSeasons": {
       "best": "September to November, February to April",
       "avoid": "July to August (Heavy Monsoon), December-January (Very Cold)",
-      "weather": "Pleasant mountain weather with temperatures 15°C-30°C during best seasons."
+      "weather": "Pleasant mountain weather with temperatures 15\u00b0C-30\u00b0C during best seasons."
     },
     "budgetRange": {
-      "min": "₹20 Lakhs",
-      "max": "₹3+ Crores",
-      "note": "Wellness resort weddings typically range ₹40 Lakhs to ₹1.5 Crores for 100-200 guests."
+      "min": "\u20b920 Lakhs",
+      "max": "\u20b93+ Crores",
+      "note": "Wellness resort weddings typically range \u20b940 Lakhs to \u20b91.5 Crores for 100-200 guests."
     },
     "guestCapacity": "50 to 250 guests at boutique resort venues",
     "nearestAirport": "Dehradun Airport (DED)",
@@ -1620,7 +1620,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹20 Lakhs",
+      "averageBudget": "\u20b920 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "September to November, February to April",
       "repeatBookingRate": "72%",
@@ -1663,7 +1663,7 @@
       {
         "name": "Wildflower Hall",
         "slug": "wildflower-hall-shimla",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/wildflower-hall-shimla/hero.webp"
       },
       {
         "name": "The Oberoi Cecil",
@@ -1689,12 +1689,12 @@
     "weddingSeasons": {
       "best": "March to June, September to November",
       "avoid": "December to February (Heavy Snow), July-August (Monsoon)",
-      "weather": "Pleasant summers with temperatures 15°C-25°C, ideal for outdoor mountain ceremonies."
+      "weather": "Pleasant summers with temperatures 15\u00b0C-25\u00b0C, ideal for outdoor mountain ceremonies."
     },
     "budgetRange": {
-      "min": "₹25 Lakhs",
-      "max": "₹3+ Crores",
-      "note": "Heritage hotel weddings typically range ₹50 Lakhs to ₹1.5 Crores for 100-200 guests."
+      "min": "\u20b925 Lakhs",
+      "max": "\u20b93+ Crores",
+      "note": "Heritage hotel weddings typically range \u20b950 Lakhs to \u20b91.5 Crores for 100-200 guests."
     },
     "guestCapacity": "50 to 300 guests at hill station venues",
     "nearestAirport": "Chandigarh Airport (IXC), Shimla Airport (SLV - Limited)",
@@ -1801,7 +1801,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹25 Lakhs",
+      "averageBudget": "\u20b925 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "March to June, September to November",
       "repeatBookingRate": "72%",
@@ -1841,12 +1841,12 @@
       {
         "name": "Taj Falaknuma Palace",
         "slug": "taj-falaknuma-palace",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/taj-falaknuma-palace-hyderabad/hero.webp"
       },
       {
         "name": "ITC Kohenur",
         "slug": "itc-kohenur-hyderabad",
-        "image": "/images/locations/image-photo-1582719508461-905c673771fd.webp"
+        "image": "/images/venues/taj-falaknuma-palace-hyderabad/hero.webp"
       },
       {
         "name": "Taj Krishna",
@@ -1856,7 +1856,7 @@
       {
         "name": "Park Hyatt Hyderabad",
         "slug": "park-hyatt-hyderabad",
-        "image": "/images/locations/image-photo-1551882547-ff40c63fe5fa.webp"
+        "image": "/images/venues/taj-falaknuma-palace-hyderabad/hero.webp"
       },
       {
         "name": "Novotel HICC",
@@ -1867,12 +1867,12 @@
     "weddingSeasons": {
       "best": "October to March",
       "avoid": "April to June (Extreme heat)",
-      "weather": "Pleasant winters with temperatures 15°C-30°C."
+      "weather": "Pleasant winters with temperatures 15\u00b0C-30\u00b0C."
     },
     "budgetRange": {
-      "min": "₹35 Lakhs",
-      "max": "₹8+ Crores",
-      "note": "Falaknuma Palace weddings from ₹1.5 Crores."
+      "min": "\u20b935 Lakhs",
+      "max": "\u20b98+ Crores",
+      "note": "Falaknuma Palace weddings from \u20b91.5 Crores."
     },
     "guestCapacity": "50 to 1000+ guests",
     "nearestAirport": "Rajiv Gandhi International Airport (HYD)",
@@ -1973,7 +1973,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹35 Lakhs",
+      "averageBudget": "\u20b935 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March",
       "repeatBookingRate": "72%",
@@ -2002,7 +2002,7 @@
     ],
     "introduction": "Bangalore, India's Garden City, offers year-round pleasant weather and modern luxury venues perfect for contemporary celebrations.",
     "whyWedHere": [
-      "Year-round pleasant weather (20°C-30°C)",
+      "Year-round pleasant weather (20\u00b0C-30\u00b0C)",
       "Modern luxury hotels and convention centers",
       "Excellent connectivity",
       "Cosmopolitan atmosphere",
@@ -2012,7 +2012,7 @@
       {
         "name": "The Leela Palace Bangalore",
         "slug": "leela-palace-bangalore",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/itc-grand-chola-chennai/hero.webp"
       },
       {
         "name": "ITC Gardenia",
@@ -2038,12 +2038,12 @@
     "weddingSeasons": {
       "best": "Year-round (Best: October-February)",
       "avoid": "None - pleasant throughout",
-      "weather": "Consistent 20°C-30°C year-round."
+      "weather": "Consistent 20\u00b0C-30\u00b0C year-round."
     },
     "budgetRange": {
-      "min": "₹40 Lakhs",
-      "max": "₹10+ Crores",
-      "note": "Five-star hotel weddings from ₹80 Lakhs."
+      "min": "\u20b940 Lakhs",
+      "max": "\u20b910+ Crores",
+      "note": "Five-star hotel weddings from \u20b980 Lakhs."
     },
     "guestCapacity": "50 to 2000+ guests",
     "nearestAirport": "Kempegowda International Airport (BLR)",
@@ -2145,7 +2145,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹40 Lakhs",
+      "averageBudget": "\u20b940 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "Year-round (Best: October-February)",
       "repeatBookingRate": "72%",
@@ -2184,7 +2184,7 @@
       {
         "name": "ITC Grand Chola",
         "slug": "itc-grand-chola-chennai",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/itc-grand-chola-chennai/hero.webp"
       },
       {
         "name": "Taj Coromandel",
@@ -2213,9 +2213,9 @@
       "weather": "Tropical climate, winter months ideal."
     },
     "budgetRange": {
-      "min": "₹30 Lakhs",
-      "max": "₹8+ Crores",
-      "note": "Traditional muhurtham weddings from ₹50 Lakhs."
+      "min": "\u20b930 Lakhs",
+      "max": "\u20b98+ Crores",
+      "note": "Traditional muhurtham weddings from \u20b950 Lakhs."
     },
     "guestCapacity": "100 to 2000+ guests",
     "nearestAirport": "Chennai International Airport (MAA)",
@@ -2318,7 +2318,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹30 Lakhs",
+      "averageBudget": "\u20b930 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "November to February",
       "repeatBookingRate": "72%",
@@ -2383,12 +2383,12 @@
     "weddingSeasons": {
       "best": "October to March",
       "avoid": "June to September (Monsoon)",
-      "weather": "Pleasant winters with temperatures 12°C-25°C."
+      "weather": "Pleasant winters with temperatures 12\u00b0C-25\u00b0C."
     },
     "budgetRange": {
-      "min": "₹25 Lakhs",
-      "max": "₹6+ Crores",
-      "note": "Heritage hotel weddings from ₹60 Lakhs."
+      "min": "\u20b925 Lakhs",
+      "max": "\u20b96+ Crores",
+      "note": "Heritage hotel weddings from \u20b960 Lakhs."
     },
     "guestCapacity": "100 to 1500+ guests",
     "nearestAirport": "Netaji Subhas Chandra Bose International Airport (CCU)",
@@ -2491,7 +2491,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹25 Lakhs",
+      "averageBudget": "\u20b925 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March",
       "repeatBookingRate": "72%",
@@ -2530,7 +2530,7 @@
       {
         "name": "JW Marriott Mussoorie",
         "slug": "jw-marriott-mussoorie",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/wildflower-hall-shimla/hero.webp"
       },
       {
         "name": "Jaypee Residency Manor",
@@ -2556,12 +2556,12 @@
     "weddingSeasons": {
       "best": "March to June, September to November",
       "avoid": "December to February (Snow), July-August (Monsoon)",
-      "weather": "Cool mountain weather 10°C-25°C."
+      "weather": "Cool mountain weather 10\u00b0C-25\u00b0C."
     },
     "budgetRange": {
-      "min": "₹25 Lakhs",
-      "max": "₹3+ Crores",
-      "note": "Mountain resort weddings from ₹50 Lakhs."
+      "min": "\u20b925 Lakhs",
+      "max": "\u20b93+ Crores",
+      "note": "Mountain resort weddings from \u20b950 Lakhs."
     },
     "guestCapacity": "50 to 300 guests",
     "nearestAirport": "Dehradun Airport (DED)",
@@ -2664,7 +2664,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹25 Lakhs",
+      "averageBudget": "\u20b925 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "March to June, September to November",
       "repeatBookingRate": "72%",
@@ -2678,10 +2678,12 @@
     "country": "India",
     "region": "Rajasthan",
     "tagline": "Golden City - Desert Romance & Fort Grandeur",
-    "heroImage": "/images/locations/heroImage-photo-1477587458883-47145ed94245.webp",
+    "heroImage": "/images/gallery/venues/venues-010-4g4a6747-lg.webp",
     "galleryImages": [
-      "/images/locations/galleryImages-0-photo-1477587458883-47145ed94245.webp",
-      "https://images.unsplash.com/photo-1585405421957-a13e84f0a239?w=800&q=80"
+      "/images/gallery/ceremonies/ceremonies-030-grandweddingbymyweddingplanningeliteweddingplanner-lg.webp",
+      "/images/gallery/decor/decor-010-pp-1122-lg.webp",
+      "/images/gallery/couples/couples-015-sdak-3666-md.webp",
+      "/images/gallery/venues/venues-003-mandap-lg.webp"
     ],
     "metaTitle": "Jaisalmer Wedding - Plan Your Desert Fort Wedding",
     "metaDescription": "Host your dream wedding in Jaisalmer. Golden fort, desert camps, and Rajasthani grandeur for unique celebrations.",
@@ -2703,7 +2705,7 @@
       {
         "name": "Suryagarh",
         "slug": "suryagarh-jaisalmer",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/umaid-bhawan-palace-jodhpur/hero.webp"
       },
       {
         "name": "The Serai",
@@ -2729,12 +2731,12 @@
     "weddingSeasons": {
       "best": "October to March",
       "avoid": "April to September (Extreme heat)",
-      "weather": "Cool desert winters 5°C-25°C."
+      "weather": "Cool desert winters 5\u00b0C-25\u00b0C."
     },
     "budgetRange": {
-      "min": "₹50 Lakhs",
-      "max": "₹5+ Crores",
-      "note": "Luxury desert camp weddings from ₹80 Lakhs."
+      "min": "\u20b950 Lakhs",
+      "max": "\u20b95+ Crores",
+      "note": "Luxury desert camp weddings from \u20b980 Lakhs."
     },
     "guestCapacity": "50 to 400 guests",
     "nearestAirport": "Jaisalmer Airport (JSA), Jodhpur Airport (JDH)",
@@ -2837,7 +2839,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹50 Lakhs",
+      "averageBudget": "\u20b950 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March",
       "repeatBookingRate": "72%",
@@ -2851,9 +2853,9 @@
     "country": "India",
     "region": "Rajasthan",
     "tagline": "Holy Town - Spiritual Lakeside Celebrations",
-    "heroImage": "https://images.unsplash.com/photo-1602301360498-be1fa60f8d72?w=1920&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1920&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1602301360498-be1fa60f8d72?w=800&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80",
       "/images/locations/galleryImages-2-photo-1524492412937-b28074a5d7da.webp"
     ],
     "metaTitle": "Pushkar Wedding - Plan Your Lakeside Spiritual Celebration",
@@ -2902,12 +2904,12 @@
     "weddingSeasons": {
       "best": "October to March (Avoid Pushkar Fair week)",
       "avoid": "April to June",
-      "weather": "Pleasant winters 10°C-28°C."
+      "weather": "Pleasant winters 10\u00b0C-28\u00b0C."
     },
     "budgetRange": {
-      "min": "₹20 Lakhs",
-      "max": "₹2+ Crores",
-      "note": "Boutique resort weddings from ₹40 Lakhs."
+      "min": "\u20b920 Lakhs",
+      "max": "\u20b92+ Crores",
+      "note": "Boutique resort weddings from \u20b940 Lakhs."
     },
     "guestCapacity": "50 to 250 guests",
     "nearestAirport": "Jaipur International Airport (JAI)",
@@ -3009,7 +3011,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹20 Lakhs",
+      "averageBudget": "\u20b920 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March (Avoid Pushkar Fair week)",
       "repeatBookingRate": "72%",
@@ -3058,7 +3060,7 @@
       {
         "name": "Evolve Back Coorg",
         "slug": "evolve-back-coorg",
-        "image": "/images/locations/image-photo-1564501049412-61c2a3083791.webp"
+        "image": "/images/venues/kumarakom-lake-resort/hero.webp"
       },
       {
         "name": "Club Mahindra Madikeri",
@@ -3074,12 +3076,12 @@
     "weddingSeasons": {
       "best": "October to May",
       "avoid": "June to September (Heavy monsoon)",
-      "weather": "Cool pleasant weather 15°C-28°C."
+      "weather": "Cool pleasant weather 15\u00b0C-28\u00b0C."
     },
     "budgetRange": {
-      "min": "₹25 Lakhs",
-      "max": "₹3+ Crores",
-      "note": "Plantation resort weddings from ₹50 Lakhs."
+      "min": "\u20b925 Lakhs",
+      "max": "\u20b93+ Crores",
+      "note": "Plantation resort weddings from \u20b950 Lakhs."
     },
     "guestCapacity": "50 to 250 guests",
     "nearestAirport": "Mangalore Airport (IXE), Mysore Airport (MYQ)",
@@ -3182,7 +3184,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹25 Lakhs",
+      "averageBudget": "\u20b925 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to May",
       "repeatBookingRate": "72%",
@@ -3247,12 +3249,12 @@
     "weddingSeasons": {
       "best": "November to March",
       "avoid": "October to November (Cyclone season)",
-      "weather": "Coastal climate with temperatures 24°C-35°C."
+      "weather": "Coastal climate with temperatures 24\u00b0C-35\u00b0C."
     },
     "budgetRange": {
-      "min": "₹30 Lakhs",
-      "max": "₹4+ Crores",
-      "note": "Beach resort weddings from ₹60 Lakhs."
+      "min": "\u20b930 Lakhs",
+      "max": "\u20b94+ Crores",
+      "note": "Beach resort weddings from \u20b960 Lakhs."
     },
     "guestCapacity": "50 to 500 guests",
     "nearestAirport": "Chennai International Airport (MAA)",
@@ -3354,7 +3356,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹30 Lakhs",
+      "averageBudget": "\u20b930 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "November to March",
       "repeatBookingRate": "72%",
@@ -3419,12 +3421,12 @@
     "weddingSeasons": {
       "best": "October to May",
       "avoid": "June to September (Monsoon, rough seas)",
-      "weather": "Tropical climate 24°C-30°C with occasional showers."
+      "weather": "Tropical climate 24\u00b0C-30\u00b0C with occasional showers."
     },
     "budgetRange": {
-      "min": "₹40 Lakhs",
-      "max": "₹5+ Crores",
-      "note": "Island resort weddings from ₹80 Lakhs including logistics."
+      "min": "\u20b940 Lakhs",
+      "max": "\u20b95+ Crores",
+      "note": "Island resort weddings from \u20b980 Lakhs including logistics."
     },
     "guestCapacity": "30 to 200 guests",
     "nearestAirport": "Veer Savarkar International Airport, Port Blair (IXZ)",
@@ -3526,7 +3528,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹40 Lakhs",
+      "averageBudget": "\u20b940 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to May",
       "repeatBookingRate": "72%",
@@ -3579,12 +3581,12 @@
     "weddingSeasons": {
       "best": "October to March",
       "avoid": "April to June",
-      "weather": "Pleasant 20°C-30°C."
+      "weather": "Pleasant 20\u00b0C-30\u00b0C."
     },
     "budgetRange": {
-      "min": "₹25 Lakhs",
-      "max": "₹4+ Crores",
-      "note": "Palace weddings from ₹60 Lakhs."
+      "min": "\u20b925 Lakhs",
+      "max": "\u20b94+ Crores",
+      "note": "Palace weddings from \u20b960 Lakhs."
     },
     "guestCapacity": "50 to 800 guests",
     "nearestAirport": "Mysore Airport (MYQ), Bangalore (BLR)",
@@ -3681,7 +3683,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹25 Lakhs",
+      "averageBudget": "\u20b925 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March",
       "repeatBookingRate": "72%",
@@ -3734,12 +3736,12 @@
     "weddingSeasons": {
       "best": "November to March",
       "avoid": "October-November (Cyclones)",
-      "weather": "Coastal 24°C-32°C."
+      "weather": "Coastal 24\u00b0C-32\u00b0C."
     },
     "budgetRange": {
-      "min": "₹20 Lakhs",
-      "max": "₹3+ Crores",
-      "note": "Heritage hotel weddings from ₹40 Lakhs."
+      "min": "\u20b920 Lakhs",
+      "max": "\u20b93+ Crores",
+      "note": "Heritage hotel weddings from \u20b940 Lakhs."
     },
     "guestCapacity": "50 to 300 guests",
     "nearestAirport": "Chennai International Airport (MAA)",
@@ -3836,7 +3838,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹20 Lakhs",
+      "averageBudget": "\u20b920 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "November to March",
       "repeatBookingRate": "72%",
@@ -3889,12 +3891,12 @@
     "weddingSeasons": {
       "best": "October to May",
       "avoid": "June to September (Heavy monsoon)",
-      "weather": "Cool 15°C-28°C."
+      "weather": "Cool 15\u00b0C-28\u00b0C."
     },
     "budgetRange": {
-      "min": "₹30 Lakhs",
-      "max": "₹5+ Crores",
-      "note": "Luxury resort weddings from ₹60 Lakhs."
+      "min": "\u20b930 Lakhs",
+      "max": "\u20b95+ Crores",
+      "note": "Luxury resort weddings from \u20b960 Lakhs."
     },
     "guestCapacity": "50 to 500 guests",
     "nearestAirport": "Mumbai (BOM), Pune (PNQ)",
@@ -3991,7 +3993,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹30 Lakhs",
+      "averageBudget": "\u20b930 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to May",
       "repeatBookingRate": "72%",
@@ -4044,12 +4046,12 @@
     "weddingSeasons": {
       "best": "March to June, September to November",
       "avoid": "December to February (Cold), July-August (Monsoon)",
-      "weather": "Cool 10°C-25°C."
+      "weather": "Cool 10\u00b0C-25\u00b0C."
     },
     "budgetRange": {
-      "min": "₹20 Lakhs",
-      "max": "₹2+ Crores",
-      "note": "Lakeside resort weddings from ₹40 Lakhs."
+      "min": "\u20b920 Lakhs",
+      "max": "\u20b92+ Crores",
+      "note": "Lakeside resort weddings from \u20b940 Lakhs."
     },
     "guestCapacity": "50 to 200 guests",
     "nearestAirport": "Pantnagar Airport (PGH)",
@@ -4146,7 +4148,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹20 Lakhs",
+      "averageBudget": "\u20b920 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "March to June, September to November",
       "repeatBookingRate": "72%",
@@ -4199,12 +4201,12 @@
     "weddingSeasons": {
       "best": "Year-round (Peak: October-June)",
       "avoid": "July-September (Monsoon)",
-      "weather": "Cool 10°C-22°C year-round."
+      "weather": "Cool 10\u00b0C-22\u00b0C year-round."
     },
     "budgetRange": {
-      "min": "₹20 Lakhs",
-      "max": "₹3+ Crores",
-      "note": "Tea estate weddings from ₹50 Lakhs."
+      "min": "\u20b920 Lakhs",
+      "max": "\u20b93+ Crores",
+      "note": "Tea estate weddings from \u20b950 Lakhs."
     },
     "guestCapacity": "50 to 300 guests",
     "nearestAirport": "Coimbatore Airport (CJB)",
@@ -4301,7 +4303,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹20 Lakhs",
+      "averageBudget": "\u20b920 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "Year-round (Peak: October-June)",
       "repeatBookingRate": "72%",
@@ -4354,12 +4356,12 @@
     "weddingSeasons": {
       "best": "March to June, September to November",
       "avoid": "December to February (Heavy snow), July-August (Monsoon)",
-      "weather": "Cool 5°C-20°C."
+      "weather": "Cool 5\u00b0C-20\u00b0C."
     },
     "budgetRange": {
-      "min": "₹20 Lakhs",
-      "max": "₹3+ Crores",
-      "note": "Mountain resort weddings from ₹45 Lakhs."
+      "min": "\u20b920 Lakhs",
+      "max": "\u20b93+ Crores",
+      "note": "Mountain resort weddings from \u20b945 Lakhs."
     },
     "guestCapacity": "50 to 250 guests",
     "nearestAirport": "Kullu-Manali Airport (KUU), Chandigarh (IXC)",
@@ -4457,7 +4459,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹20 Lakhs",
+      "averageBudget": "\u20b920 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "March to June, September to November",
       "repeatBookingRate": "72%",
@@ -4494,7 +4496,7 @@
       {
         "name": "The Leela Kovalam",
         "slug": "leela-kovalam",
-        "image": "/images/locations/image-photo-1566073771259-6a8506099945.webp"
+        "image": "/images/venues/leela-kovalam-kerala/hero.webp"
       },
       {
         "name": "Taj Green Cove Resort",
@@ -4510,12 +4512,12 @@
     "weddingSeasons": {
       "best": "September to March",
       "avoid": "June to August (Monsoon)",
-      "weather": "Tropical 25°C-32°C."
+      "weather": "Tropical 25\u00b0C-32\u00b0C."
     },
     "budgetRange": {
-      "min": "₹30 Lakhs",
-      "max": "₹4+ Crores",
-      "note": "Cliff-top resort weddings from ₹60 Lakhs."
+      "min": "\u20b930 Lakhs",
+      "max": "\u20b94+ Crores",
+      "note": "Cliff-top resort weddings from \u20b960 Lakhs."
     },
     "guestCapacity": "50 to 300 guests",
     "nearestAirport": "Trivandrum International Airport (TRV)",
@@ -4613,7 +4615,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹30 Lakhs",
+      "averageBudget": "\u20b930 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "September to March",
       "repeatBookingRate": "72%",
@@ -4627,9 +4629,9 @@
     "country": "India",
     "region": "Rajasthan",
     "tagline": "Tiger Country - Wilderness & Heritage",
-    "heroImage": "https://images.unsplash.com/photo-1585405421957-a13e84f0a239?w=1920&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1920&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1585405421957-a13e84f0a239?w=800&q=80"
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80"
     ],
     "metaTitle": "Ranthambore Wedding - Plan Your Wildlife Heritage Celebration",
     "metaDescription": "Host your wedding in Ranthambore. Wildlife safaris, heritage hotels, and unique Rajasthan celebrations.",
@@ -4666,12 +4668,12 @@
     "weddingSeasons": {
       "best": "October to March",
       "avoid": "April to June (Extreme heat)",
-      "weather": "Pleasant winters 10°C-28°C."
+      "weather": "Pleasant winters 10\u00b0C-28\u00b0C."
     },
     "budgetRange": {
-      "min": "₹50 Lakhs",
-      "max": "₹5+ Crores",
-      "note": "Luxury camp weddings from ₹80 Lakhs."
+      "min": "\u20b950 Lakhs",
+      "max": "\u20b95+ Crores",
+      "note": "Luxury camp weddings from \u20b980 Lakhs."
     },
     "guestCapacity": "50 to 200 guests",
     "nearestAirport": "Jaipur Airport (JAI)",
@@ -4767,7 +4769,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹50 Lakhs",
+      "averageBudget": "\u20b950 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March",
       "repeatBookingRate": "72%",
@@ -4820,12 +4822,12 @@
     "weddingSeasons": {
       "best": "September to March",
       "avoid": "June to August (Monsoon)",
-      "weather": "Tropical 24°C-32°C."
+      "weather": "Tropical 24\u00b0C-32\u00b0C."
     },
     "budgetRange": {
-      "min": "₹20 Lakhs",
-      "max": "₹2+ Crores",
-      "note": "Backwater resort weddings from ₹40 Lakhs."
+      "min": "\u20b920 Lakhs",
+      "max": "\u20b92+ Crores",
+      "note": "Backwater resort weddings from \u20b940 Lakhs."
     },
     "guestCapacity": "50 to 200 guests",
     "nearestAirport": "Cochin International Airport (COK)",
@@ -4923,7 +4925,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹20 Lakhs",
+      "averageBudget": "\u20b920 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "September to March",
       "repeatBookingRate": "72%",
@@ -4976,12 +4978,12 @@
     "weddingSeasons": {
       "best": "October to March",
       "avoid": "April to June (Extreme heat)",
-      "weather": "Pleasant winters 15°C-30°C."
+      "weather": "Pleasant winters 15\u00b0C-30\u00b0C."
     },
     "budgetRange": {
-      "min": "₹25 Lakhs",
-      "max": "₹6+ Crores",
-      "note": "Grand banquet weddings from ₹50 Lakhs."
+      "min": "\u20b925 Lakhs",
+      "max": "\u20b96+ Crores",
+      "note": "Grand banquet weddings from \u20b950 Lakhs."
     },
     "guestCapacity": "100 to 2000+ guests",
     "nearestAirport": "Sardar Vallabhbhai Patel International Airport (AMD)",
@@ -5081,7 +5083,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹25 Lakhs",
+      "averageBudget": "\u20b925 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to March",
       "repeatBookingRate": "72%",
@@ -5144,12 +5146,12 @@
     "weddingSeasons": {
       "best": "November to April",
       "avoid": "May to October (Monsoon)",
-      "weather": "Tropical 26°C-32°C."
+      "weather": "Tropical 26\u00b0C-32\u00b0C."
     },
     "budgetRange": {
-      "min": "₹40 Lakhs",
-      "max": "₹8+ Crores",
-      "note": "Luxury resort weddings from ₹80 Lakhs."
+      "min": "\u20b940 Lakhs",
+      "max": "\u20b98+ Crores",
+      "note": "Luxury resort weddings from \u20b980 Lakhs."
     },
     "guestCapacity": "50 to 500 guests",
     "nearestAirport": "Phuket International Airport (HKT)",
@@ -5250,7 +5252,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹40 Lakhs",
+      "averageBudget": "\u20b940 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "November to April",
       "repeatBookingRate": "72%",
@@ -5303,12 +5305,12 @@
     "weddingSeasons": {
       "best": "November to April",
       "avoid": "May to October (Monsoon)",
-      "weather": "Tropical 26°C-33°C."
+      "weather": "Tropical 26\u00b0C-33\u00b0C."
     },
     "budgetRange": {
-      "min": "₹35 Lakhs",
-      "max": "₹6+ Crores",
-      "note": "Boutique resort weddings from ₹60 Lakhs."
+      "min": "\u20b935 Lakhs",
+      "max": "\u20b96+ Crores",
+      "note": "Boutique resort weddings from \u20b960 Lakhs."
     },
     "guestCapacity": "30 to 300 guests",
     "nearestAirport": "Krabi International Airport (KBV)",
@@ -5406,7 +5408,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹35 Lakhs",
+      "averageBudget": "\u20b935 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "November to April",
       "repeatBookingRate": "72%",
@@ -5459,12 +5461,12 @@
     "weddingSeasons": {
       "best": "December to April",
       "avoid": "October to November (Monsoon peak)",
-      "weather": "Tropical 26°C-32°C."
+      "weather": "Tropical 26\u00b0C-32\u00b0C."
     },
     "budgetRange": {
-      "min": "₹45 Lakhs",
-      "max": "₹7+ Crores",
-      "note": "Private villa weddings from ₹80 Lakhs."
+      "min": "\u20b945 Lakhs",
+      "max": "\u20b97+ Crores",
+      "note": "Private villa weddings from \u20b980 Lakhs."
     },
     "guestCapacity": "30 to 250 guests",
     "nearestAirport": "Samui Airport (USM)",
@@ -5561,7 +5563,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹45 Lakhs",
+      "averageBudget": "\u20b945 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "December to April",
       "repeatBookingRate": "72%",
@@ -5619,12 +5621,12 @@
     "weddingSeasons": {
       "best": "November to February",
       "avoid": "March to May (Very hot)",
-      "weather": "Tropical 25°C-35°C."
+      "weather": "Tropical 25\u00b0C-35\u00b0C."
     },
     "budgetRange": {
-      "min": "₹50 Lakhs",
-      "max": "₹10+ Crores",
-      "note": "Luxury hotel weddings from ₹1 Crore."
+      "min": "\u20b950 Lakhs",
+      "max": "\u20b910+ Crores",
+      "note": "Luxury hotel weddings from \u20b91 Crore."
     },
     "guestCapacity": "50 to 1000+ guests",
     "nearestAirport": "Suvarnabhumi Airport (BKK)",
@@ -5722,7 +5724,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹50 Lakhs",
+      "averageBudget": "\u20b950 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "November to February",
       "repeatBookingRate": "72%",
@@ -5775,12 +5777,12 @@
     "weddingSeasons": {
       "best": "November to March",
       "avoid": "September to October (Monsoon)",
-      "weather": "Tropical 25°C-32°C."
+      "weather": "Tropical 25\u00b0C-32\u00b0C."
     },
     "budgetRange": {
-      "min": "₹35 Lakhs",
-      "max": "₹5+ Crores",
-      "note": "Resort weddings from ₹60 Lakhs."
+      "min": "\u20b935 Lakhs",
+      "max": "\u20b95+ Crores",
+      "note": "Resort weddings from \u20b960 Lakhs."
     },
     "guestCapacity": "50 to 400 guests",
     "nearestAirport": "Suvarnabhumi Airport Bangkok (BKK)",
@@ -5877,7 +5879,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹35 Lakhs",
+      "averageBudget": "\u20b935 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "November to March",
       "repeatBookingRate": "72%",
@@ -5940,12 +5942,12 @@
     "weddingSeasons": {
       "best": "October to April",
       "avoid": "May to September (Extreme heat)",
-      "weather": "Warm 20°C-35°C in winter."
+      "weather": "Warm 20\u00b0C-35\u00b0C in winter."
     },
     "budgetRange": {
-      "min": "₹80 Lakhs",
-      "max": "₹25+ Crores",
-      "note": "Iconic venue weddings from ₹2 Crores."
+      "min": "\u20b980 Lakhs",
+      "max": "\u20b925+ Crores",
+      "note": "Iconic venue weddings from \u20b92 Crores."
     },
     "guestCapacity": "100 to 2000+ guests",
     "nearestAirport": "Dubai International Airport (DXB)",
@@ -6043,7 +6045,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹80 Lakhs",
+      "averageBudget": "\u20b980 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to April",
       "repeatBookingRate": "72%",
@@ -6101,12 +6103,12 @@
     "weddingSeasons": {
       "best": "October to April",
       "avoid": "May to September (Extreme heat)",
-      "weather": "Warm 18°C-32°C in winter."
+      "weather": "Warm 18\u00b0C-32\u00b0C in winter."
     },
     "budgetRange": {
-      "min": "₹70 Lakhs",
-      "max": "₹20+ Crores",
-      "note": "Emirates Palace weddings from ₹1.5 Crores."
+      "min": "\u20b970 Lakhs",
+      "max": "\u20b920+ Crores",
+      "note": "Emirates Palace weddings from \u20b91.5 Crores."
     },
     "guestCapacity": "100 to 1500+ guests",
     "nearestAirport": "Abu Dhabi International Airport (AUH)",
@@ -6203,7 +6205,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹70 Lakhs",
+      "averageBudget": "\u20b970 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to April",
       "repeatBookingRate": "72%",
@@ -6256,12 +6258,12 @@
     "weddingSeasons": {
       "best": "October to April",
       "avoid": "June to August (Extreme heat)",
-      "weather": "Warm 18°C-30°C in winter."
+      "weather": "Warm 18\u00b0C-30\u00b0C in winter."
     },
     "budgetRange": {
-      "min": "₹50 Lakhs",
-      "max": "₹8+ Crores",
-      "note": "Desert resort weddings from ₹80 Lakhs."
+      "min": "\u20b950 Lakhs",
+      "max": "\u20b98+ Crores",
+      "note": "Desert resort weddings from \u20b980 Lakhs."
     },
     "guestCapacity": "50 to 500 guests",
     "nearestAirport": "Ras Al Khaimah International (RKT), Dubai (DXB)",
@@ -6358,7 +6360,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹50 Lakhs",
+      "averageBudget": "\u20b950 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to April",
       "repeatBookingRate": "72%",
@@ -6411,12 +6413,12 @@
     "weddingSeasons": {
       "best": "October to April",
       "avoid": "June to August (Hot)",
-      "weather": "Warm 20°C-32°C in winter."
+      "weather": "Warm 20\u00b0C-32\u00b0C in winter."
     },
     "budgetRange": {
-      "min": "₹40 Lakhs",
-      "max": "₹6+ Crores",
-      "note": "Beach resort weddings from ₹70 Lakhs."
+      "min": "\u20b940 Lakhs",
+      "max": "\u20b96+ Crores",
+      "note": "Beach resort weddings from \u20b970 Lakhs."
     },
     "guestCapacity": "50 to 400 guests",
     "nearestAirport": "Dubai International Airport (DXB)",
@@ -6513,7 +6515,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹40 Lakhs",
+      "averageBudget": "\u20b940 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to April",
       "repeatBookingRate": "72%",
@@ -6566,12 +6568,12 @@
     "weddingSeasons": {
       "best": "October to April",
       "avoid": "May to September (Hot)",
-      "weather": "Warm 18°C-30°C in winter."
+      "weather": "Warm 18\u00b0C-30\u00b0C in winter."
     },
     "budgetRange": {
-      "min": "₹35 Lakhs",
-      "max": "₹5+ Crores",
-      "note": "Heritage hotel weddings from ₹60 Lakhs."
+      "min": "\u20b935 Lakhs",
+      "max": "\u20b95+ Crores",
+      "note": "Heritage hotel weddings from \u20b960 Lakhs."
     },
     "guestCapacity": "50 to 500 guests",
     "nearestAirport": "Sharjah International Airport (SHJ), Dubai (DXB)",
@@ -6668,7 +6670,7 @@
       }
     ],
     "realWeddingStats": {
-      "averageBudget": "₹35 Lakhs",
+      "averageBudget": "\u20b935 Lakhs",
       "averageGuestCount": 200,
       "popularMonths": "October to April",
       "repeatBookingRate": "72%",

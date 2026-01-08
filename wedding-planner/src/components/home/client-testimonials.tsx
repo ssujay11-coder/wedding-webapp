@@ -9,23 +9,23 @@ export function ClientTestimonials() {
     {
       name: "Priya & Arjun",
       location: "Udaipur, 2024",
-      image: "/images/testimonials/couple-1.webp",
+      image: "/images/gallery/couples/couples-035-0a8a1911-md.webp",
       quote:
         "Elite Wedding Planner transformed our vague ideas into a masterpiece. The team understood the cultural nuances of our fusion wedding perfectly. Every detail was executed flawlessly, from the lakeside ceremony to the royal reception.",
       rating: 5,
     },
     {
-      name: "Sarah & Marco",
+      name: "Nidhi & Kavin",
       location: "Goa, 2024",
-      image: "/images/testimonials/couple-2.webp",
+      image: "/images/gallery/couples/couples-003-sdak-0767-md.webp",
       quote:
         "Planning a destination wedding felt overwhelming until we found Elite. They handled everything—from guest logistics to beachfront décor—with grace and professionalism. Our guests are still raving about it!",
       rating: 5,
     },
     {
-      name: "Aisha & Vikram",
+      name: "Chandni & Jay",
       location: "Jaipur, 2023",
-      image: "/images/testimonials/couple-3.webp",
+      image: "/images/gallery/couples/couples-028-sdak-4001-md.webp",
       quote:
         "The design and execution were beyond our wildest dreams. Ruchita and her team brought our vision to life with exquisite taste and attention to detail. We couldn't have asked for a more perfect day.",
       rating: 5,

@@ -1,9 +1,13 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useRef, useCallback, TouchEvent as ReactTouchEvent } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion, AnimatePresence, useScroll, useTransform, useInView, useMotionValue, useSpring, PanInfo } from "framer-motion";
+
+// Premium easing curves for luxury feel
+const luxuryEasing: [number, number, number, number] = [0.22, 1, 0.36, 1];
+const smoothSpring = { stiffness: 400, damping: 30 };
 import {
   MapPin,
   Users,
@@ -47,21 +51,379 @@ import {
   Quote,
   Wallet,
   Timer,
+  ZoomIn,
+  ZoomOut,
+  Maximize2,
+  Play,
 } from "lucide-react";
 import type { WeddingVenue } from "@/data/venues";
+import { venues } from "@/data/venues";
 import { LeadCaptureForm } from "@/components/forms/lead-capture-form";
 import { TextScramble } from "@/components/ui/text-scramble";
 import { GoldSparkles } from "@/components/ui/gold-sparkles";
 import { FloralDecoration } from "@/components/decorative/floral-elements";
+import { ShortlistButton } from "@/components/ui/shortlist-button";
+import { getVenueHeroImage, getVenueGalleryImages } from "@/lib/venue-images";
 
 interface VenueDetailClientProps {
   venue: WeddingVenue;
 }
 
+// Premium animated section with staggered reveal
+function AnimatedSection({
+  children,
+  className = "",
+  delay = 0,
+  variant = "fadeUp"
+}: {
+  children: React.ReactNode;
+  className?: string;
+  delay?: number;
+  variant?: "fadeUp" | "fadeIn" | "scaleIn" | "slideInLeft" | "slideInRight";
+}) {
+  const ref = useRef(null);
+  const isInView = useInView(ref, { once: true, margin: "-80px" });
+
+  const variants = {
+    fadeUp: {
+      hidden: { opacity: 0, y: 60, filter: "blur(10px)" },
+      visible: { opacity: 1, y: 0, filter: "blur(0px)" }
+    },
+    fadeIn: {
+      hidden: { opacity: 0, filter: "blur(8px)" },
+      visible: { opacity: 1, filter: "blur(0px)" }
+    },
+    scaleIn: {
+      hidden: { opacity: 0, scale: 0.9, filter: "blur(10px)" },
+      visible: { opacity: 1, scale: 1, filter: "blur(0px)" }
+    },
+    slideInLeft: {
+      hidden: { opacity: 0, x: -60, filter: "blur(10px)" },
+      visible: { opacity: 1, x: 0, filter: "blur(0px)" }
+    },
+    slideInRight: {
+      hidden: { opacity: 0, x: 60, filter: "blur(10px)" },
+      visible: { opacity: 1, x: 0, filter: "blur(0px)" }
+    }
+  };
+
+  return (
+    <motion.div
+      ref={ref}
+      initial="hidden"
+      animate={isInView ? "visible" : "hidden"}
+      variants={variants[variant]}
+      transition={{
+        duration: 0.8,
+        delay,
+        ease: luxuryEasing
+      }}
+      className={className}
+    >
+      {children}
+    </motion.div>
+  );
+}
+
+// Premium button with magnetic hover effect
+function MagneticButton({
+  children,
+  onClick,
+  className = "",
+  disabled = false
+}: {
+  children: React.ReactNode;
+  onClick?: () => void;
+  className?: string;
+  disabled?: boolean;
+}) {
+  const ref = useRef<HTMLButtonElement>(null);
+  const x = useMotionValue(0);
+  const y = useMotionValue(0);
+  const springX = useSpring(x, smoothSpring);
+  const springY = useSpring(y, smoothSpring);
+
+  const handleMouseMove = (e: React.MouseEvent) => {
+    if (!ref.current || disabled) return;
+    const rect = ref.current.getBoundingClientRect();
+    const centerX = rect.left + rect.width / 2;
+    const centerY = rect.top + rect.height / 2;
+    const distanceX = (e.clientX - centerX) * 0.15;
+    const distanceY = (e.clientY - centerY) * 0.15;
+    x.set(distanceX);
+    y.set(distanceY);
+  };
+
+  const handleMouseLeave = () => {
+    x.set(0);
+    y.set(0);
+  };
+
+  return (
+    <motion.button
+      ref={ref}
+      onClick={onClick}
+      onMouseMove={handleMouseMove}
+      onMouseLeave={handleMouseLeave}
+      style={{ x: springX, y: springY }}
+      whileHover={{ scale: 1.02 }}
+      whileTap={{ scale: 0.98 }}
+      disabled={disabled}
+      className={className}
+    >
+      {children}
+    </motion.button>
+  );
+}
+
+// Premium card with 3D tilt effect
+function TiltCard({
+  children,
+  className = "",
+  intensity = 10
+}: {
+  children: React.ReactNode;
+  className?: string;
+  intensity?: number;
+}) {
+  const ref = useRef<HTMLDivElement>(null);
+  const rotateX = useMotionValue(0);
+  const rotateY = useMotionValue(0);
+  const springRotateX = useSpring(rotateX, smoothSpring);
+  const springRotateY = useSpring(rotateY, smoothSpring);
+
+  const handleMouseMove = (e: React.MouseEvent) => {
+    if (!ref.current) return;
+    const rect = ref.current.getBoundingClientRect();
+    const centerX = rect.left + rect.width / 2;
+    const centerY = rect.top + rect.height / 2;
+    const percentX = (e.clientX - centerX) / (rect.width / 2);
+    const percentY = (e.clientY - centerY) / (rect.height / 2);
+    rotateY.set(percentX * intensity);
+    rotateX.set(-percentY * intensity);
+  };
+
+  const handleMouseLeave = () => {
+    rotateX.set(0);
+    rotateY.set(0);
+  };
+
+  return (
+    <motion.div
+      ref={ref}
+      onMouseMove={handleMouseMove}
+      onMouseLeave={handleMouseLeave}
+      style={{
+        rotateX: springRotateX,
+        rotateY: springRotateY,
+        transformStyle: "preserve-3d"
+      }}
+      className={className}
+    >
+      {children}
+    </motion.div>
+  );
+}
+
+// Shimmer loading skeleton
+function Skeleton({ className = "" }: { className?: string }) {
+  return (
+    <div
+      className={`animate-pulse bg-gradient-to-r from-gray-200 via-gray-100 to-gray-200 bg-[length:200%_100%] ${className}`}
+      style={{ animation: "shimmer 2s infinite linear" }}
+    />
+  );
+}
+
 export function VenueDetailClient({ venue }: VenueDetailClientProps) {
   const [selectedImage, setSelectedImage] = useState<number | null>(null);
-  const [activeTab, setActiveTab] = useState<"overview" | "spaces" | "features" | "logistics" | "faqs" | "policies">("overview");
+  const [activeTab, setActiveTab] = useState<"overview" | "spaces" | "features" | "logistics" | "faqs" | "policies" | "reviews">("overview");
+  const [showStickyNav, setShowStickyNav] = useState(false);
+  const [imageLoading, setImageLoading] = useState(true);
+  const [zoomLevel, setZoomLevel] = useState(1);
+  const [swipeDirection, setSwipeDirection] = useState<"left" | "right" | null>(null);
+
+  // Refs for sections and parallax
+  const heroRef = useRef<HTMLDivElement>(null);
+  const contentRef = useRef<HTMLDivElement>(null);
+  const lightboxRef = useRef<HTMLDivElement>(null);
+
+  // Touch gesture state for mobile swipe
+  const touchStartX = useRef(0);
+  const touchEndX = useRef(0);
+  const swipeThreshold = 50;
+
+  // Parallax scroll effect for hero
+  const { scrollY } = useScroll();
+  const heroY = useTransform(scrollY, [0, 600], [0, 180]);
+  const heroOpacity = useTransform(scrollY, [0, 400], [1, 0.2]);
+  const heroScale = useTransform(scrollY, [0, 600], [1, 1.1]);
+  const heroBlur = useTransform(scrollY, [0, 400], [0, 3]);
+
+  // Get gallery images with fallbacks - defined early for use in effects
+  const galleryImages = getVenueGalleryImages(venue);
+
+  // Show sticky nav after scrolling past hero
+  useEffect(() => {
+    const handleScroll = () => {
+      setShowStickyNav(window.scrollY > 500);
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  // Keyboard navigation for lightbox
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (selectedImage === null) return;
+      if (e.key === "Escape") {
+        setSelectedImage(null);
+        setZoomLevel(1);
+      }
+      if (e.key === "ArrowLeft") {
+        setSwipeDirection("right");
+        setSelectedImage((prev) => prev !== null ? (prev - 1 + galleryImages.length) % galleryImages.length : null);
+        setZoomLevel(1);
+        setTimeout(() => setSwipeDirection(null), 300);
+      }
+      if (e.key === "ArrowRight") {
+        setSwipeDirection("left");
+        setSelectedImage((prev) => prev !== null ? (prev + 1) % galleryImages.length : null);
+        setZoomLevel(1);
+        setTimeout(() => setSwipeDirection(null), 300);
+      }
+      if (e.key === "+" || e.key === "=") {
+        setZoomLevel((z) => Math.min(z + 0.25, 3));
+      }
+      if (e.key === "-") {
+        setZoomLevel((z) => Math.max(z - 0.25, 1));
+      }
+    };
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [selectedImage, galleryImages.length]);
+
+  // Touch gesture handlers for mobile swipe navigation
+  const handleTouchStart = useCallback((e: ReactTouchEvent<HTMLDivElement>) => {
+    touchStartX.current = e.touches[0].clientX;
+    touchEndX.current = e.touches[0].clientX;
+  }, []);
+
+  const handleTouchMove = useCallback((e: ReactTouchEvent<HTMLDivElement>) => {
+    touchEndX.current = e.touches[0].clientX;
+  }, []);
+
+  const handleTouchEnd = useCallback(() => {
+    const diff = touchStartX.current - touchEndX.current;
+    if (Math.abs(diff) > swipeThreshold && selectedImage !== null) {
+      if (diff > 0) {
+        // Swipe left - next image
+        setSwipeDirection("left");
+        setSelectedImage((prev) => prev !== null ? (prev + 1) % galleryImages.length : null);
+      } else {
+        // Swipe right - previous image
+        setSwipeDirection("right");
+        setSelectedImage((prev) => prev !== null ? (prev - 1 + galleryImages.length) % galleryImages.length : null);
+      }
+      setZoomLevel(1);
+      setTimeout(() => setSwipeDirection(null), 300);
+    }
+  }, [selectedImage, galleryImages.length]);
+
+  // Handle drag end for framer-motion pan gesture
+  const handleDragEnd = useCallback((_: MouseEvent | globalThis.TouchEvent | PointerEvent, info: PanInfo) => {
+    if (Math.abs(info.offset.x) > swipeThreshold && selectedImage !== null && zoomLevel === 1) {
+      if (info.offset.x < 0) {
+        setSwipeDirection("left");
+        setSelectedImage((prev) => prev !== null ? (prev + 1) % galleryImages.length : null);
+      } else {
+        setSwipeDirection("right");
+        setSelectedImage((prev) => prev !== null ? (prev - 1 + galleryImages.length) % galleryImages.length : null);
+      }
+      setTimeout(() => setSwipeDirection(null), 300);
+    }
+  }, [selectedImage, galleryImages.length, zoomLevel]);
+
+  // Toggle zoom
+  const handleZoomToggle = useCallback(() => {
+    setZoomLevel((z) => z === 1 ? 2 : 1);
+  }, []);
+  const [venueReviews, setVenueReviews] = useState<Array<{
+    id: string;
+    reviewer_name: string;
+    reviewer_city?: string;
+    rating: number;
+    title?: string;
+    content: string;
+    wedding_date?: string;
+    created_at: string;
+  }>>([]);
+  const [showReviewForm, setShowReviewForm] = useState(false);
+  const [reviewSubmitting, setReviewSubmitting] = useState(false);
+  const [reviewSuccess, setReviewSuccess] = useState(false);
   const [expandedFaq, setExpandedFaq] = useState<number | null>(null);
+
+  // Fetch reviews for this venue
+  useEffect(() => {
+    async function fetchReviews() {
+      try {
+        const response = await fetch(`/api/reviews?venue_id=${venue.id}`);
+        const data = await response.json();
+        if (data.reviews) {
+          setVenueReviews(data.reviews);
+        }
+      } catch (error) {
+        console.error('Error fetching reviews:', error);
+      }
+    }
+    fetchReviews();
+  }, [venue.id]);
+
+  // Get similar venues (same city or category)
+  const similarVenues = venues
+    .filter(v =>
+      v.id !== venue.id &&
+      (v.city === venue.city || v.category === venue.category)
+    )
+    .slice(0, 3);
+
+  const handleSubmitReview = async (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    setReviewSubmitting(true);
+
+    const formData = new FormData(e.currentTarget);
+    const reviewData = {
+      reviewer_name: formData.get('name'),
+      reviewer_email: formData.get('email'),
+      reviewer_city: formData.get('city'),
+      venue_id: venue.id,
+      review_type: 'venue',
+      rating: parseInt(formData.get('rating') as string),
+      title: formData.get('title'),
+      content: formData.get('content'),
+      wedding_date: formData.get('wedding_date'),
+      guest_count: formData.get('guest_count') ? parseInt(formData.get('guest_count') as string) : null
+    };
+
+    try {
+      const response = await fetch('/api/reviews', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(reviewData)
+      });
+
+      const data = await response.json();
+      if (data.success) {
+        setReviewSuccess(true);
+        setShowReviewForm(false);
+        setTimeout(() => setReviewSuccess(false), 5000);
+      }
+    } catch (error) {
+      console.error('Error submitting review:', error);
+    } finally {
+      setReviewSubmitting(false);
+    }
+  };
 
   const handleShare = async () => {
     if (navigator.share) {
@@ -88,19 +450,101 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
 
   return (
     <div className="min-h-screen bg-sheet-background">
-      {/* Hero Section - Mobile Optimized */}
-      <section className="relative h-[60vh] sm:h-[70vh] min-h-[400px] sm:min-h-[500px] overflow-hidden">
-        <div className="absolute inset-0">
+      {/* Sticky Navigation */}
+      <AnimatePresence>
+        {showStickyNav && (
+          <motion.div
+            initial={{ y: -100, opacity: 0 }}
+            animate={{ y: 0, opacity: 1 }}
+            exit={{ y: -100, opacity: 0 }}
+            transition={{ duration: 0.3 }}
+            className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-lg shadow-lg border-b border-gray-100"
+          >
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between">
+              <div className="flex items-center gap-4">
+                <h2 className="font-display text-lg font-medium text-foreground truncate max-w-[200px] sm:max-w-none">{venue.name}</h2>
+                <div className="hidden md:flex items-center gap-2 text-sm text-muted-foreground">
+                  <Star className="w-4 h-4 text-yellow-500 fill-yellow-500" />
+                  <span>{venue.googleRating || "4.8"}</span>
+                  <span className="text-gray-300">|</span>
+                  <MapPin className="w-4 h-4" />
+                  <span>{venue.city}</span>
+                </div>
+              </div>
+              <div className="flex items-center gap-2 sm:gap-3">
+                <ShortlistButton venueId={venue.id} size="sm" />
+                <button
+                  onClick={handleWhatsAppInquiry}
+                  className="px-3 sm:px-4 py-2 bg-green-500 hover:bg-green-600 text-white text-sm rounded-full font-medium flex items-center gap-1.5 transition-colors"
+                >
+                  <MessageCircle className="w-4 h-4" />
+                  <span className="hidden sm:inline">WhatsApp</span>
+                </button>
+                <Link
+                  href="/contact"
+                  className="px-3 sm:px-4 py-2 bg-primary hover:bg-primary/90 text-white text-sm rounded-full font-medium transition-colors"
+                >
+                  Get Quote
+                </Link>
+              </div>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Hero Section - Premium Cinematic Experience */}
+      <section ref={heroRef} className="relative h-[75vh] sm:h-[85vh] min-h-[550px] sm:min-h-[650px] overflow-hidden">
+        {/* Animated background with multiple layers */}
+        <motion.div
+          style={{ y: heroY, scale: heroScale }}
+          className="absolute inset-0 -top-32 -bottom-32"
+        >
           <Image
-            src={venue.heroImage || "/images/venues/placeholder-hero.jpg"}
+            src={getVenueHeroImage(venue)}
             alt={`${venue.name} - Luxury Wedding Venue in ${venue.city}`}
             fill
             className="object-cover"
             priority
+            onLoadingComplete={() => setImageLoading(false)}
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent" />
-          <GoldSparkles className="opacity-50" />
-        </div>
+          {/* Multi-layer gradient overlay for depth */}
+          <motion.div
+            style={{ opacity: heroOpacity }}
+            className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent"
+          />
+          <div className="absolute inset-0 bg-gradient-to-r from-black/30 via-transparent to-black/30" />
+          <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-transparent to-transparent" />
+
+          {/* Animated overlay patterns */}
+          <motion.div
+            className="absolute inset-0 opacity-20"
+            style={{
+              backgroundImage: "radial-gradient(circle at 20% 50%, rgba(255,255,255,0.1) 0%, transparent 50%)",
+            }}
+            animate={{
+              backgroundPosition: ["0% 0%", "100% 100%"],
+            }}
+            transition={{ duration: 20, repeat: Infinity, repeatType: "reverse" }}
+          />
+
+          <GoldSparkles className="opacity-30" />
+        </motion.div>
+
+        {/* Loading skeleton for hero */}
+        <AnimatePresence>
+          {imageLoading && (
+            <motion.div
+              exit={{ opacity: 0 }}
+              className="absolute inset-0 bg-gradient-to-b from-gray-800 to-gray-900 z-20"
+            >
+              <div className="absolute bottom-20 left-6 right-6 space-y-4">
+                <Skeleton className="h-8 w-32 rounded-full" />
+                <Skeleton className="h-16 w-3/4 rounded-lg" />
+                <Skeleton className="h-6 w-1/2 rounded-lg" />
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
 
         {/* Hero Content */}
         <div className="absolute bottom-0 left-0 right-0 p-4 sm:p-6 md:p-12 z-10">
@@ -162,6 +606,12 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
                   WhatsApp Inquiry
                 </button>
                 <div className="flex gap-2 sm:gap-4">
+                  <ShortlistButton
+                    venueId={venue.id}
+                    size="lg"
+                    showText
+                    className="flex-1 sm:flex-none !rounded-full !px-4 sm:!px-6 !py-2.5 sm:!py-3"
+                  />
                   <button
                     onClick={handleShare}
                     className="flex-1 sm:flex-none px-4 sm:px-6 py-2.5 sm:py-3 bg-white/20 hover:bg-white/30 text-white rounded-full font-semibold flex items-center justify-center gap-2 backdrop-blur-sm transition-colors text-sm sm:text-base"
@@ -264,6 +714,7 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
               { id: "overview", label: "Overview" },
               { id: "spaces", label: "Wedding Spaces" },
               { id: "features", label: "Features" },
+              { id: "reviews", label: "Reviews" },
               { id: "logistics", label: "How to Reach" },
               { id: "policies", label: "Policies" },
               { id: "faqs", label: "FAQs" },
@@ -830,6 +1281,213 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
                 </motion.div>
               )}
 
+              {/* Reviews Tab */}
+              {activeTab === "reviews" && (
+                <motion.div
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  className="space-y-8"
+                >
+                  {/* Review Success Message */}
+                  {reviewSuccess && (
+                    <div className="p-4 bg-green-50 border border-green-200 rounded-xl flex items-center gap-3">
+                      <Check className="w-5 h-5 text-green-600" />
+                      <p className="text-green-800">Thank you for your review! It will be visible after approval.</p>
+                    </div>
+                  )}
+
+                  {/* Reviews Header */}
+                  <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+                    <div>
+                      <h2 className="text-2xl font-display italic">Guest Reviews</h2>
+                      <p className="text-muted-foreground mt-1">
+                        {venueReviews.length > 0
+                          ? `${venueReviews.length} verified reviews from couples who celebrated here`
+                          : 'Be the first to review this venue'}
+                      </p>
+                    </div>
+                    <button
+                      onClick={() => setShowReviewForm(!showReviewForm)}
+                      className="px-6 py-3 bg-primary hover:bg-primary/90 text-white rounded-full font-semibold flex items-center gap-2 transition-colors"
+                    >
+                      <Star className="w-5 h-5" />
+                      Write a Review
+                    </button>
+                  </div>
+
+                  {/* Review Form */}
+                  <AnimatePresence>
+                    {showReviewForm && (
+                      <motion.div
+                        initial={{ opacity: 0, height: 0 }}
+                        animate={{ opacity: 1, height: "auto" }}
+                        exit={{ opacity: 0, height: 0 }}
+                        className="overflow-hidden"
+                      >
+                        <form onSubmit={handleSubmitReview} className="p-6 bg-gradient-to-br from-primary/5 to-secondary/5 rounded-2xl border border-primary/10 space-y-6">
+                          <h3 className="text-xl font-semibold">Share Your Experience at {venue.name}</h3>
+
+                          <div className="grid sm:grid-cols-2 gap-4">
+                            <div>
+                              <label className="block text-sm font-medium mb-2">Your Name *</label>
+                              <input
+                                type="text"
+                                name="name"
+                                required
+                                className="w-full px-4 py-3 rounded-xl border border-border bg-white focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors"
+                                placeholder="Enter your name"
+                              />
+                            </div>
+                            <div>
+                              <label className="block text-sm font-medium mb-2">Email</label>
+                              <input
+                                type="email"
+                                name="email"
+                                className="w-full px-4 py-3 rounded-xl border border-border bg-white focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors"
+                                placeholder="your@email.com"
+                              />
+                            </div>
+                          </div>
+
+                          <div className="grid sm:grid-cols-2 gap-4">
+                            <div>
+                              <label className="block text-sm font-medium mb-2">Your City</label>
+                              <input
+                                type="text"
+                                name="city"
+                                className="w-full px-4 py-3 rounded-xl border border-border bg-white focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors"
+                                placeholder="Mumbai, Delhi, etc."
+                              />
+                            </div>
+                            <div>
+                              <label className="block text-sm font-medium mb-2">Wedding Date</label>
+                              <input
+                                type="date"
+                                name="wedding_date"
+                                className="w-full px-4 py-3 rounded-xl border border-border bg-white focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors"
+                              />
+                            </div>
+                          </div>
+
+                          <div className="grid sm:grid-cols-2 gap-4">
+                            <div>
+                              <label className="block text-sm font-medium mb-2">Number of Guests</label>
+                              <input
+                                type="number"
+                                name="guest_count"
+                                className="w-full px-4 py-3 rounded-xl border border-border bg-white focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors"
+                                placeholder="250"
+                              />
+                            </div>
+                            <div>
+                              <label className="block text-sm font-medium mb-2">Overall Rating *</label>
+                              <select
+                                name="rating"
+                                required
+                                className="w-full px-4 py-3 rounded-xl border border-border bg-white focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors"
+                              >
+                                <option value="">Select rating</option>
+                                <option value="5">5 - Exceptional</option>
+                                <option value="4">4 - Excellent</option>
+                                <option value="3">3 - Good</option>
+                                <option value="2">2 - Fair</option>
+                                <option value="1">1 - Poor</option>
+                              </select>
+                            </div>
+                          </div>
+
+                          <div>
+                            <label className="block text-sm font-medium mb-2">Review Title</label>
+                            <input
+                              type="text"
+                              name="title"
+                              className="w-full px-4 py-3 rounded-xl border border-border bg-white focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors"
+                              placeholder="A magical celebration at..."
+                            />
+                          </div>
+
+                          <div>
+                            <label className="block text-sm font-medium mb-2">Your Review *</label>
+                            <textarea
+                              name="content"
+                              required
+                              rows={5}
+                              className="w-full px-4 py-3 rounded-xl border border-border bg-white focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors resize-none"
+                              placeholder="Share your experience - what did you love, how was the service, food, decoration..."
+                            />
+                          </div>
+
+                          <div className="flex gap-4">
+                            <button
+                              type="submit"
+                              disabled={reviewSubmitting}
+                              className="px-8 py-3 bg-primary hover:bg-primary/90 text-white rounded-full font-semibold disabled:opacity-50 transition-colors"
+                            >
+                              {reviewSubmitting ? 'Submitting...' : 'Submit Review'}
+                            </button>
+                            <button
+                              type="button"
+                              onClick={() => setShowReviewForm(false)}
+                              className="px-8 py-3 bg-white border border-border hover:bg-gray-50 text-foreground rounded-full font-semibold transition-colors"
+                            >
+                              Cancel
+                            </button>
+                          </div>
+                        </form>
+                      </motion.div>
+                    )}
+                  </AnimatePresence>
+
+                  {/* Reviews List */}
+                  {venueReviews.length > 0 ? (
+                    <div className="space-y-4">
+                      {venueReviews.map((review) => (
+                        <div key={review.id} className="p-6 bg-white rounded-2xl border border-border">
+                          <div className="flex items-start justify-between gap-4">
+                            <div className="flex items-center gap-4">
+                              <div className="w-12 h-12 rounded-full bg-gradient-to-br from-primary to-secondary flex items-center justify-center text-white font-semibold text-lg">
+                                {review.reviewer_name.charAt(0)}
+                              </div>
+                              <div>
+                                <p className="font-semibold text-foreground">{review.reviewer_name}</p>
+                                <p className="text-sm text-muted-foreground">
+                                  {review.reviewer_city && `${review.reviewer_city} • `}
+                                  {new Date(review.created_at).toLocaleDateString('en-IN', { month: 'short', year: 'numeric' })}
+                                </p>
+                              </div>
+                            </div>
+                            <div className="flex items-center gap-1">
+                              {[1, 2, 3, 4, 5].map((star) => (
+                                <Star
+                                  key={star}
+                                  className={`w-5 h-5 ${star <= review.rating ? 'text-amber-400 fill-amber-400' : 'text-gray-200'}`}
+                                />
+                              ))}
+                            </div>
+                          </div>
+                          {review.title && (
+                            <h4 className="font-semibold text-foreground mt-4">{review.title}</h4>
+                          )}
+                          <p className="text-muted-foreground mt-2 leading-relaxed">{review.content}</p>
+                          {review.wedding_date && (
+                            <p className="text-sm text-primary mt-4 flex items-center gap-2">
+                              <Calendar className="w-4 h-4" />
+                              Wedding: {new Date(review.wedding_date).toLocaleDateString('en-IN', { month: 'long', year: 'numeric' })}
+                            </p>
+                          )}
+                        </div>
+                      ))}
+                    </div>
+                  ) : (
+                    <div className="text-center py-12 bg-gray-50 rounded-2xl">
+                      <Star className="w-12 h-12 text-gray-300 mx-auto mb-4" />
+                      <p className="text-muted-foreground">No reviews yet for this venue.</p>
+                      <p className="text-sm text-muted-foreground mt-1">Be the first to share your experience!</p>
+                    </div>
+                  )}
+                </motion.div>
+              )}
+
               {/* Logistics Tab - How to Reach */}
               {activeTab === "logistics" && (
                 <motion.div
@@ -1223,28 +1881,70 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
                 </motion.div>
               )}
 
-              {/* Gallery */}
-              {venue.galleryImages && venue.galleryImages.length > 0 && (
-                <div>
-                  <h2 className="text-2xl font-display italic mb-6">Photo Gallery</h2>
-                  <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-                    {venue.galleryImages.map((image, index) => (
-                      <button
-                        key={index}
-                        onClick={() => setSelectedImage(index)}
-                        className="relative aspect-[4/3] rounded-xl overflow-hidden group"
-                      >
-                        <Image
-                          src={image || "/images/venues/placeholder.jpg"}
-                          alt={`${venue.name} - Image ${index + 1}`}
-                          fill
-                          className="object-cover transition-transform duration-300 group-hover:scale-110"
-                        />
-                        <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors" />
-                      </button>
-                    ))}
+              {/* Gallery - Enhanced Masonry Layout */}
+              {galleryImages.length > 0 && (
+                <AnimatedSection>
+                  <div className="flex items-center justify-between mb-6">
+                    <h2 className="text-2xl sm:text-3xl font-display italic">Photo Gallery</h2>
+                    <button
+                      onClick={() => setSelectedImage(0)}
+                      className="text-sm text-primary hover:text-primary/80 font-medium flex items-center gap-1.5 transition-colors"
+                    >
+                      View All
+                      <ChevronRight className="w-4 h-4" />
+                    </button>
                   </div>
-                </div>
+                  {/* Masonry-style grid with varied sizes */}
+                  <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
+                    {galleryImages.slice(0, 6).map((image, index) => {
+                      // Create visual interest with varied card sizes
+                      const isLarge = index === 0 || index === 3;
+                      const isTall = index === 1;
+                      return (
+                        <motion.button
+                          key={index}
+                          whileHover={{ scale: 1.02 }}
+                          whileTap={{ scale: 0.98 }}
+                          onClick={() => setSelectedImage(index)}
+                          className={`relative rounded-2xl overflow-hidden group shadow-lg hover:shadow-2xl transition-all duration-300 ${
+                            isLarge ? "col-span-2 row-span-2 aspect-square" :
+                            isTall ? "row-span-2 aspect-[3/4]" : "aspect-[4/3]"
+                          }`}
+                        >
+                          <Image
+                            src={image}
+                            alt={`${venue.name} - Gallery ${index + 1}`}
+                            fill
+                            className="object-cover transition-transform duration-700 group-hover:scale-110"
+                          />
+                          {/* Gradient overlay */}
+                          <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/0 to-black/0 opacity-0 group-hover:opacity-100 transition-all duration-300" />
+                          {/* Zoom icon */}
+                          <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                            <div className="w-12 h-12 bg-white/90 rounded-full flex items-center justify-center shadow-lg transform scale-75 group-hover:scale-100 transition-transform">
+                              <Camera className="w-5 h-5 text-primary" />
+                            </div>
+                          </div>
+                          {/* Image number badge */}
+                          <div className="absolute top-3 right-3 bg-white/90 backdrop-blur-sm px-2.5 py-1 rounded-full text-xs font-medium text-foreground shadow-sm">
+                            {index + 1}/{galleryImages.length}
+                          </div>
+                        </motion.button>
+                      );
+                    })}
+                  </div>
+                  {/* View more button for additional images */}
+                  {galleryImages.length > 6 && (
+                    <motion.button
+                      whileHover={{ scale: 1.02 }}
+                      onClick={() => setSelectedImage(0)}
+                      className="mt-4 w-full py-4 bg-gradient-to-r from-gray-50 to-gray-100 hover:from-primary/5 hover:to-primary/10 rounded-2xl border border-gray-200 flex items-center justify-center gap-2 text-foreground font-medium transition-colors"
+                    >
+                      <Camera className="w-5 h-5 text-primary" />
+                      View All {galleryImages.length} Photos
+                    </motion.button>
+                  )}
+                </AnimatedSection>
               )}
             </div>
 
@@ -1376,58 +2076,327 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
         </div>
       </section>
 
-      {/* Lightbox */}
+      {/* Premium Lightbox with Swipe Gestures & Zoom */}
       <AnimatePresence>
         {selectedImage !== null && (
           <motion.div
+            ref={lightboxRef}
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="fixed inset-0 z-50 bg-black/95 flex items-center justify-center"
-            onClick={() => setSelectedImage(null)}
+            transition={{ duration: 0.3, ease: luxuryEasing }}
+            className="fixed inset-0 z-50 bg-black/95 backdrop-blur-md flex flex-col"
+            onClick={() => {
+              setSelectedImage(null);
+              setZoomLevel(1);
+            }}
+            onTouchStart={handleTouchStart}
+            onTouchMove={handleTouchMove}
+            onTouchEnd={handleTouchEnd}
           >
-            <button
-              onClick={() => setSelectedImage(null)}
-              className="absolute top-4 right-4 w-12 h-12 bg-white/10 rounded-full flex items-center justify-center text-white hover:bg-white/20 transition-colors"
+            {/* Premium top bar with blur effect */}
+            <motion.div
+              initial={{ y: -20, opacity: 0 }}
+              animate={{ y: 0, opacity: 1 }}
+              transition={{ delay: 0.1, duration: 0.4 }}
+              className="flex items-center justify-between px-4 sm:px-6 py-3 sm:py-4 bg-gradient-to-b from-black/80 to-transparent"
             >
-              <X className="w-6 h-6" />
-            </button>
-            <button
-              onClick={(e) => {
-                e.stopPropagation();
-                setSelectedImage((prev) =>
-                  prev !== null ? (prev - 1 + venue.galleryImages.length) % venue.galleryImages.length : null
-                );
-              }}
-              className="absolute left-4 w-12 h-12 bg-white/10 rounded-full flex items-center justify-center text-white hover:bg-white/20 transition-colors"
+              <div className="flex items-center gap-3">
+                <span className="text-white/90 text-sm sm:text-base font-medium tracking-wide">
+                  {venue.name}
+                </span>
+                <span className="text-white/40 hidden sm:block">•</span>
+                <span className="text-white/60 text-sm hidden sm:block">
+                  Gallery
+                </span>
+              </div>
+              <div className="flex items-center gap-2 sm:gap-3">
+                {/* Zoom controls - desktop only */}
+                <div className="hidden sm:flex items-center gap-1 bg-white/10 rounded-full px-2 py-1">
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setZoomLevel((z) => Math.max(z - 0.5, 1));
+                    }}
+                    className="w-8 h-8 flex items-center justify-center text-white/70 hover:text-white transition-colors"
+                  >
+                    <ZoomOut className="w-4 h-4" />
+                  </button>
+                  <span className="text-white/60 text-xs w-10 text-center">
+                    {Math.round(zoomLevel * 100)}%
+                  </span>
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setZoomLevel((z) => Math.min(z + 0.5, 3));
+                    }}
+                    className="w-8 h-8 flex items-center justify-center text-white/70 hover:text-white transition-colors"
+                  >
+                    <ZoomIn className="w-4 h-4" />
+                  </button>
+                </div>
+                <span className="text-white/40 text-xs hidden lg:block">
+                  ← → navigate • +/- zoom • ESC close
+                </span>
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setSelectedImage(null);
+                    setZoomLevel(1);
+                  }}
+                  className="w-10 h-10 sm:w-11 sm:h-11 bg-white/10 hover:bg-white/20 rounded-full flex items-center justify-center text-white transition-all hover:scale-105 active:scale-95"
+                >
+                  <X className="w-5 h-5" />
+                </button>
+              </div>
+            </motion.div>
+
+            {/* Main image area with swipe gesture support */}
+            <div
+              className="flex-1 flex items-center justify-center relative px-2 sm:px-16 overflow-hidden"
+              onClick={(e) => e.stopPropagation()}
             >
-              <ChevronLeft className="w-6 h-6" />
-            </button>
-            <button
-              onClick={(e) => {
-                e.stopPropagation();
-                setSelectedImage((prev) =>
-                  prev !== null ? (prev + 1) % venue.galleryImages.length : null
-                );
-              }}
-              className="absolute right-4 w-12 h-12 bg-white/10 rounded-full flex items-center justify-center text-white hover:bg-white/20 transition-colors"
-            >
-              <ChevronRight className="w-6 h-6" />
-            </button>
-            <div className="relative w-full max-w-5xl aspect-[16/10] mx-4">
-              <Image
-                src={venue.galleryImages[selectedImage] || "/images/venues/placeholder.jpg"}
-                alt={`${venue.name} - Image ${selectedImage + 1}`}
-                fill
-                className="object-contain"
-              />
+              {/* Navigation arrows - desktop optimized */}
+              <motion.button
+                initial={{ x: -20, opacity: 0 }}
+                animate={{ x: 0, opacity: 1 }}
+                transition={{ delay: 0.2 }}
+                onClick={(e) => {
+                  e.stopPropagation();
+                  setSwipeDirection("right");
+                  setSelectedImage((prev) =>
+                    prev !== null ? (prev - 1 + galleryImages.length) % galleryImages.length : null
+                  );
+                  setZoomLevel(1);
+                  setTimeout(() => setSwipeDirection(null), 300);
+                }}
+                className="absolute left-2 sm:left-6 w-12 h-12 sm:w-14 sm:h-14 bg-white/10 hover:bg-white/20 rounded-full flex items-center justify-center text-white transition-all hover:scale-110 active:scale-95 z-10 backdrop-blur-sm border border-white/10"
+              >
+                <ChevronLeft className="w-6 h-6 sm:w-7 sm:h-7" />
+              </motion.button>
+
+              {/* Image container with animations */}
+              <motion.div
+                key={selectedImage}
+                initial={{
+                  opacity: 0,
+                  x: swipeDirection === "left" ? 100 : swipeDirection === "right" ? -100 : 0,
+                  scale: 0.9
+                }}
+                animate={{
+                  opacity: 1,
+                  x: 0,
+                  scale: 1
+                }}
+                exit={{
+                  opacity: 0,
+                  x: swipeDirection === "left" ? -100 : swipeDirection === "right" ? 100 : 0,
+                  scale: 0.9
+                }}
+                transition={{ duration: 0.4, ease: luxuryEasing }}
+                drag={zoomLevel === 1 ? "x" : false}
+                dragConstraints={{ left: 0, right: 0 }}
+                dragElastic={0.1}
+                onDragEnd={handleDragEnd}
+                onClick={handleZoomToggle}
+                className="relative w-full h-full max-w-7xl cursor-zoom-in touch-pan-y"
+                style={{ cursor: zoomLevel > 1 ? "zoom-out" : "zoom-in" }}
+              >
+                <motion.div
+                  animate={{ scale: zoomLevel }}
+                  transition={{ type: "spring", stiffness: 300, damping: 30 }}
+                  className="relative w-full h-full"
+                >
+                  <Image
+                    src={galleryImages[selectedImage] || getVenueHeroImage(venue)}
+                    alt={`${venue.name} - Image ${selectedImage + 1}`}
+                    fill
+                    className="object-contain select-none"
+                    priority
+                    draggable={false}
+                  />
+                </motion.div>
+              </motion.div>
+
+              {/* Right navigation */}
+              <motion.button
+                initial={{ x: 20, opacity: 0 }}
+                animate={{ x: 0, opacity: 1 }}
+                transition={{ delay: 0.2 }}
+                onClick={(e) => {
+                  e.stopPropagation();
+                  setSwipeDirection("left");
+                  setSelectedImage((prev) =>
+                    prev !== null ? (prev + 1) % galleryImages.length : null
+                  );
+                  setZoomLevel(1);
+                  setTimeout(() => setSwipeDirection(null), 300);
+                }}
+                className="absolute right-2 sm:right-6 w-12 h-12 sm:w-14 sm:h-14 bg-white/10 hover:bg-white/20 rounded-full flex items-center justify-center text-white transition-all hover:scale-110 active:scale-95 z-10 backdrop-blur-sm border border-white/10"
+              >
+                <ChevronRight className="w-6 h-6 sm:w-7 sm:h-7" />
+              </motion.button>
+
+              {/* Mobile swipe hint */}
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0 }}
+                transition={{ delay: 0.5, duration: 0.5 }}
+                className="absolute bottom-4 left-0 right-0 text-center sm:hidden"
+              >
+                <span className="text-white/40 text-xs bg-black/50 px-3 py-1.5 rounded-full backdrop-blur-sm">
+                  Swipe to navigate • Tap to zoom
+                </span>
+              </motion.div>
             </div>
-            <div className="absolute bottom-4 left-1/2 -translate-x-1/2 text-white/70 text-sm">
-              {selectedImage + 1} / {venue.galleryImages.length}
-            </div>
+
+            {/* Premium thumbnail strip */}
+            <motion.div
+              initial={{ y: 20, opacity: 0 }}
+              animate={{ y: 0, opacity: 1 }}
+              transition={{ delay: 0.2, duration: 0.4 }}
+              className="py-3 sm:py-4 px-4 bg-gradient-to-t from-black/80 to-transparent"
+            >
+              <div className="flex gap-1.5 sm:gap-2 justify-center overflow-x-auto scrollbar-hide max-w-5xl mx-auto pb-1">
+                {galleryImages.map((image, index) => (
+                  <motion.button
+                    key={index}
+                    whileHover={{ scale: 1.05 }}
+                    whileTap={{ scale: 0.95 }}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setSelectedImage(index);
+                      setZoomLevel(1);
+                    }}
+                    className={`relative w-14 h-10 sm:w-20 sm:h-14 rounded-lg sm:rounded-xl overflow-hidden flex-shrink-0 transition-all duration-300 ${
+                      selectedImage === index
+                        ? "ring-2 ring-white ring-offset-2 ring-offset-black scale-105"
+                        : "opacity-40 hover:opacity-70"
+                    }`}
+                  >
+                    <Image
+                      src={image}
+                      alt={`Thumbnail ${index + 1}`}
+                      fill
+                      className="object-cover"
+                    />
+                    {selectedImage === index && (
+                      <motion.div
+                        layoutId="activeThumb"
+                        className="absolute inset-0 border-2 border-white rounded-lg sm:rounded-xl"
+                      />
+                    )}
+                  </motion.button>
+                ))}
+              </div>
+              <div className="flex items-center justify-center gap-2 mt-2 sm:mt-3">
+                <span className="text-white/90 text-sm font-medium">
+                  {selectedImage + 1}
+                </span>
+                <span className="text-white/40">/</span>
+                <span className="text-white/60 text-sm">
+                  {galleryImages.length}
+                </span>
+              </div>
+            </motion.div>
           </motion.div>
         )}
       </AnimatePresence>
+
+      {/* Floating Action Button for Mobile */}
+      <motion.div
+        initial={{ scale: 0, opacity: 0 }}
+        animate={{ scale: showStickyNav ? 1 : 0, opacity: showStickyNav ? 1 : 0 }}
+        className="fixed bottom-6 right-6 z-40 sm:hidden"
+      >
+        <button
+          onClick={handleWhatsAppInquiry}
+          className="w-14 h-14 bg-green-500 hover:bg-green-600 text-white rounded-full shadow-lg flex items-center justify-center transition-colors"
+        >
+          <MessageCircle className="w-6 h-6" />
+        </button>
+      </motion.div>
+
+      {/* Similar Venues Section */}
+      {similarVenues.length > 0 && (
+        <section className="py-12 sm:py-16 bg-gradient-to-br from-gray-50 to-white">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6">
+            <div className="text-center mb-8 sm:mb-12">
+              <h2 className="text-2xl sm:text-3xl md:text-4xl font-display italic text-foreground mb-3">
+                Similar Venues You May Love
+              </h2>
+              <p className="text-muted-foreground">
+                Explore more stunning venues in {venue.city} and {venue.category} category
+              </p>
+            </div>
+
+            <div className="grid md:grid-cols-3 gap-6">
+              {similarVenues.map((similarVenue) => (
+                <Link
+                  key={similarVenue.id}
+                  href={`/venues/${similarVenue.slug}`}
+                  className="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-border hover:border-primary/30"
+                >
+                  <div className="relative aspect-[4/3] overflow-hidden">
+                    <Image
+                      src={getVenueHeroImage(similarVenue)}
+                      alt={similarVenue.name}
+                      fill
+                      className="object-cover group-hover:scale-110 transition-transform duration-500"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
+                    <div className="absolute top-3 left-3 flex gap-2">
+                      <span className="px-2 py-1 bg-white/90 text-primary text-xs font-medium rounded-full backdrop-blur-sm">
+                        {similarVenue.category}
+                      </span>
+                      <span className="px-2 py-1 bg-primary/90 text-white text-xs font-medium rounded-full">
+                        {similarVenue.starRating} Star
+                      </span>
+                    </div>
+                    <div className="absolute bottom-3 left-3 right-3">
+                      <h3 className="text-lg font-semibold text-white group-hover:text-primary-foreground transition-colors">
+                        {similarVenue.name}
+                      </h3>
+                      <p className="text-white/80 text-sm flex items-center gap-1">
+                        <MapPin className="w-3 h-3" />
+                        {similarVenue.city}, {similarVenue.state}
+                      </p>
+                    </div>
+                  </div>
+                  <div className="p-4">
+                    <div className="flex items-center justify-between mb-3">
+                      <div className="flex items-center gap-1">
+                        <Star className="w-4 h-4 text-amber-400 fill-amber-400" />
+                        <span className="font-semibold">{similarVenue.googleRating}</span>
+                        <span className="text-muted-foreground text-sm">Google</span>
+                      </div>
+                      <div className="flex items-center gap-1 text-sm text-muted-foreground">
+                        <Users className="w-4 h-4" />
+                        <span>Up to {similarVenue.guestCapacity?.max}</span>
+                      </div>
+                    </div>
+                    <div className="flex items-center justify-between">
+                      <p className="text-sm text-muted-foreground">Starting from</p>
+                      <p className="font-semibold text-primary">{similarVenue.startingPrice}</p>
+                    </div>
+                  </div>
+                </Link>
+              ))}
+            </div>
+
+            <div className="text-center mt-8">
+              <Link
+                href="/venues"
+                className="inline-flex items-center gap-2 px-6 py-3 bg-primary/10 hover:bg-primary/20 text-primary rounded-full font-semibold transition-colors"
+              >
+                View All Venues
+                <ChevronRight className="w-5 h-5" />
+              </Link>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* CTA Section - Mobile Optimized */}
       <section className="py-12 sm:py-16 bg-gradient-to-br from-[#221015] to-[#3a1a25]">
@@ -1477,6 +2446,34 @@ export function VenueDetailClient({ venue }: VenueDetailClientProps) {
           </p>
         </div>
       </section>
+
+      {/* Floating Mobile Action Bar */}
+      <div className="fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-gray-200 shadow-lg sm:hidden p-3">
+        <div className="flex items-center gap-2 max-w-lg mx-auto">
+          <button
+            onClick={handleWhatsAppInquiry}
+            className="flex-1 py-3 bg-green-500 hover:bg-green-600 text-white rounded-xl font-semibold flex items-center justify-center gap-2 transition-colors text-sm"
+          >
+            <MessageCircle className="w-4 h-4" />
+            WhatsApp
+          </button>
+          <a
+            href="tel:+919869829673"
+            className="flex-1 py-3 bg-primary hover:bg-primary/90 text-white rounded-xl font-semibold flex items-center justify-center gap-2 transition-colors text-sm"
+          >
+            <Phone className="w-4 h-4" />
+            Call Now
+          </a>
+          <ShortlistButton
+            venueId={venue.id}
+            size="md"
+            className="!rounded-xl !w-12 !h-12"
+          />
+        </div>
+      </div>
+
+      {/* Spacer for mobile floating bar */}
+      <div className="h-20 sm:hidden" />
     </div>
   );
 }

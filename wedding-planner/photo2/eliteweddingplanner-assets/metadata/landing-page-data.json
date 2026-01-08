@@ -1,0 +1,174 @@
+{
+  "locations": {
+    "udaipur": {
+      "slug": "udaipur-destination-wedding",
+      "hero_images": [
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/heros/udaipur-palace-wedding-ceremony-1ef2b2.webp",
+          "avif": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/avif/heros/udaipur-palace-wedding-ceremony-1ef2b2.avif",
+          "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoUAA0APzmGuVOvKSWisAgB4CcJYwCdACPXvfyjldaj+s1gAP7c4FDGm2aS8XdF5vn+U0p2xxVRMlsI7QfG8LzcEEII5y9DR96TOjuU+GLGr9Xs9TWGpAAA",
+          "alt": "Wedding Ceremony - Udaipur palace",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/heros/udaipur-palace-haldi-e5cf7f.webp",
+          "avif": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/avif/heros/udaipur-palace-haldi-e5cf7f.avif",
+          "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwAwCdASoUAA0APzmGuVOvKSWisAgB4CcJQBAAAR6tC2OCQgXQAAD+ztv3NyJKAkXFjs8w5hjUP9bJXuG91xV4hVRBcy6OY9Fk5urFW5AZuNEgr00yLBBAQldl9Iw7sa18H84vqzuxcvzYAAA=",
+          "alt": "Haldi - Udaipur palace",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/heros/udaipur-palace-sangeet-902656.webp",
+          "avif": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/avif/heros/udaipur-palace-sangeet-902656.avif",
+          "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoUAA0APzmGuVOvKKWisAgB4CcJZQCw7B9bnfz/r+fbW3tpiAD+dUdtLh0rZbCIpEslCnfCk8H0kGDogYYV6j59tSCgVitp1sXOUrT2+N6JwGYCeuAAAA==",
+          "alt": "Sangeet - Udaipur palace",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/heros/udaipur-palace-haldi-91f810.webp",
+          "avif": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/avif/heros/udaipur-palace-haldi-91f810.avif",
+          "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQAwCdASoUAA0APzmGuVOvKSWisAgB4CcJQBOmUABbsS24250MAPuwCV0iAm8n6mpmPkBmQ4CKny+vE1pR6tPwquSeH3g1FmXsBGujEM2bxIXdMDI4e/0Tm8tTGz8MA6DdA6idxUYKQAAA",
+          "alt": "Haldi - Udaipur palace",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/heros/udaipur-palace-wedding-ceremony-0198b4.webp",
+          "avif": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/avif/heros/udaipur-palace-wedding-ceremony-0198b4.avif",
+          "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoUAA0APzmEuVOvKKWisAgB4CcJYgCw7B0+5OX28EzQKKa/QADNWsfbF383k59kipJM4HSHqw7h3ybL0jcR6F5Uvrq3s96e1SoEHvycaQHozAAA",
+          "alt": "Wedding Ceremony - Udaipur palace",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "gallery": [
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-43cb3a.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-00f83e.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-918216.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-f40af3.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-2c25c6.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-49f482.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-ec9434.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-ff8acf.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-ba023a.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-7476a6.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-6cb40e.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-223dc8.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-f2d4f9.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-9dddc4.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-d2d702.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-702e88.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-310716.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-33b99b.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-664c4b.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        },
+        {
+          "src": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/website-ready/webp/cards/udaipur-palace-wedding-ceremony-dbb9e0.webp",
+          "alt": "Wedding Ceremony - Udaipur palace"
+        }
+      ],
+      "stats": {
+        "total_images": 892
+      }
+    },
+    "jaipur": {
+      "slug": "jaipur-destination-wedding",
+      "hero_images": [],
+      "gallery": [],
+      "stats": {
+        "total_images": 0
+      }
+    },
+    "goa": {
+      "slug": "goa-destination-wedding",
+      "hero_images": [],
+      "gallery": [],
+      "stats": {
+        "total_images": 0
+      }
+    },
+    "kerala": {
+      "slug": "kerala-destination-wedding",
+      "hero_images": [],
+      "gallery": [],
+      "stats": {
+        "total_images": 0
+      }
+    },
+    "jodhpur": {
+      "slug": "jodhpur-destination-wedding",
+      "hero_images": [],
+      "gallery": [],
+      "stats": {
+        "total_images": 0
+      }
+    },
+    "jim-corbett": {
+      "slug": "jim-corbett-destination-wedding",
+      "hero_images": [],
+      "gallery": [],
+      "stats": {
+        "total_images": 0
+      }
+    }
+  }
+}

@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
+import { useSearchParams } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
@@ -19,8 +20,10 @@ import {
   Heart,
 } from "lucide-react";
 import type { WeddingVenue, VenueRegion, VenueCategory } from "@/data/venues";
+import { getVenueHeroImage } from "@/lib/venue-images";
 import { TextScramble } from "@/components/ui/text-scramble";
 import { FloralDecoration, GoldSparkles } from "@/components/decorative/floral-elements";
+import { ShortlistButton } from "@/components/ui/shortlist-button";
 
 interface VenuesListClientProps {
   venues: WeddingVenue[];
@@ -62,6 +65,7 @@ const sortOptions = [
 ];
 
 export function VenuesListClient({ venues }: VenuesListClientProps) {
+  const searchParams = useSearchParams();
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedRegion, setSelectedRegion] = useState<VenueRegion | "All">("All");
   const [selectedCategory, setSelectedCategory] = useState<VenueCategory | "All">("All");
@@ -70,6 +74,14 @@ export function VenuesListClient({ venues }: VenuesListClientProps) {
   const [sortBy, setSortBy] = useState("featured");
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
   const [showFilters, setShowFilters] = useState(false);
+
+  // Read category from URL search params on mount
+  useEffect(() => {
+    const categoryParam = searchParams.get("category");
+    if (categoryParam && categories.includes(categoryParam as VenueCategory)) {
+      setSelectedCategory(categoryParam as VenueCategory);
+    }
+  }, [searchParams]);
 
   const filteredVenues = useMemo(() => {
     let result = [...venues];
@@ -451,10 +463,11 @@ function VenueCardGrid({ venue }: { venue: WeddingVenue }) {
         {/* Image Container */}
         <div className="relative aspect-[4/3] overflow-hidden">
           <Image
-            src={venue.heroImage || "/images/venues/placeholder.jpg"}
-            alt={venue.name}
+            src={getVenueHeroImage(venue)}
+            alt={`${venue.name} - Luxury ${venue.category} Wedding Venue in ${venue.city}, ${venue.state}`}
             fill
             className="object-cover transition-transform duration-700 group-hover:scale-110"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-80 group-hover:opacity-90 transition-opacity" />
 
@@ -464,10 +477,8 @@ function VenueCardGrid({ venue }: { venue: WeddingVenue }) {
               {venue.category}
             </span>
           </div>
-          <div className="absolute top-4 right-4 text-white opacity-0 group-hover:opacity-100 transition-opacity transform translate-x-2 group-hover:translate-x-0 duration-300 delay-100">
-            <div className="bg-white/20 backdrop-blur-md p-2 rounded-full cursor-pointer hover:bg-white/30">
-              <Heart className="w-5 h-5 text-white" />
-            </div>
+          <div className="absolute top-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity transform translate-x-2 group-hover:translate-x-0 duration-300 delay-100">
+            <ShortlistButton venueId={venue.id} size="sm" />
           </div>
 
           {/* Bottom Info OVERLAY */}
@@ -528,15 +539,19 @@ function VenueCardList({ venue }: { venue: WeddingVenue }) {
         {/* Large Image */}
         <div className="relative w-full md:w-[320px] lg:w-[400px] h-[240px] md:h-auto flex-shrink-0">
           <Image
-            src={venue.heroImage || "/images/venues/placeholder.jpg"}
-            alt={venue.name}
+            src={getVenueHeroImage(venue)}
+            alt={`${venue.name} - Luxury ${venue.category} Wedding Venue in ${venue.city}, ${venue.state}`}
             fill
             className="object-cover transition-transform duration-700 group-hover:scale-105"
+            sizes="(max-width: 768px) 100vw, 400px"
           />
           <div className="absolute top-4 left-4">
             <span className="px-3 py-1 bg-white/95 backdrop-blur-md text-primary text-[10px] font-bold uppercase tracking-wider rounded-full shadow-sm">
               {venue.category}
             </span>
+          </div>
+          <div className="absolute top-4 right-4">
+            <ShortlistButton venueId={venue.id} size="sm" />
           </div>
         </div>
 

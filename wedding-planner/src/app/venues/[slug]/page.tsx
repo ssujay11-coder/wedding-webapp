@@ -4,6 +4,7 @@ import { Navbar } from "@/components/layout/navbar";
 import { Footer } from "@/components/layout/footer";
 import { VenueDetailClient } from "@/components/venues/venue-detail-client";
 import { getVenueBySlug, venues } from "@/data/venues";
+import { getVenueHeroImage, getVenueOgImage } from "@/lib/venue-images";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -25,6 +26,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
 
+  const ogImage = getVenueOgImage(venue);
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://eliteweddingplanner.in';
+  const fullOgUrl = ogImage.startsWith('http') ? ogImage : `${baseUrl}${ogImage}`;
+
   return {
     title: venue.metaTitle,
     description: venue.metaDescription,
@@ -35,10 +40,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "article",
       images: [
         {
-          url: venue.heroImage,
+          url: fullOgUrl,
           width: 1200,
           height: 630,
-          alt: `${venue.name} Wedding Venue`,
+          alt: `${venue.name} - Luxury Wedding Venue in ${venue.city}, ${venue.state}`,
         },
       ],
     },
@@ -46,7 +51,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: "summary_large_image",
       title: venue.metaTitle,
       description: venue.metaDescription,
-      images: [venue.heroImage],
+      images: [fullOgUrl],
     },
   };
 }
@@ -60,12 +65,13 @@ export default async function VenueDetailPage({ params }: Props) {
   }
 
   // JSON-LD structured data for the venue
+  const heroImage = getVenueHeroImage(venue);
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "LodgingBusiness",
     name: venue.name,
     description: venue.shortDescription,
-    image: venue.heroImage,
+    image: heroImage,
     address: {
       "@type": "PostalAddress",
       addressLocality: venue.city,

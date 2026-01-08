@@ -27,6 +27,9 @@ export async function createSupabaseServerClient() {
   })
 }
 
+// Alias for convenience
+export const createClient = createSupabaseServerClient
+
 // Get current user from server
 export async function getUser() {
   const supabase = await createSupabaseServerClient()

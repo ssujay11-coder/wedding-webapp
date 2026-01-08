@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useState } from "react";
+import { getBlurPlaceholder } from "@/lib/blur-placeholders";
 
 interface OptimizedImageProps {
   src: string;
@@ -19,7 +20,7 @@ interface OptimizedImageProps {
   objectPosition?: string;
 }
 
-// Simple blur placeholder for images
+// Simple blur placeholder for images without specific blur data
 const shimmer = (w: number, h: number) => `
 <svg width="${w}" height="${h}" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
@@ -57,7 +58,10 @@ export function OptimizedImage({
   const [isLoading, setIsLoading] = useState(true);
 
   // Generate default blur data URL if not provided
-  const defaultBlurDataURL = `data:image/svg+xml;base64,${toBase64(shimmer(700, 475))}`;
+  const shimmerBlur = `data:image/svg+xml;base64,${toBase64(shimmer(700, 475))}`;
+
+  // Try to get venue-specific blur placeholder, fall back to shimmer
+  const resolvedBlurDataURL = blurDataURL || getBlurPlaceholder(src) || shimmerBlur;
 
   // Check if image is local (starts with /) or external
   const isLocal = src.startsWith("/");
@@ -81,7 +85,7 @@ export function OptimizedImage({
           sizes={sizes}
           quality={quality}
           placeholder={placeholder}
-          blurDataURL={blurDataURL || defaultBlurDataURL}
+          blurDataURL={resolvedBlurDataURL}
           className={`
             duration-700 ease-in-out
             ${isLoading ? "scale-105 blur-lg" : "scale-100 blur-0"}
@@ -99,7 +103,7 @@ export function OptimizedImage({
           sizes={sizes}
           quality={quality}
           placeholder={placeholder}
-          blurDataURL={blurDataURL || defaultBlurDataURL}
+          blurDataURL={resolvedBlurDataURL}
           className={`
             duration-700 ease-in-out
             ${isLoading ? "scale-105 blur-lg" : "scale-100 blur-0"}

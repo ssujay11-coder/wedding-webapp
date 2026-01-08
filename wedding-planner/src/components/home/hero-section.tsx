@@ -238,8 +238,8 @@ export function HeroSection() {
             {/* Background with Parallax */}
             <motion.div style={{ scale: smoothScale }} className="absolute inset-0 z-0">
                 <Image
-                    src="/images/heroes/home-hero.webp"
-                    alt="Luxury Destination Wedding - Breathtaking palace ceremony in India"
+                    src="/images/gallery/couples/couples-023-sdak-3870-lg.webp"
+                    alt="Luxury Destination Wedding - Stunning bridal processional at exclusive waterfront venue in India"
                     fill
                     priority
                     quality={90}

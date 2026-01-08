@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { Calendar, Users, DollarSign, MapPin, Heart, Send, Check } from "lucide-react";
+import { Calendar, Users, IndianRupee, MapPin, Heart, Send, Check } from "lucide-react";
 import { supabase } from "@/lib/supabase/client";
 
 interface FormData {
@@ -317,7 +317,7 @@ export function PremiumContactForm() {
 
           <div>
             <label className="block text-sm font-semibold text-foreground mb-2 flex items-center gap-2">
-              <DollarSign className="w-4 h-4 text-primary" />
+              <IndianRupee className="w-4 h-4 text-primary" />
               Budget Range
             </label>
             <select

@@ -1,10 +1,18 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { Resend } from 'resend';
+import { createClient } from '@supabase/supabase-js';
 import InquiryConfirmationEmail from '../../../../emails/inquiry-confirmation';
 import AdminNotificationEmail from '../../../../emails/admin-notification';
 
 const resendApiKey = process.env.RESEND_API_KEY || 'dummy_key_for_build';
 const resend = new Resend(resendApiKey);
+
+// Initialize Supabase client with service role for server-side operations
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
+const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY!;
+const supabase = supabaseUrl && supabaseServiceKey
+  ? createClient(supabaseUrl, supabaseServiceKey)
+  : null;
 
 export async function POST(request: NextRequest) {
   try {
@@ -57,22 +65,42 @@ export async function POST(request: NextRequest) {
       }),
     });
 
-    // Store inquiry in Supabase (optional)
-    // const { data, error } = await supabase
-    //   .from('inquiries')
-    //   .insert([
-    //     {
-    //       name,
-    //       email,
-    //       phone,
-    //       wedding_date: weddingDate,
-    //       destination,
-    //       guest_count: guestCount,
-    //       budget,
-    //       message,
-    //       created_at: new Date().toISOString(),
-    //     },
-    //   ]);
+    // Store inquiry in Supabase
+    let inquiryId = null;
+    if (supabase) {
+      try {
+        const { data: inquiryData, error: dbError } = await supabase
+          .from('inquiries')
+          .insert([
+            {
+              name,
+              email,
+              phone,
+              wedding_date: weddingDate || null,
+              wedding_city: destination || null,
+              guest_count: guestCount ? parseInt(guestCount) : null,
+              budget_range: budget || null,
+              message,
+              source_type: 'contact',
+              source_page: request.headers.get('referer') || null,
+              status: 'new',
+              priority: 'normal',
+              created_at: new Date().toISOString(),
+              updated_at: new Date().toISOString(),
+            },
+          ])
+          .select('id')
+          .single();
+
+        if (dbError) {
+          console.error('Supabase error:', dbError);
+        } else {
+          inquiryId = inquiryData?.id;
+        }
+      } catch (dbErr) {
+        console.error('Database error:', dbErr);
+      }
+    }
 
     return NextResponse.json(
       {
@@ -80,6 +108,7 @@ export async function POST(request: NextRequest) {
         message: 'Inquiry sent successfully',
         clientEmailId: clientEmail.data?.id,
         adminEmailId: adminEmail.data?.id,
+        inquiryId,
       },
       { status: 200 }
     );

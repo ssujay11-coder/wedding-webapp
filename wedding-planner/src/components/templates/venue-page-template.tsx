@@ -23,6 +23,7 @@ import { Button } from "@/components/ui/button";
 import { LeadCaptureForm } from "@/components/forms/lead-capture-form";
 import { Navbar } from "@/components/layout/navbar";
 import { Footer } from "@/components/layout/footer";
+import { getVenueHeroImage } from "@/lib/venue-images";
 
 export interface VenueData {
   name: string;
@@ -112,7 +113,7 @@ export function VenuePageTemplate({ venue, relatedVenues }: VenuePageTemplatePro
       <section ref={heroRef} className="relative h-[85vh] min-h-[600px] overflow-hidden">
         <motion.div style={{ scale: heroScale }} className="absolute inset-0">
           <Image
-            src={venue.heroImage}
+            src={getVenueHeroImage(venue)}
             alt={venue.name}
             fill
             className="object-cover"

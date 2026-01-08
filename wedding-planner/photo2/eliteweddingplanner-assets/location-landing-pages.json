@@ -1,0 +1,1269 @@
+{
+  "udaipur": {
+    "hero_images": [
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_d8f775e4.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_ca287bae.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_7ea28a7e.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_6071b428.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_d559f2bc.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_e487af89.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_6dd0244b.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_d7df0b09.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_3eaf39b3.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_7b68c5b9.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_93f55878.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_b7ef7f38.webp",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_0e31f9c6.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_333a9517.webp",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_e5fff78b.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_392cc5d1.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_d300620b.jpg"
+    ],
+    "venue_gallery": [
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_d8f775e4.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_ca287bae.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_b1be9430.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_7ea28a7e.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_e591dfe1.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_b8e6e5dd.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_903fd15d.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_09603caf.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_6071b428.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_d559f2bc.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_ab4b060c.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_63700548.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_e487af89.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_373fed18.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_35b154b7.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_8f34f009.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_1062135d.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_6dd0244b.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_b6d269a4.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_d7df0b09.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_3eaf39b3.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_1a3e1351.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_7b68c5b9.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_93f55878.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_b7ef7f38.webp",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_93a4d703.webp",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_ccb1fa9f.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_966b9511.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_0e31f9c6.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_3ee12870.webp",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_333a9517.webp",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_4008c6bb.webp",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_f6832ae5.webp",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_583eb503.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_cc732552.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_cc21a645.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_e5fff78b.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_e39d5dd4.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_b38374ed.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_392cc5d1.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_31c797c7.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_f9bce74a.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_532b2a51.jpg",
+      "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/venues/palaces/img_d300620b.jpg"
+    ],
+    "real_weddings": [],
+    "testimonials": [
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_6d3d9ccb.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7b0583b4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_166d3ae4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c93ad12b.png",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_066a8f3e.png",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_e2447f13.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7f47e01c.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_50f0510e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_cb025481.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_18b1b26d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c738a039.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_f7fb4a0a.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_80612140.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b6e3145f.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9ec46411.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_1f10454d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (7)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_527149be.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (8)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_4cdcf491.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (4)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_bf6345c0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (6)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_32b8b699.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (1)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9a9720f4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (2)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_340457a4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (3)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_02235402.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (5)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_40dddeb4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (9)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_41b529e9.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_16ef0d69.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_74cbd1e4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_811c8ed7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b7099fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_115af20e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7c120fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_0dc6deb0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9aa6a365.webp",
+        "quote": ""
+      }
+    ]
+  },
+  "jaipur": {
+    "hero_images": [],
+    "venue_gallery": [],
+    "real_weddings": [],
+    "testimonials": [
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_6d3d9ccb.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7b0583b4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_166d3ae4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c93ad12b.png",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_066a8f3e.png",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_e2447f13.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7f47e01c.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_50f0510e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_cb025481.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_18b1b26d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c738a039.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_f7fb4a0a.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_80612140.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b6e3145f.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9ec46411.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_1f10454d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (7)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_527149be.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (8)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_4cdcf491.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (4)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_bf6345c0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (6)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_32b8b699.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (1)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9a9720f4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (2)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_340457a4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (3)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_02235402.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (5)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_40dddeb4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (9)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_41b529e9.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_16ef0d69.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_74cbd1e4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_811c8ed7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b7099fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_115af20e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7c120fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_0dc6deb0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9aa6a365.webp",
+        "quote": ""
+      }
+    ]
+  },
+  "goa": {
+    "hero_images": [],
+    "venue_gallery": [],
+    "real_weddings": [],
+    "testimonials": [
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_6d3d9ccb.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7b0583b4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_166d3ae4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c93ad12b.png",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_066a8f3e.png",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_e2447f13.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7f47e01c.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_50f0510e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_cb025481.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_18b1b26d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c738a039.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_f7fb4a0a.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_80612140.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b6e3145f.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9ec46411.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_1f10454d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (7)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_527149be.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (8)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_4cdcf491.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (4)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_bf6345c0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (6)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_32b8b699.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (1)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9a9720f4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (2)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_340457a4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (3)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_02235402.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (5)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_40dddeb4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (9)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_41b529e9.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_16ef0d69.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_74cbd1e4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_811c8ed7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b7099fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_115af20e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7c120fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_0dc6deb0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9aa6a365.webp",
+        "quote": ""
+      }
+    ]
+  },
+  "kerala": {
+    "hero_images": [],
+    "venue_gallery": [],
+    "real_weddings": [],
+    "testimonials": [
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_6d3d9ccb.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7b0583b4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_166d3ae4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c93ad12b.png",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_066a8f3e.png",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_e2447f13.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7f47e01c.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_50f0510e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_cb025481.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_18b1b26d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c738a039.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_f7fb4a0a.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_80612140.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b6e3145f.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9ec46411.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_1f10454d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (7)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_527149be.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (8)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_4cdcf491.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (4)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_bf6345c0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (6)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_32b8b699.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (1)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9a9720f4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (2)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_340457a4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (3)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_02235402.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (5)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_40dddeb4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (9)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_41b529e9.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_16ef0d69.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_74cbd1e4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_811c8ed7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b7099fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_115af20e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7c120fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_0dc6deb0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9aa6a365.webp",
+        "quote": ""
+      }
+    ]
+  },
+  "jim-corbett": {
+    "hero_images": [],
+    "venue_gallery": [],
+    "real_weddings": [],
+    "testimonials": [
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_6d3d9ccb.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7b0583b4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_166d3ae4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c93ad12b.png",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_066a8f3e.png",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_e2447f13.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7f47e01c.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_50f0510e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_cb025481.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_18b1b26d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c738a039.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_f7fb4a0a.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_80612140.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b6e3145f.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9ec46411.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_1f10454d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (7)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_527149be.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (8)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_4cdcf491.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (4)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_bf6345c0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (6)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_32b8b699.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (1)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9a9720f4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (2)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_340457a4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (3)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_02235402.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (5)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_40dddeb4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (9)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_41b529e9.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_16ef0d69.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_74cbd1e4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_811c8ed7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b7099fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_115af20e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7c120fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_0dc6deb0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9aa6a365.webp",
+        "quote": ""
+      }
+    ]
+  },
+  "mumbai": {
+    "hero_images": [],
+    "venue_gallery": [],
+    "real_weddings": [],
+    "testimonials": [
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_6d3d9ccb.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7b0583b4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_166d3ae4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c93ad12b.png",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_066a8f3e.png",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_e2447f13.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7f47e01c.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_50f0510e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_cb025481.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_18b1b26d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c738a039.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_f7fb4a0a.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_80612140.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b6e3145f.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9ec46411.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_1f10454d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (7)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_527149be.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (8)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_4cdcf491.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (4)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_bf6345c0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (6)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_32b8b699.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (1)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9a9720f4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (2)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_340457a4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (3)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_02235402.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (5)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_40dddeb4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (9)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_41b529e9.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_16ef0d69.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_74cbd1e4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_811c8ed7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b7099fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_115af20e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7c120fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_0dc6deb0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9aa6a365.webp",
+        "quote": ""
+      }
+    ]
+  },
+  "delhi": {
+    "hero_images": [],
+    "venue_gallery": [],
+    "real_weddings": [],
+    "testimonials": [
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_6d3d9ccb.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7b0583b4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_166d3ae4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c93ad12b.png",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_066a8f3e.png",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_e2447f13.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7f47e01c.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_50f0510e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_cb025481.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_18b1b26d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_c738a039.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_f7fb4a0a.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Ruchita Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_80612140.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Sujay Pathak",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b6e3145f.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Aloha Mehta",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9ec46411.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_1f10454d.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (7)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_527149be.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (8)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_4cdcf491.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (4)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_bf6345c0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (6)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_32b8b699.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (1)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9a9720f4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (2)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_340457a4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (3)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_02235402.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (5)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_40dddeb4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "Wedding Testimonails (9)",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_41b529e9.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_16ef0d69.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_74cbd1e4.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_811c8ed7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_b7099fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_115af20e.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_7c120fb7.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_0dc6deb0.webp",
+        "quote": ""
+      },
+      {
+        "couple": "",
+        "photo": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/eliteweddingplanner-assets/testimonials/couple-photos/img_9aa6a365.webp",
+        "quote": ""
+      }
+    ]
+  }
+}

@@ -70,11 +70,11 @@ export function DestinationsClient() {
                 {/* Background Elements */}
                 <div className="absolute inset-0 z-0">
                     <Image
-                        src="/images/destinations-hero-bg.webp"
-                        alt="Background"
+                        src="/images/gallery/venues/venues-006-4g4a3787-lg.webp"
+                        alt="Luxury Wedding Venues"
                         fill
-                        className="object-cover opacity-10 grayscale"
-                        priority // Assuming generic hero bg, if not available it will fallback or be replaced
+                        className="object-cover opacity-15 grayscale"
+                        priority
                     />
                     <div className="absolute inset-0 bg-gradient-to-b from-white via-transparent to-white/90" />
                     <GoldSparkles className="opacity-40" />

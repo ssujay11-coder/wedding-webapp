@@ -17,7 +17,7 @@ const featuredDestinations = [
         name: "Udaipur",
         slug: "udaipur",
         tagline: "City of Lakes",
-        image: "/images/misc/mega-menu-photo-1587474260584-136574528ed5.webp",
+        image: "/images/misc/mega-menu-udaipur-lake-pichola.jpg",
         highlight: "Most Popular",
         venueCount: 6,
     },
@@ -187,7 +187,7 @@ export function MegaMenu({ type, isOpen, onClose }: MegaMenuProps) {
                         animate={{ opacity: 1, y: 0 }}
                         exit={{ opacity: 0, y: -10 }}
                         transition={{ duration: 0.2 }}
-                        className="fixed left-0 right-0 top-16 z-50 mx-auto max-w-7xl px-6 pt-4"
+                        className="fixed left-0 right-0 top-20 z-50 mx-auto max-w-7xl px-6 pt-2"
                     >
                         <div className="bg-white rounded-2xl shadow-2xl border border-primary/10 overflow-hidden">
                             {type === "destinations" && <DestinationsMenu onClose={onClose} />}
@@ -424,7 +424,7 @@ function VenuesMenu({ onClose }: { onClose: () => void }) {
                         <div className="flex items-center gap-2 mb-3">
                             <div className="relative w-10 h-10 rounded-lg overflow-hidden">
                                 <Image
-                                    src="/images/misc/mega-menu-photo-1587474260584-136574528ed5.webp"
+                                    src="/images/misc/mega-menu-udaipur-lake-pichola.jpg"
                                     alt="Udaipur"
                                     fill
                                     className="object-cover"

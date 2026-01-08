@@ -1,0 +1,13 @@
+{
+  "total_images": 97,
+  "by_category": {
+    "landing-pages/udaipur/thumbnails": 9,
+    "testimonials/couple-photos": 33,
+    "venues/palaces": 44,
+    "services/photography": 11
+  },
+  "hero_images_count": 17,
+  "testimonials_count": 33,
+  "venue_images_count": 44,
+  "team_images_count": 15
+}

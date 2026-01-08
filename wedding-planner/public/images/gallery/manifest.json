@@ -1,0 +1,35 @@
+{
+  "generated": "2026-01-04T18:52:43.378Z",
+  "statistics": {
+    "totalImages": 909,
+    "inputSize": 514062565,
+    "outputSize": 183425294,
+    "compressionRatio": "64.3%"
+  },
+  "categories": {
+    "portfolio": {
+      "count": 552,
+      "path": "/images/gallery/portfolio"
+    },
+    "ceremonies": {
+      "count": 186,
+      "path": "/images/gallery/ceremonies"
+    },
+    "venues": {
+      "count": 17,
+      "path": "/images/gallery/venues"
+    },
+    "couples": {
+      "count": 86,
+      "path": "/images/gallery/couples"
+    },
+    "decor": {
+      "count": 23,
+      "path": "/images/gallery/decor"
+    },
+    "entertainment": {
+      "count": 45,
+      "path": "/images/gallery/entertainment"
+    }
+  }
+}

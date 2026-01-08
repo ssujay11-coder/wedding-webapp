@@ -1,7 +1,7 @@
 "use client";
 
-import { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { useState, useEffect, useRef } from "react";
+import { motion, AnimatePresence, useScroll, useTransform, useInView } from "framer-motion";
 import Link from "next/link";
 import Image from "next/image";
 import { Navbar } from "@/components/layout/navbar";
@@ -17,6 +17,35 @@ import {
     Camera, Sparkles, Building, Lightbulb, Clock, Target,
     PartyPopper, TrendingUp
 } from "lucide-react";
+
+// Premium easing for luxury animations
+const luxuryEasing: [number, number, number, number] = [0.22, 1, 0.36, 1];
+
+// Premium animated section with blur reveal
+function AnimatedSection({
+    children,
+    className = "",
+    delay = 0,
+}: {
+    children: React.ReactNode;
+    className?: string;
+    delay?: number;
+}) {
+    const ref = useRef(null);
+    const isInView = useInView(ref, { once: true, margin: "-80px" });
+
+    return (
+        <motion.div
+            ref={ref}
+            initial={{ opacity: 0, y: 50, filter: "blur(10px)" }}
+            animate={isInView ? { opacity: 1, y: 0, filter: "blur(0px)" } : { opacity: 0, y: 50, filter: "blur(10px)" }}
+            transition={{ duration: 0.8, delay, ease: luxuryEasing }}
+            className={className}
+        >
+            {children}
+        </motion.div>
+    );
+}
 
 // Quick Stats for hero area
 const getLocationStats = (location: WeddingLocation) => [
@@ -122,9 +151,26 @@ function FAQItem({ faq, isOpen, onToggle }: { faq: FAQ; isOpen: boolean; onToggl
 
 export function LocationPageContent({ location }: { location: WeddingLocation }) {
     const [openFAQ, setOpenFAQ] = useState<number | null>(0);
+    const [showStickyNav, setShowStickyNav] = useState(false);
+    const [heroLoaded, setHeroLoaded] = useState(false);
     const tips = getWeddingTips(location);
     const faqs = getFAQs(location);
     const stats = getLocationStats(location);
+
+    // Parallax scroll effects
+    const { scrollY } = useScroll();
+    const heroY = useTransform(scrollY, [0, 600], [0, 180]);
+    const heroScale = useTransform(scrollY, [0, 600], [1, 1.1]);
+    const heroOpacity = useTransform(scrollY, [0, 400], [1, 0.3]);
+
+    // Show sticky nav after scrolling past hero
+    useEffect(() => {
+        const handleScroll = () => {
+            setShowStickyNav(window.scrollY > 600);
+        };
+        window.addEventListener("scroll", handleScroll);
+        return () => window.removeEventListener("scroll", handleScroll);
+    }, []);
 
     // Testimonials logic
     let testimonials = getTestimonialsByLocation(location.name);
@@ -135,6 +181,86 @@ export function LocationPageContent({ location }: { location: WeddingLocation })
     return (
         <div className="min-h-screen bg-[#fafaf9] selection:bg-rose-100 selection:text-rose-900">
             <Navbar />
+
+            {/* Premium Sticky Navigation */}
+            <AnimatePresence>
+                {showStickyNav && (
+                    <motion.div
+                        initial={{ y: -100, opacity: 0 }}
+                        animate={{ y: 0, opacity: 1 }}
+                        exit={{ y: -100, opacity: 0 }}
+                        transition={{ duration: 0.4, ease: luxuryEasing }}
+                        className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-xl shadow-[0_4px_30px_rgba(0,0,0,0.08)] border-b border-gray-100/50"
+                    >
+                        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between">
+                            <div className="flex items-center gap-3 sm:gap-4">
+                                <motion.h2
+                                    initial={{ opacity: 0, x: -10 }}
+                                    animate={{ opacity: 1, x: 0 }}
+                                    transition={{ delay: 0.1 }}
+                                    className="font-display text-lg font-medium text-gray-900 truncate max-w-[180px] sm:max-w-none"
+                                >
+                                    {location.name}
+                                </motion.h2>
+                                <motion.div
+                                    initial={{ opacity: 0 }}
+                                    animate={{ opacity: 1 }}
+                                    transition={{ delay: 0.2 }}
+                                    className="hidden md:flex items-center gap-2 text-sm text-gray-500"
+                                >
+                                    <Star className="w-4 h-4 text-amber-400 fill-amber-400" />
+                                    <span className="font-medium">{location.averageRating.toFixed(1)}</span>
+                                    <span className="text-gray-200">|</span>
+                                    <MapPin className="w-4 h-4 text-primary/60" />
+                                    <span>{location.country}</span>
+                                </motion.div>
+                            </div>
+                            <motion.div
+                                initial={{ opacity: 0, x: 10 }}
+                                animate={{ opacity: 1, x: 0 }}
+                                transition={{ delay: 0.15 }}
+                                className="flex items-center gap-2 sm:gap-3"
+                            >
+                                <motion.a
+                                    whileHover={{ scale: 1.02 }}
+                                    whileTap={{ scale: 0.98 }}
+                                    href="https://wa.me/918169255519"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="px-3 sm:px-4 py-2 bg-green-500 hover:bg-green-600 text-white text-sm rounded-full font-medium flex items-center gap-1.5 transition-colors shadow-sm hover:shadow-md"
+                                >
+                                    <MessageCircle className="w-4 h-4" />
+                                    <span className="hidden sm:inline">WhatsApp</span>
+                                </motion.a>
+                                <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
+                                    <Link
+                                        href="/contact"
+                                        className="px-3 sm:px-4 py-2 bg-gradient-to-r from-gray-900 to-gray-800 hover:from-gray-800 hover:to-gray-700 text-white text-sm rounded-full font-medium transition-all shadow-sm hover:shadow-md"
+                                    >
+                                        Start Planning
+                                    </Link>
+                                </motion.div>
+                            </motion.div>
+                        </div>
+                    </motion.div>
+                )}
+            </AnimatePresence>
+
+            {/* Floating Action Button for Mobile */}
+            <motion.div
+                initial={{ scale: 0, opacity: 0 }}
+                animate={{ scale: showStickyNav ? 1 : 0, opacity: showStickyNav ? 1 : 0 }}
+                className="fixed bottom-6 right-6 z-40 sm:hidden"
+            >
+                <a
+                    href="https://wa.me/918169255519"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="w-14 h-14 bg-green-500 hover:bg-green-600 text-white rounded-full shadow-lg flex items-center justify-center transition-colors"
+                >
+                    <MessageCircle className="w-6 h-6" />
+                </a>
+            </motion.div>
 
             {/* 1. Cinematic Hero */}
             <CinematicHero
@@ -300,9 +426,10 @@ export function LocationPageContent({ location }: { location: WeddingLocation })
                                         <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors duration-500 z-10" />
                                         <Image
                                             src={venue.image}
-                                            alt={venue.name}
+                                            alt={`${venue.name} - Luxury Wedding Venue in ${location.name}, ${location.country}`}
                                             fill
                                             className="object-cover transform group-hover:scale-110 transition-transform duration-1000 ease-out"
+                                            sizes="(max-width: 768px) 100vw, 33vw"
                                         />
                                         <div className="absolute bottom-6 left-6 z-20">
                                             <div className="bg-white/10 backdrop-blur-md px-4 py-2 text-xs uppercase tracking-widest text-white border border-white/20 inline-block mb-2">
@@ -644,7 +771,7 @@ export function LocationPageContent({ location }: { location: WeddingLocation })
                                     <p className="text-lg text-gray-700 italic font-light mb-8 leading-relaxed">&quot;{t.quote}&quot;</p>
                                     <div className="flex items-center gap-4 mt-auto">
                                         <div className="relative w-12 h-12 rounded-full overflow-hidden">
-                                            <Image src={t.image || "/images/users/user-1.jpg"} alt={t.coupleName} fill className="object-cover" />
+                                            <Image src={t.image || "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=faces"} alt={t.coupleName} fill className="object-cover" />
                                         </div>
                                         <div>
                                             <p className="font-bold text-sm text-gray-900">{t.coupleName}</p>

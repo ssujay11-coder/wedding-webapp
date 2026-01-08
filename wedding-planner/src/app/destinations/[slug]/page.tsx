@@ -23,6 +23,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
         };
     }
 
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://eliteweddingplanner.in';
+    const heroImage = location.heroImage;
+    const fullImageUrl = heroImage.startsWith('http') ? heroImage : `${baseUrl}${heroImage}`;
+
     return {
         title: location.metaTitle,
         description: location.metaDescription,
@@ -30,7 +34,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
         openGraph: {
             title: location.metaTitle,
             description: location.metaDescription,
-            images: [location.heroImage],
+            images: [{
+                url: fullImageUrl,
+                width: 1200,
+                height: 630,
+                alt: `${location.name} - Destination Wedding Location in ${location.country}`,
+            }],
             type: "website",
             url: `https://eliteweddingplanner.in/destinations/${slug}`,
             locale: "en_IN",
@@ -40,7 +49,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
             card: "summary_large_image",
             title: location.metaTitle,
             description: location.metaDescription,
-            images: [location.heroImage],
+            images: [fullImageUrl],
         },
         alternates: {
             canonical: `/destinations/${slug}`,

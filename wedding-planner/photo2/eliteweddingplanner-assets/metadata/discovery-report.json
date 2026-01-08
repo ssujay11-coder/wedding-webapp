@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-01-05T09:12:12.409139",
+  "total_images": 892,
+  "sources": {
+    "website": 67,
+    "local": 825
+  },
+  "duplicates_found": 133,
+  "quality_distribution": {
+    "excellent (10)": 0,
+    "good (8)": 17,
+    "acceptable (6)": 473,
+    "low (4)": 402
+  }
+}

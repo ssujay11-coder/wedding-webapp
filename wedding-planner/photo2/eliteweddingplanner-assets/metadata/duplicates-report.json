@@ -1,0 +1,670 @@
+{
+  "exact_duplicates": [
+    {
+      "hash": "c49d3bb0196d60ee",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_35b154b7.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_373fed18.jpg"
+    },
+    {
+      "hash": "e46486996967b69a",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b103176e.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_a899955e.jpg"
+    },
+    {
+      "hash": "f48b0b970a6af0bc",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_333a9517.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_3ee12870.webp"
+    },
+    {
+      "hash": "d6ee19a86f561838",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_e487af89.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_ab4b060c.jpg"
+    },
+    {
+      "hash": "de6cf01f0f34d142",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_966b9511.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_cc732552.jpg"
+    },
+    {
+      "hash": "c49d3bb0196d60ee",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_35b154b7.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b1be9430.jpg"
+    },
+    {
+      "hash": "f2c9316d567893e0",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_115af20e.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b7099fb7.webp"
+    },
+    {
+      "hash": "d6ee19a86f561838",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_e487af89.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_63700548.jpg"
+    },
+    {
+      "hash": "eec8d15e9431ab64",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_c738a039.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_7b0583b4.webp"
+    },
+    {
+      "hash": "f2c9316d567893e0",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_115af20e.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_0dc6deb0.webp"
+    },
+    {
+      "hash": "8196164f3938753f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_cc21a645.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_0e31f9c6.jpg"
+    },
+    {
+      "hash": "f2c9316d567893e0",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_115af20e.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_9aa6a365.webp"
+    },
+    {
+      "hash": "cb3d84662d34b347",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_80612140.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_066a8f3e.png"
+    },
+    {
+      "hash": "e4ba31d5c98d384b",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_1f10454d.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_811c8ed7.webp"
+    },
+    {
+      "hash": "f48b0b970a6af0bc",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_333a9517.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_4008c6bb.webp"
+    },
+    {
+      "hash": "9bd0e4955821f6f4",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_7f47e01c.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_88c264a7.webp"
+    },
+    {
+      "hash": "f48b0b970a6af0bc",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_333a9517.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b7ef7f38.webp"
+    },
+    {
+      "hash": "d5b596f6c289920d",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_7b68c5b9.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_93f55878.jpg"
+    },
+    {
+      "hash": "8ba4f4d6cb8e9d01",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_8f34f009.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_7ea28a7e.jpg"
+    },
+    {
+      "hash": "8ba8d9dd72078d58",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_93a4d703.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_f6832ae5.webp"
+    },
+    {
+      "hash": "e46486996967b69a",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b103176e.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_5a20b7a4.jpg"
+    },
+    {
+      "hash": "8196164f3938753f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_cc21a645.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_e5fff78b.jpg"
+    },
+    {
+      "hash": "d5b596f6c289920d",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_7b68c5b9.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_1a3e1351.jpg"
+    },
+    {
+      "hash": "9bd0e4955821f6f4",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_7f47e01c.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_18b1b26d.webp"
+    },
+    {
+      "hash": "8ba4f4d6cb8e9d01",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_8f34f009.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_6dd0244b.jpg"
+    },
+    {
+      "hash": "9545146a5a656f4f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b6d269a4.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_e591dfe1.jpg"
+    },
+    {
+      "hash": "ac2dea73a5358c4c",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_31c797c7.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b38374ed.jpg"
+    },
+    {
+      "hash": "9543146a5a75674f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_532b2a51.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_392cc5d1.jpg"
+    },
+    {
+      "hash": "9545146a5a656f4f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b6d269a4.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_3eaf39b3.jpg"
+    },
+    {
+      "hash": "9bd0e4955821b6fc",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_6d3d9ccb.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_e2447f13.webp"
+    },
+    {
+      "hash": "d5946a6b849bdd84",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_903fd15d.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_6071b428.jpg"
+    },
+    {
+      "hash": "9bd0e4955821b6fc",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_6d3d9ccb.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_50f0510e.webp"
+    },
+    {
+      "hash": "d5b596f6c289920d",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_7b68c5b9.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b8e6e5dd.jpg"
+    },
+    {
+      "hash": "d5946a6b849bdd84",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_903fd15d.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_d559f2bc.jpg"
+    },
+    {
+      "hash": "d6ee19a86f561838",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_e487af89.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_ca287bae.jpg"
+    },
+    {
+      "hash": "9543146a5a75674f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_532b2a51.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_d300620b.jpg"
+    },
+    {
+      "hash": "e4ba31d5c98d384b",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_1f10454d.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_74cbd1e4.webp"
+    },
+    {
+      "hash": "8ba4f4d6cb8e9d01",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_8f34f009.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_1062135d.jpg"
+    },
+    {
+      "hash": "e19ecb3562926396",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_0cf0c67c.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_af4c07f4.jpg"
+    },
+    {
+      "hash": "a8931e1c979abcb4",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_92e47157.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_af7ab32a.jpg"
+    },
+    {
+      "hash": "9545146a5a656f4f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b6d269a4.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_d7df0b09.jpg"
+    },
+    {
+      "hash": "a8931e1c979abcb4",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_92e47157.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_22f2936c.jpg"
+    },
+    {
+      "hash": "8196164f3938753f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_cc21a645.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_e39d5dd4.jpg"
+    },
+    {
+      "hash": "d5946a6b849bdd84",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_903fd15d.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_09603caf.jpg"
+    },
+    {
+      "hash": "d5946a6b849bdd84",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_903fd15d.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_d8f775e4.jpg"
+    },
+    {
+      "hash": "f2c9316d567893e0",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_115af20e.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_7c120fb7.webp"
+    },
+    {
+      "hash": "9bd0e4955821b6fc",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_6d3d9ccb.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_cb025481.webp"
+    },
+    {
+      "hash": "e4ba31d5c98d384b",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_1f10454d.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_16ef0d69.webp"
+    },
+    {
+      "hash": "eec8d15e9431ab64",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_c738a039.webp",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_f7fb4a0a.webp"
+    },
+    {
+      "hash": "80862f9fc561dbe1",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_964fa63c.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/dhruv & stuti - Optimized Images/TPL_STUTIDHRUV_ENGAGEMENT&SANGEET-1126.jpg"
+    },
+    {
+      "hash": "e50674590e99d5ae",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/DSC03045 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/DSC03045.jpg"
+    },
+    {
+      "hash": "97bf296860d87d05",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ALN_6757 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ALN_6757.jpg"
+    },
+    {
+      "hash": "9545146a5a656f4f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_b6d269a4.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ANU05069.jpg"
+    },
+    {
+      "hash": "aeaede56422225ad",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/DSC07863.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/DSC07863 (1).jpg"
+    },
+    {
+      "hash": "f1cc8eb25c89294f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/DSC03123.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/DSC03123 (1).jpg"
+    },
+    {
+      "hash": "9543146a5a75674f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_532b2a51.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/man.jpg"
+    },
+    {
+      "hash": "d16b6799046eb2c9",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ANU05072 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ANU05072.jpg"
+    },
+    {
+      "hash": "d430a76dc95e3706",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ALN_6749.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ALN_6749 (1).jpg"
+    },
+    {
+      "hash": "b0fbdbc0a80d4e56",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_48e5eafd.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ANU02419.jpg"
+    },
+    {
+      "hash": "e864c52367d1bcca",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ANU03505 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ANU03505.jpg"
+    },
+    {
+      "hash": "c12eaf94668c1fa9",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ALN_2990.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ALN_2990 (1).jpg"
+    },
+    {
+      "hash": "dafdfd22018086fc",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/ANU01800.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/mehendi.jpg"
+    },
+    {
+      "hash": "c6fe09982d57981d",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set4 - Optimized Images/01_NIDHI_KAVIN_SANGEET-1862-ADI.JPG",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set4 - Optimized Images/01_NIDHI_KAVIN_SANGEET-1862-ADI (1).JPG"
+    },
+    {
+      "hash": "f76188aeb3436a8c",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_6bd6a5e2.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/SHREYA & UDDHAV - Optimized Images/4T8A3653.jpg"
+    },
+    {
+      "hash": "873b8cb72d641d25",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_89407078.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/SHREYA & UDDHAV - Optimized Images/SIP08802.jpg"
+    },
+    {
+      "hash": "91179c67ea5a5ac4",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/SHREYA & UDDHAV - Optimized Images/SSP01756 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/SHREYA & UDDHAV - Optimized Images/SSP01756.jpg"
+    },
+    {
+      "hash": "94b08ba556d0f93d",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_94ea19a3.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/SHREYA & UDDHAV - Optimized Images/SSP09902.jpg"
+    },
+    {
+      "hash": "f8972dcaed55c280",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-18_09-46-66 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-18_09-46-66.jpg"
+    },
+    {
+      "hash": "d27a138f250e74f8",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-18_09-46-59 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-18_09-46-59.jpg"
+    },
+    {
+      "hash": "fb5664595a1a9899",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/IMG-1367.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/IMG-1367 (1).jpg"
+    },
+    {
+      "hash": "9ea3fc7b920ca518",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-17_11-29-04 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-17_11-29-04.jpg"
+    },
+    {
+      "hash": "f802d4b54b7a896b",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/IMG-1282.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/IMG-1282 (1).jpg"
+    },
+    {
+      "hash": "d96bb05b0f415cb4",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-19_22-25-26.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-19_22-25-26 (1).jpg"
+    },
+    {
+      "hash": "b4968b358f2d9a23",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set4 - Optimized Images/1.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/1.jpg"
+    },
+    {
+      "hash": "e5c0ca1fddf228a1",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-18_09-46-35 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-18_09-46-35.jpg"
+    },
+    {
+      "hash": "cab592ce326d06b5",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/IMG-2870.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/IMG-2870 (1).jpg"
+    },
+    {
+      "hash": "e3c1e4c1ce1e9d32",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/IMG-1283.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/IMG-1283 (1).jpg"
+    },
+    {
+      "hash": "de6cf01f0f34d142",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/img_966b9511.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/PP-06.jpg"
+    },
+    {
+      "hash": "cbf45620ebc51c33",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_e3a81659.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/H60I0641 (2018_01_25 06_35_04 UTC).jpg"
+    },
+    {
+      "hash": "d9a085971ed65e68",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_d65a9a02.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/PAD_8720.JPG"
+    },
+    {
+      "hash": "841a590f73b96d66",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_6872 (2018_02_09 12_59_33 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_6872.jpg"
+    },
+    {
+      "hash": "d6e01d613956155f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/_NO_4831 (2018_02_09 08_38_25 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/_NO_4831.jpg"
+    },
+    {
+      "hash": "9532024cf39f81ef",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3571 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/sss.jpg"
+    },
+    {
+      "hash": "f051cd2a3468d6bd",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/PP-1263 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/PP-1263.jpg"
+    },
+    {
+      "hash": "d53e4ec168523b1b",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/VSP_3027.JPG",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/VSP_3027 (2018_02_14 07_20_21 UTC).jpg"
+    },
+    {
+      "hash": "d4bc3f3238cb2dc0",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_0365 (2018_02_14 07_20_21 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_0365.jpg"
+    },
+    {
+      "hash": "c260f15f87e0fd06",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_8683.JPG",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_8683 (2018_02_09 08_38_25 UTC).jpg"
+    },
+    {
+      "hash": "f051cd2a3468d6bd",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/PP-1263 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/PP-1263 (2).jpg"
+    },
+    {
+      "hash": "dd117a00af5f01e7",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_0394.JPG",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_0394 (2018_02_14 07_20_21 UTC).jpg"
+    },
+    {
+      "hash": "91cbc06c93726cbd",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_7750 (2018_02_09 13_59_53 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_7750.jpg"
+    },
+    {
+      "hash": "dcec242685a9317f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/HAK_7350.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/HAK_7350 (2018_02_14 07_20_21 UTC).jpg"
+    },
+    {
+      "hash": "ca6db41a0f35d153",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_21f717b9.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/PP-1350.jpg"
+    },
+    {
+      "hash": "9345a65a2fec09b3",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3581.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3581 (1).jpg"
+    },
+    {
+      "hash": "993b2d670e56426b",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/HAK_7362 (2018_01_25 06_35_04 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/HAK_7362 (1) (2018_02_14 07_20_21 UTC).jpg"
+    },
+    {
+      "hash": "97ac20530f357b4e",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_7730 (2018_02_09 12_59_33 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_7730.jpg"
+    },
+    {
+      "hash": "c28d4c376b686b72",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_6823 (2018_02_09 13_59_53 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_6823.jpg"
+    },
+    {
+      "hash": "c06ae35516a13d7e",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_6969 (2018_02_09 12_59_33 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_6969.jpg"
+    },
+    {
+      "hash": "f539084eff5240a7",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_6955 (2018_02_09 12_59_33 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_6955.jpg"
+    },
+    {
+      "hash": "817bd37b28863cc5",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_0317 (2018_02_14 07_20_21 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_0317.jpg"
+    },
+    {
+      "hash": "d553192a2627ddc5",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_6820 (2018_02_09 13_59_53 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/MOD_6820.jpg"
+    },
+    {
+      "hash": "d1251b430fc6d63e",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/_NO_2787 (2018_02_09 13_59_53 UTC).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/_NO_2787.jpg"
+    },
+    {
+      "hash": "84d2791dcbf0cac6",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/Ashav & Janvi - Optimized Images/Grand Wedding by My Wedding Planning Elite Wedding Planner (12).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/Ashav & Janvi - Optimized Images/Grand Wedding by My Wedding Planning Elite Wedding Planner (11).jpg"
+    },
+    {
+      "hash": "ba29e3da5cc28c2d",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/88_Shweta Prateek Preview_LKP02362.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/88_Shweta Prateek Preview_LKP02362 (1).jpg"
+    },
+    {
+      "hash": "9bc8ead2740da399",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/14_SP_D2_Evening_SIMO1571 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/14_SP_D2_Evening_SIMO1571.jpg"
+    },
+    {
+      "hash": "d9c67b2c12f98d30",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/463_SP_D3_Wedding_DSC01324 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/463_SP_D3_Wedding_DSC01324.jpg"
+    },
+    {
+      "hash": "9144a43b6af947b9",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/190_SP_D2_Evening_DSC09443.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/188_SP_D2_Evening_DSC09441.jpg"
+    },
+    {
+      "hash": "e9d61926dba41a65",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_604e5484.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/471_SP_D3_Wedding_DSC01366.jpg"
+    },
+    {
+      "hash": "8c1b2fac2a64397d",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/75_Shweta Prateek Preview_DSC09327.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/shweta & Prateek - Optimized Images/75_Shweta Prateek Preview_DSC09327 (1).jpg"
+    },
+    {
+      "hash": "d4c20d6d47cd9738",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/website/mwp_mwp_f6e6ef5b.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set3 - Optimized Images/2015-03-01_indian-wedding_angsana-phuket_bic-event-30-1024x683.jpg"
+    },
+    {
+      "hash": "ea01e4facd24a27b",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/pj photos - Optimized Images/2 .jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set3 - Optimized Images/2 .jpg"
+    },
+    {
+      "hash": "c7237c1d907c3b86",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-18_09-46-54.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set3 - Optimized Images/2022-12-18_09-46-54.jpg"
+    },
+    {
+      "hash": "cac3297727052ed9",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set3 - Optimized Images/01_NIDHI_KAVIN_SANGEET-7266-TRI (1).JPG",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set3 - Optimized Images/01_NIDHI_KAVIN_SANGEET-7266-TRI.JPG"
+    },
+    {
+      "hash": "fb3560cb5bc41c31",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/2022-12-18_09-46-512.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set3 - Optimized Images/2022-12-18_09-46-512.jpg"
+    },
+    {
+      "hash": "edb48467b3788e88",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/kanav prachi photos - Optimized Images/0.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set3 - Optimized Images/0.jpg"
+    },
+    {
+      "hash": "9ca1dbe837394592",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/ani & shruti - Optimized Images/mandap 1.jpeg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/ani & shruti - Optimized Images/WhatsApp Image 2023-11-14 at 8.27.24 PM.jpeg"
+    },
+    {
+      "hash": "97186c6379e09e9a",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/ani & shruti - Optimized Images/SBT_Anirudha Shruti Reception Previews (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/ani & shruti - Optimized Images/i-ggpMnxN-X3.jpg"
+    },
+    {
+      "hash": "8187c2cb71b83d7a",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3934.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3934.jpg"
+    },
+    {
+      "hash": "9532024cf39f81ef",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3571 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3571 (1).jpg"
+    },
+    {
+      "hash": "8b8780c375e83d97",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3935.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3935.jpg"
+    },
+    {
+      "hash": "9c1f96d38e145b8c",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3834.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3834.jpg"
+    },
+    {
+      "hash": "cd721f5b2bd4da00",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3572.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3572.jpg"
+    },
+    {
+      "hash": "9532024cf39f81ef",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3571 (1).jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/sss.jpg"
+    },
+    {
+      "hash": "910cdcf0eaed14ea",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3985.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3985.jpg"
+    },
+    {
+      "hash": "c83066998d764e77",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_4187.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_4187.jpg"
+    },
+    {
+      "hash": "d2c485734bebe82c",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_4001.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_4001.jpg"
+    },
+    {
+      "hash": "ca29cf4832b04bfe",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3624.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3624.jpg"
+    },
+    {
+      "hash": "9345a65a2fec09b3",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3581.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3581.jpg"
+    },
+    {
+      "hash": "87b17881fd92f512",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_4012.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_4012.jpg"
+    },
+    {
+      "hash": "c12b138e10bfdc8f",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3623.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3623.jpg"
+    },
+    {
+      "hash": "d28b34da96d0dd8c",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3756.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3756.jpg"
+    },
+    {
+      "hash": "9345a65a2fec09b3",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3581.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3581 (1).jpg"
+    },
+    {
+      "hash": "c066c3ceae954ba9",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3870.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3870.jpg"
+    },
+    {
+      "hash": "92e96fd2689f2d20",
+      "original": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/set1 - Optimized Images/SDak_3939.jpg",
+      "duplicate": "/Users/ruchitapathak/Documents/wedding-webapp/wedding-webapp/wedding-planner/photo2/raw/local/insta image - Optimized Images/SDak_3939.jpg"
+    }
+  ],
+  "total_duplicates": 133
+}
